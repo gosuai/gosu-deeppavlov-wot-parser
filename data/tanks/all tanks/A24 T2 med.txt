@@ -1,0 +1,215 @@
+3,500 Cost. 
+330340 HP Hit Points. 
+11.92/15.67.61/0 t Weight Limit. 
+330340 hp Engine Power. 
+40/17 km/h Speed Limit. 
+3838 deg/s Traverse. 
+27.6844.68 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+22/22/22 mm Hull Armor. 
+22/22/2225/25/25 mm Turret Armor. 
+AP/APCR/HE AP/APCR Shells. 
+0/800/8 3/400/8 Shell Cost. 
+30/30/3612/12/36 HP Damage. 
+39/63/1930/41/19 mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 5 rounds Cycle Time: 0.5 s Magazine Reload Times Nominal: 5.7 s 50% Crew: 7.25 s 75% Crew: 6.38 s 100% Crew: 5.7 s With Vents: 5.57 s With Vents and BiA: 5.47 s Click here for more information. r/m ▲ Magazine-fed Gun Burst Length: 3 rounds Magazine Size: 15 rounds Cycle Time: 0.1 s Magazine Reload Times Nominal: 7.3 s 50% Crew: 9.29 s 75% Crew: 8.18 s 100% Crew: 7.3 s With Vents: 7.13 s With Vents and BiA: 7 s Click here for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (30 Damage): Theoretical Damage Per Minute Nominal: 199.5 50% Crew: 161.4 75% Crew: 180.6 100% Crew: 199.5 With Vents: 203.4 With Vents and BiA: 206.7 Advantageous Damage Per Minute Loaded-mag DPM: 329.1 50% Crew: 294.9 75% Crew: 312.3 100% Crew: 329.1 With Vents: 332.7 With Vents and BiA: 335.7 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (30 Damage): Theoretical Damage Per Minute Nominal: 199.5 50% Crew: 161.4 75% Crew: 180.6 100% Crew: 199.5 With Vents: 203.4 With Vents and BiA: 206.7 Advantageous Damage Per Minute Loaded-mag DPM: 329.1 50% Crew: 294.9 75% Crew: 312.3 100% Crew: 329.1 With Vents: 332.7 With Vents and BiA: 335.7 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (36 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 239.4 50% Crew: 193.68 75% Crew: 216.72 100% Crew: 239.4 With Vents: 244.08 With Vents and BiA: 248.04 Advantageous Damage Per Minute Loaded-mag DPM: 394.92 50% Crew: 353.88 75% Crew: 374.76 100% Crew: 394.92 With Vents: 399.24 With Vents and BiA: 402.84 Click here for more information.▲ Magazine-fed Gun Using Shell Type 1 (12 Damage): Theoretical Damage Per Minute Nominal: 96.84 50% Crew: 77.28 75% Crew: 87.12 100% Crew: 96.84 With Vents: 98.88 With Vents and BiA: 100.68 Advantageous Damage Per Minute Loaded-mag DPM: 263.76 50% Crew: 246.84 75% Crew: 255.36 100% Crew: 263.76 With Vents: 265.56 With Vents and BiA: 267 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (12 Damage): Theoretical Damage Per Minute Nominal: 96.84 50% Crew: 77.28 75% Crew: 87.12 100% Crew: 96.84 With Vents: 98.88 With Vents and BiA: 100.68 Advantageous Damage Per Minute Loaded-mag DPM: 263.76 50% Crew: 246.84 75% Crew: 255.36 100% Crew: 263.76 With Vents: 265.56 With Vents and BiA: 267 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (36 Damage): Theoretical Damage Per Minute Nominal: 290.52 50% Crew: 231.84 75% Crew: 261.36 100% Crew: 290.52 With Vents: 296.64 With Vents and BiA: 302.04 Advantageous Damage Per Minute Loaded-mag DPM: 791.28 50% Crew: 740.52 75% Crew: 766.08 100% Crew: 791.28 With Vents: 796.68 With Vents and BiA: 801 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.582 m With 75% Crew: 0.508 m With 100% Crew: 0.451 m With BiA: 0.441 m With BiA and Vents: 0.431 m Maximum possible: 0.413 m For more details, see Crew m ▲ With 50% Crew: 0.619 m With 75% Crew: 0.541 m With 100% Crew: 0.479 m With BiA: 0.469 m With BiA and Vents: 0.459 m Maximum possible: 0.44 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+3436 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-8°/+20° Elevation Arc. 
+2202400 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With Recon and Situational Awareness: 315.2 m With Coated Optics: 330 m With Binocular Telescope: 375 m Maximum possible: 429.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 208.2 m With 75% Crew: 236.6 m With 100% Crew: 265 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 381.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 208.2 m With 75% Crew: 236.6 m With 100% Crew: 265 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 381.3 m For more details, see Skills or Equipment Signal Range. 
+II. 
+20 mm Hispano-Suiza Birkigt Gun. 
+30/41/19. 
+12/12/36. 
+103.45. 
+0.5. 
+1.7. 
+nan. 
+68. 
+2600. 
+II. 
+37 mm Gun M5. 
+48/70/19. 
+40/40/50. 
+26.09. 
+0.46. 
+1.7. 
+nan. 
+78. 
+2000. 
+II. 
+37 mm Browning Semiautomatic Gun. 
+39/63/19. 
+30/30/36. 
+38.96. 
+0.47. 
+1.7. 
+nan. 
+65. 
+2200. 
+I. 
+T2T1. 
+22/22/22. 
+34. 
+300. 
+nan. 
+860. 
+500. 
+II. 
+T2T2. 
+25/25/25. 
+36. 
+320. 
+nan. 
+950. 
+700. 
+III. 
+Wright Continental R-975C2. 
+340. 
+20. 
+nan. 
+549. 
+9200. 
+II. 
+Liberty. 
+330. 
+20. 
+nan. 
+450. 
+990. 
+nan. 
+T2E1. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+340. 
+nan. 
+T2E4. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+650. 
+II. 
+SCR 200. 
+265. 
+nan. 
+40. 
+0. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank=T2_med
+|Big, tall, boxy and clunky, it looks like the lovechild of the [[T1 Cunningham]] and an industrial air-conditioning unit. A24 T2 med  While it has less hull armor than the [[M2 Light Tank]], it does have slightly more hit points. A24 T2 med  The main advantage of the T2 Medium is its ability to utilize the fun 37mm Browning Semiautomatic Gun, which uses the same mechanics as the French [[Automatic_Loader|autoloaders]]. A24 T2 med  It cannot take much damage, but it is a stepping stone to all of America's heavier vehicles. A24 T2 med  If nothing else, the slower speed, imposing size, and the new tank icon will give tankers a taste of what that branch of the tech tree has to offer. A24 T2 med 
+
+|InTheGame_pros=
+* Semi-automatic guns
+* Good view range and best signal range for its tier, with the SCR 506. A24 T2 med 
+* Decent armor all around gives some protection against automatic guns
+* Its 37mm Browning Semi-automatic Gun is capable of dispatching lower tier tanks in close quarters quickly, if all shells hit. A24 T2 med  
+* Great speed and acceleration for a medium tank          
+
+|InTheGame_cons=
+* Large silhouette for a Tier 2 tank
+* Less maneuverable than a light tank, but without improved armor
+* No 100% camouflage on the move 
+* Poor accuracy
+
+|InTheGame_performance=
+The T2 Medium Tank has one advantage over the M2 Light Tank: The 37mm Browning Semiautomatic Gun. A24 T2 med  However, compared to the M-5 37mm Gun, it has slightly less penetration and slightly less accuracy, so which you choose depends on your play style. A24 T2 med  Sniper orientated players would prefer the M-5 with its greater penetration and marginally better accuracy, whereas close-in fighters should go for either the 20mm Hispano-Suiza Birkigt Gun or the 37mm Browning Semiautomatic Gun. A24 T2 med  Regardless, your tank's armor has few to no angles and is relatively thin, so playing as a support tank is highly advised. A24 T2 med  Use cover and learn to inch out a little, fire, and then duck back behind cover again (a. A24 T2 med k. A24 T2 med a. A24 T2 med  "peek-a-boom") with this tank. A24 T2 med  It is a skill you will use a lot in future tanks. A24 T2 med  Also do not forget that you can press the "C" key to reload a partially loaded magazine. A24 T2 med  Never leave cover without a full magazine. A24 T2 med 
+
+Unfortunately, the engine upgrade is very poor. A24 T2 med  It only adds 10 horsepower and adds 99 kg, so do not expect much improvement over the stock engine. A24 T2 med 
+
+Lastly, the SCR 506 radio is an excellent radio that is used on no less than 20 vehicles in the American tree. A24 T2 med  If you do not want to take the time to research it on Tier 2, then research it on Tier 3. A24 T2 med  You do not want to go beyond that without it. A24 T2 med  
+
+|InTheGame_research=
+* The SCR 200 radio and 37 mm Semiautomatic Gun M1924 gun carries over from the T1 Cunningham and can be installed immediately. A24 T2 med  The 37 mm Browning Semiautomatic Gun also carries over (if you researched it), but is unavailable until you upgrade the turret. A24 T2 med 
+* Upgrading the suspension will add 4 deg/sec to traverse speed. A24 T2 med 
+* The upgraded turret will slightly improve armor, turret traverse speed, and hit points. A24 T2 med 
+* Now you can mount the 37 mm Browning Semiautomatic Gun. A24 T2 med 
+* Go from there. A24 T2 med 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer
+
+|Gallery=
+image:T2_Medium_Tank_001. A24 T2 med jpg
+image:T2_Medium_Tank_002. A24 T2 med jpg
+image:T2_Medium_Tank_003. A24 T2 med jpg
+image:T2_Medium_Tank_004. A24 T2 med jpg
+
+|History=
+In the early 1920s, the United States built three prototype medium tanks. A24 T2 med  These were the Medium A, built in 1921, the Medium A2, built in 1922, and the T1, built in 1925. A24 T2 med  
+
+The T1 Medium Tank, which weighed almost 20 tons, had either a 2. A24 T2 med 24 inch (57mm) main gun or a 2. A24 T2 med 95 inch (75mm) main gun, as well as two 0. A24 T2 med 3 inch (7. A24 T2 med 62mm) machine guns. A24 T2 med  The final model of the T1 series was the T1E2, which had a 2. A24 T2 med 24 inch gun. A24 T2 med 
+
+When the T2 Medium Tank was built, it's weight had to be reduced drastically because the US War Department had set a maximum weight of 15 tons. A24 T2 med  The T2 weighed only 14 tons when it was combat-loaded. A24 T2 med  The earliest models of the T2 had a 1. A24 T2 med 85 inch (47mm) semi-automatic gun and a 0. A24 T2 med 5 inch (12. A24 T2 med 7mm) machine gun in the hull. A24 T2 med  There was also a 1. A24 T2 med 46 inch (37mm) machine gun and a 0. A24 T2 med 3 inch (7. A24 T2 med 62mm) machine gun at the front of the hull on the right. A24 T2 med  These were later replaced by one 0. A24 T2 med 3 inch (7. A24 T2 med 62mm) machine gun. A24 T2 med 
+
+The design of the T2 was based on that of Britain's Vickers Medium Mark II. A24 T2 med  Later on, the Americans built three more prototypes of medium tanks, all of which were based on designs by Walter Christie. A24 T2 med  These were the T3, the T3E2, and the T4. A24 T2 med 
+
+|HistAcc=
+The T2 had a crew of four, of whom the loader is missing. A24 T2 med 
+* Historical 47 mm semiautomatic gun with 5 round clips is missing. A24 T2 med  All other main gun configurations are fake. A24 T2 med  The 47 mm was based on the 37 mm AA gun, developed by Browning since the early 1920s. A24 T2 med 
+* Coaxial [[Gun/USA#Browning MG caliber . A24 T2 med 50 HB, M2|12. A24 T2 med 7 mm Browning machine gun]] is also missing. A24 T2 med  Due to the lack of multi-turret controls in World of Tanks, the weapon is unusable. A24 T2 med 
+* The 37 mm Browning Semiautomatic Gun was actually mounted in the hull to the right of the driver. A24 T2 med  Its turret configuration is fake. A24 T2 med 
+* The T2 is considerably faster than in reality, with 28. A24 T2 med 08 hp/t compared to the historical 22. A24 T2 med 4. A24 T2 med 
+* The upgraded turret is the same as the [[M2 Medium Tank]]'s stock turret. A24 T2 med  This variant was known as the M2A1. A24 T2 med  However, the M2A1 began production in August 1940; the T2 prototype was abandoned in 1932. A24 T2 med 
+
+|HistoricalGallery=
+image:T2_medium_with_devs. A24 T2 med jpg{{!}}T2 Medium with it's developer
+image:T2 medium side. A24 T2 med jpg‎{{!}}T2 Medium from the side
+image:T2 medium rear. A24 T2 med jpg‎{{!}}T2 Medium from the rear
+image:T2_medium_aberdeen_no_gun. A24 T2 med jpg{{!}}T2 Medium at Aberdeen with main gun removed
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://www. A24 T2 med aviarmor. A24 T2 med net/tww2/tanks/usa/cunningham_t2. A24 T2 med htm Aviarmor. A24 T2 med net, where the above 4 pictures came from
+* https://www. A24 T2 med tanks. A24 T2 med net/interwar-tanks/t1-and-t2-medium-tanks. A24 T2 med html
+
+}}
+
+[[Category:USA Tanks]]

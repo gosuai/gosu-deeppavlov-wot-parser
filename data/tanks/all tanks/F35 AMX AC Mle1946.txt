@@ -1,0 +1,199 @@
+1,350,000 Cost. 
+820656 HP Hit Points. 
+49.52/5638.08/0 t Weight Limit. 
+575850 hp Engine Power. 
+50/12 km/h Speed Limit. 
+2424 deg/s Traverse. 
+11.6122.32 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+120/40/40 mm Hull Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+255/4800/255 255/4800/255 Shell Cost. 
+240/240/320240/240/320 HP Damage. 
+135/175/45135/175/45 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 6.3 s 50% Crew: 7.8 s 75% Crew: 6.81 s 100% Crew: 6.04 s Rammer: 5.44 s Vents: 5.91 s Both: 5.32 s Both and BiA: 5.2 s Both and Max Crew %: 4.99 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 6.3 s 50% Crew: 7.8 s 75% Crew: 6.81 s 100% Crew: 6.04 s Rammer: 5.44 s Vents: 5.91 s Both: 5.32 s Both and BiA: 5.2 s Both and Max Crew %: 4.99 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1939.2 50% Crew: 1564.8 75% Crew: 1792.8 100% Crew: 2023.2 100% Crew Vents: 2068.8 Rammer: 2248.8 Both: 2299.2 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2179.2 50% Crew: 1804.8 75% Crew: 2032.8 100% Crew: 2263.2 100% Crew Rammer: 2488.8 Vents: 2308.8 Both: 2539.2 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1939.2 50% Crew: 1564.8 75% Crew: 1792.8 100% Crew: 2023.2 100% Crew Vents: 2068.8 Rammer: 2248.8 Both: 2299.2 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2179.2 50% Crew: 1804.8 75% Crew: 2032.8 100% Crew: 2263.2 100% Crew Rammer: 2488.8 Vents: 2308.8 Both: 2539.2 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2585.6 50% Crew: 2086.4 75% Crew: 2390.4 100% Crew: 2697.6 100% Crew Vents: 2758.4 Rammer: 2998.4 Both: 3065.6 Both and BiA: 3132.8 Both and Max Crew %: 3267.2 Advantageous Damage Per Minute First-shot DPM: 2905.6 50% Crew: 2406.4 75% Crew: 2710.4 100% Crew: 3017.6 100% Crew Rammer: 3318.4 Vents: 3078.4 Both: 3385.6 Both and BiA: 3452.8 Both and Max Crew %: 3587.2 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1939.2 50% Crew: 1564.8 75% Crew: 1792.8 100% Crew: 2023.2 100% Crew Vents: 2068.8 Rammer: 2248.8 Both: 2299.2 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2179.2 50% Crew: 1804.8 75% Crew: 2032.8 100% Crew: 2263.2 100% Crew Rammer: 2488.8 Vents: 2308.8 Both: 2539.2 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1939.2 50% Crew: 1564.8 75% Crew: 1792.8 100% Crew: 2023.2 100% Crew Vents: 2068.8 Rammer: 2248.8 Both: 2299.2 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2179.2 50% Crew: 1804.8 75% Crew: 2032.8 100% Crew: 2263.2 100% Crew Rammer: 2488.8 Vents: 2308.8 Both: 2539.2 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2585.6 50% Crew: 2086.4 75% Crew: 2390.4 100% Crew: 2697.6 100% Crew Vents: 2758.4 Rammer: 2998.4 Both: 3065.6 Both and BiA: 3132.8 Both and Max Crew %: 3267.2 Advantageous Damage Per Minute First-shot DPM: 2905.6 50% Crew: 2406.4 75% Crew: 2710.4 100% Crew: 3017.6 100% Crew Rammer: 3318.4 Vents: 3078.4 Both: 3385.6 Both and BiA: 3452.8 Both and Max Crew %: 3587.2 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+2626 deg/s Gun Traverse Speed. 
+17° Gun Arc. 
+-10°/+15°-10°/+15° Elevation Arc. 
+115115 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.9 m With 75% Crew: 369.8 m With 100% Crew: 417.2 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 600.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 605.4 m With 75% Crew: 693.4 m With 100% Crew: 782.2 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1125.9 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+90 mm AC canon DCA 30. 
+135/175/45. 
+240/240/320. 
+9.52. 
+0.38. 
+1.7. 
+nan. 
+2050.0. 
+64000. 
+nan. 
+90 mm AC DCA 45. 
+212/259/45. 
+240/240/320. 
+8.7. 
+0.34. 
+2.3. 
+nan. 
+nan. 
+121250. 
+nan. 
+100 mm AC SA47. 
+232/263/45. 
+300/300/320. 
+6.0. 
+0.34. 
+2.9. 
+nan. 
+nan. 
+127550. 
+VI. 
+Maybach HL 230. 
+575. 
+20. 
+nan. 
+700. 
+26000. 
+VIII. 
+Maybach HL 230 P45F. 
+750. 
+20. 
+nan. 
+750. 
+55000. 
+IX. 
+Maybach HL 295. 
+850. 
+20. 
+nan. 
+750. 
+78000. 
+nan. 
+AMX AC mle. 46. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+18860. 
+nan. 
+AMX AC mle. 47. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+26260. 
+X. 
+SCR-528 Fr. 
+750. 
+nan. 
+80. 
+54000. 
+VI. 
+SCR 508. 
+400. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=AMX_AC_Mle1946
+|The AMX AC 46 is a completely different vehicle to the preceding ARL V39. F35 AMX AC Mle1946  It has some decent frontal armour, a decent gun selection, and unprecedented mobility in the French tank destroyer line. F35 AMX AC Mle1946  Unfortunately, these good traits are marred by numerous flaws that are not apparent in the garage. F35 AMX AC Mle1946 
+
+|Gallery=
+File:AMX Automoteur Canon Mle. F35 AMX AC Mle1946  1946 1. F35 AMX AC Mle1946 png
+
+|InTheGame_pros=
+* Decently sloped frontal armor, up to 120 mm thick
+* High speed and acceleration
+* Good gun selection, with some of the highest penetration guns of its class and tier
+* Great gun depression
+* Can mount all upgrades and equipment without improving the suspension, which makes for a painless grind
+
+|InTheGame_cons=
+* Poor gun placement, with absurdly narrow gun traverse angles and poor hull traverse speed
+* Extremely thin side & rear armor with massive weak spots that are fairly easy to hit from the front
+* Large size with poor camouflage rating and subpar view range
+* Poor gun dispersion values coupled with long aim times
+* Lowest damage-per-minute for a Tier 7 tank destroyer when using the 100 mm
+
+|InTheGame_performance=
+The AC Mle. F35 AMX AC Mle1946  46 is most comparable to the Jagdpanther on paper, but is generally inferior in practice. F35 AMX AC Mle1946  It suffers from exceptionally poor hidden statistics such as gun dispersion and terrain resistance which hinder it substantially. F35 AMX AC Mle1946  The AC 46 does have better armor than the Jagdpanzer, but it is not enough to completely guarantee protection against the more powerful guns of Tier 7, although lower tier guns will struggle. F35 AMX AC Mle1946  To add insult to injury, the AC 46 has two massive weakspots on top of the tank, which are impossible to hide. F35 AMX AC Mle1946  They also allow enemies to hit the AC 46 before it can reply while cresting a hill. F35 AMX AC Mle1946  The side, rear, and top armor is utter trash, and cannot be expected to bounce anything. F35 AMX AC Mle1946  It is also highly vulnerable to artillery. F35 AMX AC Mle1946 
+
+Much like the Jagdpanther, it has a choice of two viable guns. F35 AMX AC Mle1946  The 90 mm DCA 45 carries over from the ARL V39, and is roughly comparable to the 8,8 cm KwK 43 L/71 on the Jagdpanther, with higher penetration but a significantly lower rate-of-fire. F35 AMX AC Mle1946  The AC 46 can also mount the 100 mm SA 47, which boasts the second highest penetration of Tier 7, easily capable of dispatching Tier 8s or some Tier 9s, and higher shell damage than the 90 mm, but it is hampered by the long aim time, horrid dispersion, and the low rate-of-fire. F35 AMX AC Mle1946  As a result, the AC 46 is completely useless at performing snap shots, and it cannot afford to sit and trade with enemies either. F35 AMX AC Mle1946  The absurdly narrow gun traverse arc of 6 degrees to each side means that the AC 46 must reposition itself often, and every time it has to do that, this resets the aiming cycle, exacerbating the already terrible gun dispersion problems. F35 AMX AC Mle1946  It does, however, have 10 degrees of gun depression, and is the only French tank destroyer that can somewhat effectively fight on hilly terrain. F35 AMX AC Mle1946  
+
+Mobility-wise, the AC 46 has a pretty powerful engine despite being much heavier than the Jagdpanzer, giving good acceleration and a high top speed, comparable to medium tanks. F35 AMX AC Mle1946  Unfortunately, the hull traverse speed is disappointing, and once a fast tank gets on its side, it is all over for the AC 46 if it has noone to support it. F35 AMX AC Mle1946 
+
+The AC 46 functions best as a medium/long range sniper, as it is too vulnerable, cumbersome, and doesn't have the frontal armor for close quarters. F35 AMX AC Mle1946  It suffers massively when it is top tier, as the advantages it has over a vehicle like the Jagdpanzer are completely meaningless in that case. F35 AMX AC Mle1946  Conversely, the AC 46 should not be underestimated as a bottom tier tank, as its powerful gun can shine in those situations. F35 AMX AC Mle1946 
+
+Overall, the AC 46 is one of the weaker tank destroyers of its tier, and its exceptionally poor 'hidden' statistics can make it a very frustrating tank to play. F35 AMX AC Mle1946  Despite this, thanks to its high penetration guns, it is not as helpless in Tier 8 or 9 games. F35 AMX AC Mle1946 
+
+|InTheGame_research=
+* The stock suspension is sufficient to hold all module upgrades and equipment, so players should equip the 90 mm AC DCA 45 and upgraded radio. F35 AMX AC Mle1946 
+* Research the 2nd and 3rd engine next. F35 AMX AC Mle1946   The additional power will make it a lot more nimble. F35 AMX AC Mle1946  If you have already played the [[ARL 44]] the second engine is already available, while the third engine is also on the [[AMX M4 mle. F35 AMX AC Mle1946  45]]. F35 AMX AC Mle1946 
+* Next, the suspension should be upgraded for the increased traverse speed and better hull movement gun dispersion values. F35 AMX AC Mle1946 
+* Finally, grind the 100 mm. F35 AMX AC Mle1946  Although it is a poor choice for the AX AC mle. F35 AMX AC Mle1946  46, it is also used on the AMX AC mle. F35 AMX AC Mle1946  1948. F35 AMX AC Mle1946 
+
+
+|InTheGame_equipment= Vents,Tank Gun Rammer, GLD
+
+
+|History=
+The AMX AC de 120 mm mle. F35 AMX AC Mle1946  1946 was a proposal for a self-propelled gun based on the AMX M 4 heavy tank project. F35 AMX AC Mle1946  It was to provide long-range fire support to the 90 mm-equipped M 4. F35 AMX AC Mle1946  As the M 4 project would evolve into the AMX 50, so too would the AC mle. F35 AMX AC Mle1946  1946, eventually leading to the AMX 50 Foch. F35 AMX AC Mle1946 
+
+For balance reasons, the AC mle. F35 AMX AC Mle1946  1946 in the game is only equipped with an unhistorical 100 mm gun. F35 AMX AC Mle1946 
+
+|HistoricalGallery=
+image:AMX Automoteur Canon Mle. F35 AMX AC Mle1946  1946 1. F35 AMX AC Mle1946 png{{!}}AMX AC 120 mm Mle. F35 AMX AC Mle1946  1946 Technical Drawing
+File:AMX_46_AC_blueprint. F35 AMX AC Mle1946 jpg{{!}}AMX AC 120mm Mle. F35 AMX AC Mle1946 1946 blueprint. F35 AMX AC Mle1946  Note the thickness of the frontal armor compared to later designs
+
+|HistAcc=
+Actual name is AMX AC de 120 mm mle. F35 AMX AC Mle1946  1946, the "120" indicating the caliber of the gun. F35 AMX AC Mle1946  The other gun configurations are fake. F35 AMX AC Mle1946 
+* Actual planned [[Gun/France#120 mm AC SA46|120 mm]] gun is missing. F35 AMX AC Mle1946  This historical version does not exist in World of Tanks. F35 AMX AC Mle1946 
+* The AMX AC 46 had much thicker frontal armor than later designs, reaching 280mm of thickness (the same as on the [https://wiki. F35 AMX AC Mle1946 gcdn. F35 AMX AC Mle1946 co/images/c/c7/AMX_M4_49_with_absurdly_thick_armor. F35 AMX AC Mle1946 jpg most heavily armored AMX M4 blueprints])
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

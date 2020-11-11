@@ -1,0 +1,235 @@
+750 Cost. 
+320256 HP Hit Points. 
+10.57/14.56.32/0 t Weight Limit. 
+7575 hp Engine Power. 
+37/16 km/h Speed Limit. 
+4040 deg/s Traverse. 
+7.111.87 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+40/40/40 mm Hull Armor. 
+40/40/40// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+14/800/8 14/800/8 Shell Cost. 
+40/40/4540/40/45 HP Damage. 
+41/64/1841/64/18 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.2857142857143 s 50% Crew: 2.91 s 75% Crew: 2.56 s 100% Crew: 2.29 s Rammer: 2.06 s Vents: 2.24 s Both: 2.01 s Both and BiA: 1.98 s Both and Max Crew %: 1.89 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.2857142857143 s 50% Crew: 2.91 s 75% Crew: 2.56 s 100% Crew: 2.29 s Rammer: 2.06 s Vents: 2.24 s Both: 2.01 s Both and BiA: 1.98 s Both and Max Crew %: 1.89 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1050 50% Crew: 824.8 75% Crew: 937.6 100% Crew: 1050 100% Crew Vents: 1074.4 Rammer: 1166.8 Both: 1194 Both and BiA: 1216.8 Both and Max Crew %: 1269.2 Advantageous Damage Per Minute First-shot DPM: 1090 50% Crew: 864.8 75% Crew: 977.6 100% Crew: 1090 100% Crew Rammer: 1206.8 Vents: 1114.4 Both: 1234 Both and BiA: 1256.8 Both and Max Crew %: 1309.2 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1050 50% Crew: 824.8 75% Crew: 937.6 100% Crew: 1050 100% Crew Vents: 1074.4 Rammer: 1166.8 Both: 1194 Both and BiA: 1216.8 Both and Max Crew %: 1269.2 Advantageous Damage Per Minute First-shot DPM: 1090 50% Crew: 864.8 75% Crew: 977.6 100% Crew: 1090 100% Crew Rammer: 1206.8 Vents: 1114.4 Both: 1234 Both and BiA: 1256.8 Both and Max Crew %: 1309.2 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (45 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1181.25 50% Crew: 927.9 75% Crew: 1054.8 100% Crew: 1181.25 100% Crew Vents: 1208.7 Rammer: 1312.65 Both: 1343.25 Both and BiA: 1368.9 Both and Max Crew %: 1427.85 Advantageous Damage Per Minute First-shot DPM: 1226.25 50% Crew: 972.9 75% Crew: 1099.8 100% Crew: 1226.25 100% Crew Rammer: 1357.65 Vents: 1253.7 Both: 1388.25 Both and BiA: 1413.9 Both and Max Crew %: 1472.85 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1050 50% Crew: 824.8 75% Crew: 937.6 100% Crew: 1050 100% Crew Vents: 1074.4 Rammer: 1166.8 Both: 1194 Both and BiA: 1216.8 Both and Max Crew %: 1269.2 Advantageous Damage Per Minute First-shot DPM: 1090 50% Crew: 864.8 75% Crew: 977.6 100% Crew: 1090 100% Crew Rammer: 1206.8 Vents: 1114.4 Both: 1234 Both and BiA: 1256.8 Both and Max Crew %: 1309.2 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1050 50% Crew: 824.8 75% Crew: 937.6 100% Crew: 1050 100% Crew Vents: 1074.4 Rammer: 1166.8 Both: 1194 Both and BiA: 1216.8 Both and Max Crew %: 1269.2 Advantageous Damage Per Minute First-shot DPM: 1090 50% Crew: 864.8 75% Crew: 977.6 100% Crew: 1090 100% Crew Rammer: 1206.8 Vents: 1114.4 Both: 1234 Both and BiA: 1256.8 Both and Max Crew %: 1309.2 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (45 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1181.25 50% Crew: 927.9 75% Crew: 1054.8 100% Crew: 1181.25 100% Crew Vents: 1208.7 Rammer: 1312.65 Both: 1343.25 Both and BiA: 1368.9 Both and Max Crew %: 1427.85 Advantageous Damage Per Minute First-shot DPM: 1226.25 50% Crew: 972.9 75% Crew: 1099.8 100% Crew: 1226.25 100% Crew Rammer: 1357.65 Vents: 1253.7 Both: 1388.25 Both and BiA: 1413.9 Both and Max Crew %: 1472.85 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.509 m With 75% Crew: 0.448 m With 100% Crew: 0.4 m With BiA: 0.391 m With BiA and Vents: 0.384 m Maximum possible: 0.368 m For more details, see Crew m ▲ With 50% Crew: 0.509 m With 75% Crew: 0.448 m With 100% Crew: 0.4 m With BiA: 0.391 m With BiA and Vents: 0.384 m Maximum possible: 0.368 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.182 s With 75% Crew: 1.92 s With 100% Crew: 1.714 s With GLD: 1.558 s With BiA: 1.675 s With BiA and Vents: 1.643 s With both and GLD: 1.494 s Maximum possible: 1.432 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.182 s With 75% Crew: 1.92 s With 100% Crew: 1.714 s With GLD: 1.558 s With BiA: 1.675 s With BiA and Vents: 1.643 s With both and GLD: 1.494 s Maximum possible: 1.432 s For more details, see Crew or Equipment Aim time. 
+4747 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+15°-8°/+15° Elevation Arc. 
+200200 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 412.5 m With 75% Crew: 468.8 m With 100% Crew: 525 m With 100% Signal Boost: 630 m When affected by 100% Relaying: 577.5 m Maximum possible: 755.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 412.5 m With 75% Crew: 468.8 m With 100% Crew: 525 m With 100% Signal Boost: 630 m When affected by 100% Relaying: 577.5 m Maximum possible: 755.4 m For more details, see Skills or Equipment Signal Range. 
+I. 
+3,7 cm SA 38 L/34. 
+41/64/18. 
+40/40/45. 
+26.25. 
+0.4. 
+1.71. 
+nan. 
+70. 
+3390. 
+nan. 
+Pz.Kpfw. 38H 735 (f). 
+//. 
+47. 
+330. 
+nan. 
+nan. 
+1050. 
+I. 
+Hotchkiss. 
+75. 
+20. 
+nan. 
+200. 
+290. 
+nan. 
+Pz.Kpfw. 38H 735 (f). 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+1030. 
+VIII. 
+FuG 8 (f). 
+525. 
+nan. 
+50. 
+20300. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT71 CMCD P • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIT42 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • IXConcept 1B • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA43 BP prototype • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52 LIS. 
+{{TankData|Tank=H39_captured
+|Since it is a captured French tank, its play style differs from the other low-tier German tanks. G33 H39 captured  Even so, it is often compared to the [[Maus]] because of its low-damage gun, low mobility, and high armor. G33 H39 captured  One may use it as a line breakthrough tank or a durable sniper. G33 H39 captured  Two hits (possibly even one) directed towards the commander's cupola or turret ring may disable this tank for the remainder of the battle. G33 H39 captured 
+
+This tank was removed from the in-game store in February 2012, following the introduction of the French Tech Tree. G33 H39 captured  It was sold in the gift shop only twice, in August 2012 and May 2013. G33 H39 captured  Previously, it could be acquired via an invite code called "BOOSTERPANINI", which no longer works. G33 H39 captured  
+This tank was again offered in February 2020 (10000 pieces RU server and 3000 pieces EU server) during the Black Market. G33 H39 captured 
+
+|InTheGame_pros=
+* Relatively thick armor stops most tier 2 light tank guns at long range (unless they are firing premium ammo)
+* Superior to the [[Hotchkiss H35|H35]] in many "soft" stats such as terrain resistance
+* Second best radio of its tier
+* Decent accuracy for tier 2
+* Highest view range of all tier 2 tanks
+* Gun is superior to the regular [[Gun/France#37_mm_SA38|37 mm SA38]]
+* Good traverse speed
+
+|InTheGame_cons=
+* Poor mobility
+* Somewhat low penetration
+* Vulnerable to tank destroyers and tier 3 weaponry
+* 2-man complement is vulnerable to crew wipeout
+* Armored trench rails and thicker gun mantlet have minimal effect
+* Lower hull plate and fairly much weakspots on the front can be penetrated easily
+* Inferior to the H35 in acceleration and vertical gun arc
+* Low credit income for a premium tank
+* Small size makes it prone to multiple module damage
+* Tank is severely crippled if commander is knocked out
+* Very high matchmaking weight, 277% of its classification, meaning tier 3 games are a very frequent occurrence
+
+|InTheGame_performance=
+The "Minimaus" or "Hotchy" was once the most feared tank in Battle Tier 2. G33 H39 captured  It is basically a Hotchkiss H35 with significantly better top speed, hit points, traverse, view range, signal range, penetration, rate of fire, aim time and accuracy. G33 H39 captured  The only disadvantages in comparison are slightly poorer engine power and gun depression. G33 H39 captured 
+
+There was a time when the only thing to stop one was another Minimaus. G33 H39 captured   In recent times, with the addition of the [[Tetrarch]] and more recently the French TD line, there are guns that now easily penetrate its armor. G33 H39 captured   If you find yourself facing them regularly, it is a good thing to learn which guns on which tanks are capable of penetrating its armor. G33 H39 captured   The [[BT-2]], [[T-26]], Tetrarch and even the lowly [[MS-1]] all possess guns capable of regularly doing damage to this tank. G33 H39 captured   Prior to the arrival of the tier 2 tank destroyers, the Minimaus was able to achieve Top Gun regularly. G33 H39 captured   With this new challenge, players will need to learn to play this tank a lot wiser and use its view range to maximum benefit. G33 H39 captured 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment=
+Improved Ventilation Class 1, Enhanced Gun Laying Drive, Coated Optics, Small Spall Liner, Camouflage Net
+
+|Gallery=
+image:PzKpfw 38H735 (f) screen 01. G33 H39 captured jpg{{!}}PzKpfw 38H735 (f)
+image:PzKpfw 38H735 (f) screen 02. G33 H39 captured jpg{{!}}PzKpfw 38H735 (f)
+image:PzKpfw 38H735 (f) screen 03. G33 H39 captured jpg{{!}}PzKpfw 38H735 (f)
+image:PzKpfw 38H735 (f) screen 04. G33 H39 captured jpg{{!}}PzKpfw 38H735 (f)
+image:PzKpfw 38H735 (f) screen 05. G33 H39 captured jpg{{!}}PzKpfw 38H735 (f)
+image:PzKpfw 38H735 (f) screen 06. G33 H39 captured jpg{{!}}PzKpfw 38H735 (f)
+image:H-39-1. G33 H39 captured jpg{{!}}PzKpfw 38H735 (f)
+image:H-39-4. G33 H39 captured jpg{{!}}PzKpfw 38H735 (f)
+image:PzKpfw_38H735game1. G33 H39 captured jpg{{!}}PzKpfw 38H735 (f), Karelia map
+
+|History=
+The Hotchkiss H39 (a variant of the Hotchkiss H35) was captured and used by Germany as the PzKpfw 38H735 (f). G33 H39 captured 
+
+The Hotchkiss H35, or Char léger modèle 1935 H, was a French light tank developed prior to World War II. G33 H39 captured  Despite having been designed from 1933 as a rather slow, but well-armored, light infantry support tank, the type was initially rejected by the French Infantry because it proved difficult to steer while driving cross-country, and was instead adopted in 1936 by the French Cavalry. G33 H39 captured  In 1938, an improved version was produced with a stronger engine, the Char léger modèle 1935 H modifié 39, that from 1940 was also fitted with a longer, more powerful 37 mm gun. G33 H39 captured  It was intended to make this improved variant the standard light tank, and was to be produced in a number of at least four thousand in order to equip new armored divisions of both the Cavalry and the Infantry. G33 H39 captured  However, due to the defeat of France in June 1940, total production of both subtypes remained limited to about 1200 vehicles. G33 H39 captured  For the remainder of the war, Germany and its allies would use captured Hotchkiss tanks in several modifications. G33 H39 captured 
+
+== Description ==
+[[image:PzKpfw_38H735_(f)_Israel. G33 H39 captured jpg|thumb|200px|right|Hotchkiss H-39 light tank in Yad la-Shiryon Museum, Israel. G33 H39 captured  2005. G33 H39 captured   The Char léger modèle 1935 H modifié 39; this vehicle has been modified by the Germans who fitted a cupola hatch. G33 H39 captured ]]
+
+As the Cavalry wanted an even better top speed, it was decided to bring to fruition experiments already conducted from October 1936 to install a stronger engine. G33 H39 captured  A new prototype was made in 1937, with a 120 hp instead of a 78 hp engine. G33 H39 captured  The hull was enlarged to accommodate it, and the track and the suspension elements were improved, raising the weight to 12. G33 H39 captured 1 tons. G33 H39 captured  This improved variant was faster, with a top speed of 36. G33 H39 captured 5 km/h (22. G33 H39 captured 6 mph), and much easier to drive. G33 H39 captured  Therefore, it was first presented to the Commission d'Expérimentations de l'Infanterie on 31 January, 1939, to see whether the original negative decision could be changed. G33 H39 captured  The commission indeed accepted the type, the Char léger modèle 1935 H modifié 39. G33 H39 captured  
+
+It was decided on 18 February to let it succeed the original version from the four hundred first vehicle onwards, which was just as well, as both in 1937 and 1938 an order had been made for 200 vehicles and production had already started. G33 H39 captured   The total orders of the improved type was thereafter expanded to 900. G33 H39 captured  The factory identifier, however, was the Char léger Hotchkiss modèle 38 série D, its predecessor having been the série B. G33 H39 captured  The designation has caused much confusion; this was still officially the same tank as the "H 35", only in a later variant. G33 H39 captured  However, even at the time, many began to refer to it as the 38 H or the 39 H. G33 H39 captured 
+
+The new subtype differed from the original one in having a raised and more angular engine deck (In later production, vehicles had crosswise instead of longitudinal ventilation slits on the right side. G33 H39 captured ), road-range decreased to 120 km, closed idler wheels, tracks two centimetres wider at 27 cm, metal instead of rubber wheel treads, a silencer directed to the back, and larger, more reliable and effective ventilators. G33 H39 captured 
+
+[[image:PzKpfw_38H735_(f)_Germany. G33 H39 captured jpg|thumb|200px|right|Hotchkiss H39 on display at the Musée des Blindés in [[https://commons. G33 H39 captured wikimedia. G33 H39 captured org/wiki/Saumur Saumur]]. G33 H39 captured ]]
+In early 1940, a modernisation program was initiated. G33 H39 captured  Aside from the fitting of episcopes, tails, and some radio sets, this included the gradual introduction of a longer L/35 37 mm SA38 gun that had a much improved anti-tank capacity (30 mm penetration at 1000 m). G33 H39 captured   About 350 vehicles were (re)built with the better gun, among them about fifty "H 35"s. G33 H39 captured [1] The new gun became standard in the production lines in April. G33 H39 captured  Before that change, the available new guns had, from January 1940, gradually been fitted to the tanks of platoon, company, and battalion commanders; about half of the commander vehicles in Hotchkiss units were so modified. G33 H39 captured  It had been intended to fit the longer gun to all vehicles during the second half of 1940. G33 H39 captured  
+
+After the war, it was for a time erroneously assumed that "H 38" was the official name of the tank with the new engine, but without the new gun: "H 39" was the name of the type that had both major improvements. G33 H39 captured  These mistakes are still common in many secondary literature. G33 H39 captured  The "H 38" was, in fact, identical to the "H 39", and it is only correct to refer to the latter in an informal sense. G33 H39 captured  Parallel to the development of an R 40, consideration was given, for a time, to the creation of an "H 40" by adopting the improved AMX suspension of the other vehicle. G33 H39 captured  In the end, this option was rejected. G33 H39 captured 
+
+== Operational history ==
+In April 1940, the 342e CACC was sent to Norway after the German invasion of that country, having first been intended to form part of an expeditionary force to assist Finland in the Winter War. G33 H39 captured  This autonomous company, equipped with fifteen "H 39"s, all with short guns, fought at Narvik, after having landed on 7 May. G33 H39 captured  After the temporary liberation of that city, the twelve remaining vehicles were withdrawn to Britain on 8 June, where they joined the Free French, forming the 1e Compagnie de Chars de Combat de la France Libre. G33 H39 captured  In 1940 and 1941, this 1e CCC fought against Vichy-troops in Gabon, and later in Syria. G33 H39 captured 
+
+[[image:PzKpfw_38H735_(f)_Yugo. G33 H39 captured jpg|thumb|200px|right|Panzerkampfwagen 38H 735(f) used by the Germans in Yugoslavia in 1942]]
+About 550 tanks were captured and used by the Germans as the Panzerkampfwagen 35H 734(f) or Panzerkampfwagen 38H 735(f). G33 H39 captured  Most were used for occupation duty, but the independent 211e Panzerabteilung was deployed in Finland during Operation Barbarossa. G33 H39 captured  Additional vehicles were sent to Finland as part of the independent Panzerkampfwagenzüge (tank platoons) 217, 218, and 219, which were attached to the 20th Mountain Army in February 1942[3]. G33 H39 captured  The platoons were the same as those of Panzerabteilung 211, consisting of one SOMUA S35 and four Hotchkiss tanks. G33 H39 captured  
+
+Like the French themselves, the Germans made no clear distinction between a "H 38" and a "H 39". G33 H39 captured  The Germans fitted hatches to tanks equipped with a cupola. G33 H39 captured  Some vehicles were modified to become munition carriers, artillery tractors (Artillerieschlepper 38H(f))s, or rocket-launchers (Panzerkampfwagen 35H(f) mit 28/32 cm Wurfrahmens). G33 H39 captured  In 1942, 24 were converted into Marder I Panzerjägers or tank destroyers (using the 7. G33 H39 captured 5 cm PaK40(Sf) auf Geschützwagen 39H(f)), and 48 into mechanised artillery, the 10. G33 H39 captured 5 cm leFH18(Sf) auf Geschützwagen 39H(f). G33 H39 captured   All were to be used by units in France. G33 H39 captured  A special artillery observation vehicle was created, the Panzerbeobachtungswagen 38H (f). G33 H39 captured  In June 1943, 361 Hotchkiss tanks were still listed in the German Army inventories as 37 mm gun tanks. G33 H39 captured  This number had decreased to sixty in December 1944. G33 H39 captured 
+
+In 1943, the Germans, against objections, delivered nineteen "H 39"s to Bulgaria for training purposes when it proved to be impossible to find 25 unmodified Panzerkampfwagen Is, the type the Bulgarians really desired. G33 H39 captured  After the war, these vehicles were used by police units. G33 H39 captured  In 1944, the Germans delivered fifteen vehicles to Hungary and a small number to Croatia. G33 H39 captured 
+
+In North Africa, 27 vehicles (thirteen H 35s and fourteen "H 39"s) were officially serving in the 1e Régiment de Chasseurs d'Afrique and were allowed to remain there by the armistice conditions, and another five were hidden in Morocco. G33 H39 captured  They fought the Allies during the opening stages of Operation Torch near Casablanca in November 1942, destroying four M3 Stuart light tanks. G33 H39 captured  The regiment then joined the Allied cause and was re-equipped with M4 Shermans in the summer of 1943. G33 H39 captured 
+
+After the war, some Hotchkiss tanks were used by French security forces in the colonies and occupation forces in Germany. G33 H39 captured  Ten "H 39s" were clandestinely sold to Israel and shipped from Marseilles to Haifa in 1948. G33 H39 captured  At least one remained in service with the IDF until 1952. G33 H39 captured 
+
+== Surviving vehicles ==
+One Hotchkiss H35 and nine Hotchkiss H35s modifié 39 have survived until today. G33 H39 captured  All of the modifié 39s were modified again by the Germans during WW2 [4]. G33 H39 captured   The sole surviving unmodified Hotchkiss H35 was discovered in December 2008, 200 meters off the coast, at Sainte-Cecile beach, Camiers, Pas-de-Calais, France. G33 H39 captured  It is a turretless chassis, most probably a veteran of the Dunkerque gap fightings, which happened in May–June 1940. G33 H39 captured  The tank was dredged in late 2008 thanks to the tide [5]. G33 H39 captured  The Musée des Blindés at Saumur plans to recover this tank in order to display it in the museum, but its recovery proves to be very difficult and costly. G33 H39 captured 
+
+One Hotchkiss H35 modifié 39 tank is on display in the city square in Narvik as a memorial of the Battle of Narvik in 1940. G33 H39 captured  A second vehicle, in Norway, is part of the collection of the Pansarparken at Rena Leir. G33 H39 captured  In England, the private Kevin Wheatcroft Collection has bought an example from the Norwegian Arquebus Krigshistoriske Museum at Rogaland. G33 H39 captured  In France itself ,the Musée des Blindés at Saumur has a vehicle in running condition. G33 H39 captured  At the base of 501/503e RCC at Mourmelon-le-Grand, a Hotchkiss restored with a Renault R35 turret and fitted with a dummy gun serves as a monument. G33 H39 captured  Another tank is displayed at Uzice, in Serbia. G33 H39 captured  The Bulgarian National Museum of Military History displays one of the vehicles used by the Bulgarian police forces. G33 H39 captured  At Latrun, in Israël, the Yad la-Shiryon Museum shows one of the tanks used by the IDF. G33 H39 captured  In Russia, the tank museum of Kubinka has a Hotchkiss tank in running condition, captured from the 211th Panzerabteilung in the summer of 1944. G33 H39 captured 
+
+|HistAcc=
+Since its introduction as a German premium seven years ago, this variant of the H35 is still missing from the French tech tree. G33 H39 captured  In French service it was known as the ''Char léger modèle 1935 H modifié 39'', or H39. G33 H39 captured 
+* Hotchkiss engine is considerably weaker than in reality, with 75 hp compared to the historical 120. G33 H39 captured 
+* The 37 mm SA38 is the same gun on the [[Hotchkiss H35]] and [[Renault R35]], yet the penetration values are inconsistent. G33 H39 captured 
+* The turret is the same as the R35's, yet the view range and weight values are inconsistent. G33 H39 captured 
+
+|HistoricalGallery=
+PzKpfw 38H 735 f. G33 H39 captured jpg
+PzKpfw 38H 735 f (2). G33 H39 captured jpg
+H38_retaken_french. G33 H39 captured png
+
+|Ref_references=
+# Pascal Danjou, 2006, "Les Hotchkiss H35 Réarmés", Histoire de Guerre, Blindés et Matériel N°74, p. G33 H39 captured  81
+# François Vauvillier, 2007, "Notre Cavalerie Mécanique à son Apogée le 10 Mai 1940", Histoire de Guerre, Blindés et Matériel, N° 75, p. G33 H39 captured 49
+# Panzers in Finland - Kari Kuusela, ISBN 951-97506-3-0
+# https://the. G33 H39 captured shadock. G33 H39 captured free. G33 H39 captured fr/Surviving_French_Tanks. G33 H39 captured pdf
+# "Sous le sable. G33 H39 captured . G33 H39 captured . G33 H39 captured  un char d'assaut". G33 H39 captured  Le Parisien newspaper. G33 H39 captured  Retrieved 13 September 2010. G33 H39 captured 
+
+|Ref_sources=
+* Philip Trewhitt, Armored Fighting Vehicles. G33 H39 captured  Brown Packaging Books, 1999. G33 H39 captured 
+* Pierre Touzin, Les véhicules blindés français, 1900-1944. G33 H39 captured  EPA, 1979. G33 H39 captured 
+* Jean-Gabriel Jeudy, Chars de France, E. G33 H39 captured T. G33 H39 captured A. G33 H39 captured I. G33 H39 captured , 1997. G33 H39 captured 
+* Pascal Danjou, Hotchkiss H35 / H39, Editions du Barbotin, Ballainvilliers, 2006
+
+|Ref_links=
+* [[https://en. G33 H39 captured wikipedia. G33 H39 captured org/wiki/Hotchkiss_H39 Wikipedia]]
+* WWIIvehicles. G33 H39 captured com: H35, H38, H39. G33 H39 captured 
+* (French) Chars-francais. G33 H39 captured net: H35, H39. G33 H39 captured 
+}}

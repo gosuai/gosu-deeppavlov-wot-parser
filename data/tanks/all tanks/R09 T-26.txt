@@ -1,0 +1,221 @@
+3,700 Cost. 
+340360 HP Hit Points. 
+9.35/10.29.48/12.7 t Weight Limit. 
+90130 hp Engine Power. 
+36/15 km/h Speed Limit. 
+5052 deg/s Traverse. 
+9.6313.71 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+15/15/15 mm Hull Armor. 
+15/15/1515/15/15 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+8/800/8 35/800/10 Shell Cost. 
+36/36/4040/40/50 HP Damage. 
+40/64/1958/92/19 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.3 s 50% Crew: 2.93 s 75% Crew: 2.58 s 100% Crew: 2.3 s Rammer: 2.07 s Vents: 2.25 s Both: 2.02 s Both and BiA: 1.98 s Both and Max Crew %: 1.9 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.3 s 50% Crew: 2.93 s 75% Crew: 2.58 s 100% Crew: 2.3 s Rammer: 2.07 s Vents: 2.25 s Both: 2.02 s Both and BiA: 1.98 s Both and Max Crew %: 1.9 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (36 Damage):  Theoretical Damage Per Minute Nominal DPM: 939.24 50% Crew: 738 75% Crew: 838.8 100% Crew: 939.24 100% Crew Vents: 961.2 Rammer: 1043.64 Both: 1068.12 Both and BiA: 1088.28 Both and Max Crew %: 1135.44 Advantageous Damage Per Minute First-shot DPM: 975.24 50% Crew: 774 75% Crew: 874.8 100% Crew: 975.24 100% Crew Rammer: 1079.64 Vents: 997.2 Both: 1104.12 Both and BiA: 1124.28 Both and Max Crew %: 1171.44 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (36 Damage):  Theoretical Damage Per Minute Nominal DPM: 939.24 50% Crew: 738 75% Crew: 838.8 100% Crew: 939.24 100% Crew Vents: 961.2 Rammer: 1043.64 Both: 1068.12 Both and BiA: 1088.28 Both and Max Crew %: 1135.44 Advantageous Damage Per Minute First-shot DPM: 975.24 50% Crew: 774 75% Crew: 874.8 100% Crew: 975.24 100% Crew Rammer: 1079.64 Vents: 997.2 Both: 1104.12 Both and BiA: 1124.28 Both and Max Crew %: 1171.44 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (40 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1043.6 50% Crew: 820 75% Crew: 932 100% Crew: 1043.6 100% Crew Vents: 1068 Rammer: 1159.6 Both: 1186.8 Both and BiA: 1209.2 Both and Max Crew %: 1261.6 Advantageous Damage Per Minute First-shot DPM: 1083.6 50% Crew: 860 75% Crew: 972 100% Crew: 1083.6 100% Crew Rammer: 1199.6 Vents: 1108 Both: 1226.8 Both and BiA: 1249.2 Both and Max Crew %: 1301.6 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1043.6 50% Crew: 820 75% Crew: 932 100% Crew: 1043.6 100% Crew Vents: 1068 Rammer: 1159.6 Both: 1186.8 Both and BiA: 1209.2 Both and Max Crew %: 1261.6 Advantageous Damage Per Minute First-shot DPM: 1083.6 50% Crew: 860 75% Crew: 972 100% Crew: 1083.6 100% Crew Rammer: 1199.6 Vents: 1108 Both: 1226.8 Both and BiA: 1249.2 Both and Max Crew %: 1301.6 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1043.6 50% Crew: 820 75% Crew: 932 100% Crew: 1043.6 100% Crew Vents: 1068 Rammer: 1159.6 Both: 1186.8 Both and BiA: 1209.2 Both and Max Crew %: 1261.6 Advantageous Damage Per Minute First-shot DPM: 1083.6 50% Crew: 860 75% Crew: 972 100% Crew: 1083.6 100% Crew Rammer: 1199.6 Vents: 1108 Both: 1226.8 Both and BiA: 1249.2 Both and Max Crew %: 1301.6 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (50 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1304.5 50% Crew: 1025 75% Crew: 1165 100% Crew: 1304.5 100% Crew Vents: 1335 Rammer: 1449.5 Both: 1483.5 Both and BiA: 1511.5 Both and Max Crew %: 1577 Advantageous Damage Per Minute First-shot DPM: 1354.5 50% Crew: 1075 75% Crew: 1215 100% Crew: 1354.5 100% Crew Rammer: 1499.5 Vents: 1385 Both: 1533.5 Both and BiA: 1561.5 Both and Max Crew %: 1627 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.57 m With 75% Crew: 0.498 m With 100% Crew: 0.441 m With BiA: 0.431 m With BiA and Vents: 0.422 m Maximum possible: 0.404 m For more details, see Crew m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+4446 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+25°-8°/+25° Elevation Arc. 
+320280 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 220 m With 75% Crew: 250 m With 100% Crew: 280 m With Recon and Situational Awareness: 294.2 m With Coated Optics: 308 m With Binocular Telescope: 350 m Maximum possible: 400.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With Recon and Situational Awareness: 325.7 m With Coated Optics: 341 m With Binocular Telescope: 387.5 m Maximum possible: 443.8 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With 100% Signal Boost: 360 m When affected by 100% Relaying: 330 m Maximum possible: 431.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With 100% Signal Boost: 360 m When affected by 100% Relaying: 330 m Maximum possible: 431.7 m For more details, see Skills or Equipment Signal Range. 
+I. 
+37 mm B-3. 
+40/64/19. 
+36/36/40. 
+26.09. 
+0.46. 
+2.3. 
+nan. 
+77. 
+1950. 
+III. 
+37 mm ZiS-19. 
+58/92/19. 
+40/40/50. 
+26.09. 
+0.39. 
+2.3. 
+nan. 
+200. 
+4250. 
+II. 
+45 mm 20K. 
+51/88/23. 
+47/47/62. 
+26.09. 
+0.46. 
+2.3. 
+nan. 
+250. 
+2530. 
+II. 
+T-26 mod. 1936–1937. 
+15/15/15. 
+44. 
+280. 
+nan. 
+850. 
+670. 
+III. 
+T-26 mod. 1938. 
+15/15/15. 
+46. 
+310. 
+nan. 
+1050. 
+1440. 
+I. 
+T-26. 
+90. 
+20. 
+nan. 
+545. 
+770. 
+II. 
+T-26F. 
+130. 
+20. 
+nan. 
+545. 
+1500. 
+I. 
+T-26. 
+10.2. 
+50. 
+B/2. 
+nan. 
+1880. 
+340. 
+II. 
+T-26M. 
+12.7. 
+52. 
+B/2. 
+nan. 
+1880. 
+680. 
+III. 
+71-TK-3. 
+300. 
+nan. 
+100. 
+570. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=T-26
+|This is the first tank in the Soviet heavy tank branch. R09 T-26  The armor on the T-26 is only slightly better than the [[BT-2]], which is nothing to boast about; both have less armor than the tier I [[MS-1]] starter tank. R09 T-26  While the BT-2 is much faster than the aforementioned MS-1, the T-26 gets more health and better traverse speeds, making it more suited for a more cautious play style. R09 T-26  Depending on which gun you chose, the T-26 can be an excellent sniper, and its incredible traverse speeds mean it can still be effective in close quarters. R09 T-26  
+
+|Gallery=
+image:T26-a. R09 T-26 jpg{{!}}Front right
+image:T26-b. R09 T-26 jpg{{!}}Front left
+image:T26-c. R09 T-26 jpg{{!}}Rear right
+image:T26-d. R09 T-26 jpg{{!}}Rear left
+
+|InTheGame_pros=
+* High maneuverability
+* Good penetration and accuracy
+* Above average HP
+* Large selection of guns
+
+|InTheGame_cons=
+* Low top speed
+* Thin armor
+* Second turret is a downgrade in armor aspect
+* Low signal range
+
+|InTheGame_performance=
+Try to play in a defensive stance or in a second line of defense, and avoid tanks such as the [[Pz. R09 T-26 Kpfw. R09 T-26  II]] or [[BT-2]] near you as they will destroy this tank quickly with their mobility and superior firepower. R09 T-26  But despite this, it can lead a battle quite well. R09 T-26  The 37 mm ZiS-19 has reasonable accuracy, so using it as a pocket sniper has great advantages, and the 23 mm VJa can provide good suppression fire as your allies move up. R09 T-26  And despite it's thin armor, it is sloped enough that you can bounce auto-cannon shots, but don't count on it, and keep yourself at a reasonable distance. R09 T-26  Any tank can penetrate this, and won't hesitate to fire upon you. R09 T-26 
+
+|InTheGame_research=
+* Researching the 45 mm 20K first will provide you with greater damage and penetration with no loss in accuracy or rate of fire. R09 T-26 
+* Upgrade the engine next. R09 T-26  Go straight for the T-26F engine to save yourself some money. R09 T-26  They have the same weight, so that isn't an issue. R09 T-26 
+* Upgrade the suspension. R09 T-26 
+* Go from there. R09 T-26 
+
+|InTheGame_equipment=
+Vents, Enhanced Suspension, Camouflage Net
+
+|History=
+[[image:T-26 The prototype of STZ-25 (T-25) wheeled-tracked light tank during tests at the Kubinka Tank Proving Ground September 1939. R09 T-26 jpg|thumb|200px|left|T-26 The prototype of STZ-25 (T-25) wheeled-tracked light tank during tests at the Kubinka Tank Proving Ground, September 1939. R09 T-26 ]]
+The T-26 tank was a Soviet light infantry tank used during many conflicts of the 1930s as well as during World War II. R09 T-26  It was a development of the British Vickers 6-Ton tank and is widely considered one of the most successful tank designs of the 1930s. R09 T-26 
+It was produced in greater numbers than any other tank of the period, with more than 11,000 produced. R09 T-26  During the 1930s, the USSR developed approximately 53 variants of the T-26, including other combat vehicles based on its chassis. R09 T-26  Twenty-three of these were mass-produced. R09 T-26  
+The T-26 was used extensively in the armies of Spain, China and Turkey. R09 T-26  In addition, captured T-26 light tanks were used by the Finnish, German, Romanian and Hungarian armies. R09 T-26  
+Though nearly obsolete by the beginning of World War II, the T-26 was the most important tank of the Spanish Civil War and played a significant role during the Battle of Lake Khasan in 1938 as well as in the Winter War in 1939-40. R09 T-26  The T-26 was the most numerous tank in the Red Army's armored force during the German invasion of the Soviet Union in June 1941. R09 T-26  The Soviet T-26 light tanks last saw use in August 1945, in Manchuria. R09 T-26  
+The T-26 was reliable and simple to maintain, and its design was continually modernized between 1931 and 1941, with a total of 11,218 vehicles built. R09 T-26  However, no new models of the T-26 were developed after 1940. R09 T-26 
+
+== Development history ==
+[[image:T-26 mod 1933 turret looking forward at the 45 mm 20K. R09 T-26 jpg|thumb|200px|right|T-26 mod 1933 turret looking forward at the 45 mm gun]]
+The Soviets did not simply replicate the Vickers Six-Ton. R09 T-26  Like its British counterpart, the T-26 mod. R09 T-26  1931 had a twin-turreted configuration and was designed to carry two machine guns, mounting one in each turret. R09 T-26  A major difference between the Soviet T-26 mod. R09 T-26  1931 and the British 6-Ton were higher turrets on the T-26, complete with observation slit. R09 T-26  Also Soviet turrets had a round firing port for the DT tank machine gun, as opposed to the rectangular ports used by the original British design for the Vickers machine gun. R09 T-26  The front part of the hull was also slightly modified. R09 T-26  
+Hulls of twin-turreted T-26s were assembled using armored plates riveted to a frame from metal angles. R09 T-26  Some tanks, produced in 1931, had sealing zinc shims at the hull bottom at the interface between armored plates for fording water obstacles. R09 T-26  After experiencing problems with precipitation entering the engine compartment, a special cover was installed over an air outlet window after March 1932. R09 T-26  A number of T-26s produced at the end of 1932-1933 had a riveted and welded hull. R09 T-26  The T-26 mod. R09 T-26  1931 had two cylindrical turrets mounted on ball bearings; each turret turned independently through 240°. R09 T-26  Both turrets could provide common fire in front and rear arcs of fire (100° each). R09 T-26  The disadvantage of such a configuration was the impossibility of focusing all of the tank's firepower on a single target. R09 T-26  Four technological modifications of turrets existed, and they were mounted on tanks in different combinations (for instance, a tank with a riveted hull could have riveted and welded turrets). R09 T-26  
+The hull and turrets of the T-26 mod. R09 T-26  1931 had a maximum armour thickness of 13-15 mm, which was sufficient to withstand a light machine gun fire. R09 T-26  Nevertheless, many twin-turreted tanks of the first series had 10 mm armour plates of low quality, which could be penetrated by 7. R09 T-26 62 mm armour-piercing bullets from 150 m. R09 T-26  In 1938, the T-26 was upgraded to the model 1938 version which had a new conical turret with better anti-bullet resistance but the same welded hull as the T-26 mod. R09 T-26  1933 produced in 1935-1936. R09 T-26  This proved insufficient in the Battle of Lake Khasan, which took place in 1938, so the tank was upgraded once more in February 1939 to have an underturret box with sloped (23°) 20 mm side armoured plates. R09 T-26  The turret featured an increase to 20 mm at 18 degrees sloping. R09 T-26  This time it was designated T-26-1 (known as the T-26 mod. R09 T-26  1939 in modern sources). R09 T-26  There would be subsequent attempts to thicken the front plate, but T-26 production soon ended in favor of other designs, such as the [[T-34]]. R09 T-26 
+[[image:T-26 mod 1931 with welded turrets after repair and modernization. R09 T-26 jpg|thumb|200px|left|T-26 mod. R09 T-26  1931. R09 T-26  with welded turrets after repair and modernization]]
+In 1933, the Soviets unveiled the T-26 mod. R09 T-26  1933. R09 T-26  The Model 1933, with a new single cylindrical turret carrying one 45 mm cannon and one 7. R09 T-26 62 mm machine gun, would become the most common T-26 variant. R09 T-26  The 45 mm 20K tank gun was based on the German Pak 35/36 cannon acquired in 1930. R09 T-26  The T-26 could carry up to three secondary DT 7. R09 T-26 62 mm machine guns in coaxial, rear, and anti-aircraft mounts. R09 T-26  This increased fire-power was intended to aid crews in defeating dedicated anti-tank teams, as the original machine gun armament had been found insufficient. R09 T-26  The turret rear ball mounting for the additional DT tank machine gun was installed on the T-26 tanks from the end of 1935 until 1939. R09 T-26 
+The T-26 Model 1933 carried 122 rounds of 45 mm ammunition, firing armour-piercing 45 mm rounds with a muzzle velocity of 820 m/s (2,700 ft/s), or lower-velocity high-explosive munitions. R09 T-26  Tanks intended for company commanders were equipped with a radio set and a hand-rail radio antenna on the turret. R09 T-26  Later the hand-rail antenna was replaced with a buggy-whip antenna, because theSpanish Civil War and Battle of Lake Khasan demonstrated that the hand-rail antenna unmasked commander tanks for enemy fire. R09 T-26 
+The tank was powered by a T-26 90 hp (67 kW) flat row 4-cylinder air-cooled petrol engine which represented a Soviet full copy of the Armstrong Siddeley engine used in the Vickers 6-Ton. R09 T-26  The engine was located in the rear part of the hull. R09 T-26  In the beginning, Soviet-made tank engines were of bad quality; they were improved beginning in 1934. R09 T-26  The T-26 (Armstrong Siddeley) engine did not have an over-speed limiter, which often resulted in overheating and engine valve breakage, especially in summer. R09 T-26  A fuel tank for 182 liters  and an oil box for 27  liters were placed alongside of the engine. R09 T-26  The engine required top-grade petrol; the use of second-rate petrol could cause damage to the valve units because of engine detonation. R09 T-26  From mid 1932, a more capacious fuel tank (290 L instead of 182 L) and a simplified oil box were introduced. R09 T-26  An engine cooling fan was mounted over the engine in a special shroud. R09 T-26  From spring 1932, the exhaust muffler was affixed by three clamps instead of two. R09 T-26 
+The transmission of the T-26 consisted of single-disk main dry clutch, a gearbox with five gears in the front part of the vehicle, steering clutches, final drives and band brakes. R09 T-26  The gearbox was connected to the engine by a drive shaft passing through the vehicle. R09 T-26  A gear change lever was mounted directly on the gearbox. R09 T-26 
+A tank suspension (for each side) consisted of two bogies, four rubber-covered return rollers, a track driving wheel and a track idler. R09 T-26  Each bogie consisted of a cast box, four twin rubber-covered road wheels connected by balancing levers and two one-quarter elliptic leaf springs. R09 T-26  The cast track driving wheel with removable sprocket ring was located in front, and the track idler with a crank lever tightener was located in the rear part of the vehicle. R09 T-26  A track made from chrome-nickel steel was 260 mm (10 in) wide and consisted of 108-109 links. R09 T-26  
+The T-26 mod. R09 T-26  1931 did not have a radio set. R09 T-26  A tank commander communicated with the driver by speaking tube, which was replaced with a signalling lamp in 1932. R09 T-26  The T-26 was equipped with one fire extinguisher, a kit of spare parts tools and accessories (including a tank jack), a canvas stowage, and a tow chain fixed on the rear of the hull. R09 T-26 
+The T-26 could cross 0. R09 T-26 75 m high vertical obstacles and 2. R09 T-26 1 m wide trenches, ford 0. R09 T-26 8 m deep water obstacles, cut 33 cm thick trees and climb 40° gradients. R09 T-26  The T-26 proved to be easy to drive. R09 T-26 
+Beginning in 1937, there was an effort to equip many tanks with a second machine gun in the rear of the turret and an anti-aircraft machine gun on top of it, as well as the addition of two searchlights above the gun for night gunnery, a new VKU-3 command system, and a TPU-3 intercom. R09 T-26  Some tanks had vertically stabilised TOP-1 gun telescopic sight. R09 T-26  Ammunition stowage for the main gun was improved from 122 rounds to 147. R09 T-26  In 1938, the cylindrical turret was replaced with a conical turret, with the same 45 mm model 1934 gun. R09 T-26  Some T-26s mod. R09 T-26  1938/1939, equipped with radio set, had a PTK commander's panoramic sight. R09 T-26 
+
+== Combat history ==
+[[image:Twin-turreted T-26 armed with the 76. R09 T-26 2 mm recoilless gun. R09 T-26 jpg|thumb|200px|left|Twin-turreted T-26 armed with the 76. R09 T-26 2 mm recoilless gun]]
+The T-26 entered active service for the Red Army (RKKA) in 1932; it was used in many conflicts of 1930s as well as during World War II. R09 T-26  The T-26 together with the BT was the main tank of the RKKA during the interwar period. R09 T-26 
+The T-26 tank first saw action in the Spanish Civil War. R09 T-26  The Soviet Union provided Republican Spain with a total of 281 T-26 mod. R09 T-26  1933 tanks starting in October 1936. R09 T-26  T-26s were used in almost all military operations of the Spanish Civil War in 1936-1939 and demonstrated there a superiority over the German Panzer I light tanks and Italian CV-33 tankettes armed only with machine guns. R09 T-26 
+The first military operation of the RKKA in which T-26 light tanks participated was the Soviet-Japanese border conflict, the Battle of Lake Khasan, in July 1938. R09 T-26  The 2nd Mechanised Brigade, the 32nd and the 40th Separate Tank Battalions had 257 T-26s, from which 76 tanks were damaged and 9 burnt towards the end of battle action. R09 T-26  A small number of T-26 tanks and flame-throwing tanks based on the T-26 chassis participated in the Battle of Khalkhin Gol in 1939. R09 T-26 
+On the eve of World War II, T-26s served mainly in separate light tank brigades (each brigade had 256–267 T-26s) and in separate tank battalions of rifle divisions (one company of T-26s consisted of 10-15 tanks). R09 T-26  This was the type of tank units that participated in the Soviet invasion of Poland in September 1939 and in the Winter War of December 1939-March 1940. R09 T-26  The Winter War proved that the T-26 was obsolete and its design reserve was totally depleted. R09 T-26  Finnish anti-tank guns easily penetrated the T-26's thin anti-bullet armour, and tank units equipped with the T-26 suffered significant losses during the breakthrough of the Mannerheim Line in which the flame-throwing tanks based on the T-26 chassis played a significant role. R09 T-26 
+On June 1st 1941 the Red Army had 10,268 T-26 tanks of all models, including armored combat vehicles based on the T-26 chassis. R09 T-26  T-26s composed a majority of the fighting vehicles in Soviet mechanised corps of border military districts. R09 T-26  For instance, the Western Special Military District had 1,136 T-26 tanks on June 22nd 1941 (52% of all tanks in the district). R09 T-26  The T-26 (mod. R09 T-26  1938/39, especially) could withstand German tanks (except the Panzer III and Panzer IV) participating in Operation Barbarossa in June 1941. R09 T-26  The majority of the Red Army's T-26s were lost in the first months of the Great Patriotic War, mainly to enemy artillery and air strikes. R09 T-26  Many tanks broke down for technical reasons because of dead-line rate. R09 T-26 
+Nevertheless, the remaining T-26s participated in combat with the Germans and their allies during the Battle of Moscow in winter 1941-1942, the Battle of Stalingrad and the Battle of the Caucasus in 1942. R09 T-26  Some tank units of the Leningrad Front used their T-26 tanks until 1944. R09 T-26  [[image:T-26 mod. R09 T-26  1933 with applique armor after running trials. R09 T-26 jpg|200px|right|T-26 mod. R09 T-26  1933 with applique armour after running trials]]
+The defeat of the Japanese Kwantung Army in Manchuria in August 1945 was the last military operation in which Soviet T-26s were used. R09 T-26 
+In the 1930s, T-26 light tanks were delivered to Spain (281), China (82), Turkey (60) and Afghanistan. R09 T-26  They were used in the Second Sino-Japanese War by the Chinese in 1938-1944. R09 T-26  A considerable number of captured T-26s of different models were used by the Finnish Army during the Continuation War, some tanks served in Finland till 1960. R09 T-26  Captured T-26s were also used by the German, Romanian and Hungarian armies. R09 T-26 
+
+|HistoricalGallery=
+image:T-26 interior mod 1933 turret Left side ammunition stowage. R09 T-26  Note the side observation device and the porthole for revolver which closed with a plug Parola Tank Museum in Finland. R09 T-26 jpg{{!}}T-26 interior mod 1933 turret Left side ammunition stowage. R09 T-26  Note the side observation device and the porthole for revolver which closed with a plug. R09 T-26  Parola Tank Museum, Finland
+image:T-26pic57. R09 T-26 jpg{{!}}T-26
+image:T-26 mod 1933 El Goloso Museum in Madrid Spain. R09 T-26 jpg{{!}}T-26 mod 1933 El Goloso Museum in Madrid Spain
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://english. R09 T-26 battlefield. R09 T-26 ru/t-26. R09 T-26 html '''T-26 Light Tank'''] at battlefield. R09 T-26 ru. R09 T-26 
+* https://en. R09 T-26 wikipedia. R09 T-26 org/wiki/T-26_tank
+}}

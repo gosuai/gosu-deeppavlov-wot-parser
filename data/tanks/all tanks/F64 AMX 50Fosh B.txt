@@ -1,0 +1,170 @@
+6,100,000 Cost. 
+18501480 HP Hit Points. 
+56.18/59.5640.38/0 t Weight Limit. 
+10001000 hp Engine Power. 
+50/13 km/h Speed Limit. 
+3030 deg/s Traverse. 
+17.8Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+180/80/40 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+400/400/515400/400/515 HP Damage. 
+257/325/65257/325/65 mm Penetration. 
+r/m ▲ Autoloaded Gun Burst Length: 1 round Magazine Size: 6 rounds Cycle Time: 2 s Magazine Reload Times Nominal: 38 s 50% Crew: 47.07 s 75% Crew: 41.1 s 100% Crew: 36.44 s With Vents: 35.64 s With Vents and BiA: 34.86 s Click here for more information. r/m ▲ Autoloaded Gun Burst Length: 1 round Magazine Size: 6 rounds Cycle Time: 2 s Magazine Reload Times Nominal: 38 s 50% Crew: 47.07 s 75% Crew: 41.1 s 100% Crew: 36.44 s With Vents: 35.64 s With Vents and BiA: 34.86 s Click here for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Autoloaded Gun Using Shell Type 1 (400 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▼ Autoloaded Gun Using Shell Type 2 (400 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▲ Autoloaded Gun Using Shell Type 3 (515 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information.Expression error: Unexpected < operator. ▲ Autoloaded Gun Using Shell Type 1 (400 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▼ Autoloaded Gun Using Shell Type 2 (400 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▲ Autoloaded Gun Using Shell Type 3 (515 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.421 m With 75% Crew: 0.368 m With 100% Crew: 0.326 m With BiA: 0.319 m With BiA and Vents: 0.312 m Maximum possible: 0.299 m For more details, see Crew m ▲ With 50% Crew: 0.421 m With 75% Crew: 0.368 m With 100% Crew: 0.326 m With BiA: 0.319 m With BiA and Vents: 0.312 m Maximum possible: 0.299 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+2626 deg/s Gun Traverse Speed. 
+20° Gun Arc. 
+-6°/+18°-6°/+18° Elevation Arc. 
+7272 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+120 mm AC SA46. 
+257/325/65. 
+400/400/515. 
+7.5. 
+0.34. 
+2.3. 
+nan. 
+nan. 
+339000. 
+nan. 
+Saurer 1000. 
+nan. 
+0. 
+nan. 
+nan. 
+110000. 
+nan. 
+AMX 50 Foch B. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+82500. 
+X. 
+SCR 619. 
+750. 
+nan. 
+80. 
+54000. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank= AMX 50 Foch B
+
+| Replaced [[Tank:AMX_50Fosh_155|Foch 155]] in 9. F64 AMX 50Fosh B 20 patch, the '''AMX 50 Foch B''' is basically Foch 155 with rapid-fire autoloader gun. F64 AMX 50Fosh B  It sacrifice its alpha damage and penetration in favor of high burst damage, high DPM, and accuracy. F64 AMX 50Fosh B  resulting to insane damage per clip at 2400+, close to the monstrosity damage per clip of [[Tank:G98_Waffentrager_E100|Waffentrager E 100]]. F64 AMX 50Fosh B  It still suffers some of problems with Foch 155, however. F64 AMX 50Fosh B 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- High accuracy and shell velocity allow efficient sniping
+
+- Incredible 2,400 burst damage distributed among 6 shells with quick intra-clip reload and acceptable full clip reload time
+
+- Tough front armor, thick and sloped
+
+- Good top speed and respectable weight make potential rammer against medium or light tanks 
+
+- Shock factor like the previous [[Tank:G98_Waffentrager_E100|WT E 100]] due to clip potential, enemy tanks may panic upon sighting you
+
+|InTheGame_cons= 
+
+- 2nd worst alpha damage and worst penetration on both standard and premium ammunition of all Tier X TDs (excluding HE(SH) shell of British TDs)
+
+- Autoloader size combined with penetration and role means loading almost all APCR to do its job, which is extremely expensive even for Tier X
+
+- Long and weakly armored side armor, will not bounce unless shells hit at an auto-bounce angle
+
+- Rangerfinder can be easily penetrated by even Tier VIIs, and makes obvious target up close
+
+- Weak engine compartment roof, extremely vulnerable against artillery fire or tall facehuggers
+
+- Sluggish due to bad terrain resistance
+
+- Limited gun arc, -6/+18 degrees vertical and ±10 degrees horizontal
+
+
+|InTheGame_performance= 
+
+The Foch B is a slightly evolutionary upgrade of the Tier IX Foch with one big exception that makes all the difference. F64 AMX 50Fosh B  The autoloader magazine doubles in size from three shots to six. F64 AMX 50Fosh B  So while it is still a 120mm gun tank destroyer with obvious weakspots, staring it down is now a deadly proposition. F64 AMX 50Fosh B  
+
+After undergoing a considerable revamp in patch 9. F64 AMX 50Fosh B 20, the Tier X Foch received a 120mm gun and more powerful engine. F64 AMX 50Fosh B  In compare to its previous 155mm mounting configuration, the new Foch B can now relocate and snipe with ease, making a much better supporter. F64 AMX 50Fosh B  While losing in penetration and alpha damage, the new 6 rounder still possesses formidable if not stronger one-clipping capability, provided one knows to exploit weak spots. F64 AMX 50Fosh B  With 2 more shells in drum than other 120mm sporting autoloaders, the Foch B can choose to expend a shot or two de-tracking first, thus pinning down the target for easier kill. F64 AMX 50Fosh B  In terms of protection, thicker sides and fighting compartment roof are now proof against large caliber autopens, but still prone to flanking or plunging fire. F64 AMX 50Fosh B  
+
+{{VideoYT|kv899UQK-vI}}
+
+|InTheGame_research= 
+The AMX 50 Foch B comes elited, thus requires no research. F64 AMX 50Fosh B 
+
+|Gallery=
+N/A
+
+|InTheGame_equipment=
+
+Binocular Telescope, Enhanced Gun Laying Drive, Improved Ventilation Class 3
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+See the [[AMX50 Foch]] history page for a complete history on the Foch itself. F64 AMX 50Fosh B 
+
+The Foch B is essentially a "what-if" based on the AMX 50 Foch having a drum-based autoloader, similar to the AMX 50 heavy tanks. F64 AMX 50Fosh B  There are no known projects or blueprints that show such a design ever existed. F64 AMX 50Fosh B 
+
+|HistAcc=
+In-game description is false. F64 AMX 50Fosh B  The Foch was never designed to hold an autoloader even on blueprints. F64 AMX 50Fosh B  The historical version with the single-shot gun does not exist in World of Tanks. F64 AMX 50Fosh B 
+* There was never any Foch project designated "Foch B". F64 AMX 50Fosh B 
+* The tank is essentially a clone of the [[Tank:F37_AMX50_Foch|tier 9 AMX 50 Foch]] with almost identical specifications (gun, engine, radio) with the only difference at its extra sideskirt. F64 AMX 50Fosh B  Yet several stats were inconsistent to the original vehicle (such as the Foch B's suspension load limit is lower than original Foch, and extra ammunition capacity). F64 AMX 50Fosh B 
+|HistoricalGallery= 
+File:AMX_50_Foch_blueprint. F64 AMX 50Fosh B jpg{{!}}AMX 50 Foch armor layout
+File:AMX_50_Foch_blueprint_1. F64 AMX 50Fosh B jpg{{!}}The Foch's ammunition storage
+File:AMX_50_Foch_blueprint_2. F64 AMX 50Fosh B jpg{{!}}AMX 50 Foch interior blueprint
+image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH. F64 AMX 50Fosh B jpg
+image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH_1. F64 AMX 50Fosh B jpg
+image:Amx50foch058ln. F64 AMX 50Fosh B jpg
+image:Amx50foch037rz. F64 AMX 50Fosh B jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

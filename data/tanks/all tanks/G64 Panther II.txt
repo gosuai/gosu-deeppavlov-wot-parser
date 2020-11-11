@@ -1,0 +1,256 @@
+2,390,000 Cost. 
+14001120 HP Hit Points. 
+52.41/5328.2/0 t Weight Limit. 
+650650 hp Engine Power. 
+55/20 km/h Speed Limit. 
+3232 deg/s Traverse. 
+12.4Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+100/60/40 mm Hull Armor. 
+120/60/60// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+109/2800/98 252/4400/252 Shell Cost. 
+135/135/175135/135/175 HP Damage. 
+150/194/38150/194/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 4 s 50% Crew: 4.96 s 75% Crew: 4.33 s 100% Crew: 3.84 s Rammer: 3.46 s Vents: 3.76 s Both: 3.38 s Both and BiA: 3.31 s Both and Max Crew %: 3.17 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 4 s 50% Crew: 4.96 s 75% Crew: 4.33 s 100% Crew: 3.84 s Rammer: 3.46 s Vents: 3.76 s Both: 3.38 s Both and BiA: 3.31 s Both and Max Crew %: 3.17 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (135 Damage):  Theoretical Damage Per Minute Nominal DPM: 1772.55 50% Crew: 1431 75% Crew: 1638.9 100% Crew: 1848.15 100% Crew Vents: 1890 Rammer: 2053.35 Both: 2099.25 Both and BiA: 2146.5 Both and Max Crew %: 2239.65 Advantageous Damage Per Minute First-shot DPM: 1907.55 50% Crew: 1566 75% Crew: 1773.9 100% Crew: 1983.15 100% Crew Rammer: 2188.35 Vents: 2025 Both: 2234.25 Both and BiA: 2281.5 Both and Max Crew %: 2374.65 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (135 Damage):  Theoretical Damage Per Minute Nominal DPM: 1772.55 50% Crew: 1431 75% Crew: 1638.9 100% Crew: 1848.15 100% Crew Vents: 1890 Rammer: 2053.35 Both: 2099.25 Both and BiA: 2146.5 Both and Max Crew %: 2239.65 Advantageous Damage Per Minute First-shot DPM: 1907.55 50% Crew: 1566 75% Crew: 1773.9 100% Crew: 1983.15 100% Crew Rammer: 2188.35 Vents: 2025 Both: 2234.25 Both and BiA: 2281.5 Both and Max Crew %: 2374.65 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2297.75 50% Crew: 1855 75% Crew: 2124.5 100% Crew: 2395.75 100% Crew Vents: 2450 Rammer: 2661.75 Both: 2721.25 Both and BiA: 2782.5 Both and Max Crew %: 2903.25 Advantageous Damage Per Minute First-shot DPM: 2472.75 50% Crew: 2030 75% Crew: 2299.5 100% Crew: 2570.75 100% Crew Rammer: 2836.75 Vents: 2625 Both: 2896.25 Both and BiA: 2957.5 Both and Max Crew %: 3078.25 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (135 Damage):  Theoretical Damage Per Minute Nominal DPM: 1042.2 50% Crew: 841.05 75% Crew: 963.9 100% Crew: 1086.75 100% Crew Vents: 1111.05 Rammer: 1206.9 Both: 1235.25 Both and BiA: 1262.25 Both and Max Crew %: 1316.25 Advantageous Damage Per Minute First-shot DPM: 1177.2 50% Crew: 976.05 75% Crew: 1098.9 100% Crew: 1221.75 100% Crew Rammer: 1341.9 Vents: 1246.05 Both: 1370.25 Both and BiA: 1397.25 Both and Max Crew %: 1451.25 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (135 Damage):  Theoretical Damage Per Minute Nominal DPM: 1042.2 50% Crew: 841.05 75% Crew: 963.9 100% Crew: 1086.75 100% Crew Vents: 1111.05 Rammer: 1206.9 Both: 1235.25 Both and BiA: 1262.25 Both and Max Crew %: 1316.25 Advantageous Damage Per Minute First-shot DPM: 1177.2 50% Crew: 976.05 75% Crew: 1098.9 100% Crew: 1221.75 100% Crew Rammer: 1341.9 Vents: 1246.05 Both: 1370.25 Both and BiA: 1397.25 Both and Max Crew %: 1451.25 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1351 50% Crew: 1090.25 75% Crew: 1249.5 100% Crew: 1408.75 100% Crew Vents: 1440.25 Rammer: 1564.5 Both: 1601.25 Both and BiA: 1636.25 Both and Max Crew %: 1706.25 Advantageous Damage Per Minute First-shot DPM: 1526 50% Crew: 1265.25 75% Crew: 1424.5 100% Crew: 1583.75 100% Crew Rammer: 1739.5 Vents: 1615.25 Both: 1776.25 Both and BiA: 1811.25 Both and Max Crew %: 1881.25 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+3030 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+20°-8°/+20° Elevation Arc. 
+9595 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 250.2 m With 75% Crew: 286.6 m With 100% Crew: 323.3 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 465.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+VI. 
+7,5 cm Kw.K. 42 L/70. 
+150/194/38. 
+135/135/175. 
+15.79. 
+0.35. 
+2.1. 
+nan. 
+1740.0. 
+53000. 
+V. 
+10,5 cm Kw.K. L/28. 
+64/104/53. 
+350/350/410. 
+7.89. 
+0.55. 
+2.1. 
+nan. 
+2100.0. 
+28000. 
+VIII. 
+8,8 cm Kw.K. 43 L/71. 
+203/237/44. 
+240/240/295. 
+8.22. 
+0.34. 
+2.7. 
+nan. 
+2562.0. 
+112180. 
+nan. 
+7,5 cm Kw.K. L/100. 
+198/244/38. 
+135/135/175. 
+14.29. 
+0.32. 
+2.1. 
+nan. 
+nan. 
+128570. 
+nan. 
+8,8 cm Kw.K. L/100. 
+223/261/38. 
+240/240/175. 
+7.5. 
+0.3. 
+2.2. 
+nan. 
+nan. 
+174550. 
+nan. 
+Turm-Panther (schmale Blende). 
+//. 
+30. 
+380. 
+nan. 
+nan. 
+22100. 
+nan. 
+Panther II Schmalturm. 
+//. 
+30. 
+390. 
+nan. 
+nan. 
+28550. 
+nan. 
+Maybach HL 210 TRM P30. 
+nan. 
+0. 
+nan. 
+nan. 
+35500. 
+nan. 
+Maybach HL 230 TRM P30. 
+nan. 
+0. 
+nan. 
+nan. 
+54000. 
+nan. 
+Panther II. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+17400. 
+nan. 
+Panther II verstärkteketten. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+30350. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+IX. 
+FuG 12. 
+710. 
+nan. 
+150. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank=Panther_II
+|A step-up in the world from the [[Pz. G64 Panther II Kpfw. G64 Panther II  V Panther]], it is best to understand you are still in the same role. G64 Panther II  While being more powerful and maneuverable than the [[Pz. G64 Panther II Kpfw. G64 Panther II  V Panther]], a [[M26 Pershing]] will definitely beat you in a close-quarters fight. G64 Panther II  Knowing this, it is best to take advantage of your long-range accuracy and stay just behind, or alongside, your team's [[Heavy Tanks|heavies]] to avoid close-quarters combat. G64 Panther II  The Panther II has a higher profile than its counterparts, the [[M26 Pershing]] and the [[T-44]], which means you are easier to spot, so position yourself on the battlefield very carefully. G64 Panther II  The Panther II is like a [[Pz. G64 Panther II Kpfw. G64 Panther II  VI Tiger]] but one Tier higher and more mobile. G64 Panther II 
+
+|Gallery=
+image:Panther II front view 1. G64 Panther II jpg {{!}}Panther II front left view
+image:Panther II front view 2. G64 Panther II jpg‎{{!}}Panther II front right view
+image:Panther II back view 1. G64 Panther II jpg‎{{!}}Panther II back left view
+image:Panther II back view 2. G64 Panther II jpg‎{{!}}Panther II back right view
+
+|Sidebar_Camostop=9. G64 Panther II 70
+|Sidebar_Camomove=7. G64 Panther II 10
+|Sidebar_Camofire=2. G64 Panther II 30
+|Sidebar_Passhard=0. G64 Panther II 767
+|Sidebar_Passmed=0. G64 Panther II 959
+|Sidebar_Passsoft=2. G64 Panther II 104
+|Sidebar_DispTurret=0. G64 Panther II 096
+|Sidebar_DispRecoil=3. G64 Panther II 356
+|Sidebar_DispAccel=0. G64 Panther II 153
+|Sidebar_DispTurning=0. G64 Panther II 153
+
+|InTheGame_pros=
+* Excellent accuracy and penetration with the 8. G64 Panther II 8cm/L100 top gun
+* Good top speed
+* Very good at ramming lighter, less armored tanks
+* Large healthpool for its class
+
+|InTheGame_cons=
+* Clumsy due to size and slow traverse, can get easily flanked
+* Atrocious power to weight ratio will leave you struggling to get into position quickly
+* Large silhouette for a medium, very poor camouflage and difficult to hide
+* Insufficient armor will only ever bounce poorly aimed or lower tier shots
+
+|InTheGame_performance=
+The Panther II is a solid and capable tank in the right hands; understanding its strengths and weaknesses are the key to sucess. G64 Panther II   The Panther II isn't a brawler. G64 Panther II   It lacks both the speed and the agility to do so with any large amount of success. G64 Panther II   However,  it can be a very successful flanker, so long as you pick and choose your targets. G64 Panther II   Sniping is always preferential in the Panther II over direct engagement, but don't discount scrapping entirely; the Panther II can take some decent hits, but only risk it if you have support. G64 Panther II   The Panther II works best in a pack, just like any other medium. G64 Panther II   Going out on your own will often result in finding yourself a smoldering wreck. G64 Panther II 
+
+If possible, try only to expose your turret to the enemy. G64 Panther II  Like most German tanks, the lower glacis plate is a large weakness, one which smart opponents will exploit readily if given the chance. G64 Panther II  Shots through the lower glacis will often find your engine broken. G64 Panther II  It may also be difficult playing the vehicle on slopes as its gun depression is lacking. G64 Panther II 
+
+Must-have equipment for this tank are the Tank Gun Rammer and the Vertical Stabilizer to reduce reload time and drastically improve gun performance. G64 Panther II  The third equipment choice is preferential; a Gun Laying Drive will reduce aim time when stopped and help snipe more quickly, Coated Optics increase view range by 10% constantly, and Binocular Telescopes will help spot even camouflaged tanks very well, but only when the tank is stationary. G64 Panther II  Play style will determine which of these is the best for you. G64 Panther II 
+
+Although frowned upon, the Panther II, unlike its predecessor, ''can'' play a role similar to a brawling heavy, but in a way that sets it apart from almost any other tank in the game. G64 Panther II  Use the good penetration of the Panther IIs top gun to your advantage by assassinating unwary heavily damaged opponents; heavies, mediums, whatever class they may be. G64 Panther II  Learning the weak spots of tanks and where your gun can penetrate their armor will only enhance this ability. G64 Panther II  Equipping a Tank gun Rammer and Enhanced Gun Laying drive further increases the Late-game danger this tank becomes. G64 Panther II  The Panther II and those that follow it can become extremely dangerous late-game tanks in the right hands. G64 Panther II  With an elite crew, this tank can spot farther, turn and aim faster, and with its high DPM out-gun almost any other tank in its classes tier. G64 Panther II  In essence, this tank can deceptively turn into a "Medium-Heavy" late-game in urban areas in particular. G64 Panther II  Pick off badly injured tanks, weave about through streets and alleys, use plenty of cover and outsmart your foes, keep on the lookout for newly spotted targets and eliminate them as quickly as you can and you will find yourself able to completely turn, if not help turn the tide of a battle. G64 Panther II  This sort of play is very viable in tier 8 and 9 matches, but it is best you become acquainted with your Panther IIs capabilities before attempting such a feat, and is especially not advised if you have already taken severe damage. G64 Panther II 
+
+The introduction of the 8. G64 Panther II 8cm L/100 gun would seem to rule out the 8. G64 Panther II 8cm L/71 as the gun of choice. G64 Panther II  However the latter gun, while lacking the penetration of the L/100, offers better DPM and rate of fire. G64 Panther II  Players who have come to rely on the Panther II's brawling potential will still find the L/71 competitive. G64 Panther II . G64 Panther II . G64 Panther II . G64 Panther II  provided a number of gold rounds are in tow. G64 Panther II  
+
+*NOTE: As of Patch 1. G64 Panther II 10. G64 Panther II 1, the Panther II has been buffed when using the top gun, the 8. G64 Panther II 8cm L/100. G64 Panther II  Previously it heavily lacked DPM, but now the alpha has been increased from 240/240/295 to 280/280/370. G64 Panther II  The Rate of Fire was not reduced between patches, so as the L/100 has higher DPM, accuracy, damage per shot, and penetration, so there is no longer a reason to use the L/71 over the L/100. G64 Panther II 
+
+|InTheGame_research=
+The first thing to upgrade is the suspension, so that you can then research and mount the L/71 or L/100 once the turret is researched. G64 Panther II  Which gives extra view range and armor and gives more improvement than the suspension. G64 Panther II  The engine does not give a very large improvement to this heavy medium, so research this last. G64 Panther II 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, GLD, Binocular Telescope, Coated Optics
+
+
+|History=
+The early impetus for upgrading the Panther came from the concern of Hitler and others that it lacked sufficient armor. G64 Panther II  Hitler had already insisted on an increase in its armor once, early in its design process in 1942. G64 Panther II  Discussions involving Hitler in January of 1943 called for further increases in armor, resulting in the tank initially referred to as the Panther 2 (it became the Panther II after April 1943). G64 Panther II  This upgrade increased the glacis plate to 100 mm (3. G64 Panther II 9 in), the side armor to 60 mm (2. G64 Panther II 4 in), and the top armor to 30 mm (1. G64 Panther II 2 in). G64 Panther II  The weapon was to remain the 75mm KwK 42 L/70. G64 Panther II  Production of the Panther 2 was slated to begin in September 1943. G64 Panther II 
+
+
+In a meeting on February 10, 1943, further design changes were proposed, including changes to the steering gears and final drives. G64 Panther II  Another meeting on February 17, 1943 focused on sharing and standardizing parts between the Tiger II tank and the Panther 2, such as the transmission, all-steel roadwheels, and running gear. G64 Panther II  No plans were made to include the 8. G64 Panther II 8 cm L/71 as the turret diameter was too small. G64 Panther II  In March 1943, MAN indicated that the first prototype would be completed by August 1943. G64 Panther II  A number of engines were under consideration, among them the new Maybach HL 234 fuel-injected engine (900 hp operated by an 8-speed hydraulic transmission). G64 Panther II 
+
+
+Thus, plans to replace the original Panther design with the Panther II were already underway before the first Panther had even seen combat. G64 Panther II  But, from May to June 1943, work on the Panther II ceased, as the focus was shifted to expanding production of the original Panther tank. G64 Panther II  It is not clear if there was ever an official cancellation; this may have been because the Panther II upgrade path was originally started at Hitler's insistence. G64 Panther II  The direction that the design was headed would not have been consistent with Germany's need for a mass-produced tank, which was the goal of the Reich Ministry of Armament and War Production. G64 Panther II   Additionally, many of the problems the Panther II was made to address had been resolved, such as the weak side armor. G64 Panther II 
+
+
+One Panther II chassis was completed and eventually captured by the U. G64 Panther II S. G64 Panther II  It is now on display at the Patton Museum in Fort Knox. G64 Panther II  The turret from a Panther (I) Ausf G is mounted on this chassis. G64 Panther II 
+
+
+|HistAcc=
+* The Panther II was designed for a MAN LD 220 engine with 750 hp or a HL 234 Maybach engine with 900 hp. G64 Panther II 
+* The top Schmalturm turret was developed only after the Panther II project was cancelled. G64 Panther II  Its planned and only turret is its stock one. G64 Panther II 
+* The Panther II was only ever intended to have the 75mm KwK 42 L/70. G64 Panther II 
+
+
+|HistoricalGallery=
+image:Panther_II. G64 Panther II Fort_Knox. G64 Panther II jpg‎{{!}}The only remaining Panther II, located in Ft. G64 Panther II  Knox. G64 Panther II   A Panther I Ausf G turret was mounted by the US army. G64 Panther II 
+File:Panther_II_sketch. G64 Panther II png{{!}}Sketch of the Panther II along with its planned turret
+
+|Ref_references=
+* Panzerkampwagen Panther II and Panther Ausf. G64 Panther II F (Panzer Tracts, # 5-4) by Thomas Jentz
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. G64 Panther II wikipedia. G64 Panther II org/wiki/Panther_tank#Panther_II
+
+}}

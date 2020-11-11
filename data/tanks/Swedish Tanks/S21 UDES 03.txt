@@ -1,0 +1,280 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery. 
+2,620,000 Cost. 
+10001000 HP Hit Points. 
+20.04/2120.59/24 t Weight Limit. 
+500550 hp Engine Power. 
+70/50 km/h Speed Limit. 
+2628 deg/s Traverse. 
+24.9526.71 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+20/20/20 mm Hull Armor. 
+AP/HEAT/HE APCR/APCR/HE Shells. 
+390/4400/210 1160/4800/810 Shell Cost. 
+240/240/320390/390/480 HP Damage. 
+210/250/45288/330/53 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 7.1 s 50% Crew: 9.04 s 75% Crew: 7.95 s 100% Crew: 7.1 s Rammer: 6.39 s Vents: 6.94 s Both: 6.24 s Both and BiA: 6.13 s Both and Max Crew %: 5.87 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 11.7 s 50% Crew: 14.89 s 75% Crew: 13.1 s 100% Crew: 11.7 s Rammer: 10.53 s Vents: 11.43 s Both: 10.29 s Both and BiA: 10.1 s Both and Max Crew %: 9.68 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 2028 50% Crew: 1593.6 75% Crew: 1812 100% Crew: 2028 100% Crew Vents: 2076 Rammer: 2253.6 Both: 2306.4 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2268 50% Crew: 1833.6 75% Crew: 2052 100% Crew: 2268 100% Crew Rammer: 2493.6 Vents: 2316 Both: 2546.4 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 2028 50% Crew: 1593.6 75% Crew: 1812 100% Crew: 2028 100% Crew Vents: 2076 Rammer: 2253.6 Both: 2306.4 Both and BiA: 2349.6 Both and Max Crew %: 2450.4 Advantageous Damage Per Minute First-shot DPM: 2268 50% Crew: 1833.6 75% Crew: 2052 100% Crew: 2268 100% Crew Rammer: 2493.6 Vents: 2316 Both: 2546.4 Both and BiA: 2589.6 Both and Max Crew %: 2690.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2704 50% Crew: 2124.8 75% Crew: 2416 100% Crew: 2704 100% Crew Vents: 2768 Rammer: 3004.8 Both: 3075.2 Both and BiA: 3132.8 Both and Max Crew %: 3267.2 Advantageous Damage Per Minute First-shot DPM: 3024 50% Crew: 2444.8 75% Crew: 2736 100% Crew: 3024 100% Crew Rammer: 3324.8 Vents: 3088 Both: 3395.2 Both and BiA: 3452.8 Both and Max Crew %: 3587.2 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 2000.7 50% Crew: 1571.7 75% Crew: 1786.2 100% Crew: 2000.7 100% Crew Vents: 2047.5 Rammer: 2223 Both: 2273.7 Both and BiA: 2316.6 Both and Max Crew %: 2418 Advantageous Damage Per Minute First-shot DPM: 2390.7 50% Crew: 1961.7 75% Crew: 2176.2 100% Crew: 2390.7 100% Crew Rammer: 2613 Vents: 2437.5 Both: 2663.7 Both and BiA: 2706.6 Both and Max Crew %: 2808 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 2000.7 50% Crew: 1571.7 75% Crew: 1786.2 100% Crew: 2000.7 100% Crew Vents: 2047.5 Rammer: 2223 Both: 2273.7 Both and BiA: 2316.6 Both and Max Crew %: 2418 Advantageous Damage Per Minute First-shot DPM: 2390.7 50% Crew: 1961.7 75% Crew: 2176.2 100% Crew: 2390.7 100% Crew Rammer: 2613 Vents: 2437.5 Both: 2663.7 Both and BiA: 2706.6 Both and Max Crew %: 2808 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (480 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2462.4 50% Crew: 1934.4 75% Crew: 2198.4 100% Crew: 2462.4 100% Crew Vents: 2520 Rammer: 2736 Both: 2798.4 Both and BiA: 2851.2 Both and Max Crew %: 2976 Advantageous Damage Per Minute First-shot DPM: 2942.4 50% Crew: 2414.4 75% Crew: 2678.4 100% Crew: 2942.4 100% Crew Rammer: 3216 Vents: 3000 Both: 3278.4 Both and BiA: 3331.2 Both and Max Crew %: 3456 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.445 m With 75% Crew: 0.392 m With 100% Crew: 0.35 m With BiA: 0.342 m With BiA and Vents: 0.336 m Maximum possible: 0.322 m For more details, see Crew m ▲ With 50% Crew: 0.445 m With 75% Crew: 0.392 m With 100% Crew: 0.35 m With BiA: 0.342 m With BiA and Vents: 0.336 m Maximum possible: 0.322 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.818 s With 75% Crew: 3.36 s With 100% Crew: 3 s With GLD: 2.727 s With BiA: 2.931 s With BiA and Vents: 2.877 s With both and GLD: 2.615 s Maximum possible: 2.507 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.818 s With 75% Crew: 3.36 s With 100% Crew: 3 s With GLD: 2.727 s With BiA: 2.931 s With BiA and Vents: 2.877 s With both and GLD: 2.615 s Maximum possible: 2.507 s For more details, see Crew or Equipment Aim time. 
+1616 deg/s Gun Traverse Speed. 
+4° Gun Arc. 
+-0°/+20°-0°/+20° Elevation Arc. 
+4840 rounds Ammo Capacity. 
+1210 % Chance of Fire. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 496.5 m With 75% Crew: 568.6 m With 100% Crew: 641.4 m With 100% Signal Boost: 738 m When affected by 100% Relaying: 676.5 m Maximum possible: 923.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 686.2 m With 75% Crew: 785.8 m With 100% Crew: 886.5 m With 100% Signal Boost: 1020 m When affected by 100% Relaying: 935 m Maximum possible: 1276 m For more details, see Skills or Equipment Signal Range. 
+VIII. 
+9 cm kan m/F. 
+210/250/45. 
+240/240/320. 
+8.45. 
+0.35. 
+3. 
+nan. 
+1030. 
+124000. 
+IX. 
+10,5 cm kan UDES 03. 
+288/330/53. 
+390/390/480. 
+5.13. 
+0.35. 
+3. 
+nan. 
+1670. 
+230000. 
+VIII. 
+Saab-Scania DS14. 
+500. 
+12. 
+nan. 
+1230. 
+42500. 
+VIII. 
+Leyland L60. 
+550. 
+10. 
+nan. 
+1400. 
+52000. 
+VII. 
+Projekt 2013A. 
+21. 
+26. 
+0. 
+nan. 
+6000. 
+18000. 
+VIII. 
+UDES 03. 
+24. 
+28. 
+0. 
+nan. 
+6000. 
+35900. 
+IX. 
+Ra 400. 
+710. 
+nan. 
+45. 
+44200. 
+X. 
+Ra 421. 
+850. 
+nan. 
+27. 
+57200. 
+IX. 
+Ra 146. 
+615. 
+nan. 
+12. 
+33600. 
+Light Tanks. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Medium Tanks. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Heavy Tanks. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Tank Destroyers. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank= 
+|The '''UDES 03''' is the first of the Swedish tank destroyers that features hydraulic suspension, where one can switch between two modes -- Travel Mode, which offers great mobility but sacrifices gun handling, and Siege Mode, that offers great gun handling in exchange for mobility. S21 UDES 03 
+
+The UDES was nicknamed "Mountain Goat" for its ability to climb over rough hills and some hard terrain that is normally rarely accessible with other tanks. S21 UDES 03   Some might use its advantage by sniping on high hills (hills on the northern side of the Redshire map for example) that provide great terrain protection and a sniping spot for this vehicle. S21 UDES 03 
+
+Unfortunately the UDES is fairly hard to maneuver. S21 UDES 03   Its heavily sloped armour can easily be overmatched by 61mm+ caliber guns. S21 UDES 03   Combined with its absolutely horrible mobility in siege mode, this won't help you deal with flankers and also makes the UDES a priority target for SPG's. S21 UDES 03 
+
+To shine in the UDES 03 players must know when and where they will position. S21 UDES 03   Use your great mobility in travel mode to relocate yourself from enemies when you feel unsafe and use your great gun handling in siege mode to destroy enemy tanks. S21 UDES 03 
+
+|Gallery= 
+
+|InTheGame_pros= 
+- Great gun handling (while in Siege Mode), loses only about 10mm of penetration even at 500m range
+
+- Amazing gun elevation and depression in Siege Mode
+
+- Best camouflage value in Tier V+ -- can reach up to 70% while stationary, and great camouflage when moving (can reach to more than 30%, which is even better than some Tier VIII light tanks)
+
+- Upgraded gun has highest penetration standard rounds at Tier VIII (even at Tier IX) and 1450m/s shell velocity, making it easy to hit targets at long range
+
+- Very high top forward and reversing speeds, great power to weight ratio and maneuverability in Travel Mode
+
+- Low terrain resistances combined with great mobility allow this vehicle to climb some rough terrain (including some areas that cannot be accessed with other vehicles) with ease
+
+- The tank can stand up on its tracks, thanks to the gun elevation and hull depression. S21 UDES 03   This allows shooting above small walls and cover. S21 UDES 03   (see 'Performance' below on how to do this)
+
+|InTheGame_cons= <br />
+- Prone to engine damage with hits to the front-mounted engine, which leads to frequent fires and lengthens transition time in and out of Siege Mode<br />
+
+- It rotates much more slowly when in Siege Mode than the Strv S1 (due to the traverse speed while not moving)<br />
+ 
+- It has the second-lowest HP pool for non-SPG vehicles in the same tier (1000) and is very vulnerable against high-caliber guns and SPG's, especially in Siege Mode
+
+- Mobility in Siege Mode is terrible -- 5km/h both forwards and backwards -- and makes it very vulnerable in close range combat
+
+- It will nearly always be penetrated because of the overmatch (HE doesn't apply so arty can't overmatch) rules (>61mm) comparing to the premium Strv S1 (>120mm) -- that's ''(all but 59-16, MT-25 and Setter stock guns and artillery)'' the T6 to T10 guns!  Highly vulnerable to HE rounds
+
+- Lack of gun depression in Travel Mode
+
+- Mediocre aiming time (3 seconds) when outside Siege Mode
+
+- Low ammo capacity (48 rounds for stock gun and 40 rounds for top gun)
+
+- No horizontal gun arc makes it hard to hit mobile targets (because it must move all the time and loses accuracy); can't shoot mobile targets if tracks get destroyed
+
+- Despite having high nominal penetration your shots will bounce a lot when shooting (sometimes even slightly) angled armor at Tiers VIII-X, due to APCR rounds having lower normalization than AP. S21 UDES 03   Shoot flat sections whenever possible or you will get frustrated at times
+
+- Low hull traverse rate at stock
+
+|InTheGame_performance= This tank, along with the 103-0 and 103B, are the main true sniper tanks. S21 UDES 03   Use Travel Mode to get to a good spot and set up Siege in a bush. S21 UDES 03   As long as you don't get spotted, dealing 3-5k damage in a game is easy (as top tier). S21 UDES 03  
+
+Tip to use low cover effectively: Hide behind cover, activate siege, aim low (that raises your butt) and then straight. S21 UDES 03   That raises your gun above cover so that you can fire. S21 UDES 03   Undo Siege to lower your whole tank to get back under cover. S21 UDES 03   Repeat. S21 UDES 03 
+
+|InTheGame_research= 
+- '''Tracks''': The basic chassis allows you to install the "top" gun, but it will have to be delayed with the installation of a new engine and improved radio due to the increase in the mass of new modules
+
+- '''The gun''': The "top" gun 10,5cm kan UDES 03 has excellent penetration with a base projectile of 288mm, a nice damage per shot of 390 and slightly lower DPM compared to the 9cm kan m/F
+
+- '''The engine''': The "top" engine will give 50 h. S21 UDES 03 p. S21 UDES 03  and decrease the chance of a fire by 2%, however it will slightly increase the weight of the machine itself, which is critical when using the "stock" tracks
+
+- '''Radio''': The Ra 400 "walk-through" radio will give 710 meters of communication range. S21 UDES 03   The Ra 450 radio gives 850 meters range. S21 UDES 03 
+
+|InTheGame_equipment= Medium-Caliber Tank Gun Rammer, Camouflage Net, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+BACKGROUND
+In the early 70s, the Swedish army was granted 1,8 million kronor (8 million USD) for the development of a light AFV family during the 1971-1975 period. S21 UDES 03  As part of this project, the army set up a number of research groups. S21 UDES 03  The most important of these were UDES, which was based at the Defense Materiel Administration (FMV), and headed by Sven Berge (the engineer behind the S-tank concept). S21 UDES 03 
+
+The role of UDES was to gather, process and coordinate information regarding armored fighting vehicles. S21 UDES 03  Which would serve as a technological-economical overview in that field. S21 UDES 03  In practice the UDES group would develop and catalogue different conceptual alternatives for new Tanks, TD’s and APC’s. S21 UDES 03  The funding behind the project was only half of what the army deemed necessary. S21 UDES 03  Because of this FMV decided to outsource parts of the development to Bofors and Hägglunds, which were experienced with AFV development. S21 UDES 03 
+
+HISTORY AND DEVELOPMENT
+
+Initial studies focused on the development of a cheap tank in the 20 ton range that would be able to use interchangeable parts in the planned light vehicle family. S21 UDES 03  To keep costs down, a large extent of the components used had to be existing and commercially available. S21 UDES 03  A power to weight ratio of 30hp/t and a crew of two (later three) men was also a major requirement. S21 UDES 03  Later on, these requirements would lead to three different lines of development including Turretless, Conventional and Remote turret vehicles. S21 UDES 03 
+
+
+OBJEKT 2013 A
+
+[[File:Objekt_2013A_blueprints. S21 UDES 03 jpg]]
+
+The first of these to be examined was a light turretless vehicle that had already been in development since 1970 under the name Objekt 2013 A. S21 UDES 03  The vehicle was essentially a miniaturized Strv 103 but with one major difference, a gun capable of elevating and depressing independently of the hull. S21 UDES 03  Its main advantage over a fixed gun design was easier movement in terrain and that it was possible to stabilize the main gun. S21 UDES 03  The Vehicle was re-designated UDES 03 as per the naming conventions of the UDES research group. S21 UDES 03 
+
+ 
+
+PBV 302 BASED TEST RIG
+
+[[File:PBV_302_Based_Test_Rig. S21 UDES 03 jpg]]
+
+To test the concept, a wood mock up was fitted to the side of a Pbv 302 APC in early 1971. S21 UDES 03  During the tests it was uncovered that the gun would block the field of view when elevated along with other potential problems. S21 UDES 03  Still the results proved that the concept was viable and a order was made for two test rigs. S21 UDES 03  Bofors would handle the construction and testing of a “shooting rig” for testing the main armament, and Hägglunds would do the same for a mobility test rig. S21 UDES 03 
+
+ 
+
+SHOOTING RIG
+
+[[File:UDES_Shooting_Rig. S21 UDES 03 jpg]]
+
+In 1973, both test rigs were finished and readied for testing. S21 UDES 03  These prototypes made use of parts from the Pbv 302, such as the tracks and roadwheels although they were later refitted with more durable roadwheels. S21 UDES 03  The shooting rig was externally powered by a electric powerplant and was armed with a cut down 105mm gun for testing. S21 UDES 03  The tests found several faults with the design. S21 UDES 03  The vehicle would regularly throw its tracks when aiming and tracking a target was almost impossible unless on hard terrain due to faults with the suspension. S21 UDES 03 
+
+ 
+
+MOBILITY RIG
+
+[[File:UDES_Mobility_Rig. S21 UDES 03 jpg]]
+
+Comparatively the mobility rig was a more complete vehicle. S21 UDES 03  Unlike the other test rig it was powered by a internal diesel engine. S21 UDES 03  One of its stranger design elements was the exhaust which vented underneath the vehicle which was done to reduce the infrared signature. S21 UDES 03  This 12 ton vehicle was used to test the terrain passability under different conditions. S21 UDES 03 
+
+ 
+
+BOFORS PROPOSALS
+
+[[File:Bofors_UDES_proposals. S21 UDES 03 jpg]]
+
+Based on the requirements set by UDES and data gained from the trials Bofors and Hägglunds, a number of proposals for both alternative developments and improvements to the vehicles were submitted. S21 UDES 03 
+
+ 
+
+HÄGGLUNDS PROPOSALS
+
+[[File:Hagglunds_proposals_UDES. S21 UDES 03 jpg]]
+
+In may 1973, during one of the UDES group meetings it was suggested that a turreted alternative to the UDES 03 should be considered. S21 UDES 03  The turreted design would have to be in the same price and weight range as the UDES 03 and use the same main armament. S21 UDES 03  This turreted light tank would be called UDES 14. S21 UDES 03  This would a shift focus away from the UDES 03 and its development was largely discontinued after 1973 in favor of turreted and later remote turret alternatives. S21 UDES 03 
+
+LEGACY
+Although the development of the UDES 03 was discontinued the experience gained from its test rigs would be used in the development of the CV90 armored fighting vehicle and the Strv 2000 project. S21 UDES 03  The fate of the shooting rig is unknown, however the mobility test rig was last seen in the 1990s rotting away at a military scrapyard. S21 UDES 03 
+
+MOBILITY RIG WRECK
+
+[[File:UDES_Wreck. S21 UDES 03 jpeg]]
+
+Further readings on the UDES 14:
+1. S21 UDES 03  https://ritastatusreport. S21 UDES 03 blogspot. S21 UDES 03 se/2015/03/swedish-tanks-part-xxii-udes. S21 UDES 03 html
+2. S21 UDES 03  https://ritastatusreport. S21 UDES 03 blogspot. S21 UDES 03 se/2015/03/swedish-tanks-part-23-udes-part-2. S21 UDES 03 html
+
+|HistoricalGallery= 
+File:UDES_Mobility_Rig. S21 UDES 03 jpg{{!}}Mobility Rig
+File:UDES_Shooting_Rig. S21 UDES 03 jpg{{!}}Shooting Rig
+File:UDES_03_Picture. S21 UDES 03 jpg{{!}}UDES 03 sketch
+
+|HistAcc =
+The UDES 03 project was developed after the Strv 103 entered mass production, And it was meant to developed as possible replacement for Strv 103. S21 UDES 03  However, in World of Tanks, this vehicle was placed as predecessor to Strv 103 project. S21 UDES 03 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. S21 UDES 03 live/2016/03/05/swedish-tanks-part-26-udes-03/
+
+}}

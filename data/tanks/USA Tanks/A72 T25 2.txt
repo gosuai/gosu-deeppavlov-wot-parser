@@ -1,0 +1,236 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Historical Gallery. 
+1,364,000 Cost. 
+800640 HP Hit Points. 
+43.49/43.8128.23/0 t Weight Limit. 
+560704 hp Engine Power. 
+56/15 km/h Speed Limit. 
+3030 deg/s Traverse. 
+12.8824.94 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+76.2/50.8/38.1 mm Hull Armor. 
+76/25/25// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+255/4400/255 255/4400/255 Shell Cost. 
+240/240/320240/240/320 HP Damage. 
+160/243/45160/243/45 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 7.7 s 50% Crew: 9.54 s 75% Crew: 8.33 s 100% Crew: 7.38 s Rammer: 6.64 s Vents: 7.22 s Both: 6.5 s Both and BiA: 6.35 s Both and Max Crew %: 6.09 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 7.7 s 50% Crew: 9.54 s 75% Crew: 8.33 s 100% Crew: 7.38 s Rammer: 6.64 s Vents: 7.22 s Both: 6.5 s Both and BiA: 6.35 s Both and Max Crew %: 6.09 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1908 50% Crew: 1540.8 75% Crew: 1764 100% Crew: 1989.6 100% Crew Vents: 2035.2 Rammer: 2210.4 Both: 2260.8 Both and BiA: 2311.2 Both and Max Crew %: 2409.6 Advantageous Damage Per Minute First-shot DPM: 2148 50% Crew: 1780.8 75% Crew: 2004 100% Crew: 2229.6 100% Crew Rammer: 2450.4 Vents: 2275.2 Both: 2500.8 Both and BiA: 2551.2 Both and Max Crew %: 2649.6 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1908 50% Crew: 1540.8 75% Crew: 1764 100% Crew: 1989.6 100% Crew Vents: 2035.2 Rammer: 2210.4 Both: 2260.8 Both and BiA: 2311.2 Both and Max Crew %: 2409.6 Advantageous Damage Per Minute First-shot DPM: 2148 50% Crew: 1780.8 75% Crew: 2004 100% Crew: 2229.6 100% Crew Rammer: 2450.4 Vents: 2275.2 Both: 2500.8 Both and BiA: 2551.2 Both and Max Crew %: 2649.6 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2544 50% Crew: 2054.4 75% Crew: 2352 100% Crew: 2652.8 100% Crew Vents: 2713.6 Rammer: 2947.2 Both: 3014.4 Both and BiA: 3081.6 Both and Max Crew %: 3212.8 Advantageous Damage Per Minute First-shot DPM: 2864 50% Crew: 2374.4 75% Crew: 2672 100% Crew: 2972.8 100% Crew Rammer: 3267.2 Vents: 3033.6 Both: 3334.4 Both and BiA: 3401.6 Both and Max Crew %: 3532.8 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1908 50% Crew: 1540.8 75% Crew: 1764 100% Crew: 1989.6 100% Crew Vents: 2035.2 Rammer: 2210.4 Both: 2260.8 Both and BiA: 2311.2 Both and Max Crew %: 2409.6 Advantageous Damage Per Minute First-shot DPM: 2148 50% Crew: 1780.8 75% Crew: 2004 100% Crew: 2229.6 100% Crew Rammer: 2450.4 Vents: 2275.2 Both: 2500.8 Both and BiA: 2551.2 Both and Max Crew %: 2649.6 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1908 50% Crew: 1540.8 75% Crew: 1764 100% Crew: 1989.6 100% Crew Vents: 2035.2 Rammer: 2210.4 Both: 2260.8 Both and BiA: 2311.2 Both and Max Crew %: 2409.6 Advantageous Damage Per Minute First-shot DPM: 2148 50% Crew: 1780.8 75% Crew: 2004 100% Crew: 2229.6 100% Crew Rammer: 2450.4 Vents: 2275.2 Both: 2500.8 Both and BiA: 2551.2 Both and Max Crew %: 2649.6 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2544 50% Crew: 2054.4 75% Crew: 2352 100% Crew: 2652.8 100% Crew Vents: 2713.6 Rammer: 2947.2 Both: 3014.4 Both and BiA: 3081.6 Both and Max Crew %: 3212.8 Advantageous Damage Per Minute First-shot DPM: 2864 50% Crew: 2374.4 75% Crew: 2672 100% Crew: 2972.8 100% Crew Rammer: 3267.2 Vents: 3033.6 Both: 3334.4 Both and BiA: 3401.6 Both and Max Crew %: 3532.8 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+1818 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+4747 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 318.9 m With 75% Crew: 365.2 m With 100% Crew: 412 m With 100% Signal Boost: 474 m When affected by 100% Relaying: 434.5 m Maximum possible: 593 m For more details, see Skills or Equipment m ▲ With 50% Crew: 496.5 m With 75% Crew: 568.6 m With 100% Crew: 641.4 m With 100% Signal Boost: 738 m When affected by 100% Relaying: 676.5 m Maximum possible: 923.2 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+90 mm AT Gun M3. 
+160/243/45. 
+240/240/320. 
+7.79. 
+0.36. 
+1.7. 
+nan. 
+2050.0. 
+81000. 
+nan. 
+90 mm AT Gun T15E2. 
+170/258/45. 
+240/240/320. 
+7.79. 
+0.36. 
+1.7. 
+nan. 
+nan. 
+111900. 
+nan. 
+T25/2T3. 
+//. 
+18. 
+380. 
+nan. 
+nan. 
+16300. 
+nan. 
+T25/2T7. 
+//. 
+18. 
+380. 
+nan. 
+nan. 
+21100. 
+VII. 
+Ford GAN. 
+560. 
+20. 
+nan. 
+569. 
+37200. 
+VIII. 
+Continental AV-1790-1. 
+704. 
+20. 
+nan. 
+569. 
+45000. 
+nan. 
+T25/2T1. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+19200. 
+nan. 
+T25/2T4. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+32720. 
+IX. 
+SCR 506. 
+615. 
+nan. 
+110. 
+33600. 
+VI. 
+SCR 508. 
+395. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • VIIIWZ-120-1G FT FL • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • VIIIStrv S1 FL • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=T25_2
+|When fully upgraded, the T25/2 has similar speed and maneuverability to the [[T25 AT]]. A72 T25 2  However, unlike the T25 AT, the T25/2's turret cannot mount the powerful [[Gun#105 mm AT Gun T5E1|105 mm AT Gun T5E1]]. A72 T25 2  The combination of only being able to use the 90 mm AT Gun T15E2 gun along with poor armor limits the T25/2 to the second line on the battlefield. A72 T25 2  The T25/2 does get a fully enclosed turret upgrade, which increases its ability to withstand HE and artillery rounds. A72 T25 2  Using your speed to get into positions and provide fire support to your allies quickly while avoiding enemy fire is key to playing this tank destroyer. A72 T25 2 
+
+|Sidebar_Camostop=18. A72 T25 2 3
+|Sidebar_Camomove=11. A72 T25 2 1
+|Sidebar_Camofire=6. A72 T25 2 6
+|Sidebar_Passhard=1. A72 T25 2 151
+|Sidebar_Passmed=13. A72 T25 2 42
+|Sidebar_Passsoft=2. A72 T25 2 205
+|Sidebar_DispTurret=0. A72 T25 2 115
+|Sidebar_DispRecoil=3. A72 T25 2 068
+|Sidebar_DispAccel=0. A72 T25 2 221
+|Sidebar_DispTurning=0. A72 T25 2 221
+
+|InTheGame_pros=
+* Turret mantlet is surprisingly bouncy and the addition of a roof cover on 2nd turret reduces artillery and HE damage
+* Good speed and reasonable mobility once upgraded
+* Great aim time on both guns
+* Good for hulldown, thanks to its small and surprisingly bouncy turret, excellent gun depression and relatively low hull
+* Good camouflage
+
+
+|InTheGame_cons=
+* Armour is almost useless when in battles of higher tier 
+* Worst top gun of its tier; bad penetration and alpha damage with poor ballistics. A72 T25 2 
+* Poor turret traverse
+* Turret is easily damaged 
+* Can be an extremely painful stock grind
+* Not much of an improvement from the t6 TD line, Jackson
+
+
+|InTheGame_performance=
+It is important not to think of this tank as a progression from the Hellcat, but rather as a larger Jackson as the TD plays much more like the slower Jackson than the speedy Hellcat. A72 T25 2  Its highest gun is adequate for its own tier, though it is rare to be at the top of the list. A72 T25 2  It is best to use this as a second line tank, sniping at already engaged tanks or hitting them from out of their range before relocating. A72 T25 2  The depression of its guns is excellent, allowing you to make shots that most opponents wouldn't expect, especially if you are on higher or lower ground, and can save you from some difficult encounters. A72 T25 2  It is imperative to aim for the weak spots on opponents as the T15E2 gun has poor penetration for its tier, and avoid fighting alone or spearheading an attack. A72 T25 2  If possible, try to remain undetected whilst killing off low-health targets. A72 T25 2  If detected, use its speed to relocate before taking too much damage. A72 T25 2  
+Coming from the M18 Hellcat, to which it is inferior in most ways, despite being a tier higher, the T25/2 may seem like a let-down, especially when it is stock. A72 T25 2  However, when viewed objectively, it is still a good TD that can perform well. A72 T25 2  
+One major advantage over the Hellcat is the smaller dispersion after moving, turning the turret, or firing. A72 T25 2  This makes the T25/2 more capable of taking snapshots and gives it a limited dogfighting ability when caught by enemy tanks at close range. A72 T25 2 
+Unfortunately, the stats are pretty much the same as the T6 M36 Jackson. A72 T25 2   The only difference is the engine power. A72 T25 2  It also does not get the 105mm like its brethren. A72 T25 2 
+
+Keep in mind that, although the top gun has good stats on paper, it might be quite frustrating to use it due to the way its shells arch towards the target. A72 T25 2  You'll find perfectly aimed shots going over the spot you aimed at frequently. A72 T25 2 
+
+|InTheGame_research=
+* The SCR 506 radio carries over from the T82, and should be equipped immediately. A72 T25 2 
+* Next, go for the engine, as it greatly increases your maneuverability. A72 T25 2 
+* The stock suspension cannot hold anything else now, so go for the next suspension upgrade. A72 T25 2 
+* Then, the upgraded turret to hold the upgrade 90mm. A72 T25 2 
+* Last, the upgrade 90mm, for an increase of 10 millimeters of penetration. A72 T25 2 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, Camouflage Net, Binocular Telescope
+
+|Gallery=
+image:T252-a. A72 T25 2 png{{!}}T25/2 front right
+image:T252-b. A72 T25 2 png{{!}}T25/2 front left
+image:T252-c. A72 T25 2 png{{!}}T25/2 rear left
+image:T252-d. A72 T25 2 png{{!}}T25/2 rear right
+image:T252game. A72 T25 2 jpg{{!}}T25/2, Siegfried line map 
+
+
+|History=
+With encounters with German Tiger tanks in Tunisia, tanks crews were wanting a tank with bigger guns than 75 mm and 76 mm. A72 T25 2 
+
+In March 1943 a new turret was fitted with a 90 mm AA gun and put onto a T23 model. A72 T25 2 
+
+The Army Service Forces placed an order for 50 of these tanks. A72 T25 2 1 10 of these were to be T26s. A72 T25 2  The first T25s were completed until early 1944. A72 T25 2 
+
+A request for 8,000 T25s and T26s with 75 mm and 76 mm guns was rejected. A72 T25 2 
+== Development ==
+The T25 and T26 lines of tanks came into being in the midst of a heated internal debate within the U. A72 T25 2 S. A72 T25 2  Army in the mid-1943 to early 1944 over the need for tanks with greater firepower and armor. A72 T25 2  A 90 mm gun mounted in a massive new turret was installed in both series. A72 T25 2  The T26 series were given additional frontal hull armor, with the glacis plate increased to 4 in (10 cm). A72 T25 2  This increased the weight of the T26 series to over 40 short tons (36 t) and decreased their mobility and durability as the engine and powertrain were not improved to compensate for the weight gain. A72 T25 2  
+
+|HistoricalGallery=
+
+|HistAcc=
+The T25 prototype number 2 is actually an upgraded T23E3 with HVSS suspension, 90 mm gun and cast turret. A72 T25 2  The version depicted in World of Tanks is fake. A72 T25 2  See [https://wiki. A72 T25 2 wargaming. A72 T25 2 net/en/Tank:A111_T25_Pilot T25 Pilot Number 1] for the historical version. A72 T25 2 
+* Actually a medium tank, not a tank destroyer. A72 T25 2 
+* Large cast turret derived from the T23E3 is missing. A72 T25 2  The M36 Jackson turret configuration is fake. A72 T25 2 
+* Additionally, the in-game T25/2 mounts the M36 Jackson turret with the 90mm gun. A72 T25 2  However, the T25 medium tank itself was able to equip the 90mm gun without the need of the M36 turret. A72 T25 2 
+* The Continental AV-1790 engine was only mounted on the M26E2/M46. A72 T25 2  Its configuration on the T25 is fake. A72 T25 2 
+* The T25's engine is considerably more powerful than in reality, with 704 hp compared to the historical 470. A72 T25 2 
+* The T15E2 gun was only mounted on the [[T26E4 SuperPershing]]. A72 T25 2  Its configuration on the T25 is fake. A72 T25 2 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+Chamberlain, P. A72 T25 2  and C. A72 T25 2  Ellis, 2000, '''<i>British and American Tanks of World War II: The Complete Illustrated History of British, American and Commonwealth Tanks 1939-1945</i>''', Cassel Reprint, London, 224p, ISBN:9780304355297. A72 T25 2 
+
+Forty, G. A72 T25 2 , 2007, '''<i>The World Encyclopedia of Tanks & Armoured Fighting Vehicles - An Illustrated History Of The World's Most Important Tanks and AFVs From The Beginning Of The 20th Century To The Present Day</i>''',  Anness Press, London, ISBN:9780754817413. A72 T25 2 
+
+Zaloga, S. A72 T25 2 J. A72 T25 2 , 2005, '''<i>US Anti-tank Artillery 1941–45</i>''', New Vanguard Series 107, Osprey Publishing, Oxford, 48p, ISBN:9781841766904. A72 T25 2 
+
+
+|Ref_links=
+* https://ftr-wot. A72 T25 2 blogspot. A72 T25 2 com/2013/04/fake-american-vehicles. A72 T25 2 html
+
+}}
+
+[[Category:USA Tanks]]

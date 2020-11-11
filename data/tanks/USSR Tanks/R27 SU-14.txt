@@ -1,0 +1,235 @@
+2,720,000 Cost. 
+410410 HP Hit Points. 
+63.99/6463.23/66 t Weight Limit. 
+500500 hp Engine Power. 
+30/8 km/h Speed Limit. 
+1416 deg/s Traverse. 
+7.817.91 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+50/30/20 mm Hull Armor. 
+HE/HE HE/HE Shells. 
+1120/5200 1910/8000 Shell Cost. 
+700/700/1050/1050/ HP Damage. 
+38/38/52/52/ mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 27 s 50% Crew: 33.45 s 75% Crew: 29.2 s 100% Crew: 25.89 s Rammer: 23.3 s Vents: 25.32 s Both: 22.79 s Both and BiA: 22.29 s Both and Max Crew %: 21.37 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 44 s 50% Crew: 54.51 s 75% Crew: 47.59 s 100% Crew: 42.19 s Rammer: 37.97 s Vents: 41.26 s Both: 37.13 s Both and BiA: 36.33 s Both and Max Crew %: 34.82 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (700 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1554 50% Crew: 1253 75% Crew: 1435 100% Crew: 1624 100% Crew Vents: 1659 Rammer: 1806 Both: 1848 Both and BiA: 1883 Both and Max Crew %: 1967 Advantageous Damage Per Minute First-shot DPM: 2254 50% Crew: 1953 75% Crew: 2135 100% Crew: 2324 100% Crew Rammer: 2506 Vents: 2359 Both: 2548 Both and BiA: 2583 Both and Max Crew %: 2667 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (700 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1554 50% Crew: 1253 75% Crew: 1435 100% Crew: 1624 100% Crew Vents: 1659 Rammer: 1806 Both: 1848 Both and BiA: 1883 Both and Max Crew %: 1967 Advantageous Damage Per Minute First-shot DPM: 2254 50% Crew: 1953 75% Crew: 2135 100% Crew: 2324 100% Crew Rammer: 2506 Vents: 2359 Both: 2548 Both and BiA: 2583 Both and Max Crew %: 2667 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (1050 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1428 50% Crew: 1155 75% Crew: 1323 100% Crew: 1491 100% Crew Vents: 1522.5 Rammer: 1659 Both: 1690.5 Both and BiA: 1732.5 Both and Max Crew %: 1806 Advantageous Damage Per Minute First-shot DPM: 2478 50% Crew: 2205 75% Crew: 2373 100% Crew: 2541 100% Crew Rammer: 2709 Vents: 2572.5 Both: 2740.5 Both and BiA: 2782.5 Both and Max Crew %: 2856 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (1050 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1428 50% Crew: 1155 75% Crew: 1323 100% Crew: 1491 100% Crew Vents: 1522.5 Rammer: 1659 Both: 1690.5 Both and BiA: 1732.5 Both and Max Crew %: 1806 Advantageous Damage Per Minute First-shot DPM: 2478 50% Crew: 2205 75% Crew: 2373 100% Crew: 2541 100% Crew Rammer: 2709 Vents: 2572.5 Both: 2740.5 Both and BiA: 2782.5 Both and Max Crew %: 2856 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.818 m With 75% Crew: 0.714 m With 100% Crew: 0.633 m With BiA: 0.619 m With BiA and Vents: 0.605 m Maximum possible: 0.58 m For more details, see Crew m ▲ With 50% Crew: 0.954 m With 75% Crew: 0.833 m With 100% Crew: 0.738 m With BiA: 0.722 m With BiA and Vents: 0.706 m Maximum possible: 0.677 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 5.575 s With 75% Crew: 4.867 s With 100% Crew: 4.315 s With GLD: 3.923 s With BiA: 4.22 s With BiA and Vents: 4.128 s With both and GLD: 3.753 s Maximum possible: 3.597 s For more details, see Crew or Equipment s ▲ With 50% Crew: 6.937 s With 75% Crew: 6.057 s With 100% Crew: 5.369 s With GLD: 4.881 s With BiA: 5.251 s With BiA and Vents: 5.137 s With both and GLD: 4.67 s Maximum possible: 4.476 s For more details, see Crew or Equipment Aim time. 
+1212 deg/s Gun Traverse Speed. 
+8° Gun Arc. 
+-0°/+60°-0°/+60° Elevation Arc. 
+3216 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 204.3 m With 75% Crew: 232.2 m With 100% Crew: 260 m With Recon and Situational Awareness: 273.2 m With Coated Optics: 286 m With Binocular Telescope: 325 m Maximum possible: 372.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 204.3 m With 75% Crew: 232.2 m With 100% Crew: 260 m With Recon and Situational Awareness: 273.2 m With Coated Optics: 286 m With Binocular Telescope: 325 m Maximum possible: 372.2 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With 100% Signal Boost: 432 m When affected by 100% Relaying: 396 m Maximum possible: 518 m For more details, see Skills or Equipment m ▲ With 50% Crew: 491.1 m With 75% Crew: 558.1 m With 100% Crew: 625 m With 100% Signal Boost: 750 m When affected by 100% Relaying: 687.5 m Maximum possible: 899.3 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+152 mm BR-2. 
+38/38. 
+700/700. 
+2.22. 
+0.66. 
+4.5. 
+nan. 
+5720. 
+92000. 
+IX. 
+203 mm B-4. 
+52/52. 
+1050/1050. 
+1.36. 
+0.77. 
+5.6. 
+nan. 
+5200. 
+235000. 
+IV. 
+M-17T. 
+500.0. 
+20. 
+nan. 
+610.0. 
+13460. 
+nan. 
+M-17F. 
+nan. 
+0. 
+nan. 
+nan. 
+35000. 
+VII. 
+SU-14-2. 
+64. 
+14. 
+0. 
+nan. 
+15000. 
+20000. 
+VIII. 
+SU-14-2 enhanced. 
+66. 
+16. 
+0. 
+nan. 
+15000. 
+27310. 
+V. 
+10R. 
+360. 
+nan. 
+100. 
+3660. 
+IX. 
+12RT. 
+625. 
+nan. 
+110. 
+33600. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=SU-14
+|Often known as the "School Bus" due to its shape, it is a worthy successor platform for the 203mm B-4 cannon first available on the SU-14-1 and the S-51. R27 SU-14  Even though it is one tier higher, the SU-14-2 can still utilise the B-4 to deliver more alpha damage than any other SPG of its tier except the GW Tiger P (which is armed with a slightly bigger 21cm Mörser). R27 SU-14  Relative to its predecessors, it has an improved rate of fire (1. R27 SU-14 5 times as many shots per minute) and some armour to bounce hastily aimed scout shots. R27 SU-14  Unfortunately, all this armour comes at the expense of mobility, and the ammo capacity is still as limited as its predecessors (16 for top gun). R27 SU-14 
+|Gallery=
+image:Su 14 1. R27 SU-14 jpg{{!}}Su-14 front left view
+image:Su 14 2. R27 SU-14 jpg{{!}}Su-14 front right view
+image:Su 14 3. R27 SU-14 jpg{{!}}Su-14 back left view
+image:Su 14 4. R27 SU-14 jpg{{!}}Su-14 back right view
+
+|InTheGame_pros=
+
+* Gun range - stock: 1400 m, top: 1250 m 
+* Top gun has excellent damage and splash radius
+* Good aiming time on both guns
+* Huge mass makes it an unappealing ramming target for light tanks
+* Easy stock grind - gun, radio and engine carry over from the [[SU-14-1]]
+
+|InTheGame_cons=
+
+* Long reload time
+* Very poor mobility and traverse speed
+* Poor accuracy
+* Extremely limited gun arc
+* Low ammunition capacity 
+
+|InTheGame_performance=
+As should have been learned when playing its predecessors, pre-aiming on zones likely to have enemies is key to success because of poor gun stats and narrow traverse arc. R27 SU-14  The stock grind is pretty terrible on this tank as well, but thankfully most people will not need to do it at all since the 203mm carries over from its predecessors. R27 SU-14 
+
+Despite claims to its low mobility, it can be surprisingly nimble for its size, capable of hitting 30km/h when coming down a slope. R27 SU-14  This should only be taken into account if you are repositioning ahead of time to avoid danger. R27 SU-14 
+
+
+|InTheGame_research=
+* Top gun and top radio carry over from the S-51 and SU-14-1 - mount immediately!
+* Engine carries over from the SU-14-1. R27 SU-14  If coming from the S-51, you should research it for more mobility. R27 SU-14 
+* Tracks go on last. R27 SU-14 
+
+
+|InTheGame_equipment=
+improved ventilation class 3, large-caliber tank gun rammer, enhanced gun laying drive
+
+
+|History=
+[[image:SU_14_with_203. R27 SU-14 jpg|thumb|200px|right|An old Soviet self-propelled artillery piece (SU-14) before its test firing. R27 SU-14  It was based on the heavy T-35 tank -- note the lack of an armored box around the gun/crew]]
+The experimental SU-14 was built in 1934 (possibly 2 were built) as heavy self-propelled guns for mechanized units for the destruction of strengthened fortifications. R27 SU-14  
+
+Specifications: weight- 48,5 t; crew- 7 men; armament- 203mm howitzer B-4 mod. R27 SU-14  1931 (range of fire 18 km with 100 kg shell, rate of fire 1 shot/5. R27 SU-14 7 min) + 3 x 7,62mm MG;- ammunition 8 shells + 2268 MG shells; armor 10-20 mm; engine M-17 500 hp; speed- 27. R27 SU-14 3 km/h; range 100-120 km. R27 SU-14  
+
+The SU-14 was based on the T-35 chassis with other elements from both the T-28 and T-35. R27 SU-14  The engine was located in the front and the howitzer was openly-mounted. R27 SU-14  The original SU-14 had the 203mm B-4. R27 SU-14  The SU-14 was equipped with two 200 kg cranes for use with the ammunition, two spades, and had to have its suspension disconnected during firing; it could fire only from the stationary position. R27 SU-14  Its maneuverability and speed were satisfactory. R27 SU-14  Also, operation of the howitzer was convenient. R27 SU-14  But, its size was large, armor was insufficient, and it had problems with over-driven transmissions. R27 SU-14  
+
+The SU-14 was tested in 1935 and its engine and transmission were modified (improved SU-14-1 was built in 1936 - it had better and more reliable transmission, improved spades, more powerful engine M-17F 680 hp. R27 SU-14 ). R27 SU-14  On both SPGs, the 203mm howitzer was replaced by the 152. R27 SU-14 4mm naval gun B-30 and Br-2 (which had better range and rate of fire) in 1936. R27 SU-14  It was planned to produce 5 copies with the 152. R27 SU-14 4mm gun Br-2 (SU-14-2), but that plan was rejected due to the arrest of the chief engineers of the project. R27 SU-14 
+
+See left most (or top most) blueprint below. R27 SU-14 
+<center>
+[[image:SU-14_with_203mm_Howitzer. R27 SU-14 jpg|200px|Original SU-14 design with the 203mm Howitzer]]
+[[image:SU-14-1_with_152mm_Howitzer. R27 SU-14 jpg|200px|SU-14-1 with the longer ranged 152mm Howitzer]]
+</center>
+
+In 1936, the new experimental self propelled gun SU-14-1 was built and tested. R27 SU-14  It was the improved version of the SU-14 with the transmission from a T-35 heavy tank (not from T-28 medium tank as in the case of SU-14), more powerful engine, modernized spades, and without the ineffective suspension needing to be disconnected during firing. R27 SU-14  An additional artillery tractor, “Comintern”, was used as ammunition carrier (50-60 shells) for the SU-14-1. R27 SU-14  See right most (or bottom most) blueprint above. R27 SU-14 
+<center>
+[[image:SU_14_with_203. R27 SU-14 jpg|200px|SU-14 original]]
+[[image:SU-14_SU-14-1_1936. R27 SU-14 jpg|200px|SU-14-1 with a 203mm]]
+</center>
+
+In 1936, the 203mm howitzer was also replaced by the 152. R27 SU-14 4mm gun Br-2 mod. R27 SU-14 1935 with better range and rate of fire. R27 SU-14  The SU-14-1 was equipped with a radio station and additional armor in 1940 for use during the Winter War against Finnish fortifications (Mannerheim line) from a short distance. R27 SU-14  That SP gun was renamed the SU-14-Br2 and was the predecessor of heavy SP guns of the WWII period. R27 SU-14  Now, the SU-14-2 is preserved at the Russian tank museum (Kubinka). R27 SU-14  
+
+<center>
+[[image:SU-14_Br2_Armored. R27 SU-14 jpg|thumb|200px|SU-14 Br2 Blueprint]]
+</center>
+
+[[image:SU-14-museum. R27 SU-14 jpg|200px|thumb|SU-14 Br2 in Kubinka]]
+
+== Combat Usage ==
+
+==== The Winter War ====
+The SU-14 was used quite successful in the destruction of Finnish fortifications during the Winter War. R27 SU-14  
+
+==== World War II ====
+In April 1940, the SU-14 and SU-14-1 were going through tests in NIAP, and in July, were in P. R27 SU-14 F. R27 SU-14  Lebedev's tank group in the Keiv Region. R27 SU-14  In September 1940, both units were given to NIBT for storage. R27 SU-14  In the fall of 1941, when defending Moscow, both SU-14s and an experienced SU T-100-U in a unit called "Separate Heavy Division for Special Purposes" were used in the Kubinka Region to fire from protected positions at advancing German forces (likely, they were using any working weapon available). R27 SU-14 
+
+==Variants==
+* SU-14 -- Armed with 203mm howitzer B-4 mod. R27 SU-14  1931 + 3 x 7,62mm MG; ammunition 8 shells + 2268 MG shells; armor 10-20 mm; engine M-17 500 hp; speed 27,3 km/h; range 100-120 km
+* SU-14-1 -- Armed with 203mm howitzer B-4 mod. R27 SU-14  1931 + 4 x 7,62mm MGs; ammunition 8 shells + 2196 MG shells; armor 6-20 mm; engine M-17F 700 (850?) hp; speed 30-35 km/h; range 120-150 km. R27 SU-14 
+* SU-14-Br2 -- Armed with 152. R27 SU-14 4mm gun + 4 x 7,62mm MG; ammunition 16 shells + 2655 MG shells; armor 20-50 mm; speed 15 km/h; range 100 km. R27 SU-14  
+* SU-14-2 -- SU-14-1 with the radio station. R27 SU-14 
+
+'''AUTHOR'S NOTE'''
+
+The variant descriptions and the pictures don't exactly match (they came from 2 different sources). R27 SU-14  It is relatively clear that only 3 vehicles were produced. R27 SU-14  2 were likely the SU-14 with the 203mm and 1 was the SU-14-1 with the 203mm. R27 SU-14   Later, the 203mm gun was replaced with the 152. R27 SU-14 4mm gun. R27 SU-14   However, from the 3 pictures directly above, we get some discrepancies. R27 SU-14  One picture (1st in the row of 3 above) shows the front view of an SU-14 with both armor AND the short 203mm gun. R27 SU-14   This does not have a variant name. R27 SU-14  Likewise, the 3rd picture in the group of 3 shows the original plating between the tracks (you can see where it extends to cover the drive wheels and has rectangular holes instead of circular ones). R27 SU-14  From the the blueprints, this is an SU-14 and not the SU-14-1 modified to an SU-14-Br2. R27 SU-14  I'm assuming that the armor was tacked on to one (or more likely both) of the original SU-14 prototypes, but they left the 203mm howitzer in. R27 SU-14  Possibly, this was done so they could participate in the Winter War. R27 SU-14   
+
+|HistoricalGallery=
+image:SU-14_with_203. R27 SU-14 jpg{{!}}SU-14 Br2 but with a 203mm
+image:SU-14_front. R27 SU-14 jpg{{!}}SU-14 Br2 with the 152. R27 SU-14 4mm
+image:SU-14_side. R27 SU-14 jpg{{!}}SU-14 Br2 rear/side shot
+image:Su142. R27 SU-14 JPG{{!}}SU-14 Br2 at Kubinka Tank Museum. R27 SU-14 
+
+|Ref_references=
+* Russian Tanks and Armored Vehicles 1917-1945
+
+|Ref_sources=
+
+
+|Ref_links=
+* [https://forum. R27 SU-14 axishistory. R27 SU-14 com/viewtopic. R27 SU-14 php?f=34&t=73088&start=45 Source of most of the text]
+* [https://armor. R27 SU-14 kiev. R27 SU-14 ua/Tanks/BeforeWWII/SU14/ Source of most of the pictures]
+* [https://armor. R27 SU-14 kiev. R27 SU-14 ua/Tanks/BeforeWWII/SU14/su14. R27 SU-14 php More History in Russian]
+
+
+|Sidebar_Camostop=3. R27 SU-14 71
+|Sidebar_Camomove=2. R27 SU-14 0
+|Sidebar_Camofire=0. R27 SU-14 31
+|Sidebar_Passhard=1. R27 SU-14 342
+|Sidebar_Passmed=1. R27 SU-14 534
+|Sidebar_Passsoft=2. R27 SU-14 589
+|Sidebar_DispTurret=0. R27 SU-14 575
+|Sidebar_DispRecoil=5. R27 SU-14 753
+|Sidebar_DispAccel=0. R27 SU-14 307
+|Sidebar_DispTurning=0. R27 SU-14 307
+}}

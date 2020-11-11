@@ -1,0 +1,192 @@
+5,800 Cost. 
+1000Expression error: Unrecognized word "unable". HP Hit Points. 
+16.99/20Expression error: Unexpected < operator./Expression error: Unrecognized word "unable". t Weight Limit. 
+600Unable to match configuration for query: engine:a99_t92_lt::top|power hp Engine Power. 
+60/25 km/h Speed Limit. 
+55Unable to match configuration for query: chassis:a99_t92_lt::top|traversespeed deg/s Traverse. 
+35.31Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+31.8/25.4/19.1 mm Hull Armor. 
+28.6/28.6/28.6Unable to match configuration for query: turret:a99_t92_lt::top|armorturretfront/Unable to match configuration for query: turret:a99_t92_lt::top|armorturretside/Unable to match configuration for query: turret:a99_t92_lt::top|armorturretback mm Turret Armor. 
+Shells. 
+0/0/0 0/0/0 Shell Cost. 
+150/150/185Unable to match configuration for query: gun:a99_t92_lt::top|damage1/Unable to match configuration for query: gun:a99_t92_lt::top|damage2/Unable to match configuration for query: gun:a99_t92_lt::top|damage3 HP Damage. 
+175/210/38Unable to match configuration for query: gun:a99_t92_lt::top|penetration1/Unable to match configuration for query: gun:a99_t92_lt::top|penetration2/Unable to match configuration for query: gun:a99_t92_lt::top|penetration3 mm Penetration. 
+Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:a99_t92_lt::stock|burstcount rounds Magazine Size: Unable to match configuration for query: gun:a99_t92_lt::stock|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:a99_t92_lt::stock|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information.Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:a99_t92_lt::top|burstcount rounds Magazine Size: Unable to match configuration for query: gun:a99_t92_lt::top|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:a99_t92_lt::top|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information. Rate of Fire. 
+Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:a99_t92_lt::stock|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:a99_t92_lt::stock|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:a99_t92_lt::stock|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information.Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:a99_t92_lt::top|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:a99_t92_lt::top|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:a99_t92_lt::top|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. Damage Per Minute. 
+Expression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see CrewExpression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Crew Accuracy. 
+Expression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or EquipmentExpression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or Equipment Aim time. 
+Unable to match configuration for query: turret:a99_t92_lt::stock|turrettraverseUnable to match configuration for query: turret:a99_t92_lt::top|turrettraverse deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-Unable to match configuration for query: gun:a99_t92_lt::top|depression°/+Unable to match configuration for query: gun:a99_t92_lt::top|elevation° Elevation Arc. 
+Unable to match configuration for query: gun:a99_t92_lt::stock|maxammoUnable to match configuration for query: gun:a99_t92_lt::top|maxammo rounds Ammo Capacity. 
+Expression error: Unrecognized word "unable".Expression error: Unrecognized word "unable". % Chance of Fire. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment Signal Range. 
+nan. 
+76 mm Gun T185E1. 
+175/210/38. 
+150/150/185. 
+13.33. 
+0.38. 
+1.8. 
+nan. 
+nan. 
+73000. 
+nan. 
+T92. 
+//. 
+50. 
+400. 
+nan. 
+nan. 
+30000. 
+nan. 
+Continental AOI-628-1 A. 
+nan. 
+0. 
+nan. 
+nan. 
+58000. 
+nan. 
+T92. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+30000. 
+nan. 
+AN/GRC-8. 
+nan. 
+nan. 
+nan. 
+54000. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT71 CMCD P • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIT42 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • IXConcept 1B • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA43 BP prototype • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52 LIS. 
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Excellent gun handling and good aimtime
+* Excellent ground resistance, retains speed well
+* Good gun depression and elevation
+* Low profile (turret is very flat) and good camouflage values
+* Good viewrange
+
+|InTheGame_cons= 
+
+* Lowest alpha damage in tier/class, low DPM
+* Top speed is not that high 
+* Very expensive and fairly ineffective premium ammunition
+* Low survivability - small healthpool and very thin armor
+
+|InTheGame_performance=
+The T92 is a classic scout tank in every sense of the word. A99 T92 LT  Fans of support-oriented light tanks will feel right at home in this machine, as will light tank drivers who are used to being hell on treads at tier 8. A99 T92 LT  Small, agile, fast, and lightly armed, the T92 is not capable of taking the 'pocket medium' role that some light tanks can accept. A99 T92 LT  Instead, it is designed to take advantage of four major light tank duties. A99 T92 LT 
+
+As a passive scout, it relies on its small size, 10 degrees of gun depression, and its 400 meter view range to quickly control ideal spotting positions. A99 T92 LT  Though it is slow for a light tank at only 60 kph, the T92 accelerates exceptionally well and retains a lot of speed climbing hills or plowing through bad terrain. A99 T92 LT  It can leave a [[WZ-132]] behind on most forms of terrain and can even beat an [[LTTB]] in a sprint. A99 T92 LT  Once in place, it can quietly hide out and keep an eye on enemy movement. A99 T92 LT  If discovered or the situation becomes untenable, it can easily back off and relocate. A99 T92 LT 
+
+As an active scout, it relies on its small size and good ground resistance to let it spot enemies on the move. A99 T92 LT  The T92 is low but wide, giving it the ability to retain a lot of speed in fast maneuvers and avoid taking shots, especially at mid to long range. A99 T92 LT  A madly swerving T92 can be almost impossible for some tanks to hit at medium range, especially for those with low shell velocity. A99 T92 LT  The T92 is unusually gifted in this area as it barely needs to poke above ridges to accomplish its task, because its turret is practically ''all'' cupola. A99 T92 LT  Peeking for an instant is usually enough to spot enemies. A99 T92 LT 
+
+As a supporting flanker, it relies on good gun handling and its ability to quickly change firing positions to deal damage over the course of a game. A99 T92 LT  A T92 will rarely take down a full health opponent, lacking alpha damage as it does. A99 T92 LT  However, it has average DPM and an unusually good stock APCR round. A99 T92 LT  While the penetration is average at best and the damage is laughable, it has a fast flight speed and, more importantly, retains penetration at all but the most extreme ranges, only dropping to 173mm of pen at 300 meters! This allows it to snipe at flanks with its normal ammunition. A99 T92 LT 
+
+As an artillery/tank destroyer hunter, it relies on its mobility and ability to fire on the move to track down isolated enemies and harass them. A99 T92 LT  The gun remains uncommonly accurate on the move, so use of the auto-aim feature is recommended, as this allows you to focus on the driving. A99 T92 LT  Circle any isolated, unsupported, or over-extended enemies, then punish their weaker side and rear armor. A99 T92 LT  Most artillery and casemate TDs such as the [[Ferdinand]] or even the mighty [[T95]] can be brought low with this tactic. A99 T92 LT  This is most effective towards the end of a match when enemies aren't coordinated. A99 T92 LT 
+
+The T92 is absolutely abysmal at straight fights and will lose a fair fight with many tanks as low as tier 6, so don't accept them. A99 T92 LT  Flank, disengage, hit enemies from odd positions. A99 T92 LT  Stay still only for passive scouting; otherwise, take advantage of the many comfortable handling characteristics of this tank to keep your opponent guessing and wondering why they're constantly sprouting new bullet holes 150 HP at a time. A99 T92 LT 
+
+It received a hidden buff in update 9. A99 T92 LT 21 that finally gave the tank some much needed engine durability and brought the health of the engine up from a mere 104 to an acceptable 260, allowing it to survive more than one shell before breaking. A99 T92 LT  This means that a 88mm shell will no longer instantly knock out the engine on a hit. A99 T92 LT  It is also less likely to completely lose both the tracks and the engine in a single shot from larger-caliber shells. A99 T92 LT 
+
+Recommended crew skills:<br/>
+Commander (Radioman): Camouflage, Sixth Sense, Brothers in Arms, Recon, Eagle Eye<br/>
+Driver: Camouflage, Clutch Braking, Brothers in Arms, Off-Road Driving, Smooth Ride<br/>
+Gunner: Camouflage, Deadeye, Brothers in Arms, Designated Target, Snap Shot<br/>
+Loader: Camouflage, Safe Stowage, Brothers in Arms, Adrenaline Rush, Repairs<br/>
+
+While normally desirable, the Repair skill is less effective on the T92, as it is too fragile to survive long with a destroyed track or engine. A99 T92 LT  Use of a Repair Kit is preferable. A99 T92 LT  Off-Road Driving and Smooth Ride improve the T92's ground resistance and on-the-move gun handling, but their effect on these already-strong stats is minor, and so these can be taken later. A99 T92 LT  For the same reason, the usually desirable Snap Shot can also be taken later, as its effect on the T92's already good gun handling is also minimal. A99 T92 LT  Intuition is not useful due to the T92's fast and painless reload speed. A99 T92 LT 
+
+|InTheGame_research= 
+As a premium vehicle, this tank comes elite in its stock configuration. A99 T92 LT 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vents, Coated Optics, Camouflage Net, Binocular Telescope
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+T92 Light Tank was an innovative American light tank developed in the 1950s by Aircraft Armaments. A99 T92 LT  At 18. A99 T92 LT 5 tonnes, 5m length, it was designed as an airborne/airdropped replacement for the 5 tonnes heavier [[M41 Walker Bulldog]]. A99 T92 LT  The T92 was never accepted into service. A99 T92 LT <br />
+The main gun was a conventional 76 mm cannon with a very low profile turret. A99 T92 LT  Little more was exposed than the main gun and two crew cupolas which allowed 50 caliber and 30 caliber machine guns to fire buttoned up. A99 T92 LT  The engine was moved to the front, which increased protection, and a rear access door provided an escape hatch and protection while reloading; this layout was later adopted by the Israeli Merkava battle tank. A99 T92 LT  It had a crew of four with a semi-automatic loading system. A99 T92 LT  It carried 60 main gun rounds, and automatically ejected spent shell casings. A99 T92 LT <br />
+Study of the Soviet PT-76 led to a new swimming requirement for light tanks, for which the design could not be modified. A99 T92 LT  The T92 would be passed over and the M551 Sheridan was eventually adopted instead. A99 T92 LT  It fielded an unconventional 152 mm gun-missile system which would suffer many technical problems, and its swimming system would be rarely used in combat. A99 T92 LT  The French AMX-13 tank was a somewhat similar design that was successfully fielded. A99 T92 LT 
+|HistoricalGallery= 
+File:T92 Light Tank. A99 T92 LT jpg{{!}}T92 on original trials
+
+|HistAcc=
+* The engine mounted was only a 340hp engine, not the 600hp it has in-game
+* The weight of the vehicle is heavier then in-game with a weight of 18. A99 T92 LT 5ton
+* Subsequent power to weight is 18. A99 T92 LT 38hp/t, significantly less then the 35. A99 T92 LT 32hp/t it has in-game
+* The T92's actual top speed is 56 km/h (currently 60 km/h). A99 T92 LT 
+* Rate of fire of the vehicle was only 12 rounds per minute due to the semi-automatic loading system. A99 T92 LT 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

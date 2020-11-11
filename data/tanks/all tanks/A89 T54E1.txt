@@ -1,0 +1,220 @@
+3,600,000 Cost. 
+18501400 HP Hit Points. 
+53.33/54.528.45/0 t Weight Limit. 
+704800 hp Engine Power. 
+35/20 km/h Speed Limit. 
+3838 deg/s Traverse. 
+13.228.12 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+152.4/76.2/38.1 mm Hull Armor. 
+127/69.9/50.8// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+240/240/320240/240/320 HP Damage. 
+181/250/45181/250/45 mm Penetration. 
+r/m ▲ Autoloaded Gun Burst Length: 1 round Magazine Size: 5 rounds Cycle Time: 2 s Magazine Reload Times Nominal: 25 s 50% Crew: 30.97 s 75% Crew: 27.04 s 100% Crew: 23.97 s With Vents: 23.44 s With Vents and BiA: 22.93 s Click here for more information. r/m ▲ Autoloaded Gun Burst Length: 1 round Magazine Size: 5 rounds Cycle Time: 2 s Magazine Reload Times Nominal: 25 s 50% Crew: 30.97 s 75% Crew: 27.04 s 100% Crew: 23.97 s With Vents: 23.44 s With Vents and BiA: 22.93 s Click here for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Autoloaded Gun Using Shell Type 1 (240 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▼ Autoloaded Gun Using Shell Type 2 (240 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▲ Autoloaded Gun Using Shell Type 3 (320 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information.Expression error: Unexpected < operator. ▲ Autoloaded Gun Using Shell Type 1 (240 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▼ Autoloaded Gun Using Shell Type 2 (240 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▲ Autoloaded Gun Using Shell Type 3 (320 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.221 s With 75% Crew: 2.812 s With 100% Crew: 2.493 s With GLD: 2.266 s With BiA: 2.438 s With BiA and Vents: 2.385 s With both and GLD: 2.168 s Maximum possible: 2.078 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.221 s With 75% Crew: 2.812 s With 100% Crew: 2.493 s With GLD: 2.266 s With BiA: 2.438 s With BiA and Vents: 2.385 s With both and GLD: 2.168 s Maximum possible: 2.078 s For more details, see Crew or Equipment Aim time. 
+3636 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+13°-8°/+13° Elevation Arc. 
+4545 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.1 m With 75% Crew: 366.1 m With 100% Crew: 410 m With 100% Signal Boost: 492 m When affected by 100% Relaying: 451 m Maximum possible: 590 m For more details, see Skills or Equipment m ▲ With 50% Crew: 585.3 m With 75% Crew: 665.2 m With 100% Crew: 745 m With 100% Signal Boost: 894 m When affected by 100% Relaying: 819.5 m Maximum possible: 1072 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+90 mm Gun T178. 
+181/250/45. 
+240/240/320. 
+9.09. 
+0.38. 
+2.6. 
+nan. 
+nan. 
+121000. 
+nan. 
+105 mm Gun T140E2. 
+248/310/45. 
+390/390/320. 
+5.63. 
+0.4. 
+2.9. 
+nan. 
+nan. 
+170000. 
+nan. 
+T157. 
+//. 
+36. 
+400. 
+nan. 
+nan. 
+66000. 
+VIII. 
+Continental AV-1790-1. 
+704.0. 
+20. 
+nan. 
+569.0. 
+45000. 
+VIII. 
+Continental AV-1790-3. 
+800.0. 
+20. 
+nan. 
+569.0. 
+59000. 
+nan. 
+Continental AV-1790-5B. 
+nan. 
+0. 
+nan. 
+nan. 
+80000. 
+nan. 
+T54E1. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+31700. 
+nan. 
+T54E1M2. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+61000. 
+VI. 
+AN/GRC-3. 
+410. 
+nan. 
+120. 
+21600. 
+X. 
+AN/GRC-7. 
+745. 
+nan. 
+120. 
+54000. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 FL • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • VIII112 FL • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+{{TankData|Tank=T54E1
+|Although a pretty challenging vehicle to play due to its huge size, sluggish speed, weak armor, and poor gun handling, the T54E1 is made an effective tank by the power of its autoloading guns. A89 T54E1  The T54E1 is able to bring focused damage to a firefight and is not crippled by a long reload time like many other autoloading tanks. A89 T54E1  The T54E1 is capable of devastating an enemy force at the opening of hostilities, withdrawing, and then sweeping back in shortly after with a fresh clip to crush the remaining resistance. A89 T54E1  Effective timing and good support tactics allow a T54E1 driver to achieve victory. A89 T54E1 
+
+Changed from a Medium tank to Heavy tank in update 1. A89 T54E1 9 to ease the transition from the tier 9 to tier 10 tank in the line. A89 T54E1 
+
+|Sidebar_Camostop=10. A89 T54E1 00
+|Sidebar_Camomove=7. A89 T54E1 70
+|Sidebar_Camofire=2. A89 T54E1 00
+|Sidebar_Passhard=1. A89 T54E1 055
+|Sidebar_Passmed=1. A89 T54E1 151
+|Sidebar_Passsoft=2. A89 T54E1 205
+|Sidebar_DispTurret=0. A89 T54E1 134
+|Sidebar_DispRecoil=3. A89 T54E1 836
+|Sidebar_DispAccel=0. A89 T54E1 192
+|Sidebar_DispTurning=0. A89 T54E1 192
+
+|Sidebar_SubArc_Count=2
+|Sidebar_SubArc_1=Yes
+|Sidebar_SubArc_1_Start=-160
+|Sidebar_SubArc_1_End=160
+|Sidebar_SubArc_1_Dep=8
+|Sidebar_SubArc_1_Elv=13
+|Sidebar_SubArc_2=Yes
+|Sidebar_SubArc_2_Start=160
+|Sidebar_SubArc_2_End=200
+|Sidebar_SubArc_2_Dep=5
+|Sidebar_SubArc_2_Elv=13
+
+|Gallery=
+
+|InTheGame_pros=
+* High burst damage and fast shell cycling with the top 105mm gun
+* Excellent DPM, among the best in tier/class
+* Turret is covered in oddly angled armor, can lead to surprising ricochets
+* Good gun depression
+* Can be effective at ramming enemy vehicles
+
+|InTheGame_cons=
+* Poor gun handling and long aim time, fires faster than it can aim
+* Large size, poor overall armor profile and low camouflage rating, a glass cannon
+* Limited ammo capacity with the top gun, also does not have access to HE ammunition
+* Low top speed, fairly frustrating for a tank with such low armor
+* Painful stock grind, the stock gun is completely inadequate 
+
+|InTheGame_performance=
+You can carry a total of 36 rounds with the 105mm gun, in clips of four. A89 T54E1  The reload time between each round is 2. A89 T54E1 22 seconds with a 35 second drum reload, which is fast enough to not completely remove the tank from participation after the first burst during a heated firefight. A89 T54E1  The vehicle lacks HE rounds with top gun, limiting you to AP and APCR, which can be troublesome for damaging or de-tracking certain heavy targets. A89 T54E1  After the 1. A89 T54E1 9 tech tree changes which changed the vehicle's class from Medium to Heavy, the penetration was given a significant buff: 248 on the standard rounds (up from 210), with 310 on the APCR (up from 255). A89 T54E1  This puts it on par with same-tier heavy tanks, though it can still struggle to go through the heaviest of armor. A89 T54E1  In addition, while the aim time and accuracy are still poor, they are very much in line with the other Tier 9 heavy tanks. A89 T54E1  And with 4 shots of 390 damage in check, you are an even more effective second row tank; a flanking, lurking, spam-damage machine. A89 T54E1 
+
+However, just like the T69, you still need to operate either well out of the field, out on a flank, or lurk with a couple of big boys. A89 T54E1  Never go it alone somewhere that a flanking medium or mobile heavy can pick you off. A89 T54E1  A Obj. A89 T54E1  430U for example, will eat you for breakfast in a head-to-head. A89 T54E1  Sometimes you'll be heckled for not 'playing like a normal Heavy' - just ignore it - you're not a 'normal Heavy' at all. A89 T54E1  The significant height and size, coupled with 2nd-rated mobility will make your scouting or spearheading effort mostly suicidal!  Play it like a pocket heavy tank due to its synergetic effect with other brawlers. A89 T54E1 
+
+One thing that you might consider, if you have some pals with the same tank, is to mass-platoon three of them and stagger-fire, covering each other on the magazine reloads. A89 T54E1  The amount of metal coming out of a platoon of three that works closely together is insane. A89 T54E1  Arty will be all over you like a rash though, so keep mobile, use what agility you have and listen to that sweet sound of three 105mm cannons firing in rapid succession. A89 T54E1 
+
+|InTheGame_research=
+* Cross-branch research: the '''AN/GRC-7''' radio carries over from the T71 CMCD or M103. A89 T54E1  The '''Continental AV-1790-3''' engine carries over from the T29, and the '''Continental AV-1790-5B''' engine carries over from the M103. A89 T54E1  If available, these should be mounted immediately. A89 T54E1 
+* Nothing carries over from the T69. A89 T54E1 
+* First, purchase the Enhanced Suspension equipment, then research the '''105 mm Gun T140E2'''. A89 T54E1 
+* If you want to mount an additional piece of equipment, research the '''T54E1M2''' suspension. A89 T54E1 
+* Otherwise, research the '''Continental AV-1790-3''' and '''Continental AV-1790-5B''' engines for a slight boost to specific power. A89 T54E1 
+* Next, research the '''AN/GRC-7''' radio. A89 T54E1 
+* Finally, research the suspension if you haven't already. A89 T54E1 
+
+
+|InTheGame_equipment= Vertical Stabilizer, Vents, GLD, Coated Optics,
+
+
+|History=
+The T54 was a series of prototype American tanks of the 1950s with three different turrets, all armed with a 105mm gun, mounted on the M48 Patton chassis. A89 T54E1  The original T54 had a conventional turret with an autoloader, while the turret on T54E1 was of an oscillating design with an autoloader and the one on T54E2 was conventional with a human loader. A89 T54E1  The turret on T54E1 was similar to that of the T69 in its oscillating design and in that it held a crew of three and a nine-round drum autoloader under the gun. A89 T54E1  The T54E1 was abandoned in 1956 and in 1957 the entire project was cancelled in favor of the T95 medium tank. A89 T54E1 
+
+
+|HistoricalGallery=image:T54HG1. A89 T54E1 jpg
+image:T54HG2. A89 T54E1 jpg
+image:T54HG3. A89 T54E1 jpg
+image:T54HG4. A89 T54E1 jpg
+image:T54HG5. A89 T54E1 jpg
+
+
+|Ref_references= *https://en. A89 T54E1 wikipedia. A89 T54E1 org/wiki/T54_%28American_tank%29
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}
+
+[[Category:USA Tanks]]

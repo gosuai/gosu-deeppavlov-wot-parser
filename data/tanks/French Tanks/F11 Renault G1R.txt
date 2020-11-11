@@ -1,0 +1,284 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Player Opinion: Equipment. 
+350,000 Cost. 
+570600 HP Hit Points. 
+32/3334.19/36 t Weight Limit. 
+350450 hp Engine Power. 
+40/12 km/h Speed Limit. 
+2830 deg/s Traverse. 
+10.9413.16 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+60/60/60 mm Hull Armor. 
+60/60/6060/60/60 mm Turret Armor. 
+AP/HEAT/HE AP/APCR/HE Shells. 
+46/2800/38 70/2800/38 Shell Cost. 
+110/110/175110/110/175 HP Damage. 
+74/92/38100/129/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 4.1 s 50% Crew: 5.08 s 75% Crew: 4.43 s 100% Crew: 3.93 s Rammer: 3.54 s Vents: 3.84 s Both: 3.46 s Both and BiA: 3.38 s Both and Max Crew %: 3.24 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 3.9 s 50% Crew: 4.83 s 75% Crew: 4.22 s 100% Crew: 3.74 s Rammer: 3.37 s Vents: 3.66 s Both: 3.29 s Both and BiA: 3.22 s Both and Max Crew %: 3.09 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1609.3 50% Crew: 1299.1 75% Crew: 1488.3 100% Crew: 1678.6 100% Crew Vents: 1716 Rammer: 1865.6 Both: 1907.4 Both and BiA: 1949.2 Both and Max Crew %: 2033.9 Advantageous Damage Per Minute First-shot DPM: 1719.3 50% Crew: 1409.1 75% Crew: 1598.3 100% Crew: 1788.6 100% Crew Rammer: 1975.6 Vents: 1826 Both: 2017.4 Both and BiA: 2059.2 Both and Max Crew %: 2143.9 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1609.3 50% Crew: 1299.1 75% Crew: 1488.3 100% Crew: 1678.6 100% Crew Vents: 1716 Rammer: 1865.6 Both: 1907.4 Both and BiA: 1949.2 Both and Max Crew %: 2033.9 Advantageous Damage Per Minute First-shot DPM: 1719.3 50% Crew: 1409.1 75% Crew: 1598.3 100% Crew: 1788.6 100% Crew Rammer: 1975.6 Vents: 1826 Both: 2017.4 Both and BiA: 2059.2 Both and Max Crew %: 2143.9 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2560.25 50% Crew: 2066.75 75% Crew: 2367.75 100% Crew: 2670.5 100% Crew Vents: 2730 Rammer: 2968 Both: 3034.5 Both and BiA: 3101 Both and Max Crew %: 3235.75 Advantageous Damage Per Minute First-shot DPM: 2735.25 50% Crew: 2241.75 75% Crew: 2542.75 100% Crew: 2845.5 100% Crew Rammer: 3143 Vents: 2905 Both: 3209.5 Both and BiA: 3276 Both and Max Crew %: 3410.75 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1691.8 50% Crew: 1366.2 75% Crew: 1564.2 100% Crew: 1764.4 100% Crew Vents: 1804 Rammer: 1960.2 Both: 2004.2 Both and BiA: 2049.3 Both and Max Crew %: 2137.3 Advantageous Damage Per Minute First-shot DPM: 1801.8 50% Crew: 1476.2 75% Crew: 1674.2 100% Crew: 1874.4 100% Crew Rammer: 2070.2 Vents: 1914 Both: 2114.2 Both and BiA: 2159.3 Both and Max Crew %: 2247.3 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1691.8 50% Crew: 1366.2 75% Crew: 1564.2 100% Crew: 1764.4 100% Crew Vents: 1804 Rammer: 1960.2 Both: 2004.2 Both and BiA: 2049.3 Both and Max Crew %: 2137.3 Advantageous Damage Per Minute First-shot DPM: 1801.8 50% Crew: 1476.2 75% Crew: 1674.2 100% Crew: 1874.4 100% Crew Rammer: 2070.2 Vents: 1914 Both: 2114.2 Both and BiA: 2159.3 Both and Max Crew %: 2247.3 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2691.5 50% Crew: 2173.5 75% Crew: 2488.5 100% Crew: 2807 100% Crew Vents: 2870 Rammer: 3118.5 Both: 3188.5 Both and BiA: 3260.25 Both and Max Crew %: 3400.25 Advantageous Damage Per Minute First-shot DPM: 2866.5 50% Crew: 2348.5 75% Crew: 2663.5 100% Crew: 2982 100% Crew Rammer: 3293.5 Vents: 3045 Both: 3363.5 Both and BiA: 3435.25 Both and Max Crew %: 3575.25 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.547 m With 75% Crew: 0.482 m With 100% Crew: 0.43 m With BiA: 0.42 m With BiA and Vents: 0.412 m Maximum possible: 0.395 m For more details, see Crew m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.437 m With 100% Crew: 0.39 m With BiA: 0.381 m With BiA and Vents: 0.374 m Maximum possible: 0.358 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.673 s With 75% Crew: 2.352 s With 100% Crew: 2.1 s With GLD: 1.909 s With BiA: 2.052 s With BiA and Vents: 2.014 s With both and GLD: 1.831 s Maximum possible: 1.755 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.546 s With 75% Crew: 2.24 s With 100% Crew: 2 s With GLD: 1.818 s With BiA: 1.954 s With BiA and Vents: 1.918 s With both and GLD: 1.743 s Maximum possible: 1.671 s For more details, see Crew or Equipment Aim time. 
+3028 deg/s Turret Traverse. 
+360° Gun Arc. 
+-12°/+12°-8°/+15° Elevation Arc. 
+15075 rounds Ammo Capacity. 
+2015 % Chance of Fire. 
+m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 290.6 m With 75% Crew: 332.8 m With 100% Crew: 375.5 m With 100% Signal Boost: 432 m When affected by 100% Relaying: 396 m Maximum possible: 540.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+75 mm SA32. 
+74/92/38. 
+110/110/175. 
+14.29. 
+0.43. 
+2.1. 
+nan. 
+1520.0. 
+10360. 
+V. 
+75 mm SA44. 
+100/129/38. 
+110/110/175. 
+15.38. 
+0.39. 
+2.0. 
+nan. 
+1400.0. 
+27000. 
+nan. 
+105 mm court mle. 1934. 
+53/104/38. 
+410/350/175. 
+6.0. 
+0.54. 
+2.6. 
+nan. 
+nan. 
+40700. 
+IV. 
+Renault-Balland. 
+60/60/60. 
+30. 
+330. 
+nan. 
+3500. 
+4000. 
+V. 
+FCM F1 R. 
+60/60/60. 
+28. 
+350. 
+nan. 
+5700. 
+10100. 
+V. 
+Renault T13. 
+400. 
+20. 
+nan. 
+750. 
+21400. 
+IV. 
+Renault T12. 
+350. 
+20. 
+nan. 
+540. 
+13000. 
+V. 
+Renault T14. 
+450. 
+15. 
+nan. 
+750. 
+22300. 
+IV. 
+Renault G1 Premier Project. 
+33. 
+28. 
+B/2. 
+nan. 
+7000. 
+4000. 
+V. 
+Renault G1 Project Modifié. 
+36. 
+30. 
+B/2. 
+nan. 
+7000. 
+9600. 
+V. 
+ER 29. 
+360. 
+nan. 
+50. 
+3650. 
+VII. 
+ER 26 ter. 
+455. 
+nan. 
+150. 
+21800. 
+IX. 
+ER 27. 
+710. 
+nan. 
+200. 
+43500. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank= 
+| 
+
+|Gallery=
+
+File:Renault G1 scr 1. F11 Renault G1R jpg
+File:Renault G1 scr 2. F11 Renault G1R jpg
+File:Renault G1 scr 3. F11 Renault G1R jpg
+File:Renault G1 scr 4. F11 Renault G1R jpg
+
+
+|InTheGame_pros= 
+* Thick hull armour all around with sloping and side skirts
+* Good aim time with the 75mm gun
+* The 105mm has relatively good shell velocity compared to other howitzers
+* Relatively heavy - Good for ramming other similar tiered medium and light tanks
+* Top engine has reduced chance of fire
+
+|InTheGame_cons= 
+* Big, boxy yet poorly armored top turret with tumor-style cupola sticking out 
+* Stock turret cannot fit the top 75mm or 105mm
+* Low top speed and traverse speed compared to other medium at the same tier
+* Top 75mm has awful penetration and mediocre accuracy; 105mm gun has lower alpha, penetration, and rate for tier 5. F11 Renault G1R 
+* Leading to the [[ARL 44]], different crew setups and no guns carrying over make the grind more difficult. F11 Renault G1R 
+
+
+|InTheGame_performance= 
+Your armor will likely hold against low tiered enemies quite well, though is quite unreliable against similar or higher tiered tanks. F11 Renault G1R  It also comes at the price of having much worse speed and maneuverability than almost all other mediums of the same tier. F11 Renault G1R  Thus, this tanks works better as second-line heavy supporter, constantly chipping away hitpoints from enemy heavies as they brawl with your heavies, as well as picking out sneaky light flankers. F11 Renault G1R  Messing with other mediums don't work out well generally: it's plainly too slow to arrive at advantageous positions in time. F11 Renault G1R  To make matters worse, the sluggishness and inferior weaponry won't allow you to outgun most opponents unless running 105mm HEAT rounds with considerable gunnery skill. F11 Renault G1R  Also be ware of being a rather rare sight on the battlefield, some opponents might priorize you for completing Expert: France achievement. F11 Renault G1R 
+
+If you have the 75mm equipped, be prepared for frequent non-penetrations as the gun has exactly 100mm of penetration at 100m. F11 Renault G1R  The APCR has poor penetration as well, with only 129mm of penetration. F11 Renault G1R  Heavily armored vehicles like the [[AT 2]] will cause you problems, so it is advised to equip the 105mm howitzer so you can guarantee damage with High Explosive against any target you come across. F11 Renault G1R  For a last resort, your vehicle weighs about 35 tons - be a battering ram against light tanks and other lighter vehicles in dire situation, though you might not frequently catch up with them. F11 Renault G1R  In comparison, the [[M4 Sherman]] weighs 30 tons. F11 Renault G1R  If you are to ram a Sherman, you are more often to be better off than the Sherman will be. F11 Renault G1R 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+The Char G1 was a French replacement project for the Char D2 medium tank. F11 Renault G1R  Several prototypes from different companies were developed since 1936, but not a single one had been fully completed at the time of the Fall of France in 1940. F11 Renault G1R  The projects represented some of the most advanced French tank design of the period and finally envisaged a type that would have been roughly equal in armament and mobility to later World War II standard tanks of other nations, such as early models of the Soviet T-34 and the American M4 Sherman, but possessing several novel features, such as gun stabilization, a semi-automatic loader and an optical rangefinder. F11 Renault G1R 
+
+
+In 1935, the French ''Infanterie'' still lacked a satisfactory medium tank. F11 Renault G1R  While a reasonably effective heavy breakthrough tank in the form of the Char B1 was available, as well as several light infantry tanks about to enter production (namely, the Renault R35, Hotchkiss H35 and FCM 36), the only medium tanks available were the disappointing Renault Char D1 and only slightly improved Renault Char D2. F11 Renault G1R  At least 250 medium tanks would be needed to equip the planned organic tank battalions of the five mechanized infantry divisions, which would be the main ''Infanterie'' force for executing strategic offensive and defensive operations. F11 Renault G1R  The ''Cavalerie'' already had a good medium tank in the form of the SOMUA S 35, but the ''Infanterie'' rejected it for use on account of the S 35's limited climbing capabilities. F11 Renault G1R  Inter-service rivalry also played a role in this rejection, as the ''Infanterie'' wished to assert its dominance over the ''Cavalerie'' in the field of tank design. F11 Renault G1R  
+
+
+==The Twenty-Tonne Tank==
+
+Thus, on 18 December, the ''Infanterie'' issued its first specifications for a ''Char Moyen d'Infanterie de 20 tonnes'' ("20 tonne medium infantry tank"). F11 Renault G1R  The specifications called for a road speed of 50 km/h, an off-road speed of 20 km/h, a range of 400 km, trench crossing capability of 2 m, a wading depth of 120 cm, climbing capability of 80 cm and 45° slope. F11 Renault G1R  Armament was to consist of a 47 mm gun and a 7. F11 Renault G1R 5 mm machine gun, with an armor thickness of 40 mm. F11 Renault G1R  The hull was to be completely sealed against chemical weapons, and a radio was required. F11 Renault G1R  The weight limit of 20 metric tonnes was stipulated because of railroad, bridge-carrying, and pontoon capacity constraints. F11 Renault G1R 
+
+In May 1936, the ''Conseil Consultatif de l'Armement'' invited French industry to initiate design studies for the new 20 tonne tank. F11 Renault G1R  However, at the same time it was increasingly realized that the Char B1 was overly complex and expensive, and was 2 tonnes heavier than necessary due to the use of riveted armor plate instead of more modern welding and casting techniques. F11 Renault G1R  The 20 tonne tank promised to be lighter, more mobile, cheaper and easier to produce, and also easier to train crews on. F11 Renault G1R  It was thus decided that the 20 tonne tank would also serve as the future ''char bataille'' ("battle tank") of the ''Infanterie'', replacing the Char B1. F11 Renault G1R  The specifications were subsequently changed in October, calling for protection equivalent to that of the Char B1 (60 mm all around), increased trench crossing capability (250 cm), and armament of a high velocity gun capable of eliminating all expected enemy medium tanks as well as two machine guns. F11 Renault G1R  The other requirements remained the same. F11 Renault G1R  These specifications were highly ambitious, and the vehicle promised to be the most potent and modern French tank yet developed. F11 Renault G1R  This also meant that development would take some time, as the tank was too advanced for French industry at the time. F11 Renault G1R  
+
+==Char G==
+
+At the same time, debate was raging about the future use of the tank in the ''Infanterie''. F11 Renault G1R  On one side were officers like Charles de Gaulle, who proposed that the ''Infanterie'' raise its own armored divisions similar to the DLMs (''Divisions Légères Mécaniques'' - "Mechanized Light Divisions") of the ''Cavalerie'' or the German ''Panzerdivisionen'' - balanced forces with organic mechanised infantry and artillery, flexible enough to fulfill all possible tactical roles. F11 Renault G1R  More conservative officers opposed imitating the ''Cavalerie'' and insisted that the ''Infanterie'' should stick to its traditional role, that of the breakthrough. F11 Renault G1R  Some wanted the limited funds to be spent on producing a sufficient number of light infantry tanks to give each division its own organic tank battalion. F11 Renault G1R  Others contended that only heavy tanks should be built. F11 Renault G1R  The 20 tonne tank, now known as the Char G, was intended to be both mobile and heavily armored enough to spearhead breakthroughs, and only made sense if used in German-style armored divisions. F11 Renault G1R  Until the debate was settled, the future of the Char G remained uncertain. F11 Renault G1R 
+
+Despite this, French industry was very interested in the Char G project, as it promised to become France's major tank-building program. F11 Renault G1R  With it would come lucrative state investments at a time when French industry was still reeling from the effects of the Great Depression. F11 Renault G1R  Seven companies submitted designs between late 1936 and early 1937: ''Établissements Baudet-Donon-Roussel'' (BDR), ''Société Nouvelle des Forges et Chantiers de la Méditerranée'' (FCM), ''Renault'', ''Fouga'', ''Lorraine de Dietrich'', ''Société d'Études et d'Applications Mécaniques'' (SEAM), and ''Société d'Outillage Mécanique et d'Usinage d'Artillerie'' (SOMUA). F11 Renault G1R  Reports were issued on each of the proposals, only SEAM and Renault's projects were sufficiently advanced for construction of prototypes to be approved, their good connections with the French military having allowed them to begin design work even before the specifications had been officially issued. F11 Renault G1R  The proposals of BDR, ''Lorraine de Dietrich'', and ''Fouga'' were kept under consideration until further studies on their feasibility had been completed. F11 Renault G1R  On the instigation of Prince André Poniatowski, head of a design bureau subcontracted by SEAM, the Char G specifications were changed in November 1937 to require a hull-mounted 75 mm gun as the Char G's primary armament, which was unsurprisingly a feature of SEAM's proposal. F11 Renault G1R  This caused many problems for the other competitors, as their designs had no room for such a large weapon in the hull. F11 Renault G1R  This change in requirement, along with the increase in armor demanded added about 4 tonnes to the designs, and as of 20 February 1937, none of the designs met the weight limit of 20 tonnes, and were projected at 23-35 tonnes. F11 Renault G1R  Louis Renault's design featured a 75 mm gun mounted in a turret, and back in 1936 he had proposed this arrangement as an alternative, which was well-received. F11 Renault G1R  Capitalizing on this, he bribed a high-ranking officer of the ''Direction de l'Infanterie'' to change the design requirements yet again, this time making a 75 mm gun in the turret mandatory. F11 Renault G1R  This forced Renault's competitors to completely redesign their proposals, giving Renault a huge advantage and inevitably causing large and, as Renault hoped, fatal delays to the competition's proposals. F11 Renault G1R 
+
+==Char G1==
+
+By late 1937, the project had been renamed Char G1, and all prototypes then authorized received official designations: G1 L (Lorraine), G1 R (Renault), G1 B (BDR), G1 F (Fouga), G1 P (SEAM). F11 Renault G1R  The SOMUA and FCM projects had been discontinued for being too vague or lacking innovation, along with the fact that these two companies had their hands full manufacturing other types. F11 Renault G1R  On 1 February 1938, the ''Direction de l'Infanterie'' issued a third major change to the specifications. F11 Renault G1R  The maximum weight was increased to 35 tonnes in order to fit the 75 mm APX 32-calibre gun in a turret (known as the 75 mm SA32 in-game). F11 Renault G1R  The ever-changing design requirements caused most companies to slow the design process, as they were unwilling to invest much money in an ever more complex project with uncertain prospects. F11 Renault G1R  In order to speed up the process, on  8 June 1938 Maurice Lavirotte of the ''Atelier de Construction de Rueil'' (ARL), the French Army's workshop, was dispatched to assist the companies with construction. F11 Renault G1R  If armor plate was not available for the companies, boiler plate was permitted in the construction of the prototypes. F11 Renault G1R 
+
+==New Specifications==
+
+On 12 July 1938 a much more detailed list of specifications was given. F11 Renault G1R  In general they called for a tank that was powerfully armed, immune to standard anti-tank guns and possessed excellent tactical and strategic mobility. F11 Renault G1R  In detail, the specifications demanded a long, high velocity, semi-automatic 75 mm 32-calibre gun as the main armament; a 7. F11 Renault G1R 5mm machine gun in the turret that can also serve as an anti-aircraft weapon, a machine gun in the front of the hull or the turret, a minimum ammunition load of 100 rounds for the main gun and 30 magazines for the machine guns, an empty weight of 30 and a combat weight of 32 tonnes. F11 Renault G1R  The engine was to be able to be both electrically and manually started, while the tracks were to be fully accessible. F11 Renault G1R  A maximum speed of 40 km/h (average 30 km/h) on roads and 20 km/h offroad was required. F11 Renault G1R  Two fuel tanks were to give a range of 200 km or 8 hours endurance off-road. F11 Renault G1R  Climbing capability was demanded to be 90 cm and 85% on a solid or 65% on a wet slope, while trench-crossing capability was to be 250 cm and the wading depth would be 120 cm. F11 Renault G1R  For the first time, dimensional limits were also set: the width was to not exceed 294 cm to facilitate rail transport, the absolute height of the fighting compartment was to not exceed 120 cm, but yet be sufficient to hold a side door. F11 Renault G1R  With regards to the gas-proof armor, the demanded thickness remained at 60 mm, but the use an appliqué armor was forbidden. F11 Renault G1R  The armor could be cast — with the sections connected by bolts or, preferably, gudgeons, or electrically welded. F11 Renault G1R  Automatic fire extinguishers were also required. F11 Renault G1R  The crew were to have advanced vision and fire-control equipment. F11 Renault G1R  The cupola, armed with the secondary 7. F11 Renault G1R 5 mm machine gun, was to have have a large episcope to which the main turret was slaved, allowing the commander to lay the 75 mm gun on the target himself. F11 Renault G1R  The cupola would also be fitted with an optical telemetric rangefinder. F11 Renault G1R  The gun was to be a 32-calibre 75 mm gun. F11 Renault G1R  Despite its short length, the gun would have good armor penetration using Brandt tungsten armor piercing sub-caliber ammunition. F11 Renault G1R  None of the projects in the summer of 1938 could meet these specifications without a fundamental redesign. F11 Renault G1R  
+
+In France during the 1930s, tank turrets were usually designed separately from tank hulls, in order to serve as standard types usable on many different vehicles. F11 Renault G1R  On 1 June 1938 the commission determined that three teams, those of ARL, FCM, and Renault, were to develop new turrets capable of being fitted to the Char G1 under the new specifications. F11 Renault G1R  They were invited to make the necessary changes and consider existing or new high velocity 75 mm guns. F11 Renault G1R  In July 1939, ARL produced a prototype of both a turret, the 5. F11 Renault G1R 7 tonne ARL 3 fitted with a turret-basket and having a turret ring diameter of 188 cm, and a 75 mm gun, which had been developed for the FCM F1 super heavy tank project. F11 Renault G1R  Similarly, FCM developed a modified 7. F11 Renault G1R 5 tonne version of the welded octagonal auxiliary turret on the FCM F1, equipped with an advanced semiautomatic loader and a turret ring diameter of 185 cm. F11 Renault G1R  As a low-risk project, FCM also developed the welded, octagonal F4 turret that had been developed from that of the Char 2C super heavy tank, and was equipped with the ubiquitous 75 mm mle. F11 Renault G1R  1897 field gun. F11 Renault G1R  
+
+
+==Development of Renault's proposal==
+
+The Renault G1 represents the proposal sent by Louis Renault, who was very interested in the development of the Char G1 due to it competing with his company's Char D2 and B1 tanks. F11 Renault G1R  He was also interested in restoring the company's reputation after the failure of the AMC 34 and 35 along with other complaints of the reliability of his other tanks. F11 Renault G1R 
+
+Renault's intial proposal was submitted on December 10, 1936, and it complied with the initial requirements for a 20-ton tank. F11 Renault G1R  This proposal was based on the Renault R35, and had a similar smooth curved cast hull to that of the light infantry tank but was much wider and had six road wheels and double tracks per side — to avoid having to design a new broad track. F11 Renault G1R  It had a modern torsion bar suspension and, similarly to the competing Char G1 proposal sent by Lorraine de Dietrich, had a (rather outdated) Cleveland transmission. F11 Renault G1R  The suspension protection plates formed an integral part with the hull's main armour. F11 Renault G1R 
+
+The hull was crowned by a flat-domed cast superstructure that superficially resembled a circular conventional turret. F11 Renault G1R  In reality however it was at first planned to be fixed; the 47 mm gun was supposed to traverse through a horizontal slit like in a pill-box, rotating on a pivot fixed to the hull floor, a proposal made by Colonel Balland. F11 Renault G1R  In a second version of this design by engineer Jean Restany, the "pseudo-turret" was traversable, but simply carried along by the electrically driven gun-mount; the turret therefore would not have to be equipped with a heavy gun-mantlet and, not bearing the weight of the armament, could be much lighter. F11 Renault G1R  On the right side of the superstructure a vertical cylinder protruded, on top of which a small rotating commander's cupola was fitted, that was armed with dual co-axial machine guns. F11 Renault G1R  The superstructure, with the commander/gunner on the right and the loader on the left, had sufficient room to hold a Schneider 47 mm antitank gun that was much more powerful than the shorter 47 mm SA 35 gun equipping the standard APX1 and APX4 turrets. F11 Renault G1R  Expecting that this superior firepower would give his design a clear advantage leading to a quick production contract, as had so often happened in the past, Renault was unpleasantly surprised when lobbying by Poniatowski contributed to a change in specifications to the effect that a 75 mm gun had to be carried in the hull. F11 Renault G1R  The ACK1 hull was simply too flat for this. F11 Renault G1R  To save his project Renault started a strong counter-lobby. F11 Renault G1R  Part of this was proposing, already on 10 December 1936, that as an alternative option the turret should hold a longer (at least L/29) main 75 mm armament. F11 Renault G1R  It was also claimed that the weight of the projects, 24 tonnes, could be reduced to 19. F11 Renault G1R 6 tonnes by limiting the armament to a single gun. F11 Renault G1R 
+
+The commission in 1937 was hesitant about the torsion-bar suspension, and rejected the Cleveland transmission and double-track feature. F11 Renault G1R  It also concluded that weight would be at least 25 tonnes. F11 Renault G1R  Nevertheless, an order for a prototype was made, in view of the innovative armament mounting. F11 Renault G1R 
+
+The specification change of 1 February 1938 was much in favour of Renault, as the other companies needed a very fundamental redesign of their projects to meet the new demands, whereas the ACK1 with its broad fighting compartment could easily accommodate a wide turret as it was. F11 Renault G1R  Renault also promised that his tank could be taken into production in 1940, a year earlier than the Char G1L, so the latter project could be replaced by his Char G1R as the main development type. F11 Renault G1R 
+
+At this moment however it was recognized by the commission that the weight estimate earlier made by the bribed Infantry officer had been a deliberate falsehood and that the best that could be expected was 28 tonnes. F11 Renault G1R  Also the claimed first production date, that had already led to a limiting of Char B1 bis orders, later was proven to be wildly optimistic. F11 Renault G1R  In April 1938 Renault claimed that weight could yet be saved by perpetuating the feature of the torsion-bar suspension, limiting the crew to four and keeping the ammunition load to its bare minimum. F11 Renault G1R  The commission decided however to bring the weight limit of the project to thirty tonnes, as this was in line with the other projects and the planned inner hull side armour (located below fifty millimetres external suspension protection plates) of ten millimetres was deemed too thin. F11 Renault G1R  The weight advantage in relation to the rival designs thus largely disappeared. F11 Renault G1R 
+
+In the summer of 1938 a further problem for the Renault design materialised in that the new demand was made that the turret should hold a stabilised gun and a telemetric rangefinder, features to which the cast turret could not be easily adapted. F11 Renault G1R  As the 2. F11 Renault G1R 5 tonne pseudo-turret was moved about by the gun barrel, its momentum tended to disturb the sight-laying. F11 Renault G1R  This problem was solved in 1939 with the help of APX, which designed a system in which the vertical axis of the gun mount was directly connected to the turret roof. F11 Renault G1R  At the same time the troublesome Cleveland transmission was abandoned. F11 Renault G1R  Overall the Renault design process in the years 1938 and 1939 was very slow. F11 Renault G1R 
+
+On 10 September 1939 the Char G1R was the only one of the projects that was to be further developed, probably because the Renault company was exceptional in having reserve production capacity left. F11 Renault G1R 
+
+==Alternate Turret development==
+
+In France during the thirties, generally tank turrets were designed separately from tank hulls, to serve as standard types applicable to many different vehicles. F11 Renault G1R  On 1 June 1938 the commission determined that three teams, those of ARL, FCM and Renault, were in the process of developing new turrets capable of being fitted on the Char G1 under the new specifications. F11 Renault G1R  These were invited to make the necessary changes and research existing or new suitably-high-velocity 75 mm guns. F11 Renault G1R 
+
+In July 1939 ARL was developing prototypes of both a turret, the 5. F11 Renault G1R 7 tonne ARL 3 fitted with a turret-basket and having a turret ring diameter of 188 cm, and a gun, also in the context of the FCM F1 project. F11 Renault G1R  FCM was considering use of a revised 7. F11 Renault G1R 5 tonne version of the welded octagonal auxiliary turret of the heavy FCM F1, to be equipped with an advanced semi-automatic loader and having a turret ring diameter of 185 cm. F11 Renault G1R  As a fallback plan, FCM also was considering the use of the similarly octagonal and welded F4 turret, developed from that of the Char 2C and equipped with the standard 75 mm field gun. F11 Renault G1R 
+
+
+|HistAcc=
+* The Renault G1 is unable to equip the Schneider 47 mm gun that was initially planned for it, as seen in the wooden mock-up. F11 Renault G1R 
+* The 75 mm SA 44 cannon was developed only after the G1 project was cancelled. F11 Renault G1R 
+* There are no records indicating that the any versions of the G1 project were to be fitted with the 105 mm court mle. F11 Renault G1R  1934. F11 Renault G1R 
+
+|HistoricalGallery= 
+File:Renault_G1R_wooden_Mock-up. F11 Renault G1R jpg{{!}}The Renault G1R wooden mock-up, armed with a 47 mm gun. F11 Renault G1R  This is represented in-game by the tank's stock turret. F11 Renault G1R 
+File:G1R_75mm_version. F11 Renault G1R jpg{{!}}Mock-up of the G1R with the 75mm SA32
+
+|Ref_references=
+
+|Ref_sources=
+
+* Pierre Touzin, Les véhicules blindés français, 1900-1944. F11 Renault G1R  EPA, 1979
+* Jean-Gabriel Jeudy, Chars de France, E. F11 Renault G1R T. F11 Renault G1R A. F11 Renault G1R I. F11 Renault G1R , 1997
+* Stéphane Ferrard, 2007, "Le Futur Char G1, 1re partie 1935-1938: Le Char de 20 Tonnes", Histoire de Guerre, Blindés & Matériel, N° 78, pp. F11 Renault G1R  38–47
+* Stéphane Ferrard, 2007, "Le Futur Char G1, 1re partie 1935-1938 (2): La <<Bombe>> Renault et les autres 20 T", Histoire de Guerre, Blindés & Matériel, N° 79, pp. F11 Renault G1R  62–71
+* Stéphane Ferrard, 2008, "Le Futur Char G1, 2e partie 1938-1940 (1): 35 tonnes maximum pour un 75 en tourelle", Histoire de Guerre, Blindés & Matériel, N° 81, pp. F11 Renault G1R  48–55
+* Stéphane Ferrard, 2008, "Le Futur Char G1, 2e partie 1938-1940 (2): Vers le Char de 35 tonnes de Série", Histoire de Guerre, Blindés & Matériel, N° 83, pp. F11 Renault G1R  72–80
+
+|Ref_links=
+* https://www. F11 Renault G1R chars-francais. F11 Renault G1R net/2015/index. F11 Renault G1R php/liste-chronologique/de-1930-a-1940?task=view&id=689
+* https://ftr. F11 Renault G1R wot-news. F11 Renault G1R com/2015/03/01/the-french-are-coming-how-g1r-started/
+* https://en. F11 Renault G1R wikipedia. F11 Renault G1R org/wiki/Char_G1
+* https://forum. F11 Renault G1R valka. F11 Renault G1R cz/topic/view/191231
+
+
+}}

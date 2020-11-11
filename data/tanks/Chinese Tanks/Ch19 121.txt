@@ -1,0 +1,187 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Historical Gallery. 
+6,100,000 Cost. 
+20502050 HP Hit Points. 
+39/4238.7/42 t Weight Limit. 
+650650 hp Engine Power. 
+56/20 km/h Speed Limit. 
+5050 deg/s Traverse. 
+16.6716.8 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+135/80/60 mm Hull Armor. 
+240/130/60240/130/60 mm Turret Armor. 
+AP/HEAT/HE AP/HEAT/HE Shells. 
+1065/4800/630 1065/4800/630 Shell Cost. 
+440/440/530440/440/530 HP Damage. 
+262/340/68262/340/68 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 9.6 s 50% Crew: 11.89 s 75% Crew: 10.38 s 100% Crew: 9.2 s Rammer: 8.28 s Vents: 9 s Both: 8.1 s Both and BiA: 7.92 s Both and Max Crew %: 7.59 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 9.6 s 50% Crew: 11.89 s 75% Crew: 10.38 s 100% Crew: 9.2 s Rammer: 8.28 s Vents: 9 s Both: 8.1 s Both and BiA: 7.92 s Both and Max Crew %: 7.59 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: 2750 50% Crew: 2222 75% Crew: 2543.2 100% Crew: 2868.8 100% Crew Vents: 2934.8 Rammer: 3185.6 Both: 3260.4 Both and BiA: 3330.8 Both and Max Crew %: 3476 Advantageous Damage Per Minute First-shot DPM: 3190 50% Crew: 2662 75% Crew: 2983.2 100% Crew: 3308.8 100% Crew Rammer: 3625.6 Vents: 3374.8 Both: 3700.4 Both and BiA: 3770.8 Both and Max Crew %: 3916 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: 2750 50% Crew: 2222 75% Crew: 2543.2 100% Crew: 2868.8 100% Crew Vents: 2934.8 Rammer: 3185.6 Both: 3260.4 Both and BiA: 3330.8 Both and Max Crew %: 3476 Advantageous Damage Per Minute First-shot DPM: 3190 50% Crew: 2662 75% Crew: 2983.2 100% Crew: 3308.8 100% Crew Rammer: 3625.6 Vents: 3374.8 Both: 3700.4 Both and BiA: 3770.8 Both and Max Crew %: 3916 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 3312.5 50% Crew: 2676.5 75% Crew: 3063.4 100% Crew: 3455.6 100% Crew Vents: 3535.1 Rammer: 3837.2 Both: 3927.3 Both and BiA: 4012.1 Both and Max Crew %: 4187 Advantageous Damage Per Minute First-shot DPM: 3842.5 50% Crew: 3206.5 75% Crew: 3593.4 100% Crew: 3985.6 100% Crew Rammer: 4367.2 Vents: 4065.1 Both: 4457.3 Both and BiA: 4542.1 Both and Max Crew %: 4717 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: 2750 50% Crew: 2222 75% Crew: 2543.2 100% Crew: 2868.8 100% Crew Vents: 2934.8 Rammer: 3185.6 Both: 3260.4 Both and BiA: 3330.8 Both and Max Crew %: 3476 Advantageous Damage Per Minute First-shot DPM: 3190 50% Crew: 2662 75% Crew: 2983.2 100% Crew: 3308.8 100% Crew Rammer: 3625.6 Vents: 3374.8 Both: 3700.4 Both and BiA: 3770.8 Both and Max Crew %: 3916 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: 2750 50% Crew: 2222 75% Crew: 2543.2 100% Crew: 2868.8 100% Crew Vents: 2934.8 Rammer: 3185.6 Both: 3260.4 Both and BiA: 3330.8 Both and Max Crew %: 3476 Advantageous Damage Per Minute First-shot DPM: 3190 50% Crew: 2662 75% Crew: 2983.2 100% Crew: 3308.8 100% Crew Rammer: 3625.6 Vents: 3374.8 Both: 3700.4 Both and BiA: 3770.8 Both and Max Crew %: 3916 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 3312.5 50% Crew: 2676.5 75% Crew: 3063.4 100% Crew: 3455.6 100% Crew Vents: 3535.1 Rammer: 3837.2 Both: 3927.3 Both and BiA: 4012.1 Both and Max Crew %: 4187 Advantageous Damage Per Minute First-shot DPM: 3842.5 50% Crew: 3206.5 75% Crew: 3593.4 100% Crew: 3985.6 100% Crew Rammer: 4367.2 Vents: 4065.1 Both: 4457.3 Both and BiA: 4542.1 Both and Max Crew %: 4717 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.345 s With 75% Crew: 2.92 s With 100% Crew: 2.589 s With GLD: 2.354 s With BiA: 2.532 s With BiA and Vents: 2.477 s With both and GLD: 2.252 s Maximum possible: 2.158 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.345 s With 75% Crew: 2.92 s With 100% Crew: 2.589 s With GLD: 2.354 s With BiA: 2.532 s With BiA and Vents: 2.477 s With both and GLD: 2.252 s Maximum possible: 2.158 s For more details, see Crew or Equipment Aim time. 
+4040 deg/s Turret Traverse. 
+360° Gun Arc. 
+-5°/+15°-5°/+15° Elevation Arc. 
+4040 rounds Ammo Capacity. 
+1212 % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+X. 
+122 mm 60-122TG. 
+262/340/68. 
+440/440/530. 
+6.25. 
+0.35. 
+2.7. 
+nan. 
+2800. 
+185140. 
+X. 
+121. 
+240/130/60. 
+40. 
+400. 
+nan. 
+10000. 
+66000. 
+X. 
+12150L7. 
+650. 
+12. 
+nan. 
+935. 
+25000. 
+X. 
+121. 
+42. 
+50. 
+B/2. 
+nan. 
+7700. 
+82500. 
+X. 
+A-220B. 
+750. 
+nan. 
+40. 
+54000. 
+Light Tanks. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Medium Tanks. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Heavy Tanks. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Tank Destroyers. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank=
+|The 121 continues the Chinese tradition of installing the largest gun possible on a medium tank. Ch19 121  The 121 is an all round improvement over the WZ-120 with improved gun handling and DPM being the main benefits. Ch19 121 
+With its 122mm gun, the 121 excels in the peek-and-boom role, and may outtrade most other medium tanks or even heavy tanks. Ch19 121  The armor might not lend itself to proper front-line use, but as always the soup-bowl turret and angled frontal plate will extend your survivability. Ch19 121 
+
+The 121 is a menacing opponent for any tank in a straight close-range brawl and is flexible enough to carry games with its raw damage output. Ch19 121  Still, expect to struggle if not fighting on your own terms - the gun handling is nowhere near the best T10 mediums. Ch19 121 
+
+
+|InTheGame_pros=
+* Joint highest alpha damage in tier/class, good penetration
+* Very good DPM, good gun handling and accuracy
+* Strong turret armor and better hull armor than its predecessor [[WZ-120]]
+* Excellent hull traverse speed and good ground resistance, great agility
+* Low profile, good camouflage values
+
+
+|InTheGame_cons=
+* Despite improvements, the hull armor is still unreliable
+* Bad gun depression, as usual for a Chinese tank
+* Poor aim time, comparable to that of a heavy tank
+
+|InTheGame_performance=
+A straight upgrade from the [[WZ-120]] and China's main counterpart to the Russian [[Object 430U]], the 121 employs a similar playstyle to its predecessor, but with improvements across the board. Ch19 121 
+
+Most critically, the 121 "enjoys" -5 degrees of gun depression. Ch19 121  While this would normally be a bad number, it is a significant improvement over the abysmal -3 degrees the WZ-120 had to deal with when using its top gun, allowing the 121 more freedom when choosing its positions on the battlefield. Ch19 121  Alpha damage is still the highest in tier and class, tied with Object 430U and the Swedish [[UDES 15/16]], and while HEAT penetration is the same as WZ-120, base AP penetration as well as shell velocity enjoy small but welcome upgrades. Ch19 121  Accuracy, gun handling and aim time are also improved, providing an overall more comfortable experience for players who wished the WZ-120 had a less clumsy top gun. Ch19 121  Also, the 121 has excellent DPM, with about 8 seconds reload with a fully trained crew, ventilation and a standard gun rammer. Ch19 121  Unfortunately, the aim time is quite poor. Ch19 121 
+
+In terms of defense, the 121 retains a solid turret with small and well protected cupolas, and a thicker upper glacis compared to the WZ-120. Ch19 121  When able to cover its hull, the 121 can be very hard to dislodge from its position, though the hull armor is quite unreliable and unable to withstand most return fire from same-tier guns, barring poorly aimed shots. Ch19 121  The 121 also enjoys good concealment and has a low profile, so it can use cover effectively. Ch19 121 
+
+Mobility-wise the 121 is a mix of good and bad - it has good speed and excellent agility, but its engine power is low (improved somewhat as of 1. Ch19 121 10. Ch19 121 1) and acceleration can feel sluggish at times. Ch19 121  Overall, it is still better than its main Russian competitor though. Ch19 121 
+
+All said, the 121 is a strong tank let down by some critical shortcomings, such as long aim time and lack of gun depression. Ch19 121  This makes it unsuitable for top competitive gameplay, but a properly played 121 can be quite devastating so long as its strengths and weaknesses are understood. Ch19 121  
+
+*As of Patch 1. Ch19 121 10. Ch19 121 1, the 121 has been buffed. Ch19 121  While still unreliable, the thickness of the frontal hull has been increased from 120 to 135, improving the frontal hull effective thickness from ~195 to ~220. Ch19 121  This makes it slightly more reliable, mostly against lower tiers. Ch19 121  Additionally, the Health has been increased from 1,950 to 2,050. Ch19 121  The engine power has also increased from 580 to 650, giving it 1. Ch19 121 8 more hp/t. Ch19 121  Lastly, the shell velocity and penetration of its AP shells has been increased, from 258 to 262 pen, along with 115 more shell velocity, from 1,000 to 1,115. Ch19 121  However, the shell velocity of its premium HEAT shells and its HE shells has been decreased from 1,000 to 907. Ch19 121 
+
+|InTheGame_research=
+None Required. Ch19 121 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|External_Reviews= {{#ev:youtube|CtjaibtOlgw}}
+{{VideoYT|vUffU8PtFos}}
+{{#ev:youtube|L25eLaHjrmY}}
+
+
+|Gallery=
+image:121 1. Ch19 121 jpg{{!}}121 1
+image:121 2. Ch19 121 jpg{{!}}121 2
+image:121 3. Ch19 121 jpg{{!}}121 3
+
+|History=
+
+Note: The 121 is not to be confused with the WZ-121, better known as the Type 69. Ch19 121 
+
+==Background==
+
+The 121 was the first attempt of China to develop its own tank after the breakdown of relations between China and the Soviet Union. Ch19 121  However, the project was considered too ambitious, and development instead switched to the Type 69, which itself was developed from a captured T-62. Ch19 121 
+
+The prototype 121 ended up being destroyed as a test vehicle during Chinese nuclear testing, along with the prototype WZ-132's. Ch19 121  No pictures or blueprints of the tank survive. Ch19 121 
+
+|HistAcc=
+As many of the data of the 121 were either lost or are still classified by the Chinese government, many of the technical aspects of the tank were made up by Wargaming. Ch19 121 
+* The 121 is commonly mistaken for the WZ-121, the Chinese industrial designation for the Type 69 tank. Ch19 121  The Type 69 was derived from the Type 59 and has no relation to the 121. Ch19 121 
+
+|HistoricalGallery=
+
+|Ref_references=
+
+* [https://www. Ch19 121 youtube. Ch19 121 com/watch?v=JTeLOx6frxk '''Youtube  ''' ] RBS video review
+
+|Ref_sources=
+
+
+|Ref_links=
+* sinodefence. Ch19 121 com [https://sinodefence. Ch19 121 com]<br>
+* defence. Ch19 121 pk [https://defence. Ch19 121 pk]
+* https://ftr. Ch19 121 wot-news. Ch19 121 com/2015/01/25/chinese-tank-121-and-t-34-x-series-part-1/
+
+|Sidebar_Camostop=15. Ch19 121 1
+|Sidebar_Camomove=11. Ch19 121 4
+|Sidebar_Camofire=2. Ch19 121 9
+|Sidebar_Passhard=0. Ch19 121 767
+|Sidebar_Passmed=0. Ch19 121 863
+|Sidebar_Passsoft=1. Ch19 121 726
+|Sidebar_DispTurret=0. Ch19 121 134
+|Sidebar_DispRecoil=3. Ch19 121 836
+|Sidebar_DispAccel=0. Ch19 121 134
+|Sidebar_DispTurning=0. Ch19 121 134
+}}

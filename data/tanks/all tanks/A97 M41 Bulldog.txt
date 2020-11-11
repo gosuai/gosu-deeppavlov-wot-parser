@@ -1,0 +1,274 @@
+2,400,000 Cost. 
+950760 HP Hit Points. 
+23.22/23.6510.65/0 t Weight Limit. 
+600600 hp Engine Power. 
+68/24 km/h Speed Limit. 
+5454 deg/s Traverse. 
+25.84Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+25.4/25.4/19.1 mm Hull Armor. 
+25.4/25.4/25.4// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+170/170/260170/170/260 HP Damage. 
+175/210/38175/210/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 5.3 s 50% Crew: 6.57 s 75% Crew: 5.73 s 100% Crew: 5.08 s Rammer: 4.57 s Vents: 4.97 s Both: 4.47 s Both and BiA: 4.37 s Both and Max Crew %: 4.19 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 5.3 s 50% Crew: 6.57 s 75% Crew: 5.73 s 100% Crew: 5.08 s Rammer: 4.57 s Vents: 4.97 s Both: 4.47 s Both and BiA: 4.37 s Both and Max Crew %: 4.19 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (170 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (170 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (260 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (170 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (170 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (260 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment Aim time. 
+4848 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+5757 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.1 m With 75% Crew: 366.1 m With 100% Crew: 410 m With 100% Signal Boost: 492 m When affected by 100% Relaying: 451 m Maximum possible: 590 m For more details, see Skills or Equipment m ▲ With 50% Crew: 585.3 m With 75% Crew: 665.2 m With 100% Crew: 745 m With 100% Signal Boost: 894 m When affected by 100% Relaying: 819.5 m Maximum possible: 1072 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+76 mm Gun M32. 
+175/210/38. 
+170/170/260. 
+11.32. 
+0.4. 
+1.9. 
+nan. 
+nan. 
+72000. 
+nan. 
+76 mm Gun M32 late. 
+175/210/38. 
+170/170/260. 
+12.0. 
+0.38. 
+1.9. 
+nan. 
+nan. 
+96000. 
+nan. 
+M41. 
+//. 
+48. 
+380. 
+nan. 
+nan. 
+21750. 
+nan. 
+M41A1. 
+//. 
+50. 
+400. 
+nan. 
+nan. 
+34050. 
+nan. 
+Continental AOSI-895-5A. 
+nan. 
+0. 
+nan. 
+nan. 
+58000. 
+nan. 
+Continental AOS-895-3A. 
+nan. 
+0. 
+nan. 
+nan. 
+38400. 
+nan. 
+M41. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+21000. 
+nan. 
+M41A1. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+33500. 
+VI. 
+AN/GRC-3. 
+410. 
+nan. 
+120. 
+21600. 
+X. 
+AN/GRC-7. 
+745. 
+nan. 
+120. 
+54000. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+''For the American Tier 5 Artillery, see [[M41|M41 HMC]]''
+{{TankData|Tank=
+|
+
+|Gallery=
+
+File:M41 Walker Bulldog scr 1. A97 M41 Bulldog jpg
+File:M41 Walker Bulldog scr 2. A97 M41 Bulldog jpg
+File:M41 Walker Bulldog scr 3. A97 M41 Bulldog jpg
+File:M41 Walker Bulldog scr 4. A97 M41 Bulldog jpg
+
+
+|InTheGame_pros=
+* Shoots APCR as default ammunition on both guns. A97 M41 Bulldog 
+
+* Excellent mobility and traverse
+
+* Acceptable view range
+
+* Somewhat better acceleration thanks to increase in engine power
+
+|InTheGame_cons=
+* Large profile and relatively low camo rating compared to other tier 8 light tanks
+
+* The ammo rack is located directly behind the frontal lower glacis. A97 M41 Bulldog  
+
+* Crew members are easily taken out. A97 M41 Bulldog  
+
+* No longer possesses the 10-shot autoloader it was renowned for. A97 M41 Bulldog 
+
+* Low caliber gun makes it near impossible to cause module damage to enemy tanks. A97 M41 Bulldog 
+
+* Inferiour to its premium counterpart, [[LeKpz M 41 90 mm GF|LeKpz M 41 90mm]]in top speed and firepower. A97 M41 Bulldog 
+
+|InTheGame_performance=
+The high-powered 76mm guns originally included the T91E5 10-shot automatic loader, one of the best automatic loading guns on any Tier 7 light tank and all light tanks in general. A97 M41 Bulldog 
+Unfortunately, with patch 9. A97 M41 Bulldog 18 this has been reduced to six shots, while keeping the same reload time and it was subsequently removed altogether. A97 M41 Bulldog 
+
+You might want to mount "Wet Ammo Rack" equipment or take on "Safe Stowage" skill on your loader to reduce the risk of an ammorack detonation; the ammunition rack is rather fragile. A97 M41 Bulldog  You should never point the front of your tank to any mediums or heavies you meet, as getting hit dead-center as stated in the cons will damage your ammo rack. A97 M41 Bulldog 
+
+Keep your side to the enemy as your tracks can sometimes protect you from any damage at all. A97 M41 Bulldog  This tactic is assisted with "Enhanced Suspension". A97 M41 Bulldog  However, rely on this tactic as a last-resort; you are a fragile tank whose armor can easily be perforated by low-tier automatic cannons. A97 M41 Bulldog 
+
+The best overall strategy is to avoid getting shot at; fragile modules, easily wounded crew members, thin armor and low hitpoints compared to other vehicles are incentives to avoid getting shot at. A97 M41 Bulldog 
+
+Use your 400m view range, 30+ hp/ton power-weight ration and 68kph top speed to reach aggressive spotting positions, detecting the enemy as they come. A97 M41 Bulldog  Once spotted, retreat and spot elsewhere. A97 M41 Bulldog  As the game wears on and filled with wounded tanks and gaps appear in the battle lines, exploit these in a typical light tank fashion, savaging isolated and wounded tanks and hapless artillery. A97 M41 Bulldog  If necessary, use this to capture a base; if there is no light or fast medium tanks, they will react rather slowly. A97 M41 Bulldog  
+
+Passive-aggressive tactics are the best for this vehicle in the initial stages of the battle; use your speed to get to aggressive forward positions but remain concealed, spotting enemy vehicles. A97 M41 Bulldog  If they are distracted by larger opponents, use your excellent 76mm gun to land distracting shots into vulnerable side and rear armor. A97 M41 Bulldog  This distraction could allow stronger tanks on your team to overwhelm them while they attempt to engage the new threat you have became. A97 M41 Bulldog 
+
+If you encounter opposing lights, assess the situation. A97 M41 Bulldog  If you are outnumbered, outgunned, or have little, if any, support, retreat! Use the speed and maneuverability that got you there to get out of there. A97 M41 Bulldog  If the opponent is outnumbered, outgunned or you have superior support, engage them in a tank melee. A97 M41 Bulldog  
+
+After the initial slugging match, engage gaps in the enemy line to savage the weak, isolated or unaware; lone heavy tanks which survived the slug fest, camping tank destroyers and artillery are prime targets. A97 M41 Bulldog 
+
+If it is tactically suitable to cap, such as to bait opponents or to win a game, then do so. A97 M41 Bulldog  If it is not possible to engage opponents from the front, then the sides and rear are good areas to shoot; while there are many tanks with impenetrable front turret or hull armor, there are very few tanks with enough side or rear armor to bounce your shots without severe angling. A97 M41 Bulldog  Avoid at-tier or higher-tier medium tanks in all scenarios if possible, especially those of the Soviet, Chinese and American variety. A97 M41 Bulldog 
+
+While they may not have your mobility, they have enough to render yours less relevant. A97 M41 Bulldog  They are also most likely better armed, more durable and better armored than you. A97 M41 Bulldog  Engage them only with proper support or in an ambush. A97 M41 Bulldog  
+
+Overall, and quite sadly, the Patch 9. A97 M41 Bulldog 18 reshuffle of light tanks has reduced the Walker-Bulldog from being one of the best light tanks in the game to being severely underpowered. A97 M41 Bulldog  Having moved from tier 7 to tier 8, the Walker-Bulldog effectively gets the same matchmaking as before, but the removal of its autoloader has been one of the most crippling factors this vehicle has suffered, making it by far the worst tank in the U. A97 M41 Bulldog S. A97 M41 Bulldog  scout line. A97 M41 Bulldog  
+
+It sees Clan War use, along with its premium equivalent, the German [[leKpz M41 F 90mm GF]], which is vastly superior to it when it comes to firepower, owing it to its larger caliber gun and also by being 4km/h faster. A97 M41 Bulldog 
+
+|InTheGame_research=
+If you have played equal American tanks before you might have radio and engine already unlocked. A97 M41 Bulldog  If not, the stock engine is good, so engine can be researched last. A97 M41 Bulldog  Before unlocking the second gun you will be under-gunned. A97 M41 Bulldog  So tracks should be your main unlock goal. A97 M41 Bulldog  The second gun first (for more alpha damage), then tracks. A97 M41 Bulldog  After that unlock the rest in your preferred order. A97 M41 Bulldog 
+It is possible to research everything with the stock tracks. A97 M41 Bulldog  Focus on the armament and turret for the 76mm Gun M32, as it does not add any weight on the vehicle and adds 25mm of penetration and the use of APCR and HEAT in exchange for a loss of rate of fire. A97 M41 Bulldog  The top turret can be mounted with the stock suspension, and adds 20 meters of view range. A97 M41 Bulldog  Then the radio should be researched, as the stock engine is very good and only adds 50hp, where the upgraded radio adds 335 meters of extra radio range. A97 M41 Bulldog  Once the radio is upgraded, the engine can be upgraded, as it weighs the same as the stock engine. A97 M41 Bulldog  The tracks, while not necessary unless mounting the top gun, improve maneuverability and ground resistance and is worthy to research. A97 M41 Bulldog  As it stands, the top gun is a joke. A97 M41 Bulldog  16. A97 M41 Bulldog 400 xp for a bit better dispersion and a slightly higher dpm. A97 M41 Bulldog  Save your xp for the tier 9 instead. A97 M41 Bulldog  
+
+|InTheGame_equipment=Vents, Vertical Stabilizer, Coated Optics, GLD, Wet Ammo Rack
+
+|History=
+
+The M41 Walker Bulldog was a U. A97 M41 Bulldog S. A97 M41 Bulldog  light tank developed to replace the M24 Chaffee. A97 M41 Bulldog  It was named for General Walton Walker who died in a jeep accident in Korea. A97 M41 Bulldog  On 7 November 1950, the US Ordnance Committee Minutes (OCM) issued item #33476, redesignating the heavy, medium, and light tank, according to the armament; the 120mm (heavy) Gun Tanks, 90mm (medium) Gun Tanks, and the 76mm (light) Gun tanks. A97 M41 Bulldog 
+
+
+==Development and production history==
+While the M24 Chaffee was a successful design, its main gun was not effective enough against well armored opponents. A97 M41 Bulldog  Although the primary mission of a light tank was scouting, the U. A97 M41 Bulldog S. A97 M41 Bulldog  Army wanted one with more powerful armament. A97 M41 Bulldog  The development of the new tank, T37, began in 1947. A97 M41 Bulldog  The vehicle was designed to be air-transportable, and the desired anti-tank capabilities were provided by installing a long 76 mm gun with an advanced rangefinder. A97 M41 Bulldog  In 1949, with the adoption of a less ambitious rangefinder, the project's designation was changed to T41. A97 M41 Bulldog  Production started in 1951 at Cadillac's Cleveland Tank Plant, and by 1953 the new tank completely replaced the M24 in the United States Army. A97 M41 Bulldog  Initially it was nicknamed "Little Bulldog", then renamed "Walker Bulldog" after General Walton Walker, who was killed in a jeep accident in Korea in 1950. A97 M41 Bulldog 
+
+The M41 was an agile and well armed vehicle. A97 M41 Bulldog  On the other hand, it was noisy, fuel-hungry and heavy enough to cause problems with air transport. A97 M41 Bulldog  In 1952 work began on lighter designs (T71, T92), but those projects came to naught and were eventually abandoned. A97 M41 Bulldog 
+
+The Walker Bulldog saw limited combat with the U. A97 M41 Bulldog S. A97 M41 Bulldog  Army during the Korean War, but for the most part, the conflict served as a testing ground to work out the tank's deficiencies, especially with its rangefinder. A97 M41 Bulldog  At the time, it was designated as the T41, and was rushed to the battlefield even before its first test run. A97 M41 Bulldog  This was due to the fact that the North Koreans were supplied with Soviet T-34 tanks, which were superior to the M24. A97 M41 Bulldog  By 1961, 150 were delivered to the Japan Ground Self-Defense Force to supplement their Type 61 medium tanks. A97 M41 Bulldog 
+
+In 1969 the US Army began replacing the M41 with the advanced, but troublesome, aluminum hulled M551 Sheridan Armored Airborne Reconnaissance Assault Vehicle (not officially listed as a light tank due to Army policy at the time). A97 M41 Bulldog  The Sheridan's main gun could fire conventional 152mm tank shells and gun-launched missiles; the weapon could knock out main battle tanks. A97 M41 Bulldog  In addition, the M551 could swim and be air dropped. A97 M41 Bulldog 
+
+The chassis of the M41 was used for the M42 Duster, which mounted two 40 mm anti-aircraft guns. A97 M41 Bulldog  It was also built up into the M75 Armored Personnel Carrier, one of the first enclosed box-shaped personnel carriers; that vehicle in turn was the pattern for the M113 APC, which later became the most widely produced US armored combat vehicle in history. A97 M41 Bulldog 
+
+Also many of the drive train components, the engine the transmission and the auxiliary engine were used in the M44/M52 155mm howitzer. A97 M41 Bulldog 
+
+==Combat history==
+In 1964 the M41 light tank was selected to replace the Army of the Republic of Vietnam (ARVN) M24 Chaffee light tank, which they had inherited from the French, who in turn had received them from the United States during the First Indochina War. A97 M41 Bulldog  The first M41A3s arrived in January 1965, equipping five ARVN squadrons by the end of the year. A97 M41 Bulldog  The M41 was an instant success with South Vietnamese armor crewmen, who found its interior to be just perfect for their stature, which had been a principal criticism by US armor crewmen who had been assigned to the vehicle. A97 M41 Bulldog  This, combined with the tank's "mechanical reliability, simplicity, and excellent handling" made the Bulldog a worthy war machine. A97 M41 Bulldog 
+
+In 1971, the ARVN and US forces commenced Operation Lam Son 719, a disruption of North Vietnamese Army (NVA) supply lines in neighboring Laos; a combination of armor and airmobile attacks on three axes into enemy held territory. A97 M41 Bulldog  The ARVN 1st Armor Brigade, accompanied by two airborne battalions and two cavalry regiments penetrated approximately 4 miles into Laos on 8 February, enemy reaction was swift, with this first engagement between NVA and ARVN tanks, the 17 M41s knocked out 22 NVA tanks; six T-54s and sixteen PT-76s. A97 M41 Bulldog  Friendly units lost 5 M-41s and 25 APCs. A97 M41 Bulldog 
+
+By 1973, over 200 M41 light tanks remained in service with the ARVN. A97 M41 Bulldog  US units in Europe and CONUS equipped with the M41 Walker Bulldog eventually transitioned to the M48 Patton medium tank. A97 M41 Bulldog 
+
+
+'''Variants'''
+* M41 (1953). A97 M41 Bulldog 
+* M41A1 (1954): Hydraulic turret traverse instead of the electrical one. A97 M41 Bulldog  The more compact system allowed to increase 76 mm ammunition stowage from 57 to 65 rounds. A97 M41 Bulldog 
+* M41A2 (1956): Production tanks with fuel injected Continental AOS 895-3 6-cylinder gasoline engine replacing the earlier carburator fuel system. A97 M41 Bulldog  This designation also applied to earlier M41s that had their engines upgraded to the fuel injection system. A97 M41 Bulldog 
+* M41A3: M41A1 tanks that had their engines upgraded to fuel injection. A97 M41 Bulldog 
+* M41 DK-1: Danish upgrade. A97 M41 Bulldog  New engine, thermal sights, NBC protection, side skirts. A97 M41 Bulldog 
+* M42 Duster (1952): Self-propelled anti-aircraft defense weapon system based on the M41 chassis. A97 M41 Bulldog  Two Bofors 40 mm guns were mounted in the turret. A97 M41 Bulldog 
+
+'''Foreign variants'''
+* Type 64 (Experimental): Taiwanese development modified to local manufacturing techniques with improved fire controls, a 520 hp diesel engine, co-axial machinegun replaced with T57 7. A97 M41 Bulldog 62mm GPMG, and applique turret armors and sideskirts. A97 M41 Bulldog  Did not enter mass-production and is not to be confused with another M42-based light tank conversion bearing the same designation. A97 M41 Bulldog 
+* M41D: Republic of China Army upgrade. A97 M41 Bulldog  New locally produced gun, new targeting systems, Detroit Diesel 8V-71T diesel engine, reactive armor. A97 M41 Bulldog 
+* M41C: Brazilian upgrade. A97 M41 Bulldog  In its final version, original gasoline engine replaced with Brazilian build Saab-Scania DS-14A O4 eight cylinder diesel engine with modifications to the rear hull and electrical system. A97 M41 Bulldog  Upgrade of the transmission package allowing for a top road speed of 70 km/hour. A97 M41 Bulldog  Night vision and a laser range finder added to the gunsight. A97 M41 Bulldog  Additional spaced armour added to the forward part of the hull, glacis plate and turret. A97 M41 Bulldog  Four smoke grenade dischargers were added to each side of the turret. A97 M41 Bulldog  Replacing the original 76 mm M32 gun with a 90 mm Ca 76/90 M32 BR3 gun with thermal sleeve and muzzle break made in Brazil. A97 M41 Bulldog 
+
+{{VideoYT|TVNUGFFtgEo}}
+|HistoricalGallery=
+File:M41-walker-bulldog-tank. A97 M41 Bulldog jpg{{!}}M41 Light Tank
+File:ARVN M41 Walker Bulldog. A97 M41 Bulldog jpg{{!}}South Vietnamese M41 tanks during a training operation. A97 M41 Bulldog 
+File:M41A3-Walker-Bulldog-latrun-2. A97 M41 Bulldog jpg{{!}}M41A3 on display at Israel's Yad La-Shiryon, armored corps museum. A97 M41 Bulldog 
+File:M41 operators. A97 M41 Bulldog png{{!}}Map of M41 operators in blue with former operators in red
+File:Tanques ocupam a Avenida Presidente Vargas, 1968-04-04. A97 M41 Bulldog jpg{{!}}A column of M41 tanks along the streets of Rio de Janeiro during the Brazilian military government, 1968. A97 M41 Bulldog 
+File:BKK24090618. A97 M41 Bulldog jpg{{!}}Royal Thai Army M41 tanks during the 2006 Thai coup d'état
+
+|HistAcc=
+The Walker Bulldog's actual top speed is 72. A97 M41 Bulldog 4 km/h (currently 68 km/h). A97 M41 Bulldog 
+
+|Ref_references=
+
+
+|Ref_sources=
+https://en. A97 M41 Bulldog wikipedia. A97 M41 Bulldog org/wiki/M41_Walker_Bulldog
+
+
+|Ref_links=
+https://en. A97 M41 Bulldog wikipedia. A97 M41 Bulldog org/wiki/M41_Walker_Bulldog
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=14. A97 M41 Bulldog 25
+|Sidebar_Camomove=14. A97 M41 Bulldog 25
+|Sidebar_Camofire=3. A97 M41 Bulldog 33
+|Sidebar_Passhard=0. A97 M41 Bulldog 50
+|Sidebar_Passmed=0. A97 M41 Bulldog 60
+|Sidebar_Passsoft=1. A97 M41 Bulldog 10
+|Sidebar_DispTurret=
+|Sidebar_DispRecoil=
+|Sidebar_DispAccel=
+|Sidebar_DispTurning=
+}}

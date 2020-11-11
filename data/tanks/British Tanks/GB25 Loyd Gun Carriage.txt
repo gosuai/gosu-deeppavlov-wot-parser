@@ -1,0 +1,174 @@
+3,900 Cost. 
+160128 HP Hit Points. 
+4.5/4.51.66/0 t Weight Limit. 
+6565 hp Engine Power. 
+48/12 km/h Speed Limit. 
+2222 deg/s Traverse. 
+14.44Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+7/7/0 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+165//165// HP Damage. 
+21//21// mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 9 s 50% Crew: 11.15 s 75% Crew: 9.73 s 100% Crew: 8.63 s Rammer: 7.77 s Vents: 8.44 s Both: 7.6 s Both and BiA: 7.43 s Both and Max Crew %: 7.12 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 9 s 50% Crew: 11.15 s 75% Crew: 9.73 s 100% Crew: 8.63 s Rammer: 7.77 s Vents: 8.44 s Both: 7.6 s Both and BiA: 7.43 s Both and Max Crew %: 7.12 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (165 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (165 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 1.018 m With 75% Crew: 0.896 m With 100% Crew: 0.8 m With BiA: 0.782 m With BiA and Vents: 0.767 m Maximum possible: 0.735 m For more details, see Crew m ▲ With 50% Crew: 1.018 m With 75% Crew: 0.896 m With 100% Crew: 0.8 m With BiA: 0.782 m With BiA and Vents: 0.767 m Maximum possible: 0.735 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 6.364 s With 75% Crew: 5.6 s With 100% Crew: 5 s With GLD: 4.545 s With BiA: 4.886 s With BiA and Vents: 4.794 s With both and GLD: 4.358 s Maximum possible: 4.178 s For more details, see Crew or Equipment s ▲ With 50% Crew: 6.364 s With 75% Crew: 5.6 s With 100% Crew: 5 s With GLD: 4.545 s With BiA: 4.886 s With BiA and Vents: 4.794 s With both and GLD: 4.358 s Maximum possible: 4.178 s For more details, see Crew or Equipment Aim time. 
+1010 deg/s Gun Traverse Speed. 
+39° Gun Arc. 
+-0°/+45°-0°/+45° Elevation Arc. 
+4848 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 204.3 m With 75% Crew: 232.2 m With 100% Crew: 260 m With Recon and Situational Awareness: 273.2 m With Coated Optics: 286 m With Binocular Telescope: 325 m Maximum possible: 372.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 204.3 m With 75% Crew: 232.2 m With 100% Crew: 260 m With Recon and Situational Awareness: 273.2 m With Coated Optics: 286 m With Binocular Telescope: 325 m Maximum possible: 372.2 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With 100% Signal Boost: 420 m When affected by 100% Relaying: 385 m Maximum possible: 503.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 294.6 m With 75% Crew: 334.8 m With 100% Crew: 375 m With 100% Signal Boost: 450 m When affected by 100% Relaying: 412.5 m Maximum possible: 539.6 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+Q.F. 13-Pr. Mk. III. 
+21. 
+165. 
+6.67. 
+0.8. 
+5. 
+nan. 
+nan. 
+2800. 
+nan. 
+Ford V8-221. 
+nan. 
+0. 
+nan. 
+nan. 
+200. 
+nan. 
+Ford V8-220. 
+nan. 
+0. 
+nan. 
+nan. 
+100. 
+nan. 
+Loyd Carrier Mk. I. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+270. 
+nan. 
+Loyd Carrier Mk. II. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+550. 
+V. 
+WS No. 9. 
+375. 
+nan. 
+40. 
+3600. 
+III. 
+WS No. 11. 
+350. 
+nan. 
+40. 
+600. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=GB25_Loyd_Carrier
+|
+
+|Gallery=
+
+File:Loyd Gun Carriage scr 1. GB25 Loyd Gun Carriage jpg
+File:Loyd Gun Carriage scr 2. GB25 Loyd Gun Carriage jpg
+File:Loyd Gun Carriage scr 3. GB25 Loyd Gun Carriage jpg
+
+
+|InTheGame_pros= 
+* Gun range: 500 m. GB25 Loyd Gun Carriage 
+* Large gun arc. GB25 Loyd Gun Carriage 
+* Great accuracy,only FT BS and SU-8 is better. GB25 Loyd Gun Carriage 
+* Good Power/weight ratio. GB25 Loyd Gun Carriage 
+
+|InTheGame_cons=
+* High dispersion while moving/turning. GB25 Loyd Gun Carriage 
+* Slow shell traveltime. GB25 Loyd Gun Carriage 
+* Open front and top (In fact, almost everything is exposed). GB25 Loyd Gun Carriage 
+* Shells can't fly through the interior because of an invisible zero armor zone. GB25 Loyd Gun Carriage 
+
+
+|InTheGame_performance=
+This SPG is a fun artillery piece. GB25 Loyd Gun Carriage  Its gun is somewhat low-damaged, but it fires quickly which helps to keep enemies pinned down in certain situations. GB25 Loyd Gun Carriage  The Loyd Gun Carriage is a low profile machine and is surprisingly maneuverable so it will not find it difficult to reach small bushes or areas of rubble with which it can hide itself. GB25 Loyd Gun Carriage 
+The Q. GB25 Loyd Gun Carriage F. GB25 Loyd Gun Carriage  13-Pr. GB25 Loyd Gun Carriage  Mk. GB25 Loyd Gun Carriage  III comes with a decent 42mm of penetration will have no problem punching through the lightly armored targets you will be facing with this SPG. GB25 Loyd Gun Carriage  The 165 average damage is also nice. GB25 Loyd Gun Carriage The reload on this SPG is not bad at 6. GB25 Loyd Gun Carriage 67 rounds a minute. GB25 Loyd Gun Carriage  This is right in the middle for tier 2 SPG's as only the [[SU-18]] (7. GB25 Loyd Gun Carriage 5 rounds) and [[RenaultBS]] (7. GB25 Loyd Gun Carriage 69 rounds) fire quicker. GB25 Loyd Gun Carriage  Its reload beats the [[T57]] (6. GB25 Loyd Gun Carriage 38 rounds) and the [[Tank:GW Mk VIe|G. GB25 Loyd Gun Carriage Pz. GB25 Loyd Gun Carriage  Mk. GB25 Loyd Gun Carriage  VI(e)]] (2. GB25 Loyd Gun Carriage 22 rounds). GB25 Loyd Gun Carriage 
+The view range of the Loyd Gun Carriage is also superb for its tier at 320m. GB25 Loyd Gun Carriage  When compared to other SPG's at this tier, they fall in at 260-280m. GB25 Loyd Gun Carriage  The LGC is 40m better off than its peers. GB25 Loyd Gun Carriage If necessary the the LGC can spot its own targets later on in a game much more effectively than its counterparts. GB25 Loyd Gun Carriage 
+|
+InTheGame_research=
+* Nothing carries over from the Vickers Medium Mk. GB25 Loyd Gun Carriage  I. GB25 Loyd Gun Carriage 
+* First, research the Ford V8-221 Engine. GB25 Loyd Gun Carriage 
+* Reseacrh the WS No. GB25 Loyd Gun Carriage  11 Radio, followed by the WS No. GB25 Loyd Gun Carriage  9 Radio. GB25 Loyd Gun Carriage 
+* Finally, research the Loyd Carrier Mk. GB25 Loyd Gun Carriage  II Suspension. GB25 Loyd Gun Carriage 
+
+|InTheGame_equipment=Medium-Caliber Artillery Shell Rammer,GLD
+
+|History=
+
+The Loyd Gun Carriage was a proposal for the British army to mount a 76. GB25 Loyd Gun Carriage 2-mm gun on the chassis of the Loyd Carrier artillery truck. GB25 Loyd Gun Carriage  Developed from 1940 through 1941. GB25 Loyd Gun Carriage  The project was scrapped in the drawings phase and no prototypes were manufactured. GB25 Loyd Gun Carriage  However. GB25 Loyd Gun Carriage  there are several documented examples of vehicles being modified to carry artillery pieces, although that was more of an improvisation rather then a real project being prepared for mass production. GB25 Loyd Gun Carriage  
+
+==Development history==
+[[image:Loyd_Carrier_modified_to_carry_a_25_pounder_howitzer. GB25 Loyd Gun Carriage jpg|thumb|200px|left|Loyd Carrier modified to carry a 25 pounder howitzer]]
+The Loyd Carrier was built upon the mechanicals (engine, gearbox and transmission) of a 15 cwt 4x2 Fordson 7V truck with mild steel bodywork to which armour plate (referred to as 'BP Plate' in Loyd manuals) was bolted (to the front and upper sides) depending on application. GB25 Loyd Gun Carriage  The engine was at the rear of the Carrier with the radiator behind rather than in front. GB25 Loyd Gun Carriage  The transmission then took the drive forward to the axle at the very front where it drove the tracks. GB25 Loyd Gun Carriage  Both the front drive sprockets and idlers (which were also sprocketed) at the rear of the tracks were fitted with brakes, actuated by a pair of levers by the driver. GB25 Loyd Gun Carriage  To turn the vehicle to the left, the brakes were applied on that side and the Carrier would slew round the stopped track. GB25 Loyd Gun Carriage  The upper hull covered the front and sides but was open to the rear and above; as the Carrier was not expected to function as a fighting vehicle this was not an issue. GB25 Loyd Gun Carriage  To protect the occupants from the weather a canvas tilt could be put up; this was standard fitment from the factory. GB25 Loyd Gun Carriage  As part of the rapid development program and use of pre-designed parts the Loyd used parts from other vehicles. GB25 Loyd Gun Carriage  From the Universal Carrier the track, drive sprockets, and suspension units. GB25 Loyd Gun Carriage  From the Fordson 7V, the chassis, engine, gearbox, torque tube, axle and brakes. GB25 Loyd Gun Carriage 
+
+The Army tested the Loyd Carrier in 1939 and placed an initial order for 200 as the Carrier, Tracked, Personnel Carrying i. GB25 Loyd Gun Carriage e. GB25 Loyd Gun Carriage  a personnel carrier. GB25 Loyd Gun Carriage  Initial deliveries were from Vivian Loyd's own company but production moved to the larger firms including the Ford Motor Company and Wolseley Motors ( 13,000 between them) and Dennis Brothers Ltd, Aveling & Barford and Sentinel Waggon Works. GB25 Loyd Gun Carriage  Total production of the Loyd Carrier was approximately 26,000
+
+
+|HistoricalGallery=
+image:Loyd_Carrier2. GB25 Loyd Gun Carriage jpg{{!}} Loyd Carrier
+image:Loyd_Carrier. GB25 Loyd Gun Carriage jpg{{!}} British Loyd Carrier
+image:Loyd_carrier_riding_on_the_tracks. GB25 Loyd Gun Carriage jpg{{!}} Loyd carrier riding on the tracks
+image:Loyd_Carrier_modified_to_carry_a_25_pounder_howitzer. GB25 Loyd Gun Carriage jpg{{!}} Loyd Carrier modified to carry a 25 pounder howitzer
+image:Loyd_Carrier_at_Soerabaja_parade. GB25 Loyd Gun Carriage jpg{{!}} Loyd Carrier at Soerabaja(now Surabaya) parade
+image:Loyd_Carrier_at_Central_and_Eastern_Java_1948. GB25 Loyd Gun Carriage jpg{{!}} Loyd Carrier at Central and Eastern Java 1948
+image:Loyd_Carrier_at_Central_and_Eastern_Java_1948_1. GB25 Loyd Gun Carriage jpg{{!}} Loyd Carrier at Central and Eastern Java 1948
+image:Carden-loyd-carrier-1930s-01. GB25 Loyd Gun Carriage jpg{{!}} Carden Loyd Carrier in mid 1930s
+image:Loyd_carried_with_a_three_man_platoon. GB25 Loyd Gun Carriage jpg{{!}} Loyd carried with a three man platoon
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

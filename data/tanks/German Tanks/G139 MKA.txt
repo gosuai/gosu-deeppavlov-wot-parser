@@ -1,0 +1,228 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery Historical Gallery. 
+500 Cost. 
+400320 HP Hit Points. 
+12/145.57/0 t Weight Limit. 
+200200 hp Engine Power. 
+40/15 km/h Speed Limit. 
+4646 deg/s Traverse. 
+16.67Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+25/18/16 mm Hull Armor. 
+25/16/16// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+55/55/6555/55/65 HP Damage. 
+50/78/2350/78/23 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 3.8 s 50% Crew: 4.84 s 75% Crew: 4.26 s 100% Crew: 3.8 s Rammer: 3.42 s Vents: 3.71 s Both: 3.34 s Both and BiA: 3.28 s Both and Max Crew %: 3.14 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 3.8 s 50% Crew: 4.84 s 75% Crew: 4.26 s 100% Crew: 3.8 s Rammer: 3.42 s Vents: 3.71 s Both: 3.34 s Both and BiA: 3.28 s Both and Max Crew %: 3.14 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (55 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (55 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (65 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (55 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (55 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (65 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.52 m With 75% Crew: 0.454 m With 100% Crew: 0.403 m With BiA: 0.394 m With BiA and Vents: 0.385 m Maximum possible: 0.369 m For more details, see Crew m ▲ With 50% Crew: 0.52 m With 75% Crew: 0.454 m With 100% Crew: 0.403 m With BiA: 0.394 m With BiA and Vents: 0.385 m Maximum possible: 0.369 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+3838 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+200200 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 278.5 m With 75% Crew: 319 m With 100% Crew: 359.8 m With 100% Signal Boost: 414 m When affected by 100% Relaying: 379.5 m Maximum possible: 517.9 m For more details, see Skills or Equipment m ▲ With 50% Crew: 278.5 m With 75% Crew: 319 m With 100% Crew: 359.8 m With 100% Signal Boost: 414 m When affected by 100% Relaying: 379.5 m Maximum possible: 517.9 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+4,5 cm Kanone. 
+50/78/23. 
+55/55/65. 
+15.79. 
+0.42. 
+2.3. 
+nan. 
+nan. 
+3300. 
+nan. 
+mittlerer Kampfwagen für Ausland. 
+//. 
+38. 
+320. 
+nan. 
+nan. 
+500. 
+nan. 
+Maybach HL 98. 
+nan. 
+0. 
+nan. 
+nan. 
+2000. 
+nan. 
+mittlerer Kampfwagen für Ausland. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+500. 
+IV. 
+FuG 6. 
+345. 
+nan. 
+70. 
+2220. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIT-44-122 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52. 
+
+{{TankData|Tank= 
+
+| 
+Gifted to all players during the ''Holiday Ops 2019'' event. G139 MKA 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Decent gun. G139 MKA  Good alpha, comparatively accurate with acceptable penetration
+* High HP pool, can afford to take some shots
+* High view range in tier, spots well with binocs
+* Has generous 10° gun depression
+
+|InTheGame_cons= 
+* Armor can only withstand the weakest autocannons or tier I guns even by angling
+* Somewhat limited top speed of only 40km/h
+* Has seperate crew slot for radioman but not loader, unique among all German LTs
+
+|InTheGame_performance= 
+Useful as a passive scout. G139 MKA  Good as a sniper. G139 MKA  Speed is not the greatest, and armor is horrid so don't do any charging. G139 MKA  When the enemy is weakened later in the battle is a good time to clean up. G139 MKA 
+|InTheGame_research= 
+Premium tank, comes elite in its stock configuration. G139 MKA 
+
+|InTheGame_equipment=
+Vents, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The Kampfwagen für Ausland mit verstärkter Panzerung, 4,5cm K L/50 und 2 MG also known as mittlerer Kampfwagen für Ausland (abbreviated as m. G139 MKA K. G139 MKA A. G139 MKA ), was a German tank project that intended to create a medium tank for export. G139 MKA  The vehicle was planned to be better than other vehicles that were available at the time, such as the Renault R35 or Vickers 6-ton Tank. G139 MKA  
+
+ Development 
+
+On 5 October 1936, the mittlerer Kampfwagen für Ausland (mKA) was mentioned in a meeting in Essen with Müller and Wölfert. G139 MKA  The leichte Kampfwagen für Ausland (l. G139 MKA K. G139 MKA A. G139 MKA ) would be developed to attempt to mount a 2cm gun and an MG in the same turret. G139 MKA  The m. G139 MKA K. G139 MKA A. G139 MKA  was to be an off-shoot of the l. G139 MKA K. G139 MKA A. G139 MKA  
+
+In a Kriegsmaterial Abteilung fiscal year report dated 1 October 1936 to 30 September 1937, Krupp stated that development had started on Auslands-Kampfwagen (tanks for foreign sale). G139 MKA  These vehicles were to be lighter than vehicles developed for the German Army, as weight was considered an issue with exporting vehicles. G139 MKA  
+
+By 5 February 1937, Krupp changed their plans for the Auslands-Kampfwagen. G139 MKA  The following vehicles were planned; 
+1. G139 MKA  l. G139 MKA K. G139 MKA A. G139 MKA  1: a 4. G139 MKA 5t light tank with two machine guns, named M. G139 MKA G. G139 MKA  K. G139 MKA A. G139 MKA  
+2. G139 MKA  l. G139 MKA K. G139 MKA A. G139 MKA  2: a 5. G139 MKA 2t light tank with a 2cm cannon and one machine gun, named 2cm K. G139 MKA A. G139 MKA  
+3. G139 MKA  A variant of the l. G139 MKA K. G139 MKA A. G139 MKA  2 with thicker armour, weighing 7t. G139 MKA  Named 2cm K. G139 MKA A. G139 MKA v. G139 MKA  
+4. G139 MKA  m. G139 MKA K. G139 MKA A. G139 MKA : a 7t medium tank, armed with a 4,5cm Kanone and two machine guns, named 4,5cm K. G139 MKA A. G139 MKA  
+5. G139 MKA  A variant of the m. G139 MKA K. G139 MKA A. G139 MKA  with thicker armour, weighing 10t. G139 MKA  Named 4,5cm K. G139 MKA A. G139 MKA v. G139 MKA  
+6. G139 MKA  s. G139 MKA K. G139 MKA A. G139 MKA : a heavy tank weighting 14t, armed with a 7,5cm Kanone and two machine guns. G139 MKA  Named 7,5cm K. G139 MKA A. G139 MKA  
+
+Each two vehicles were planned to share the same chassis. G139 MKA  Stronger engines were considered if needed, a 90hp water-cooled Ford V8 was available for the l. G139 MKA K. G139 MKA A. G139 MKA , with a water-cooled Maybach engine for the m. G139 MKA K. G139 MKA A. G139 MKA  The engine for the s. G139 MKA K. G139 MKA A. G139 MKA  was not chosen. G139 MKA  
+
+Armament discussions regarding the 4,5cm and 7,5cm Kanone resulted in the proposal for their muzzle velocity to be about 500m/s, the reasoning behind this was that combat ranges would rarely be over 1000m, and sufficient penetration can be expected from such a velocity within said range. G139 MKA  Single-shot weaponry was also considered, due to the shortage of space inside the turret. G139 MKA  
+
+The meeting also discussed the proposed deadlines. G139 MKA  The design work of the vehicle was to be completed by December 1937, and a test vehicle completed by June 1938. G139 MKA  There was a 180/200HP Maybach engine that was being considered, however the Waffenamt hadn't released information about it at the time. G139 MKA  Another meeting was to be held in October to discuss the future of the K. G139 MKA A. G139 MKA v. G139 MKA  and the s. G139 MKA K. G139 MKA A. G139 MKA  and whether they are to be built. G139 MKA  Sketches were to be completed by 1 July 1937. G139 MKA  The s. G139 MKA K. G139 MKA A. G139 MKA  was considered to expensive for export. G139 MKA  Trials of the engines available were to take place as well, in a dummy with the same conditions equivalent to use in a tank. G139 MKA  The following names were given to the vehicles being produced for simplicity in the manufacturing firms; 
+◾ L10 for the M. G139 MKA G. G139 MKA  K. G139 MKA A. G139 MKA  (l. G139 MKA K. G139 MKA A. G139 MKA  1) 
+◾ L20 for the 2cm K. G139 MKA A. G139 MKA  (l. G139 MKA K. G139 MKA A. G139 MKA  2) 
+◾ M10 for the 4,5cm K. G139 MKA A. G139 MKA v. G139 MKA  (m. G139 MKA K. G139 MKA A. G139 MKA ) 
+
+The names that contained the weaponry (ex: 2cm K. G139 MKA A. G139 MKA ) as opposed to the other names (ex: l. G139 MKA K. G139 MKA A. G139 MKA  2) were to be kept for correspondence with the Waffenamt and foreign nations. G139 MKA  
+
+On 3 June 1937, the characteristics of the m. G139 MKA K. G139 MKA A. G139 MKA  were finalized (information is in the infobox above and to the right) 
+
+On 17 June 1937, Wa Prüf 6 decided that Krupp's design bureau (Krupp Konstruktionsbuero) was to be maintained at current size, but they were not given design contracts. G139 MKA  Design work was to continue on the export vehicles, however it was decided whether they would be released for export, or it may be presented to the German Army for possible adoption. G139 MKA  Oberstleutnant Phillips stated that Wa Prüf 6, like other Waffen Prüfen, supports development of products intended for export, and that they have no objections releasing the new motor to Krupp. G139 MKA  
+
+On 21 June 1937, Hageloch, Müller, and Wölfert met and decided that work would start and continue on the m. G139 MKA K. G139 MKA A. G139 MKA  until further contracts were received by Wa Prüf 6. G139 MKA  They decided to find another engine in case the engine from Maybach wasn't released. G139 MKA  Completion of the first chassis was considered possible for March 1938. G139 MKA  
+
+On 10 August 1937, Hageloch and Wölfert met with Oberstleutnant Phillips, head of Wa Prüf 6, to discuss the release of the Maybach HL 76 motor. G139 MKA  
+
+On 31 August 1937, Wa Prüf 6 advised Krupp that due to the long period of which the Maybach HL 76 is not ready, the Maybach D. G139 MKA S. G139 MKA O. G139 MKA  8 motor rated at 155hp @ 2600rpm is recommended in its place. G139 MKA  
+
+On 4 October 1937, Krupp started developing a 45mm semi-automatic cannon with an L/50 (2. G139 MKA 250m) barrel length. G139 MKA  The gun weighed 1,385kg, it had a muzzle velocity of 750m/s. G139 MKA  Armour penetration was 40mm @ 1000m/90°. G139 MKA  Design of the cannon were to be completed by 20 October 1937, turret design completed by March 1938, and a turret produced by 1 August 1938. G139 MKA  
+
+On 7 October 1937, the Heereswaffenamt sent Krupp a list of restrictions on the design of tanks for export purposes. G139 MKA  
+1. G139 MKA  Only a straight monocular or fixed angular telescopic gunsight (such as the Ceha - telescope from Askania), or a periscope gunsight without removable head can be used. G139 MKA  
+2. G139 MKA  Slip ring contacts are allowable for conducting electricity to the turret. G139 MKA  
+3. G139 MKA  Visors for vision ports can have internal hinges but cannot have overlapping edges exceeding 1mm wide. G139 MKA  Additional locks are not to be used. G139 MKA  
+4. G139 MKA  Rigidly mounted protective glass up to 12mm thick is allowed behind the vision slits. G139 MKA  The slits are to be cut into flat visor plates and are not allowed to be less than 5. G139 MKA 5mm wide. G139 MKA  External ridges to protect the vision slits are to be sloped at less than 4 degrees. G139 MKA  
+5. G139 MKA  Sealing frames for the visors are not to have rubber inserts. G139 MKA  Armour plates for covering the vision slits are not to be delivered. G139 MKA  
+6. G139 MKA  The detailed design of the gun mantle is to be presented for approval on a case-by-case basis. G139 MKA  It can be patterned after the first model of the gun mantle for the PzKpfw I. G139 MKA  
+7. G139 MKA  Rigidly mounted rod antenna without springs or rigid frame antenna are allowable. G139 MKA  
+8. G139 MKA  If a radio is requested, expanding rubber stripes are allowable in the mounting. G139 MKA  
+9. G139 MKA  All types of hinges are to be made out of normal steel, not armour. G139 MKA  
+10. G139 MKA  It is allowable to use the model of traversing gear for the PzKpfw I. G139 MKA  Steel cables are to be used as a connecting linkage for firing the machineguns. G139 MKA  
+11. G139 MKA  Only a single ball-bearing race can be used for the turret mounting. G139 MKA  
+12. G139 MKA  Only normal bolts with heads or countersunk can be used. G139 MKA  
+13. G139 MKA  The turret design must be either round with 10 degree sloping sides or a symmetrical truncated pyramid shape. G139 MKA  
+14. G139 MKA  The German model for mounting an anti-aircraft machinegun is not to be used. G139 MKA  
+
+ End of Development & Trial Model 
+
+On 9 October 1937, Oberstleutnant Phillips sent a letter to Krupp about their decision to not approve the 4,5cm K. G139 MKA A. G139 MKA v. G139 MKA  (m. G139 MKA K. G139 MKA A. G139 MKA ) design for export. G139 MKA  The reasoning was the armour plates armour plates thicker than 13mm (to protect against armour piercing 7. G139 MKA 92mm rounds), and the engine compartment and cooling system closely match the latest methods used for the latest tanks fielded by the German Army, of which proved difficult and was costly to develop. G139 MKA  
+
+On 1 February 1938, Hageloch, Müller, and Wölfert of Krupp met to discuss the status of the trial vehicles. G139 MKA  They decided that they would continue development on the trials, ignoring the previous message from the Waffenamt. G139 MKA  The road wheel mounts were to be designed like the l. G139 MKA K. G139 MKA A. G139 MKA  2, however the patent application for the m. G139 MKA K. G139 MKA A. G139 MKA  roadwheels mounts were to be declared secret, as requested by the Waffenamt. G139 MKA  
+
+The gun needs to be completed and fired by the 1st of September 1938, the trial vehicle without a turret is to be completed in September 1938, and the turret completed by December 1938. G139 MKA  The vehicle was tested in early 1939, with good results. G139 MKA  The turret for the K. G139 MKA A. G139 MKA v. G139 MKA  started production in late 1939, but it is unknown whether it was completed. G139 MKA  
+
+The vehicle did not enter production, and Krupp moved on to other projects. G139 MKA  
+
+* sourced from https://firearmcentral. G139 MKA fandom. G139 MKA com/wiki/Mittlerer_Kampfwagen_f%C3%BCr_Ausland
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

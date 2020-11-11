@@ -1,0 +1,319 @@
+900,000 Cost. 
+800840 HP Hit Points. 
+27.47/2827.78/29.5 t Weight Limit. 
+410650 hp Engine Power. 
+64/20 km/h Speed Limit. 
+3436 deg/s Traverse. 
+14.9323.4 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+63.5/42.9/31.8 mm Hull Armor. 
+76.2/63.5/57.276.2/63.5/57.2 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+45/2400/32 100/2800/56 Shell Cost. 
+75/75/100135/135/175 HP Damage. 
+105/170/30145/202/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.3 s 50% Crew: 2.85 s 75% Crew: 2.49 s 100% Crew: 2.21 s Rammer: 1.99 s Vents: 2.16 s Both: 1.95 s Both and BiA: 1.9 s Both and Max Crew %: 1.82 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 3.9 s 50% Crew: 4.83 s 75% Crew: 4.22 s 100% Crew: 3.74 s Rammer: 3.37 s Vents: 3.66 s Both: 3.29 s Both and BiA: 3.22 s Both and Max Crew %: 3.09 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: 1956.75 50% Crew: 1579.5 75% Crew: 1809 100% Crew: 2040.75 100% Crew Vents: 2086.5 Rammer: 2267.25 Both: 2318.25 Both and BiA: 2370 Both and Max Crew %: 2472.75 Advantageous Damage Per Minute First-shot DPM: 2031.75 50% Crew: 1654.5 75% Crew: 1884 100% Crew: 2115.75 100% Crew Rammer: 2342.25 Vents: 2161.5 Both: 2393.25 Both and BiA: 2445 Both and Max Crew %: 2547.75 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: 1956.75 50% Crew: 1579.5 75% Crew: 1809 100% Crew: 2040.75 100% Crew Vents: 2086.5 Rammer: 2267.25 Both: 2318.25 Both and BiA: 2370 Both and Max Crew %: 2472.75 Advantageous Damage Per Minute First-shot DPM: 2031.75 50% Crew: 1654.5 75% Crew: 1884 100% Crew: 2115.75 100% Crew Rammer: 2342.25 Vents: 2161.5 Both: 2393.25 Both and BiA: 2445 Both and Max Crew %: 2547.75 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (100 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2609 50% Crew: 2106 75% Crew: 2412 100% Crew: 2721 100% Crew Vents: 2782 Rammer: 3023 Both: 3091 Both and BiA: 3160 Both and Max Crew %: 3297 Advantageous Damage Per Minute First-shot DPM: 2709 50% Crew: 2206 75% Crew: 2512 100% Crew: 2821 100% Crew Rammer: 3123 Vents: 2882 Both: 3191 Both and BiA: 3260 Both and Max Crew %: 3397 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (135 Damage):  Theoretical Damage Per Minute Nominal DPM: 2076.3 50% Crew: 1676.7 75% Crew: 1919.7 100% Crew: 2165.4 100% Crew Vents: 2214 Rammer: 2405.7 Both: 2459.7 Both and BiA: 2515.05 Both and Max Crew %: 2623.05 Advantageous Damage Per Minute First-shot DPM: 2211.3 50% Crew: 1811.7 75% Crew: 2054.7 100% Crew: 2300.4 100% Crew Rammer: 2540.7 Vents: 2349 Both: 2594.7 Both and BiA: 2650.05 Both and Max Crew %: 2758.05 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (135 Damage):  Theoretical Damage Per Minute Nominal DPM: 2076.3 50% Crew: 1676.7 75% Crew: 1919.7 100% Crew: 2165.4 100% Crew Vents: 2214 Rammer: 2405.7 Both: 2459.7 Both and BiA: 2515.05 Both and Max Crew %: 2623.05 Advantageous Damage Per Minute First-shot DPM: 2211.3 50% Crew: 1811.7 75% Crew: 2054.7 100% Crew: 2300.4 100% Crew Rammer: 2540.7 Vents: 2349 Both: 2594.7 Both and BiA: 2650.05 Both and Max Crew %: 2758.05 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2691.5 50% Crew: 2173.5 75% Crew: 2488.5 100% Crew: 2807 100% Crew Vents: 2870 Rammer: 3118.5 Both: 3188.5 Both and BiA: 3260.25 Both and Max Crew %: 3400.25 Advantageous Damage Per Minute First-shot DPM: 2866.5 50% Crew: 2348.5 75% Crew: 2663.5 100% Crew: 2982 100% Crew Rammer: 3293.5 Vents: 3045 Both: 3363.5 Both and BiA: 3435.25 Both and Max Crew %: 3575.25 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.508 m With 75% Crew: 0.443 m With 100% Crew: 0.393 m With BiA: 0.384 m With BiA and Vents: 0.376 m Maximum possible: 0.361 m For more details, see Crew m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+4848 deg/s Turret Traverse. 
+360° Gun Arc. 
+-13°/+20°-8°/+15° Elevation Arc. 
+13075 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.9 m With 75% Crew: 369.8 m With 100% Crew: 417.2 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 600.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 444 m With 75% Crew: 508.5 m With 100% Crew: 573.6 m With 100% Signal Boost: 660 m When affected by 100% Relaying: 605 m Maximum possible: 825.7 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+QF 6-pdr Mk. III. 
+105/170/30. 
+75/75/100. 
+26.09. 
+0.41. 
+1.9. 
+nan. 
+400. 
+27000. 
+V. 
+QF 6-pdr Gun Mk. V. 
+110/180/30. 
+75/75/100. 
+26.09. 
+0.39. 
+1.9. 
+nan. 
+450. 
+35000. 
+V. 
+3.7-inch Howitzer. 
+47/110/30. 
+370/280/100. 
+8.57. 
+0.53. 
+2.3. 
+nan. 
+393. 
+35000. 
+V. 
+75 mm Gun Mk. V. 
+91/144/38. 
+110/110/175. 
+20.0. 
+0.41. 
+1.9. 
+nan. 
+500. 
+45000. 
+VI. 
+75 mm Vickers HV. 
+145/202/38. 
+135/135/175. 
+15.38. 
+0.36. 
+2.3. 
+nan. 
+591. 
+50000. 
+VI. 
+Cromwell Mk. I. 
+76.2/63.5/57.2. 
+48. 
+360. 
+nan. 
+5000. 
+12500. 
+VI. 
+Cromwell Mk. IV. 
+76.2/63.5/57.2. 
+48. 
+360. 
+nan. 
+5000. 
+17500. 
+V. 
+Rolls-Royce Meteor. 
+600. 
+20. 
+nan. 
+744. 
+14000. 
+V. 
+Rolls-Royce Meteor Mk. IVB. 
+650. 
+20. 
+nan. 
+744. 
+16000. 
+V. 
+Nuffield Liberty Mk. V. 
+410. 
+20. 
+nan. 
+383. 
+12500. 
+V. 
+A27L. 
+28.0. 
+34. 
+B/2. 
+nan. 
+6500. 
+4000. 
+VI. 
+A27M. 
+29.5. 
+36. 
+B/2. 
+nan. 
+6500. 
+19000. 
+VII. 
+WS No. 19 Mk. II. 
+450. 
+nan. 
+40. 
+21000. 
+VI. 
+WS No. 19 Mk. I. 
+400. 
+nan. 
+40. 
+15000. 
+VIII. 
+WS No. 19 Mk. III. 
+550. 
+nan. 
+40. 
+22000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank=GB21_Cromwell
+|The Cromwell, or "Crommie", is a generally well-liked medium tank with impressive maneuverability that no other tier 6 medium tank can offer, but at the cost of rather weak armor. GB21 Cromwell  Its Vickers HV gun is comparable to the German 75mm L/70, making it suited for high speed flanking maneuvers and also long and medium range fire support. GB21 Cromwell  Beware the unusually poor dispersion values, try to get in close for flanking. GB21 Cromwell  Its impressive power to weight ratio and maneuverability can allow it to actively scout as well as zig-zagging to easily avoid enemy fire, though the radio leaves something to be desired. GB21 Cromwell 
+
+|Gallery=
+
+
+|InTheGame_pros=
+
+* Excellent mobility, comparable to a light tank
+* Good camouflage and decent viewrange, makes for a pretty good scout
+* Good alpha damage and penetration, and decent accuracy
+* Good gun depression on the front/sides
+* Great flanker and skirmisher
+
+|InTheGame_cons=
+
+* Thin, mostly flat armor profile
+* Abysmal gun handling, and cannot mount Vertical Stabilizer to compensate
+* Poor shell velocity
+* No gun depression on the rear arc
+* Bad radio signal can be a problem when scouting and flanking
+
+|InTheGame_performance=
+The Cromwell combines great speed, acceleration and maneuverability with a reasonably powerful and fast firing gun. GB21 Cromwell  It's one of the best flankers, but keep in mind that your speed is your only real defense. GB21 Cromwell  Its armor is neither thick nor sloped and it is vulnerable to most enemy fire. GB21 Cromwell  In contrast to the other tier 6 mediums, it gains only little advantages from hull down situations, since its turret is neither well rounded like the [[T-34-85]]'s, nor features a thick gun mantlet like many German or American tier 6 medium tanks. GB21 Cromwell  The rather decent 8 degrees of gun depression give it more flexibility around hilly terrain, however. GB21 Cromwell 
+
+Due to its great mobility, this tank should be played as a flanker while it can also function as a quite good scout. GB21 Cromwell  Optionally, its powerful gun also allows a less aggressive, more supportive play style. GB21 Cromwell 
+
+Note that the Cromwell has nearly no depression when looking back, so be careful with breakthroughs on hills and that the shell travel speed is a bit slow. GB21 Cromwell 
+
+|InTheGame_research=
+* From its predecessor, the Crusader, the Cromwell receives the 6 pdr Gun Mk. GB21 Cromwell  V (L/50) (low damage but usable penetration) and WS No. GB21 Cromwell  19 Mk. GB21 Cromwell  III. GB21 Cromwell  Both should be installed immediately. GB21 Cromwell 
+* Upgrade the suspension next. GB21 Cromwell 
+* Speed is important in this tank. GB21 Cromwell  That's a good reason to research the Rolls-Royce Meteor engine. GB21 Cromwell  This will enhance your acceleration a lot and will help you to survive. GB21 Cromwell 
+* Then research the turret and upgraded guns (the earlier 6-Pounder Mk. GB21 Cromwell  V gun may be preferable to the 75mm gun Mk. GB21 Cromwell  V as you get the XP for the top gun due to the penetration). GB21 Cromwell 
+* After that, you can pick up the 3. GB21 Cromwell 7-inch Howitzer if you wish. GB21 Cromwell 
+* Go from there. GB21 Cromwell 
+
+|InTheGame_equipment=
+Improved Ventilation, Tank Gun Rammer, GLD, Coated Optics
+
+|External_Reviews=
+{{VideoYT|DRE7eYpbl9U}}
+
+|History=
+Cruiser Mk VIII known as the Cromwell (A27M) tank, and the related Centaur (A27L) tank, were one of the most successful series of cruiser tanks fielded by Britain in the Second World War. GB21 Cromwell  The Cromwell tank, named after the English Civil War leader Oliver Cromwell, was the first tank in the British arsenal to combine a dual-purpose gun, high speed from the powerful and reliable Meteor engine, and reasonable armour, all in one balanced package. GB21 Cromwell  Its design formed the basis of the Comet tank. GB21 Cromwell  The Cromwell and Centaur differed in the engine used. GB21 Cromwell  While the Centaur had the Liberty engine of the predecessor cruiser tank, the Crusader, the Cromwell had the significantly more powerful Meteor. GB21 Cromwell  Aside from the engine and associated transmission differences, the two tanks were effectively the same and many Centaurs built were given the Meteor to make them Cromwells. GB21 Cromwell 
+
+The Cromwell first saw action in the Battle of Normandy in June 1944. GB21 Cromwell  The tank equipped the armoured reconnaissance regiments, of the Royal Armoured Corps, within the 7th, 11th, and Guards Armoured Divisions. GB21 Cromwell  While the armoured regiments of the latter two divisions were equipped with M4 Shermans, the armoured regiments of the 7th Armoured Division were fully equipped with Cromwell tanks. GB21 Cromwell  The Centaurs were not generally used for combat except for those fitted with a 95mm Howitzer which were used in support of the Royal Marines during the invasion of Normandy. GB21 Cromwell 
+
+
+==Development history==
+[[image:Cromwell-a-27m-infantry-tank-3. GB21 Cromwell jpg|thumb|200px|left|Cromwell A27 model]]
+The Cromwell and the related Centaur were the product of further development of British cruiser tanks, and they were designed as the replacement for the Crusader tank, which although not yet in service would become obsolete in time. GB21 Cromwell  In late 1940, the General Staff set out the specifications for the new tank, and designs were submitted in early 1941. GB21 Cromwell  The tank would be fitted with the QF 6 pounder gun with the expectation that it would enter service in 1942. GB21 Cromwell  Due to the typical rushed production and lack of components, the A24 Cavalier, then known as "Cromwell I", built by Nuffield had far too many problems to see active combat service. GB21 Cromwell  One of the key problems was that its Nuffield-built Liberty engine was simply not up to the task. GB21 Cromwell  It had been ordered as it was based on tried equipment and therefore should have entered service with minimal delay. GB21 Cromwell 
+
+Leyland and Birmingham Railway Carriage & Wagon had been involved in the development and had offered similar designs to Nuffield. GB21 Cromwell  A second specification for a better tank was the General Staff A27. GB21 Cromwell  The tank would be fitted with the QF 6 pounder gun with the expectation that it would enter service in 1942. GB21 Cromwell  Once it became clear there would be delays, a programme was set in place to fit the 6 pounder to the Crusader to get some 6 pounder tanks in service. GB21 Cromwell At the same time, a new engine was designed to be a tank powerplant. GB21 Cromwell  The Meteor engine was based on the powerful Rolls-Royce Merlin engine used in aircraft such as the Spitfire. GB21 Cromwell  Rolls-Royce, Leyland and BRC&W produced a prototype by January 1942 based on the Crusader but using the Meteor. GB21 Cromwell  With nearly 600 hp (450 kW) it proved to be exceptionally mobile when trialled. GB21 Cromwell  Leyland were lined up to produce the Meteor but withdrew in mid-1941 as they had doubts about being able to provide sufficient cooling. GB21 Cromwell  Rolls-Royce, the makers of the Merlin, were already fully committed to manufacturing the Merlin and could not spare the facilities for the Meteor, and so manufacture was passed to the Rover Car Company. GB21 Cromwell 
+
+The General staff issued new specifications to cover the tanks. GB21 Cromwell  The BRC&W design using the Meteor was A27M (or "Cromwell III") and Leyland's version of it to take the Liberty was A27L ("Cromwell II"). GB21 Cromwell  Nuffields A24 with the Liberty was the Cromwell II. GB21 Cromwell  The naming was reworked in November 1942 with the A27L as Centaur, A27M as Cromwell and A24 as Cavalier. GB21 Cromwell  Production began in November 1942. GB21 Cromwell  It would take considerable time for Rover to make ready production lines for the Meteor, and it was not until a few months later, in January 1943, that sufficient Meteor engines were available and the A27M Cromwell began production. GB21 Cromwell  The Centaur production design allowed for the later conversion to the Meteor engine and many Centaurs would be converted to Cromwells before use. GB21 Cromwell 
+
+==Design features==
+[[image:Cromwell_Tank_Longitudinal_Section. GB21 Cromwell jpg|thumb|200px|right|Cromwell Tank Longitudinal Section]]
+The frame was of rivetted construction though welding was used later. GB21 Cromwell  The armour plate was then bolted to the frame; large bosses on the outside of the plate were used on the turret. GB21 Cromwell  Several British firms besides Leyland contributed to production of the Cromwell and Centaur including LMS Railway, Morris Motors, Metro-Cammell, Birmingham Railway Carriage and Wagon Company and English Electric. GB21 Cromwell [2] Some variants were produced with 14-inch-wide (360 mm) tracks, later 15. GB21 Cromwell 5-inch tracks were used. GB21 Cromwell  The suspension was of the Christie type with long helical springs (in tension) angled back to keep the hull sides low. GB21 Cromwell  Of the five roadwheels each side, four had shock absorbers. GB21 Cromwell  The tracks were driven by sprocketed wheels at the rear and tension adjusted at the front idler; this being standard British practice. GB21 Cromwell  The side of the hull was made up of two spaced plates, the suspension units between them, and the outer plate having cutouts for the movement of the roadwheel axles. GB21 Cromwell  The gearbox had five forward and one reverse gears. GB21 Cromwell  The first gear was for "confined spaces, on steep inclines or sharp turns". GB21 Cromwell 
+
+The Meteor engine delivered 540 hp at 2,250 rpm. GB21 Cromwell  This was the maximum rpm which was limited by governors built into the magnetos. GB21 Cromwell  Fuel consumption on "pool" petrol (67octane) was between 0. GB21 Cromwell 5 and 1. GB21 Cromwell 5 miles per gallon depending on terrain. GB21 Cromwell  The driver was sat on the right in the front of the hull, separated from the hull gunner by a bulkhead. GB21 Cromwell  The driver had two periscopes and a visor in the hull front. GB21 Cromwell  The visor could be opened fully or a small "gate" in it opened; in the latter case a thick glass block protected the driver. GB21 Cromwell  A bulkhead with access holes separated the driver and hull gunner from the fighting compartment. GB21 Cromwell  A further bulkhead separated the fighting compartment from the engine and transmission bay. GB21 Cromwell  The engine compartment drew cooling air in through the top of each side and the roof and exhausted it to the rear. GB21 Cromwell  To allow fording through up to 4 ft (1. GB21 Cromwell 2 m) deep water a flap could be moved over to cover the lowermost air outlet. GB21 Cromwell [5] Air for the engine could be drawn from the fighting compartment or the exterior; it was then passed through oil bath cleaners. GB21 Cromwell 
+
+The Cromwell still had revisions to make before service, most notably changing from the QF 6-pounder (57 mm) to the ROQF 75 mm gun, which was an adaptation of the 6 pounder design to fire the ammunition of the US M3 75 mm gun, which gave it a better HE round to use in infantry support. GB21 Cromwell  This meant the 75 would use the same mounting as the 6 pounder however it was not until June 1944 that Cromwell first saw action during Operation Overlord, the Allied invasion of Normandy. GB21 Cromwell  It had a mixed reception by crews. GB21 Cromwell  It was faster and had a lower profile than the Sherman tank and thicker frontal armour; 3 in (76 mm) versus the 2 in (51 mm) of the Sherman. GB21 Cromwell  On later Cromwells this was increased incrementally, first to 31/4 in (83 mm), then finally to 4 in (100 mm). GB21 Cromwell  The 75 mm gun, though able to fire a useful HE shell, was not as effective against armour as the 6 pdr or the Ordnance QF 17 pounder gun though it was more powerful than the original 75 mm gun mounted on the Sherman. GB21 Cromwell  A derivative of Cromwell was begun to take the 17 pounder, this fell behind and in practice the majority of the 17 pounder gun armed tanks to see service in the war were Firefly variant of the Sherman. GB21 Cromwell 
+There was a 7. GB21 Cromwell 92 mm Besa machine gun mounted coaxially to the main armament operated by the gunner. GB21 Cromwell  A second was "gimbal" mounted in the front of the hull. GB21 Cromwell  The mounting gave 45 degress of coverage to the front (it had 25 degrees of vertical movement as well) and sighting was by a No. GB21 Cromwell  35 telescope which was connected through a linkage to the mounting. GB21 Cromwell  In the top of the turret was mounted a 2 inch "bombthrower" angled to fire forward. GB21 Cromwell  Thirty smoke grenades were carried for it. GB21 Cromwell  
+[[image:U. GB21 Cromwell S_101st_Screaming_Eagles_Paratroopers_hitch_a_ride_on_a_Irish_Guards_Cromwell_tank. GB21 Cromwell _Operation_Market_garden_-_Holland. GB21 Cromwell jpg|thumb|200px|left|US 101. GB21 Cromwell  Airborn troops riding on the Irish guard Cromwell]]
+Total A27 production consisted of 4,016 tanks; 950 of which were Centaurs and 3,066 Cromwells. GB21 Cromwell  In addition, 375 Centaur hulls were built to be fitted with an anti-aircraft gun turret; only 95 of these were completed. GB21 Cromwell 
+
+'''Performance'''
+
+The Cromwell was the fastest British tank to serve in the Second World War, with a top (ungoverned) speed of 40 mph (64 km/h). GB21 Cromwell  However this speed proved too much for even the Christie suspension and the engine was governed to give a top speed of 32 mph (51 km/h), which was still fast for its time. GB21 Cromwell  Thanks to its Christie parentage the Cromwell was very agile on the battlefield. GB21 Cromwell  The dual purpose 75 mm main gun fired the same ammunition as the US 75 mm gun and therefore it had around the same HE and armour-piercing capabilities as the 75 mm equipped Sherman tank. GB21 Cromwell  The armour on the Cromwell ranged from 8 mm up to 76 mm thick overall. GB21 Cromwell  However, on all-welded vehicles built by BRCW Co. GB21 Cromwell  Ltd, the weight saved by the welding allowed for the fitting of appliqué armour plates on the nose, vertical drivers' plate and turret front, increasing the maximum thickness to 102 mm. GB21 Cromwell  In period photos, these vehicles are identified by their War Department numbers carrying the suffix W, i. GB21 Cromwell e. GB21 Cromwell  T121710W. GB21 Cromwell  This armour compared well with that of the Sherman although the Cromwell did not share the Sherman’s sloped glacis plate. GB21 Cromwell  The Cromwell crews in North-West Europe succeeded in outflanking the heavier and more sluggish German tanks with superior speed, manoeuvrability and reliability. GB21 Cromwell  However, the Cromwell was still not a match for the best German armour and British tank design would go through another stage, the interim Comet tank, before going ahead in the tank development race with the Centurion tank. GB21 Cromwell 
+
+==Combat service==
+
+The Centaur was chiefly used for training; only those in specialist roles saw action. GB21 Cromwell  The Close Support version of the Centaur with a 95 mm howitzer replacing the 75mm saw service in small numbers as part of the Royal Marine Armoured Support Group on D-Day, and a number were used as the basis for combat engineering vehicles such as an armoured bulldozer. GB21 Cromwell 
+
+The Sherman remained the most common tank in British and Commonwealth armoured units. GB21 Cromwell  Cromwells were used to fully equip only one division, the 7th Armoured Division. GB21 Cromwell  The Cromwell was also used as the main tank in the armoured reconnaissance regiments of British armoured divisions (Guards Armoured Division and 11th Armoured Division)[6] in North West Europe, because of its great speed and relatively low profile. GB21 Cromwell  The Cromwell in turn was succeeded by small numbers of the Comet tank. GB21 Cromwell  The Comet was similar to the Cromwell, and shared some components, but had a superior gun in the 77 mm gun (a version of the 17 pounder). GB21 Cromwell 
+
+In general the Cromwell was found to be very reliable with remarkable speed and manoeuvrability though it required more maintenance than the Sherman. GB21 Cromwell  The Cromwell was given a modification to the exhaust to direct the fumes so that they were not drawn into the fighting compartment - a problem found when tanks were drawn up together preparing for the advance. GB21 Cromwell  In northern Europe, the Cromwell was used by Allied units of the 1st Polish Armoured Division (10th Mounted Rifle Regiment) and 1st Czechoslovak Independent Armoured Brigade. GB21 Cromwell  After the war, the Cromwell remained in British service. GB21 Cromwell  It saw service in the Korean War with 7 RTR and the 8th King's Royal Irish Hussars. GB21 Cromwell 
+
+The Cromwell/Centaur had the distinction of being the first tank to go into service with the Greek Army during the reformation following the Second World War. GB21 Cromwell  Fifty-two Centaur I tanks were donated early in 1946, during the opening stages of the Greek Civil War, but they were kept in storage due to the lack of trained personnel. GB21 Cromwell  In 1947 the first Greek officers returned from training courses in the United Kingdom and training of tank crews began. GB21 Cromwell  The Centaur saw limited service in the civil war, as during the last year of the war (1949) battles were fought on mountains. GB21 Cromwell  Centaurs formed the core of the Greek Armour Corps during the 1950s, and were retired in 1962 having been replaced by US built M47s. GB21 Cromwell 
+
+'''Operators'''[[image:Destroyed_Cromwell_tank_in_Villers_Bocage. GB21 Cromwell . GB21 Cromwell jpg|thumb|200px|right|Destroyed Cromwell tank in Villers Bocage]]
+
+-	Czechoslovakia
+
+-	Finland
+
+-	Greece
+
+-	Israel
+
+-	Poland
+
+-	Portugal
+
+-	United Kingdom
+
+|HistoricalGallery=
+image:Cromwell_front. GB21 Cromwell jpg{{!}}
+image:A_British_Cromwell. GB21 Cromwell jpg{{!}}A British Cromwell IV of the Royal Marine Support Group. GB21 Cromwell  It is towing an ammunition sled
+image:British_Cromwell-a. GB21 Cromwell jpg{{!}}British Cromwell tank, behind Sword Beach, Normandy, France
+image:Cromwell_dozer. GB21 Cromwell jpg{{!}}Cromwell dozer
+Cromwell_Tank. GB21 Cromwell jpg{{!}}
+Cromwell_tank_hierarchy. GB21 Cromwell png{{!}}Cromwell tank hierarchy
+image:Cruiser_Tank_Mk. GB21 Cromwell jpg{{!}}Cruiser Tank Mk VIII Cromwell Mk I in Royal Australian Armoured Corps Tank Museum, Puckapunyal, Australia. GB21 Cromwell  This vehicle is the only Cromwell tank sent to Australia
+image:Sherman_and_cromwell_silhouette. GB21 Cromwell png{{!}}Sherman and cromwell silhouette
+image:Turret_of_British_Centaur_tank. GB21 Cromwell jpg{{!}}Turret of British Centaur tank, behind Sword Beach, Normandy, France
+image:British_Army_Cromwell_tank_crew_of_C_Squadron,_5th_Royal_Tank_Regiment_in_Hamburg,_Germany,_4_May_1945. GB21 Cromwell jpg{{!}}British Army Cromwell tank crew of C Squadron,_5th Royal Tank Regiment in Hamburg,_Germany, 4 May 1945
+image:Char_cromwell. GB21 Cromwell jpg{{!}}
+image:Cromwell_tank_inspected_by_Chrurchill_himself. GB21 Cromwell jpg{{!}}Cromwell tank inspected by Chrurchill himself
+image:Cromwell_Tank_Longitudinal_Section. GB21 Cromwell jpg{{!}}Cromwell Tank Longitudinal Section
+image:Cromwell_tanks_somewhere_in_normandy. GB21 Cromwell jpg{{!}}Cromwell tanks somewhere in Normandy
+image:Cromwell_pursuit_tank_with_men_aboard. GB21 Cromwell jpg{{!}}Cromwell pursuit tank with men aboard
+image:Cromwell_of_the_1st. GB21 Cromwell _Canadian_Army. GB21 Cromwell jpg{{!}}Cromwell of the 1st. GB21 Cromwell  Canadian Army
+image:Cromwell-a-27m-infantry-tank-3. GB21 Cromwell jpg{{!}}Cromwell A27 model
+image:CromwellT_of_the_1st_Royal_Tank_Regiment. GB21 Cromwell jpg{{!}}Cromwell of the 1st Royal Tank Regiment
+image:Destroyed_Cromwell_tank_in_Villers_Bocage. GB21 Cromwell . GB21 Cromwell jpg{{!}}Destroyed Cromwell tank in Villers Bocage
+image:On_August_21st_1944,_after_a_hard_day%27s_fighting,_the_regiment_reached. GB21 Cromwell jpg{{!}}Cromwell tank near Villers Bocage village
+image:U. GB21 Cromwell S_101st_Screaming_Eagles_Paratroopers_hitch_a_ride_on_a_Irish_Guards_Cromwell_tank. GB21 Cromwell _Operation_Market_garden_-_Holland. GB21 Cromwell jpg{{!}}US 101. GB21 Cromwell  Airborn paratroopers riding on the Irish guard Cromwell
+
+|HistAcc=
+Attempts to mount the 75 mm Vickers HV gun on the Cromwell were unsuccessful because the turret was too small. GB21 Cromwell  Thus its configuration as depicted in-game is fake. GB21 Cromwell 
+* The Rolls-Royce Meteor Mk. GB21 Cromwell  IVB engine was only fitted to the Centurion tank. GB21 Cromwell  Its configuration on the Cromwell is fake. GB21 Cromwell 
+* Tanks fitted with the Nuffield Liberty Mk. GB21 Cromwell  V engine were known as Centaurs. GB21 Cromwell 
+* SCC No. GB21 Cromwell  15 Olive Drab paint scheme is missing. GB21 Cromwell  This was the base colour on all British AFVs in Europe from April 1944. GB21 Cromwell 
+* Allied star identification marking is missing. GB21 Cromwell  The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942. GB21 Cromwell 
+* The 75 mm Mk V is the same gun on the [[Cromwell B]], yet the penetration, damage and weight values are inconsistent. GB21 Cromwell 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. GB21 Cromwell wikipedia. GB21 Cromwell org/wiki/Cromwell_tank
+
+}}
+
+[[Category:British Tanks]]

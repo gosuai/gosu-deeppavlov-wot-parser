@@ -1,0 +1,178 @@
+0 Cost. 
+255204 HP Hit Points. 
+12.75/13.57.42/0 t Weight Limit. 
+120120 hp Engine Power. 
+35/12 km/h Speed Limit. 
+3535 deg/s Traverse. 
+9.4116.17 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+14/10/10 mm Hull Armor. 
+14/12/14// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+45/45/6045/45/60 HP Damage. 
+40/65/2340/65/23 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 3.6 s 50% Crew: 4.46 s 75% Crew: 3.89 s 100% Crew: 3.45 s Rammer: 3.11 s Vents: 3.37 s Both: 3.04 s Both and BiA: 2.97 s Both and Max Crew %: 2.85 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 3.6 s 50% Crew: 4.46 s 75% Crew: 3.89 s 100% Crew: 3.45 s Rammer: 3.11 s Vents: 3.37 s Both: 3.04 s Both and BiA: 2.97 s Both and Max Crew %: 2.85 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (60 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (60 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.595 m With 75% Crew: 0.519 m With 100% Crew: 0.46 m With BiA: 0.45 m With BiA and Vents: 0.44 m Maximum possible: 0.422 m For more details, see Crew m ▲ With 50% Crew: 0.595 m With 75% Crew: 0.519 m With 100% Crew: 0.46 m With BiA: 0.45 m With BiA and Vents: 0.44 m Maximum possible: 0.422 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment Aim time. 
+3232 deg/s Turret Traverse. 
+360° Gun Arc. 
+-15°/+20°-15°/+20° Elevation Arc. 
+120120 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 220 m With 75% Crew: 250 m With 100% Crew: 280 m With Recon and Situational Awareness: 294.2 m With Coated Optics: 308 m With Binocular Telescope: 350 m Maximum possible: 400.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 220 m With 75% Crew: 250 m With 100% Crew: 280 m With Recon and Situational Awareness: 294.2 m With Coated Optics: 308 m With Binocular Telescope: 350 m Maximum possible: 400.8 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 201.8 m With 75% Crew: 231.1 m With 100% Crew: 260.7 m With 100% Signal Boost: 300 m When affected by 100% Relaying: 275 m Maximum possible: 375.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 201.8 m With 75% Crew: 231.1 m With 100% Crew: 260.7 m With 100% Signal Boost: 300 m When affected by 100% Relaying: 275 m Maximum possible: 375.3 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+QF 2-pdr Mk. IX prototype. 
+40/65/23. 
+45/45/60. 
+16.67. 
+0.48. 
+2.5. 
+nan. 
+nan. 
+0. 
+nan. 
+40 mm Pom-Pom prototype. 
+35/58/23. 
+45/45/60. 
+17.94. 
+0.52. 
+2.5. 
+nan. 
+nan. 
+3000. 
+nan. 
+Cruiser Mk. I. 
+//. 
+32. 
+280. 
+nan. 
+nan. 
+0. 
+I. 
+Rolls-Royce Phantom. 
+120. 
+20. 
+nan. 
+340. 
+0. 
+nan. 
+A9 Mk. I. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+0. 
+II. 
+WS No. 14. 
+250. 
+nan. 
+40. 
+0. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=GB03_Cruiser_Mk_I
+|The first tank in the British tech tree as of 1. GB03 Cruiser Mk I 9, this combat tank is still a slow, lightly-armored, well-armed machine. GB03 Cruiser Mk I 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* 180 damage clip potential with Pom-Pom prototype
+* 15 degrees of gun depression
+
+|InTheGame_cons=
+* Slow
+* Poor aim time, accuracy, and DPM with both guns
+
+|InTheGame_performance=
+
+Despite being knocked down a tier, not much has changed for the Cruiser I. GB03 Cruiser Mk I  Everything has been scaled down to match its new tier, and it plays similarly to how it did in 1. GB03 Cruiser Mk I 8. GB03 Cruiser Mk I 
+
+This tank is rather slow, with a top speed of only 35 km/h, and it is certainly not agile either. GB03 Cruiser Mk I  Combined with its weak armor, you will die quickly if caught in the open. GB03 Cruiser Mk I  While the stock gun is a standard Tier 1 single-shot gun, the tank improves quite a bit when you unlock the Pom-Pom prototype. GB03 Cruiser Mk I  With a clip potential of 180, you can two-clip every same-tier tank assuming all shots land, something that is otherwise only possible with the T1 Cunningham's top gun. GB03 Cruiser Mk I  In addition, while your armor is still nothing noteworthy and is unlikely to bounce anything, it fits much better with the other Tier 1 tanks. GB03 Cruiser Mk I  
+
+|InTheGame_research=
+* As a Tier 1 vehicle, the '''40mm Pom-Pom prototype''' gun is the only module available for research. GB03 Cruiser Mk I 
+
+|InTheGame_equipment=
+Vents, Enhanced Suspension, Camouflage Net
+
+|History=
+Cruiser Mk I
+
+Cruiser, Mk I (A9) was a British cruiser tank of the interwar period. GB03 Cruiser Mk I  It was the first cruiser tank: a fast tank designed to bypass the main enemy lines and engage the enemy's lines of communication, along with enemy tanks. GB03 Cruiser Mk I  TheCruiser Mk II was a heavier armoured adaptation of the Mark I developed at much the same time. GB03 Cruiser Mk I 
+
+==Development history==
+
+In 1936 the British War Office designated two different kinds of tanks for future development: heavily armoured infantry tanksto be used in close co-operation with infantry during attacks, and fast mobile cruiser tanks designed to make forays deep into enemy territory. GB03 Cruiser Mk I  In 1934 Sir John Carden of Vickers-Armstrong was asked to provide a "reasonably cheap tank" as a replacement for some of the mediums then in use. GB03 Cruiser Mk I  The pilot model of his design was finished in 1936 and given the designation A9E1. GB03 Cruiser Mk I  It incorporated the best features of the earlier Mk III Light Tank, and was powered by a commercial petrol engine. GB03 Cruiser Mk I  However, this was still in the time of the Great depression and the tank had a number of cost-cutting measures applied. GB03 Cruiser Mk I  It was the first British tank to have a centrally located turret and to have powered traverse. GB03 Cruiser Mk I  The system was by Nash & Thompson and similar to that being introduced on the Vickers Wellington bomber aircraft. GB03 Cruiser Mk I  The armour was light with a maximum of 14 mm thickness, many armour faces were vertical, and there were numerous shot traps but it could achieve 25 mph and carried the new high velocity 2pdr gun. GB03 Cruiser Mk I 
+
+The driver's compartment and the fighting compartments were not separated. GB03 Cruiser Mk I  As well as the turret armament, which consisted of a QF 2-pounder (40 mm) gun and a coaxial Vickers machine gun, there were two small turrets either side of the driver's compartment, each sporting one more machine-gun. GB03 Cruiser Mk I  Both these smaller turrets were permanently manned, which gave the tank a total crew of 6 (Commander, gunner, loader, driver and two machine-gunners). GB03 Cruiser Mk I The A9E1 was tested against other designs and -although lacking in some areas - in 1937 it was accepted as an interim design until a Christie suspension cruiser tank could be delivered. GB03 Cruiser Mk I  An order was placed for 125. GB03 Cruiser Mk I  Seventy-five were built byHarland and Wolff, and the other 50 were built by Vickers. GB03 Cruiser Mk I  Originally a Rolls-Royce car engine was used, but this proved underpowered and was replaced by an AEC bus engine. GB03 Cruiser Mk I 
+
+The later Valentine Infantry tank essentially used the same lower hull and suspension, though with considerably more armour. GB03 Cruiser Mk I  The A9 weighed 12 tons, was 5. GB03 Cruiser Mk I 8 metres long, 2. GB03 Cruiser Mk I 65 metres high, 2. GB03 Cruiser Mk I 5 metres wide, and had a top speed of 25 mph on road and 15 mph off. GB03 Cruiser Mk I  Its maximum road range was 150 miles. GB03 Cruiser Mk I  The ammunition load was 100 2-pounder rounds and a total of 3,000 rounds for the three Vickers machine guns. GB03 Cruiser Mk I 
+
+
+==Combat history==
+
+The Mark I cruiser began to be delivered in January 1939. GB03 Cruiser Mk I  The Cruiser was an effective tank in the French, Greek and early North African campaigns. GB03 Cruiser Mk I  The 2 pdr gun was lethal against the early Italian tanks encountered during the North African campaign and could hold its own against Rommel's early Panzer IIs and IIIs. GB03 Cruiser Mk I  The A9's 2-pounder gun could also breach the 20 – 30 mm of protective steel on later opponents such as the Panzer III ausf D and the Panzer IVausf D variants. GB03 Cruiser Mk I  It was effective until the Germans introduced the more thickly armoured Panzer IV ausf E variant to the desert in Spring 1941. GB03 Cruiser Mk I  However, the minimal armour made the A9 an easy kill for most Axis anti-tank weapons. GB03 Cruiser Mk I  Also problematic was the lack of High Explosive shells for the 2 pdr gun and even worse the lack of AP for the 95 mm gun on the Close Support version. GB03 Cruiser Mk I  Another issue was that the areas around the front machine gun turrets created a frontal surface that was more vulnerable to enemy fire than it would have been had it been a flat plate, let alone a sloped glacis. GB03 Cruiser Mk I  The mechanical unreliability of the Cruiser was also a disadvantage. GB03 Cruiser Mk I  In particular, tracks were easily slewed causing difficulties. GB03 Cruiser Mk I 
+
+==Variants==
+
+'''Mark I (A9)’’
+
+-	Used by the 1st Armoured Division in the Battle of France (1940). GB03 Cruiser Mk I  Used by the 2nd and 7th Armoured Divisions in North Africa until 1941. GB03 Cruiser Mk I 
+
+'''Mark I CS'''
+
+-	Had a 3. GB03 Cruiser Mk I 7 inch (94 mm) /L15 breech-loaded mortar instead of the 2-pounder gun. GB03 Cruiser Mk I  40 rounds, mostly smoke, were carried. GB03 Cruiser Mk I 
+
+|HistAcc=
+Historical [[Gun/UK#3. GB03 Cruiser Mk I 7-inch Howitzer|3. GB03 Cruiser Mk I 7-inch Howitzer]] is missing. GB03 Cruiser Mk I  This variant was known as the Cruiser Mk I CS (Close Support). GB03 Cruiser Mk I 
+* The 40 mm Pom-Pom gun configuration is fake. GB03 Cruiser Mk I 
+
+|HistoricalGallery=
+image:Cruiser_Mark_I. GB03 Cruiser Mk I jpg{{!}}
+image:Mark1_Cruiser_Tank,_Great_Britain,_WW_2. GB03 Cruiser Mk I jpg{{!}}Mark1 Cruiser Tank, Great Britain, WW II
+image:Cruiser Mk I. GB03 Cruiser Mk I jpg{{!}}Cruiser Mk I tanks near Tobruk, 12 September 1941. GB03 Cruiser Mk I 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

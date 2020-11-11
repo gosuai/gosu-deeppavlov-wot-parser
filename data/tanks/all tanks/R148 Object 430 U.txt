@@ -1,0 +1,164 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery. 
+6,100,000 Cost. 
+20001600 HP Hit Points. 
+42/4515.35/0 t Weight Limit. 
+600600 hp Engine Power. 
+50/18 km/h Speed Limit. 
+5252 deg/s Traverse. 
+14.29Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+160/90/45 mm Hull Armor. 
+300/195/65// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+440/440/530440/440/530 HP Damage. 
+252/340/68252/340/68 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 10.2 s 50% Crew: 12.64 s 75% Crew: 11.03 s 100% Crew: 9.78 s Rammer: 8.8 s Vents: 9.56 s Both: 8.61 s Both and BiA: 8.42 s Both and Max Crew %: 8.07 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 10.2 s 50% Crew: 12.64 s 75% Crew: 11.03 s 100% Crew: 9.78 s Rammer: 8.8 s Vents: 9.56 s Both: 8.61 s Both and BiA: 8.42 s Both and Max Crew %: 8.07 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+3838 deg/s Turret Traverse. 
+360° Gun Arc. 
+-5°/+18°-5°/+18° Elevation Arc. 
+5050 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 573.6 m With 75% Crew: 651.8 m With 100% Crew: 730 m With 100% Signal Boost: 876 m When affected by 100% Relaying: 803 m Maximum possible: 1050.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.6 m With 75% Crew: 651.8 m With 100% Crew: 730 m With 100% Signal Boost: 876 m When affected by 100% Relaying: 803 m Maximum possible: 1050.4 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+122 mm M62-T2U. 
+252/340/68. 
+440/440/530. 
+5.88. 
+0.4. 
+2.3. 
+nan. 
+nan. 
+330000. 
+nan. 
+Object 430U. 
+//. 
+38. 
+400. 
+nan. 
+nan. 
+66000. 
+nan. 
+4TPD. 
+nan. 
+0. 
+nan. 
+nan. 
+115000. 
+nan. 
+Object 430U. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+82500. 
+X. 
+R-113. 
+730. 
+nan. 
+80. 
+52200. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-54 first prototype FL • VIIIT-44-100 • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • VIIIT-44 FL • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIIS-6 FL • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II • XObject 780. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIKV-4 KTTS • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT26E4 SuperPershing FL • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIFV4202 FL • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 FL • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIM4A1 FL 10 • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIM4A1 Revalorisé FL • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-54 first prototype FL • VIIIT-44-100 • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • VIIIT-44 FL • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank= 
+
+| This tank is literally a ''"Heavy Medium"'' tank with various characteristics from both a heavy tank and a medium tank mixed together. R148 Object 430 U  It has decent mobility, but not as good as other mediums, good armour protection, but not as good as other heavies, and relatively good gun handling considering its mobility and armour. R148 Object 430 U  It's best played as spearhead tank that can lead a charge , or as an anti-medium that can fight well against lights and mediums due to its good armour, mobility and firepower. R148 Object 430 U  
+
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Great DPM, joint highest alpha damage among Tier 10 medium tanks
+* Strong turret and upper glacis armor, hull sides are covered with spaced armor
+* Large hitpoint pool
+* Very good hull traverse speed and ground resistance, great agility
+* Excellent camouflage values
+
+|InTheGame_cons= 
+* Bad gun depression, as is common for most Russian tanks
+* Average top speed and low engine power, poor acceleration
+* Bad accuracy
+
+|InTheGame_performance= 
+The Object 430U is perhaps the most extreme example of the "heavy medium" concept - a tank that combines the best features of both heavy and medium tanks with few shortcomings. R148 Object 430 U 
+
+It carries a 122mm gun with excellent damage per shot (best in tier and class, tied with the Chinese [[121]] and the Swedish [[UDES 15/16]]), decent penetration, good enough reload speed to break 3k DPM with only standard equipment, and good aim time for such a big gun. R148 Object 430 U  Another advantage is that the Object 430U's ammo capacity is very generous at 50 rounds total, allowing players to carry a good amount of each shell type to suit their needs in battle. R148 Object 430 U 
+
+In terms of survivability, the Object 430U is excellent. R148 Object 430 U  While its lower plate is fairly weak, its upper glacis has an effective thickness above 270mm, and the turret face is even stronger, being 300mm at its thinnest. R148 Object 430 U  The turret cupolas are also not weakspots at all, being around 300mm effective each. R148 Object 430 U  The side armor is somewhat thin, but inversely angled and covered with spaced armor, making sidescraping very effective. R148 Object 430 U  One should be cautious not to overangle the tank though, as that would allow observant players to shoot the frontal roadwheel, tracking the tank and dealing damage at the same time. R148 Object 430 U  Lastly, Object 430U has great camouflage values, further adding to its survivability. R148 Object 430 U 
+  
+Mobility-wise, the Object 430U enjoys excellent hull traverse and agility, but its speed is merely average and its acceleration is poor for a medium tank. R148 Object 430 U  
+
+Overall, Object 430U is one of the better Tier 10 tanks currently available in the techtrees, and is an especially recommended choice for new players and players of average skill. R148 Object 430 U  It is powerful and forgiving, and is right at home at mid-short range where its armor and powerful gun allow it to slug against same tier opponents well. R148 Object 430 U  Against lower tiers, this tank can be an absolute brute, and one any player should be wary of. R148 Object 430 U  
+
+|InTheGame_research= 
+This vehicle comes elites in its stock configuration. R148 Object 430 U 
+
+|InTheGame_equipment=
+
+Tank Gun Rammer, Vertical Stabilizer, Vents, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+*{{VideoYT|UVVm5A76x0g}}
+
+|History= 
+
+Object 430U (“uluchennij” – improved, or “usilenij” – strenghtened) was – although designated a medium tank – a Soviet take on how heavy and heavily armored a Soviet medium tank can get. R148 Object 430 U  It was (as the name suggest) a development of the Object 430 itself, but with improved armor and a 122mm D-25T gun. R148 Object 430 U 
+
+The Object 430 itself was a result of the early 50′s program to find something better than the T-54. R148 Object 430 U  It was designed by A. R148 Object 430 U A. R148 Object 430 U Morozov in Kharkov between 1954-1955. R148 Object 430 U  More details on its history are in the [[Object 430]] history section
+
+In 1954, the construction bureau of the Kharkov plant No. R148 Object 430 U 75 made another medium tank preliminary project on its own initiative, under the designation of Object 430U. R148 Object 430 U  The frontal hull armor was improved to 160mm (120mm on original Object 430). R148 Object 430 U  The turret was also reworked in order to improve its protection and to install the 122mm D-25T gun (some sources suggest that a 130mm gun was also considered). R148 Object 430 U  Suspension was also reworked and the weight of the tank increased from 35,5 tons to 42 tons. R148 Object 430 U 
+
+In a number of parameters (ammunition rack, ground pressure, power-to-weight ratio), the Object 430U was better than serially produced IS-3 and IS-4 heavy tanks and also the heavy experimental Object 730. R148 Object 430 U  As a result of the Object 430U, it was demonstrated that not only do the medium tanks have development potential, they can also achieve and surpass the parameters of heavy tanks. R148 Object 430 U  However, at this stage, the development of the Object 430U was stopped: by its parameters, it was effectively a heavy tank and the Soviets already had a post-war heavy tank program (which resulted in T-10) and didn’t need another one. R148 Object 430 U 
+
+|HistoricalGallery= 
+File:Object_430U_mock_up. R148 Object 430 U jpg{{!}}Mock-up of the Object 430U
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. R148 Object 430 U wot-news. R148 Object 430 U com/2013/08/16/object-430u-possible-tier-10-vehicle/
+* https://ru. R148 Object 430 U wikipedia. R148 Object 430 U org/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_430
+* 
+
+}}

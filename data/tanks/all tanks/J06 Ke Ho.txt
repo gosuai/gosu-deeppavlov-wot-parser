@@ -1,0 +1,234 @@
+140,000 Cost. 
+520520 HP Hit Points. 
+9.96/109.99/12.5 t Weight Limit. 
+150150 hp Engine Power. 
+50/22 km/h Speed Limit. 
+5460 deg/s Traverse. 
+15.0615.02 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+20/16/12 mm Hull Armor. 
+30/20/1630/20/16 mm Turret Armor. 
+AP//HE AP//HE Shells. 
+20/1600/20 0/2000/26 Shell Cost. 
+70/70/9075/75/100 HP Damage. 
+81/122/2587/131/29 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.4 s 50% Crew: 3.05 s 75% Crew: 2.69 s 100% Crew: 2.4 s Rammer: 2.16 s Vents: 2.35 s Both: 2.11 s Both and BiA: 2.07 s Both and Max Crew %: 1.99 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.4 s 50% Crew: 3.05 s 75% Crew: 2.69 s 100% Crew: 2.4 s Rammer: 2.16 s Vents: 2.35 s Both: 2.11 s Both and BiA: 2.07 s Both and Max Crew %: 1.99 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (70 Damage):  Theoretical Damage Per Minute Nominal DPM: 1750 50% Crew: 1374.8 75% Crew: 1562.4 100% Crew: 1750 100% Crew Vents: 1791.3 Rammer: 1944.6 Both: 1990.1 Both and BiA: 2027.9 Both and Max Crew %: 2115.4 Advantageous Damage Per Minute First-shot DPM: 1820 50% Crew: 1444.8 75% Crew: 1632.4 100% Crew: 1820 100% Crew Rammer: 2014.6 Vents: 1861.3 Both: 2060.1 Both and BiA: 2097.9 Both and Max Crew %: 2185.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (70 Damage):  Theoretical Damage Per Minute Nominal DPM: 1750 50% Crew: 1374.8 75% Crew: 1562.4 100% Crew: 1750 100% Crew Vents: 1791.3 Rammer: 1944.6 Both: 1990.1 Both and BiA: 2027.9 Both and Max Crew %: 2115.4 Advantageous Damage Per Minute First-shot DPM: 1820 50% Crew: 1444.8 75% Crew: 1632.4 100% Crew: 1820 100% Crew Rammer: 2014.6 Vents: 1861.3 Both: 2060.1 Both and BiA: 2097.9 Both and Max Crew %: 2185.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (90 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2250 50% Crew: 1767.6 75% Crew: 2008.8 100% Crew: 2250 100% Crew Vents: 2303.1 Rammer: 2500.2 Both: 2558.7 Both and BiA: 2607.3 Both and Max Crew %: 2719.8 Advantageous Damage Per Minute First-shot DPM: 2340 50% Crew: 1857.6 75% Crew: 2098.8 100% Crew: 2340 100% Crew Rammer: 2590.2 Vents: 2393.1 Both: 2648.7 Both and BiA: 2697.3 Both and Max Crew %: 2809.8 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: 1875 50% Crew: 1473 75% Crew: 1674 100% Crew: 1875 100% Crew Vents: 1919.25 Rammer: 2083.5 Both: 2132.25 Both and BiA: 2172.75 Both and Max Crew %: 2266.5 Advantageous Damage Per Minute First-shot DPM: 1950 50% Crew: 1548 75% Crew: 1749 100% Crew: 1950 100% Crew Rammer: 2158.5 Vents: 1994.25 Both: 2207.25 Both and BiA: 2247.75 Both and Max Crew %: 2341.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: 1875 50% Crew: 1473 75% Crew: 1674 100% Crew: 1875 100% Crew Vents: 1919.25 Rammer: 2083.5 Both: 2132.25 Both and BiA: 2172.75 Both and Max Crew %: 2266.5 Advantageous Damage Per Minute First-shot DPM: 1950 50% Crew: 1548 75% Crew: 1749 100% Crew: 1950 100% Crew Rammer: 2158.5 Vents: 1994.25 Both: 2207.25 Both and BiA: 2247.75 Both and Max Crew %: 2341.5 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (100 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2500 50% Crew: 1964 75% Crew: 2232 100% Crew: 2500 100% Crew Vents: 2559 Rammer: 2778 Both: 2843 Both and BiA: 2897 Both and Max Crew %: 3022 Advantageous Damage Per Minute First-shot DPM: 2600 50% Crew: 2064 75% Crew: 2332 100% Crew: 2600 100% Crew Rammer: 2878 Vents: 2659 Both: 2943 Both and BiA: 2997 Both and Max Crew %: 3122 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.52 m With 75% Crew: 0.454 m With 100% Crew: 0.403 m With BiA: 0.394 m With BiA and Vents: 0.385 m Maximum possible: 0.369 m For more details, see Crew m ▲ With 50% Crew: 0.52 m With 75% Crew: 0.454 m With 100% Crew: 0.403 m With BiA: 0.394 m With BiA and Vents: 0.385 m Maximum possible: 0.369 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+3636 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+16090 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 267.1 m With 75% Crew: 303.6 m With 100% Crew: 340 m With Recon and Situational Awareness: 357.2 m With Coated Optics: 374 m With Binocular Telescope: 425 m Maximum possible: 486.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 267.1 m With 75% Crew: 303.6 m With 100% Crew: 340 m With Recon and Situational Awareness: 357.2 m With Coated Optics: 374 m With Binocular Telescope: 425 m Maximum possible: 486.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 282.5 m With 75% Crew: 323.6 m With 100% Crew: 365 m With 100% Signal Boost: 420 m When affected by 100% Relaying: 385 m Maximum possible: 525.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 444 m With 75% Crew: 508.5 m With 100% Crew: 573.6 m With 100% Signal Boost: 660 m When affected by 100% Relaying: 605 m Maximum possible: 825.7 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+47 mm Gun Type 1. 
+81/122/25. 
+70/70/90. 
+25. 
+0.42. 
+2.1. 
+nan. 
+411. 
+21000. 
+IV. 
+Experimental 57 mm Tank Gun Shin. 
+87/131/29. 
+75/75/100. 
+25. 
+0.42. 
+2.3. 
+nan. 
+543. 
+27500. 
+IV. 
+Type 5 Ke-Ho. 
+30/20/16. 
+36. 
+340. 
+nan. 
+1500. 
+4000. 
+III. 
+Type 100 Kakyuu V-6. 
+150. 
+15. 
+nan. 
+630. 
+5750. 
+III. 
+Type 5 Ke-Ho. 
+10.0. 
+54. 
+0. 
+nan. 
+3300. 
+2000. 
+IV. 
+Type 5 Ke-Ho Kai. 
+12.5. 
+60. 
+0. 
+nan. 
+3300. 
+4500. 
+IV. 
+Type 94 Mk. 4 Hei. 
+350. 
+nan. 
+90. 
+2350. 
+V. 
+Hei. 
+400. 
+nan. 
+130. 
+3800. 
+VI. 
+Type 96 Mk. 4 Bo. 
+425. 
+nan. 
+50. 
+14000. 
+VIII. 
+Type 3 Otsu. 
+550. 
+nan. 
+240. 
+22000. 
+Light Tanks. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Medium Tanks. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Heavy Tanks. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Tank Destroyers. 
+nan. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{for|the Japanese Tier X Super-Heavy tank|Type 5 Heavy}}
+{{for|the Japanese Tier VII Medium tank|Type 5 Chi-Ri}}
+{{TankData|Tank=Type 5 Ke-Ho
+|
+
+|Gallery=
+
+File:Type 5 Ke-Ho scr 1. J06 Ke Ho jpg
+File:Type 5 Ke-Ho scr 2. J06 Ke Ho jpg
+File:Type 5 Ke-Ho scr 3. J06 Ke Ho jpg
+File:Ke_Ho. J06 Ke Ho png
+File:Type_5_Ke-Ho_screen1. J06 Ke Ho jpg
+
+
+|InTheGame_pros=
+*Small size and good agility
+*Great firepower for a tier 4 light
+*Premium AP round receives full 5 degrees of normalization and less loss of penetration over distance
+*Good gun depression
+
+|InTheGame_cons=
+*Absolutely no armor
+*Mediocre gun handling
+*Inaccurate gun makes sniping and hitting weak spots difficult
+*Relatively slow acceleration for a light tank
+
+|InTheGame_performance=The Ke-Ho behaves much like the British Tier 4 Covenanter Light tank, yet out performs it in most ways. J06 Ke Ho   It is small in size, rather quick, with good agility, and good camo values, and a fast firing cannon makes it a mean opponent to assassinate lone enemies with. J06 Ke Ho  It also doubles as a support tank very capable of picking off enemies from around 100 meters. J06 Ke Ho  Or you can work in a light wolf pack punching holes in tanks in a not so dissimilar way to the Matilda. J06 Ke Ho  Its small size can also make it suitable for ambush duties should the situation arise. J06 Ke Ho 
+
+The tank can take a hit but avoid brawling with anything other than lower tiers or badly wounded tanks as the armor is so thin a swift breeze could go through it, do however take advantage of the tiny turret and excellent gun depression to fire shots from behind cover. J06 Ke Ho 
+
+This tank has one of the meanest guns at tier 4, the 57mm experimental is capable of more than 1,875 DPM, its aim time is a little slow but you need not wait to fire if you are close enough to your target. J06 Ke Ho  The penetration can get through targets easily up to Tier 5, and the damage is about average for its tier. J06 Ke Ho 
+
+The Ke-Ho Might be a difficult drive to begin with, learning not to engage with enemies until its guaranteed you're not gonna get hit maybe frustrating at first, but it's the right way to drive this tank, and most other tanks in the Japanese tree, once you've overcome this tank's weakness, you'll quickly become one of the deadliest tanks at tier 4. J06 Ke Ho  
+
+ 
+|InTheGame_research=
+*Equip top radio. J06 Ke Ho 
+*Research and equip the upgraded suspension. J06 Ke Ho 
+*Research the Experimental 57mm gun. J06 Ke Ho 
+
+|InTheGame_equipment=
+Vents, Medium-Caliber Tank Gun Rammer, Coated Optics, Camouflage Net, Binocular Telescope
+
+|History=
+
+The Type 5 Ke-Ho (五式軽戦車 ケホ Go-Shiki Keisensha Keho) was the last light tank designed by the Imperial Japanese Army (IJA). J06 Ke Ho  Though it had performed well in the early stages of WWII and even before it, the Type 95 Ha-Go was showing it’s age by 1942. J06 Ke Ho  An attempt had already been made to replace it with the Type 98 Ke-Ni and Type 2 Ke-To. J06 Ke Ho  However, these projects failed to fully materialise . J06 Ke Ho 
+
+Following this, the IJA decided to try again and work started on the Ke-Ho. J06 Ke Ho 
+
+==Design and Development==
+
+[[image:Type_5_Ke_Ho. J06 Ke Ho jpg]]
+
+A scale drawing of the Ke-Ho (Source: ftr. J06 Ke Ho wot-news. J06 Ke Ho com)
+
+Development of this new light tank began in 1942. J06 Ke Ho  Up till then, the Ha-Go had performed well against American M3 Light tanks, but suffered dreadfully against the larger M4 Sherman. J06 Ke Ho  Its last successful engagement was against US forces on the Bataan Peninsula in December 1941 who only had M3 Stuart Light tanks. J06 Ke Ho 
+
+Of course, the name “Tank” should be applied loosely to any Japanese armored vehicle of World War II. J06 Ke Ho  One of the major shortcomings of the Ha-Go was the fact that a . J06 Ke Ho 50 cal (12. J06 Ke Ho 7 mm) machine gun could effectively knock one out. J06 Ke Ho  The Type 98 Ke-Ni and Type 2 Ke-To had somewhat of an armor upgrade, at least enough to defend against . J06 Ke Ho 50 cal rounds. J06 Ke Ho  They still lacked a gun capable of even scratching a Sherman. J06 Ke Ho  These vehicles were not produced in substantial numbers, with only 104 Ke-Ni and 34 Ke-Tos built by the end of the war. J06 Ke Ho 
+
+The Ke-To experimented with a slightly better main armament in the form of Type 1 37 mm (1. J06 Ke Ho 46 in) gun. J06 Ke Ho  This offered a much-needed improvement over the Type 94 37 mm (1. J06 Ke Ho 46 in) used on the Ha-Go. J06 Ke Ho  Though a step in the right direction, this weapon still was not enough to combat the M4 at any angle. J06 Ke Ho 
+
+As such, the Ke-Ho was to be armed with the Type 1 47 mm (1. J06 Ke Ho 85 in) Tank Gun II. J06 Ke Ho  This was a planned variant of the Type 1 47 mm found on the Type 97 Chi-Ha medium tank. J06 Ke Ho  The performance of the Type 1 Gun II is unknown, however the performance of the standard 47 mm is. J06 Ke Ho  Penetration of the weapon's Type 1 APHE shell at 30 degrees was 55 mm at 100 m, 40 mm at 500 m and 30 mm at 1,000 m. J06 Ke Ho  This was still only enough to penetrate the side of a Sherman, leading to the ambush style of combat used by Chi-Ha crews. J06 Ke Ho  An experimental long-barreled 57mm gun was also tested on the Ke-Ho. J06 Ke Ho 
+
+The cannon was mounted in a turret based on the Type 1 Chi-He’s. J06 Ke Ho  It had a raised commander’s cupola, next to which was a mounting point for a Type 97 machine gun. J06 Ke Ho  This turret was mounted on an enlarged Ke-Ni/Ke-To chassis, slightly of to the right of the center line. J06 Ke Ho  It had a Type 97 MG mounted in the front right left of the bow. J06 Ke Ho  The vehicle had a short wheel base, with a bell crank suspension using a similar layout out to the Chi-He’s. J06 Ke Ho  The Ke-Ho was powered by a 150hp air-cooled diesel engine that would crank out a decent top speed of 50 km/h. J06 Ke Ho 
+
+==Variants==
+
+Ku-Se SPG
+
+[[File:Ku-Se_SPG. J06 Ke Ho png]]
+
+Drawing of the Ku-Se variant (Source: ftr. J06 Ke Ho wot-news. J06 Ke Ho com)
+
+A planned variant of the Ke-Ho was the Ku-Se (自走砲 Jisōhō クーセ) self-propelled gun/tank destroyer. J06 Ke Ho  It was to be armed with a Short Type 99 75 mm mountain gun, in a similar open case mate to the planned Ho-Ni and Ho-Ro SPGs. J06 Ke Ho 
+
+==Fate==
+In 1942, a prototype vehicle was built, and the project was cancelled soon after. J06 Ke Ho  As with most new tank designs the Japanese came up with, it was low on the list of importance. J06 Ke Ho  Resources and construction efforts were instead being focused on warships and warplanes. J06 Ke Ho  Mass production was approved in 1945 however, but this was of course too late and the one prototype remained the only one built. J06 Ke Ho  This also meant that the Ku-Se variant never left the drawing board. J06 Ke Ho 
+
+[[image:Type_5_Ke-Ho. J06 Ke Ho jpg]]
+
+A post war drawing of the the Ke-Ho. J06 Ke Ho  Source: – N/A
+
+What happened to the prototype is unknown. J06 Ke Ho  It was likely taken back to the USA for analysis and later broken down. J06 Ke Ho 
+
+|HistoricalGallery=
+image:Type_5_Ke_Ho. J06 Ke Ho jpg
+image:Type_5_Ke-Ho. J06 Ke Ho jpg
+
+|Ref_references=
+
+|Ref_sources=
+* “Japan’s Tanks” by Hara Tomio　1978（日本の戦車 原乙未生)
+* “Japanese Army Cannons: Infantry cannons, anti-tank cannons” by Sayama Jiro (日本陸軍の火砲　歩兵砲　対戦車砲　他　佐山二郎)
+
+|Ref_links=
+* https://en. J06 Ke Ho wikipedia. J06 Ke Ho org/wiki/Type_5_Ke-Ho
+* https://ftr. J06 Ke Ho wot-news. J06 Ke Ho com/2013/06/17/type-5-ke-ho-japanese-tier-5-light-tank/
+* https://www. J06 Ke Ho tanks-encyclopedia. J06 Ke Ho com/type-5-ke-ho/
+* https://www. J06 Ke Ho reddit. J06 Ke Ho com/r/Warthunder/comments/5vtebp/type5_keho_light_tank/
+* https://www. J06 Ke Ho lonesentry. J06 Ke Ho com/articles/jp_type97_tank/index. J06 Ke Ho htmlP{!}Information on the 47mm gun's shells
+
+}}

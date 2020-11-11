@@ -1,0 +1,198 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery Player Opinion: Equipment Historical Gallery. 
+1,500 Cost. 
+800640 HP Hit Points. 
+27.34/28.513.82/0 t Weight Limit. 
+210210 hp Engine Power. 
+19/10 km/h Speed Limit. 
+3535 deg/s Traverse. 
+7.68Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+114/75/60 mm Hull Armor. 
+114/75/75// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+110/110/175110/110/175 HP Damage. 
+91/144/3891/144/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 4.2 s 50% Crew: 5.2 s 75% Crew: 4.54 s 100% Crew: 4.03 s Rammer: 3.63 s Vents: 3.94 s Both: 3.55 s Both and BiA: 3.47 s Both and Max Crew %: 3.33 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 4.2 s 50% Crew: 5.2 s 75% Crew: 4.54 s 100% Crew: 4.03 s Rammer: 3.63 s Vents: 3.94 s Both: 3.55 s Both and BiA: 3.47 s Both and Max Crew %: 3.33 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.508 m With 75% Crew: 0.443 m With 100% Crew: 0.393 m With BiA: 0.384 m With BiA and Vents: 0.376 m Maximum possible: 0.361 m For more details, see Crew m ▲ With 50% Crew: 0.508 m With 75% Crew: 0.443 m With 100% Crew: 0.393 m With BiA: 0.384 m With BiA and Vents: 0.376 m Maximum possible: 0.361 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment Aim time. 
+3333 deg/s Turret Traverse. 
+360° Gun Arc. 
+-13°/+20°-13°/+20° Elevation Arc. 
+7575 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 267.1 m With 75% Crew: 303.6 m With 100% Crew: 340 m With Recon and Situational Awareness: 357.2 m With Coated Optics: 374 m With Binocular Telescope: 425 m Maximum possible: 486.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 267.1 m With 75% Crew: 303.6 m With 100% Crew: 340 m With Recon and Situational Awareness: 357.2 m With Coated Optics: 374 m With Binocular Telescope: 425 m Maximum possible: 486.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 575.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 575.6 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+75 mm Gun Mk. V. 
+91/144/38. 
+110/110/175. 
+14.29. 
+0.41. 
+2.5. 
+nan. 
+nan. 
+45000. 
+nan. 
+Valiant А 38. 
+//. 
+33. 
+340. 
+nan. 
+nan. 
+11000. 
+nan. 
+GMC. 
+nan. 
+0. 
+nan. 
+nan. 
+13500. 
+nan. 
+А38. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+9500. 
+VI. 
+N19. 
+400. 
+nan. 
+40. 
+15000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT71 CMCD P • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIT42 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • IXConcept 1B • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA43 BP prototype • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52 LIS. 
+{{TankData|Tank= Valiant
+
+| In real life, the '''A38 Valiant''' were known as one of the worst tank to be ever designed due to several technical problems, the in-game Valiant, however, is essentially ''what-if'' version of the tank without its infamously terrible ergonomics. GB37 Valliant 
+
+The Valiant is given for free to all players during the 5th stage of 10 years anniversary campaign. GB37 Valliant  
+
+|Gallery= 
+
+|InTheGame_pros= 
+- Tied with [[Tank:GB68_Matilda_Black_Prince|Matilda Black Prince]] and [[Tank:R32_Matilda_II_LL|Matilda IV]] for highest HP pool of all tier 5 mediums (800)
+
+- Fast firing gun with enough penetration to penetrate most of poorly armored tanks
+
+- Frontal armor is effective against most guns with sub-100mm penetration
+
+- Side armor is surprisingly strong and can be used for sidescraping
+
+- Relatively small profile and decent camoflage values
+
+- 12. GB37 Valliant 5 degrees of depression, combined with the base turret front thickness and rounded "mantlet", very comfortable to play in a hulldown setup. GB37 Valliant 
+|InTheGame_cons= 
+- Second slowest tank in the game after [[Tank:GB63_TOG_II|TOG II]] (19km/h), will struggle to climb most slopes and hills
+
+- Upper glacis, despite having a decent pike nose, can be easily penetrated by any guns with 120mm+ penetration
+
+- Extremely thin roof armor (only 10mm at the engine deck and 20mm at the turret top), combined with its horrible mobility means it's extremely vulnerable against SPGs due to possibilities to get full damage by penetrating hits
+
+- 91mm base penetration is still severely lacking against heavies at the same tier and some medium tanks
+
+- '''No preferential matchmaking:''' had a chance to face a tier 7 opponents, all of which is equipped with a gun that can easily penetrate your tank while your gun is pretty much useless against them unless you're using gold ammo
+
+- Weak ammorack located in the hull's shoulder and the upper side armor directly below the turret; expect to see this tank blow up semi-frequently. GB37 Valliant 
+|InTheGame_performance= 
+
+On paper, the Valiant looks like an uparmored version of the [[Tank:GB04_Valentine|Valentine]], and similar to the [[Tank:GB68_Matilda_Black_Prince|Matilda Black Prince]] and [[Tank:R32_Matilda_II_LL|Matilda IV]] in terms of stats, with slightly better (but still mediocre) gun. GB37 Valliant  However, the tank suffers from a lot of severe drawbacks. GB37 Valliant  Firstly, courtesy to its bad armor layout, the 114mm part of hull armor only exists at the front of driver's hatch and lower glacis while the rest is only 60mm thick, which means this tank are heavily reliant on 50/50 RNG to block the shot. GB37 Valliant  The next thing is speed, the Valiant is currently the 2nd slowest tank in the game after the infamous [[Tank:GB63_TOG_II|TOG II]] while it doesn't have TOG's gigantic HP poor or the famed 17-pounder to compensate for its incredible vulnerability against SPGs . GB37 Valliant  On top of that, the Valiant has '''no''' preferential matchmaking, which means it can face a tier 7 opponents whose can easily beat you to death while you can do very little to no scratches on them at all unless you're using gold ammo. GB37 Valliant 
+
+On the plus side, the Valiant is surprisingly effective against poorly armored medium tanks, as its armor and penetration is somewhat sufficient to protect itself and deal damage to the enemy. GB37 Valliant  This remain true as long as you have a support to cover your flank or not getting aimed by SPGs. GB37 Valliant 
+
+
+|InTheGame_research= Premium tank, none required
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+'''The Tank, Infantry, Valiant (A38)''' was a British tank design of the Second World War that only reached the prototype stage. GB37 Valliant  Intended to meet the specification for a lightweight but heavily armoured tank for use in the war in the Far East, it proved to be a failure. GB37 Valliant  The sole example was retained by the School of Tank Technology after the war as a lesson to its students. GB37 Valliant 
+===Design and development===
+The Valiant, under General Staff specification A38, began as a candidate for an assault tank, with the thickest armour on the lowest possible weight, for use in the Far East. GB37 Valliant  It was to be similar in intention to the 40-ton A33 Excelsior although far lighter. GB37 Valliant  As the Valiant managed the same 114 mm frontal armour with only 27 tons, it managed to achieve its primary goal, but only by making unacceptable compromises elsewhere. GB37 Valliant  At a time when British tank design was already at its nadir, this "terrible price for the weight concession" led to what is probably the worst British tank of the war. GB37 Valliant 
+
+The design brief of December 1943 called for three prototypes of a small, heavily armoured tank for the Far East. GB37 Valliant  Speed across open country was less important, as was performance against armour. GB37 Valliant  Design work started with Vickers, but they soon passed it to Birmingham Railway Carriage & Wagon, then finally Ruston & Hornsby, who built the single prototype in 1944. GB37 Valliant  Vickers' original intention may have been to use parts of their Valentine infantry tank where possible, but this did not survive the production choices of the other manufacturers, nor was the running gear of the far lighter Valentine compatible with the needs of such heavy armour. GB37 Valliant  The largest point of commonality was the choice of engine, the 210 bhp General Motors 6004 two-stroke diesel, as used in later marks of Valentine. GB37 Valliant 
+
+Construction was like that of the Matilda infantry tank – large cast armour pieces bolted together. GB37 Valliant  Suspension was by six equally sized wheels on each side, with independent wishbone suspension units for each, rather than bogies. GB37 Valliant  Concern was expressed about the possible fragility of these units in combat, but Valiant was never taken seriously off-road to test them. GB37 Valliant  The drivetrain was to the rear, from a 210 bhp diesel. GB37 Valliant  This low power limited the tank to a predicted top speed of 12 mph, although this was still acceptable to both the infantry tank and assault tank concepts. GB37 Valliant 
+
+Following from the later Valentine VIII and XI models, the turret was to accept either the QF 6 pounder or the QF 75 mm, with space for a turret crew of three (commander, gunner, loader). GB37 Valliant  This was achieved at the cost of a large heavy turret with near-vertical faces and a massive cast front face with distinctively prominent bolts. GB37 Valliant  The mantlet was internal and a weak point against accurate fire at close range. GB37 Valliant  Unlike the late model Valentines it had a co-axial machine-gun. GB37 Valliant 
+
+The Valiant's suspension was tested by the Fighting Vehicle Proving Establishment (FVPE) at Chertsey in May 1945. GB37 Valliant  The first day gave minor problems and was abandoned after only 13 miles (21 km) of easy on-road driving. GB37 Valliant  However, the driver was already exhausted by this time, finding that the steering levers needed his full weight to operate and that the seat, footbrake and gear lever all carried risk of physical injury in using them. GB37 Valliant  The Officer in Charge decided to abandon the trials there and then as it was impossible and unsafe to continue, reporting that "in his view the entire project should be closed". GB37 Valliant  There were also issues with weight distribution and the ground clearance of only 9 inches, and by that point of the war there was no longer a need for the tank. GB37 Valliant  The Valiant project was terminated. GB37 Valliant 
+===Variants===
+A '''Valiant II''' was mentioned in late 1943, but little more was heard of it. GB37 Valliant  In February 1944 there was more detailed discussion of a "Heavy Valiant", which may have been the same and has been reported as such in some sources. GB37 Valliant 
+
+The '''Heavy Valiant''' was a substantially different vehicle, only using the turret and driver's compartment of the Valiant on a hull derived from the A33 Excelsior and its T1 suspension. GB37 Valliant  This gave armour of 9 (hull front) and 10 inches (turret) thickness. GB37 Valliant  Weight was now estimated at 42 tons, which is comparable with the original Excelsior despite almost doubling the armour thickness, and so this must have been a much smaller tank. GB37 Valliant  Power was doubled to cope with the weight, using the new and compact 400 bhp Rolls Royce Meteorite engine (a cut-down V8 Meteor) and an improved transmission. GB37 Valliant  The mistake of the Valentine was to be repeated, where the turret was up-gunned to the 95mm howitzer of the Centaur IV at the cost of forcing the commander to take over the loader's task in a two-man turret. GB37 Valliant  There is a record of a prototype having gone to the ranges at Lulworth Cove for trials in January 1945, but no other record of what it looked like. GB37 Valliant 
+===Present day===
+The sole Valiant was retained by the School of Tank Technology, where students were treated to an inspection of it at the end of their course and invited to find fault. GB37 Valliant  David Fletcher wrote of this: "One hopes they started early in the morning. GB37 Valliant "
+
+The Valiant can now be seen at The Tank Museum. GB37 Valliant 
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+
+|Ref_links= https://en. GB37 Valliant wikipedia. GB37 Valliant org/wiki/Valiant_tank
+
+}}

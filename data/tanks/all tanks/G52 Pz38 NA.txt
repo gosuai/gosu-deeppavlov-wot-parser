@@ -1,0 +1,236 @@
+145,000 Cost. 
+500416 HP Hit Points. 
+10.86/11.96.82/0 t Weight Limit. 
+200274 hp Engine Power. 
+64/20 km/h Speed Limit. 
+3232 deg/s Traverse. 
+18.4240.18 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+30/25/20 mm Hull Armor. 
+50/30/25// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+14/800/8 30/2000/18 Shell Cost. 
+40/40/4540/40/45 HP Damage. 
+42/74/1842/74/18 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.3 s 50% Crew: 2.85 s 75% Crew: 2.49 s 100% Crew: 2.21 s Rammer: 1.99 s Vents: 2.16 s Both: 1.95 s Both and BiA: 1.9 s Both and Max Crew %: 1.82 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.3 s 50% Crew: 2.85 s 75% Crew: 2.49 s 100% Crew: 2.21 s Rammer: 1.99 s Vents: 2.16 s Both: 1.95 s Both and BiA: 1.9 s Both and Max Crew %: 1.82 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1050 50% Crew: 847.6 75% Crew: 970.8 100% Crew: 1095.2 100% Crew Vents: 1120 Rammer: 1216.8 Both: 1244.4 Both and BiA: 1272 Both and Max Crew %: 1326.8 Advantageous Damage Per Minute First-shot DPM: 1090 50% Crew: 887.6 75% Crew: 1010.8 100% Crew: 1135.2 100% Crew Rammer: 1256.8 Vents: 1160 Both: 1284.4 Both and BiA: 1312 Both and Max Crew %: 1366.8 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1050 50% Crew: 847.6 75% Crew: 970.8 100% Crew: 1095.2 100% Crew Vents: 1120 Rammer: 1216.8 Both: 1244.4 Both and BiA: 1272 Both and Max Crew %: 1326.8 Advantageous Damage Per Minute First-shot DPM: 1090 50% Crew: 887.6 75% Crew: 1010.8 100% Crew: 1135.2 100% Crew Rammer: 1256.8 Vents: 1160 Both: 1284.4 Both and BiA: 1312 Both and Max Crew %: 1366.8 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (45 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1181.25 50% Crew: 953.55 75% Crew: 1092.15 100% Crew: 1232.1 100% Crew Vents: 1260 Rammer: 1368.9 Both: 1399.95 Both and BiA: 1431 Both and Max Crew %: 1492.65 Advantageous Damage Per Minute First-shot DPM: 1226.25 50% Crew: 998.55 75% Crew: 1137.15 100% Crew: 1277.1 100% Crew Rammer: 1413.9 Vents: 1305 Both: 1444.95 Both and BiA: 1476 Both and Max Crew %: 1537.65 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 954.4 50% Crew: 770.4 75% Crew: 882.4 100% Crew: 995.2 100% Crew Vents: 1017.6 Rammer: 1105.6 Both: 1130.8 Both and BiA: 1155.6 Both and Max Crew %: 1206 Advantageous Damage Per Minute First-shot DPM: 994.4 50% Crew: 810.4 75% Crew: 922.4 100% Crew: 1035.2 100% Crew Rammer: 1145.6 Vents: 1057.6 Both: 1170.8 Both and BiA: 1195.6 Both and Max Crew %: 1246 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 954.4 50% Crew: 770.4 75% Crew: 882.4 100% Crew: 995.2 100% Crew Vents: 1017.6 Rammer: 1105.6 Both: 1130.8 Both and BiA: 1155.6 Both and Max Crew %: 1206 Advantageous Damage Per Minute First-shot DPM: 994.4 50% Crew: 810.4 75% Crew: 922.4 100% Crew: 1035.2 100% Crew Rammer: 1145.6 Vents: 1057.6 Both: 1170.8 Both and BiA: 1195.6 Both and Max Crew %: 1246 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (45 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1073.7 50% Crew: 866.7 75% Crew: 992.7 100% Crew: 1119.6 100% Crew Vents: 1144.8 Rammer: 1243.8 Both: 1272.15 Both and BiA: 1300.05 Both and Max Crew %: 1356.75 Advantageous Damage Per Minute First-shot DPM: 1118.7 50% Crew: 911.7 75% Crew: 1037.7 100% Crew: 1164.6 100% Crew Rammer: 1288.8 Vents: 1189.8 Both: 1317.15 Both and BiA: 1345.05 Both and Max Crew %: 1401.75 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.522 m With 75% Crew: 0.459 m With 100% Crew: 0.41 m With BiA: 0.401 m With BiA and Vents: 0.393 m Maximum possible: 0.377 m For more details, see Crew m ▲ With 50% Crew: 0.522 m With 75% Crew: 0.459 m With 100% Crew: 0.41 m With BiA: 0.401 m With BiA and Vents: 0.393 m Maximum possible: 0.377 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.164 s With 75% Crew: 1.904 s With 100% Crew: 1.7 s With GLD: 1.545 s With BiA: 1.661 s With BiA and Vents: 1.63 s With both and GLD: 1.482 s Maximum possible: 1.421 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.164 s With 75% Crew: 1.904 s With 100% Crew: 1.7 s With GLD: 1.545 s With BiA: 1.661 s With BiA and Vents: 1.63 s With both and GLD: 1.482 s Maximum possible: 1.421 s For more details, see Crew or Equipment Aim time. 
+3232 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+25°-10°/+25° Elevation Arc. 
+145145 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 234.1 m With 75% Crew: 268.1 m With 100% Crew: 302.5 m With 100% Signal Boost: 348 m When affected by 100% Relaying: 319 m Maximum possible: 435.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 444 m With 75% Crew: 508.5 m With 100% Crew: 573.6 m With 100% Signal Boost: 660 m When affected by 100% Relaying: 605 m Maximum possible: 825.7 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+5 cm Kw.K. 39 L/60. 
+67/130/25. 
+70/70/90. 
+24.0. 
+0.4. 
+2.3. 
+nan. 
+700. 
+13970. 
+II. 
+3,7 cm Kw.K. 38 (t) L/47. 
+42/74/18. 
+40/40/45. 
+26.09. 
+0.41. 
+1.7. 
+nan. 
+100. 
+2730. 
+II. 
+2 cm Flak 38. 
+39/51/18. 
+11/11/45. 
+153.85. 
+0.45. 
+1.3. 
+nan. 
+110. 
+3160. 
+II. 
+4,7 cm Kw.K. (t) L/43. 
+62/115/24. 
+60/60/75. 
+26.09. 
+0.37. 
+1.3. 
+nan. 
+100. 
+3460. 
+nan. 
+Pz.Kpfw. 38 (t) Ausf. G. 
+//. 
+32. 
+330. 
+nan. 
+nan. 
+1720. 
+nan. 
+Pz.Kpfw. 38 (t) n.A.. 
+//. 
+44. 
+370. 
+nan. 
+nan. 
+5000. 
+IV. 
+Praga EPA/3. 
+200. 
+20. 
+nan. 
+470. 
+10810. 
+IV. 
+Praga NR. 
+274. 
+20. 
+nan. 
+470. 
+12300. 
+nan. 
+Pz.Kpfw. 38 (t) n.A.. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+1900. 
+nan. 
+Pz.Kpfw. 38 (t) n.A. verstärkteketten. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+3900. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VIII. 
+FuG 8. 
+550. 
+nan. 
+50. 
+24240. 
+II. 
+FuG 37. 
+290. 
+nan. 
+40. 
+180. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=Pz38_NA
+|Essentially a [[Pz. G52 Pz38 NA Kpfw. G52 Pz38 NA  38 (t)]] with more armor, more hit points, and a higher top speed, but lower acceleration. G52 Pz38 NA 
+The "nA" in the tank's name stands for ''neuer Art'', which might be considered similar to the term "state-of-the-art" in English. G52 Pz38 NA   Its upgraded cannons are surprisingly powerful and are even able to damage a Tier VII tank in certain situations. G52 Pz38 NA   However, it is slow in reverse, making reversing an unreliable way to get out of a jam. G52 Pz38 NA 
+
+|InTheGame_pros=
+* Good top speed and accuracy on the move
+* Good turret traverse speed
+* Best view range of all Tier IV vehicles, comparable to many Tier VI scouts
+* Fairly small size and excellent camo values
+* High penetration premium rounds -- can penetrate tier VI vehicles
+
+|InTheGame_cons=
+* Poor track traverse speed
+* Poor armor
+* Mediocre signal range for this tier
+* Poor acceleration for a scout tank
+
+|InTheGame_performance=
+The Pz38nA is one of the most misunderstood and under-rated scout tanks in the game. G52 Pz38 NA   Most players cannot advance past its slow acceleration and poor traverse rate, thus it ends up being labeled a dog. G52 Pz38 NA   It is far from that. G52 Pz38 NA   Once you adjust your play style to the 38nA's lack of agility you begin to unlock the true potential of this little gem of a scout. G52 Pz38 NA 
+
+In high-tier matches, it is best played as a passive scout. G52 Pz38 NA  With a base view range of 370m, it can easily spot unsuspecting enemy vehicles when sitting in strategic positions on the map. G52 Pz38 NA  When spotted the tank can utilize its relatively small size and decent top speed to get out of harm's way and relocate. G52 Pz38 NA  Do note that the acceleration is quite slow, and so it may be difficult to get into positions first at the start of the match and to retreat once you've been spotted. G52 Pz38 NA  Alternatively, one can also play this tank as an active scout, though once again, the sluggish acceleration and poor armor will be your biggest limitations. G52 Pz38 NA  Loading APCR on its top gun grants it the ability to penetrate tanks in tiers 5 and 6. G52 Pz38 NA 
+
+In similar or lower-tier matches, the Pz38nA can absolutely dominate thanks to its rate of fire, speed, and camouflage rating. G52 Pz38 NA  Its top gun has no problems penetrating tier 3 and most tier 4 vehicles, which it can quickly decimate thanks to its high rate of fire. G52 Pz38 NA  Its speed also allows it to relocate and bring its gun to different parts of the map quickly. G52 Pz38 NA  In addition, it can still function as a scout, making it all the more dangerous in the hands of a skilled player. G52 Pz38 NA 
+
+Perhaps the biggest flaw in this tank is its armor. G52 Pz38 NA  The majority of tanks have no problems penetrating it. G52 Pz38 NA  As such it is not advisable to get up-close and personal with the Pz38nA. G52 Pz38 NA  Its direct competitor, for example, the Luchs, can quickly send the Pz38nA back to the garage thanks to its fast-firing autoloader. G52 Pz38 NA  Instead, support your better-armored allies. G52 Pz38 NA  Flank your enemies and annoy them with your high rate of fire when they have their backs turned on you. G52 Pz38 NA  This is especially relevant in higher tier games, where a single hit can eat a large chunk of your hitpoints. G52 Pz38 NA 
+
+With the right playstyle, crew skills, and equipment, you can be a major asset to your allies through valuable scouting work and place yourself amongst the top 5 by experience earned through spotting-assisted damage,
+
+As with most scouts, your goal once the initial passive spotting phase is over should focus on flanking and sniping. G52 Pz38 NA   
+
+|InTheGame_research=
+* Both the FuG 5 and FuG 8 radios carry over from the PzKpfw 38 (t), as well as the 4. G52 Pz38 NA 7 cm PaK 38 (t) L/43 gun, which should be installed immediately
+* Research the Praga NR engine first
+* Next research the upgraded suspension
+* Go from there
+* The ''5 cm Kw. G52 Pz38 NA K. G52 Pz38 NA  39 L/60'' is required for researching into the [[Pz. G52 Pz38 NA Kpfw. G52 Pz38 NA  IV Ausf. G52 Pz38 NA  H|Pz. G52 Pz38 NA  IV Ausf. G52 Pz38 NA  H]] but don't automatically mount it -- the 4. G52 Pz38 NA 7cm gun has much better accuracy, '''1 second''' shorter aim time, 600kg less weight(which matters for such a light vehicle) and much cheaper ammunition, only at the cost of 10 less damage per shot, a bit of penetration, and shell velocity. G52 Pz38 NA 
+
+|InTheGame_equipment=
+Vents, Coated Optics, Binocular Telescope, Camouflage Net
+
+|Gallery=
+image:PzKpfw_38_nA_01. G52 Pz38 NA jpg{{!}}PzKpfw_38_nA_01
+image:PzKpfw_38_nA_02. G52 Pz38 NA jpg{{!}}PzKpfw_38_nA_02
+image:PzKpfw_38_nA_03. G52 Pz38 NA jpg{{!}}PzKpfw_38_nA_03
+image:PzKpfw_38_nA_04. G52 Pz38 NA jpg{{!}}PzKpfw_38_nA_04
+
+|History=
+Developed on the chassis of the PzKpfw 38 (t) in Fall of 1939, this prototype used welding technology instead of rivets for both the chassis and turret. G52 Pz38 NA   A 250 h. G52 Pz38 NA p. G52 Pz38 NA  V-8 engine allowed for acceleration to a speed of 62 km/h. G52 Pz38 NA   The manufacturer indicated 15 were produced for prototyping and testing, but despite successfully passing all performance tests and achieving a very high speed, no order was placed. G52 Pz38 NA   The vehicle never entered mass-production and never saw combat. G52 Pz38 NA 
+
+|HistoricalGallery=
+image:PzKpfw 38 nA 1. G52 Pz38 NA jpg{{!}}PzKpfw 38 nA 1
+image:PzKpfw 38 nA 2. G52 Pz38 NA jpg{{!}}PzKpfw 38 nA 2
+
+|HistAcc=
+*The tank's actual weight was 11. G52 Pz38 NA 8 tons. G52 Pz38 NA   In '''''World of Tanks''''', however, it weighs 10. G52 Pz38 NA 86 tons (12. G52 Pz38 NA 47 when upgraded). G52 Pz38 NA 
+*Its top speed is currently 64 km/h, but a test report from Kummersdorf indicated it reached 70 km/h. G52 Pz38 NA 
+*Both of its current engines have incorrect values. G52 Pz38 NA   The two most historical engines for the vehicle would be the 220hp Tatra T-103 and 225hp Praga NRI (the latter's output was later increased to 248 horsepower by using twin carburetors). G52 Pz38 NA 
+*Its stock turret -- the Pz. G52 Pz38 NA Kpfw. G52 Pz38 NA  38 (t) Ausf. G52 Pz38 NA  G -- was never developed for the PzKpfw 38(t) nA. G52 Pz38 NA 
+*Neither the 2cm Flak 38 nor 4. G52 Pz38 NA 7cm Kw. G52 Pz38 NA K. G52 Pz38 NA  (t) L/43 gun were developed for the PzKpfw 38(t) nA. G52 Pz38 NA 
+*One of the Pzkpfw 38(t) nA's historical radios, the FuG 2, is missing. G52 Pz38 NA   Neither the FuG 37 nor FuG 8 radio were developed for it. G52 Pz38 NA 
+
+|Ref_references=
+
+
+|Ref_sources=
+* I. G52 Pz38 NA Pejčoch – Obrněná Technika
+* I. G52 Pz38 NA Pejčoch – Lehké tanky
+* V. G52 Pz38 NA Francev – Československá obrněná vozidla 1918-1945
+
+|Ref_links=
+* https://ftr. G52 Pz38 NA wot-news. G52 Pz38 NA com/2014/12/03/fixing-the-panzer-38t-na-in-hd/
+
+}}
+
+[[Category:German Tanks]]

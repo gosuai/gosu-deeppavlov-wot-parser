@@ -1,0 +1,236 @@
+141,000 Cost. 
+495416 HP Hit Points. 
+14.75/157.74/0 t Weight Limit. 
+340395 hp Engine Power. 
+48/20 km/h Speed Limit. 
+3535 deg/s Traverse. 
+23.0551.03 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+30/14/14 mm Hull Armor. 
+14/12/14// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+25/1200/15 30/1200/15 Shell Cost. 
+45/45/6045/45/60 HP Damage. 
+64/121/2364/121/23 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.2 s 50% Crew: 2.73 s 75% Crew: 2.38 s 100% Crew: 2.11 s Rammer: 1.9 s Vents: 2.06 s Both: 1.86 s Both and BiA: 1.82 s Both and Max Crew %: 1.74 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.2 s 50% Crew: 2.73 s 75% Crew: 2.38 s 100% Crew: 2.11 s Rammer: 1.9 s Vents: 2.06 s Both: 1.86 s Both and BiA: 1.82 s Both and Max Crew %: 1.74 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: 1312.65 50% Crew: 1059.75 75% Crew: 1213.65 100% Crew: 1368.9 100% Crew Vents: 1399.95 Rammer: 1521 Both: 1555.2 Both and BiA: 1589.85 Both and Max Crew %: 1658.7 Advantageous Damage Per Minute First-shot DPM: 1357.65 50% Crew: 1104.75 75% Crew: 1258.65 100% Crew: 1413.9 100% Crew Rammer: 1566 Vents: 1444.95 Both: 1600.2 Both and BiA: 1634.85 Both and Max Crew %: 1703.7 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: 1312.65 50% Crew: 1059.75 75% Crew: 1213.65 100% Crew: 1368.9 100% Crew Vents: 1399.95 Rammer: 1521 Both: 1555.2 Both and BiA: 1589.85 Both and Max Crew %: 1658.7 Advantageous Damage Per Minute First-shot DPM: 1357.65 50% Crew: 1104.75 75% Crew: 1258.65 100% Crew: 1413.9 100% Crew Rammer: 1566 Vents: 1444.95 Both: 1600.2 Both and BiA: 1634.85 Both and Max Crew %: 1703.7 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (60 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1750.2 50% Crew: 1413 75% Crew: 1618.2 100% Crew: 1825.2 100% Crew Vents: 1866.6 Rammer: 2028 Both: 2073.6 Both and BiA: 2119.8 Both and Max Crew %: 2211.6 Advantageous Damage Per Minute First-shot DPM: 1810.2 50% Crew: 1473 75% Crew: 1678.2 100% Crew: 1885.2 100% Crew Rammer: 2088 Vents: 1926.6 Both: 2133.6 Both and BiA: 2179.8 Both and Max Crew %: 2271.6 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: 2250 50% Crew: 1816.2 75% Crew: 2080.35 100% Crew: 2346.75 100% Crew Vents: 2399.4 Rammer: 2607.3 Both: 2666.25 Both and BiA: 2725.65 Both and Max Crew %: 2843.55 Advantageous Damage Per Minute First-shot DPM: 2295 50% Crew: 1861.2 75% Crew: 2125.35 100% Crew: 2391.75 100% Crew Rammer: 2652.3 Vents: 2444.4 Both: 2711.25 Both and BiA: 2770.65 Both and Max Crew %: 2888.55 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: 2250 50% Crew: 1816.2 75% Crew: 2080.35 100% Crew: 2346.75 100% Crew Vents: 2399.4 Rammer: 2607.3 Both: 2666.25 Both and BiA: 2725.65 Both and Max Crew %: 2843.55 Advantageous Damage Per Minute First-shot DPM: 2295 50% Crew: 1861.2 75% Crew: 2125.35 100% Crew: 2391.75 100% Crew Rammer: 2652.3 Vents: 2444.4 Both: 2711.25 Both and BiA: 2770.65 Both and Max Crew %: 2888.55 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (60 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 3000 50% Crew: 2421.6 75% Crew: 2773.8 100% Crew: 3129 100% Crew Vents: 3199.2 Rammer: 3476.4 Both: 3555 Both and BiA: 3634.2 Both and Max Crew %: 3791.4 Advantageous Damage Per Minute First-shot DPM: 3060 50% Crew: 2481.6 75% Crew: 2833.8 100% Crew: 3189 100% Crew Rammer: 3536.4 Vents: 3259.2 Both: 3615 Both and BiA: 3694.2 Both and Max Crew %: 3851.4 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment Aim time. 
+4242 deg/s Turret Traverse. 
+360° Gun Arc. 
+-15°/+20°-15°/+20° Elevation Arc. 
+240240 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.20 % Chance of Fire. 
+m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With 100% Signal Boost: 420 m When affected by 100% Relaying: 385 m Maximum possible: 503.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 353.6 m With 75% Crew: 401.8 m With 100% Crew: 450 m With 100% Signal Boost: 540 m When affected by 100% Relaying: 495 m Maximum possible: 647.5 m For more details, see Skills or Equipment Signal Range. 
+III. 
+QF 2-pdr Mk. IX. 
+64/121/23. 
+45/45/60. 
+27.27. 
+0.36. 
+1.7. 
+nan. 
+130. 
+6000. 
+IV. 
+40 mm Pom-Pom. 
+49/71/23. 
+45/45/60. 
+34.29. 
+0.43. 
+1.9. 
+nan. 
+160. 
+20000. 
+IV. 
+QF 40 mm Mk. VI Bofors. 
+86/112/23. 
+60/60/75. 
+28.24. 
+0.43. 
+1.9. 
+nan. 
+470. 
+24000. 
+nan. 
+Cruiser Mk. IV. 
+//. 
+42. 
+330. 
+nan. 
+nan. 
+1460. 
+nan. 
+Cruiser Mk. IVA. 
+//. 
+42. 
+340. 
+nan. 
+nan. 
+3800. 
+IV. 
+Nuffield Liberty Mk. III. 
+395.0. 
+20. 
+nan. 
+383.0. 
+11500. 
+nan. 
+Nuffield Liberty Mk. II. 
+nan. 
+0. 
+nan. 
+nan. 
+500. 
+nan. 
+Cruiser Mk. IV. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+1340. 
+nan. 
+Cruiser Mk. IVA. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+3800. 
+VII. 
+WS No. 19 Mk. II. 
+450. 
+nan. 
+40. 
+21000. 
+VI. 
+WS No. 19 Mk. I. 
+400. 
+nan. 
+40. 
+15000. 
+V. 
+WS No. 9. 
+375. 
+nan. 
+40. 
+3600. 
+III. 
+WS No. 11. 
+350. 
+nan. 
+40. 
+600. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=GB59_Cruiser_Mk_IV
+|Despite the move to Tier 4 in 1. GB59 Cruiser Mk IV 9, the Cruiser IV is still an effective tank. GB59 Cruiser Mk IV  This tank has excellent gun depression at 15 degrees, superior even to the M4 Sherman. GB59 Cruiser Mk IV  While the QF 40 mm Mk. GB59 Cruiser Mk IV  VI is no longer as effective as it was at Tier 3, it is still capable of doing quite a bit of damage to most tanks up to tier 4. GB59 Cruiser Mk IV  The QF Mk. GB59 Cruiser Mk IV  VI gun fires its burst significantly slower than most other autocannons which can be somewhat disorienting, though the second shot is less prone to firing wildly off-course. GB59 Cruiser Mk IV 
+
+Overall, while not as good as it was at Tier 3, this is still an effective tank and great fun to play with. GB59 Cruiser Mk IV 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Great power/weight ratio
+* 15 degrees of gun depression
+* QF 40 mm Mk. GB59 Cruiser Mk IV  VI does good damage and is very accurate for an autocannon
+* Very quick reload on the Bofors, allowing for you to easily change ammunition without penalty
+
+|InTheGame_cons=
+* Weak armour
+* Sluggish hull traverse
+* Top gun fires more slowly than most other autocannons; requires some practice to get it right
+* Somewhat low top speed doesn't allow you to make the most of your great power/weight ratio, and it may be frustrating. GB59 Cruiser Mk IV 
+
+|InTheGame_performance=
+A step up in the world from the Cruiser III, the Cruiser IV is an up-armored version. GB59 Cruiser Mk IV  The 40 mm Pom Pom now fire 2-shot bursts and the new QF 40 mm Mk. GB59 Cruiser Mk IV  VI [[Automatic Loader#Autocannon|auto-cannon]] is available, along with an improved engine. GB59 Cruiser Mk IV  However, the hull traverse, especially at high speed, is just as sluggish as on the Cruiser III, so making tiny circles at high speed with this tank is virtually impossible. GB59 Cruiser Mk IV  
+
+Also, the QF auto-cannon has very unstable penetration, and will bounce many shots that you expect will penetrate, so make sure that you aim at the weak spots. GB59 Cruiser Mk IV  Sniping is negated by the relative inaccuracy of the 40mm Pom Pom, forcing the tank into Close Quarter Combat. GB59 Cruiser Mk IV  It is recommended to upgrade the Pom Pom whenever possible. GB59 Cruiser Mk IV 
+
+All this said, the QF 40mm Mk VI works very well for the role the Cruiser Mk. GB59 Cruiser Mk IV  IV plays. GB59 Cruiser Mk IV  For anyone experienced with medium tank tactics, this tank will feel very familiar. GB59 Cruiser Mk IV  While it's not as sturdy as it used to be, it's still fast and maneuverable, and has a good gun that's well suited for flanking. GB59 Cruiser Mk IV  Being able to fire a 200-damage burst every 6 seconds allows you to put a lot of hurt on anyone at or below your own tier, and to flank and kill many Tier 5 and some Tier 6 tanks (although it's still best to leave more heavily armored enemies for your team). GB59 Cruiser Mk IV  While the Bofors is quite accurate, and can allow you to use its rather high DPM at a mid-range sniping setting, its penetration is somewhat lacking for this role. GB59 Cruiser Mk IV  While no longer as deadly as it once was, this tank can still be effective, even in Tier 6 matches. GB59 Cruiser Mk IV 
+
+|InTheGame_research=
+*The '''40mm Pom Pom''', '''QF 2-pdr Mk. GB59 Cruiser Mk IV  IX''', '''Nuffield Liberty Mk. GB59 Cruiser Mk IV  III''' engine, and '''WS No. GB59 Cruiser Mk IV  19 Mk. GB59 Cruiser Mk IV  I''' radio all carry over from the Cruiser III. GB59 Cruiser Mk IV  Equip the 2-pdr for now. GB59 Cruiser Mk IV 
+*Research the '''Cruiser Mk. GB59 Cruiser Mk IV  IVA''' tracks for a much needed boost to carrying capacity. GB59 Cruiser Mk IV 
+*Next, research the '''QF 40 mm Mk. GB59 Cruiser Mk IV  VI Bofors''' or the '''WS No. GB59 Cruiser Mk IV  19 Mk. GB59 Cruiser Mk IV  II''' radio for a boost to either DPM or signal range. GB59 Cruiser Mk IV 
+*Finally, research whichever module you did not choose previously. GB59 Cruiser Mk IV 
+
+|InTheGame_equipment= Vents, Coated Optics, Toolbox
+
+
+|History=
+Cruiser, Mk IV (A13 Mk II) was a British cruiser tank of the Second World War. GB59 Cruiser Mk IV  It followed directly on from the Cruiser Mk III (A13 Mk I) tank. GB59 Cruiser Mk IV  The first Mk IVs were Mk IIIs with extra armour fitted to the turret. GB59 Cruiser Mk IV  Later Mk IVAs were built with the complete extra armour. GB59 Cruiser Mk IV  The tank was used in France in 1940 and in the early part of the war in North Africa before being withdrawn from service. GB59 Cruiser Mk IV 
+
+==Development history==
+
+Britain became interested in fast tanks after observing the Soviet BT tanks during the 1936 Red Army maneuvers. GB59 Cruiser Mk IV  The BT was based on the revolutionary designs of American J. GB59 Cruiser Mk IV  Walter Christie, and so a team from Morris Motors was sent to the United States to purchase one of Christie's tanks, and also the rights to build more. GB59 Cruiser Mk IV  The tank purchased became known as the A13E1, and this was delivered in late 1936. GB59 Cruiser Mk IV  However, the hull was too small and this led to a second British-built prototype being constructed. GB59 Cruiser Mk IV  0The A13E2 was built to mount the turret of the Vickers designed Cruiser Tank MkI (A9). GB59 Cruiser Mk IV  This carried a 40 mm 2-pounder anti-tank gun and co-axial . GB59 Cruiser Mk IV 303 water-cooled Vickers machine gun. GB59 Cruiser Mk IV  The drive train was also revised, with the road wheels no longer powered - as a result the tank could not be driven on its wheels alone. GB59 Cruiser Mk IV  Better tracks were used, with rear-mounted drive sprockets; on trials over 40 mph was attained on these tracks, but later the speed was governed to 30 mph. GB59 Cruiser Mk IV  The armour basis of the A13E2 was 15 mm, in line with other pre-war fast tank designs. GB59 Cruiser Mk IV 
+
+The A13E3 was the final trials model; this led to the production tank, the A13 MkI, Cruiser Tank Mk III, which entered production in 1939 at Nuffield Mechanization & Aero Limited, a munitions subsidiary of Morris Motors. GB59 Cruiser Mk IV  An order for 65 tanks was placed; and at least 30 tanks completed when the War Office decided to build a new model with thicker armour. GB59 Cruiser Mk IV  The A13 MkII, Cruiser Tank Mk IV, had a maximum armour thickness of 30 mm, and faceted armour was mounted on the original turret's sides and rear. GB59 Cruiser Mk IV  This gave the tank a far more modern appearance. GB59 Cruiser Mk IV  Some Mk III tanks were re-built to Mk IV standard while at the factory. GB59 Cruiser Mk IV  In service, the . GB59 Cruiser Mk IV 303 Vickers machine gun gave constant trouble, and so the British Army decided to replace it with the 7. GB59 Cruiser Mk IV 92 mm BESA. GB59 Cruiser Mk IV  All British tanks were to have their designs modified to mount the new weapon from early 1940. GB59 Cruiser Mk IV  This led to the main production version, the A13 MkIIA, Cruiser Tank MkIVA. GB59 Cruiser Mk IV  A few examples of this model were sent with the BEF to France, along with most of the earlier A13's so far produced. GB59 Cruiser Mk IV  It is not known how many A13 MkIVA tanks were produced; numbers depending on source. GB59 Cruiser Mk IV  Between the Cruiser Mark III and Cruiser Mark IV, 665 were produced when production ended in 1941. GB59 Cruiser Mk IV  English Electric, Leyland, and LMS Railway were also involved in A13 production. GB59 Cruiser Mk IV 
+
+In France the A13 did not do well; this was mainly due to poor training as a result of its being rushed into service. GB59 Cruiser Mk IV  Many tanks shipped to France were in poor condition, some so new they had vital parts not yet installed. GB59 Cruiser Mk IV  However, the A13 did much better in the deserts of North Africa, and coped with the conditions better than some other designs. GB59 Cruiser Mk IV  It was fast, and its 2-pounder gun was a fine weapon against Italian and German tanks of this period. GB59 Cruiser Mk IV  It stayed in contention as a battle tank until late 1941, when newer models of the Panzer IIIand Panzer IV appeared with thicker armour and larger guns. GB59 Cruiser Mk IV  In North Africa it was the anti-tank gun which claimed the vast majority of British tanks lost in battle; German tanks accounted for few British losses, contrary to popular belief. GB59 Cruiser Mk IV 
+
+The A13 MkIII, Cruiser Tank Mk V was a radical departure from the original A13 design and constituted a new tank. GB59 Cruiser Mk IV  Both hull and turret were redesigned, and it used a new flat-12 Meadows engine with radiators mounted in the front hull. GB59 Cruiser Mk IV  Named the Covenanter, it was built in large numbers, but was not battleworthy and was used only for training. GB59 Cruiser Mk IV  The A13 MkIIA was replaced by the A15 Crusader tank, which was similar to the Covenanter but used the original A13 engine. GB59 Cruiser Mk IV 
+
+
+
+'''Production'''
+
+- 65 Mk III - Built 1939 by Nuffield (some converted to Mk IV)
+- 225-665 Mk IV and MkIVA - Built 1939-41 by Nuffield, Leyland, English Electric and LMS. GB59 Cruiser Mk IV 
+- Mk IV CS - Not Built
+- MkV - Complete re-design by LMS Railway, A13, Cruiser Tank MkV Covenanter
+
+==Combat history==
+
+The Cruiser Mk IV and MkIVA, in small numbers (40?) saw service in France in 1940 with the 1st Armoured Division of the British Expeditionary Force. GB59 Cruiser Mk IV  Most were abandoned at Calais, and the few tanks that did see action were overwhelmed by the vastly superior German forces. GB59 Cruiser Mk IV  From October 1940 the Cruiser Tank MkIVA was sent to North Africa, where it served alongside the older A9, Cruiser Tank MkI and A10 Cruiser Tank MkII. GB59 Cruiser Mk IV  The A13 was never available in sufficient numbers, and a typical Armoured Brigade would have a mix of slow (10-20 mph) A9 and A10 with faster (30-40 mph) A13 and Light Tank Mk VI (acting as cruiser tanks). GB59 Cruiser Mk IV  This gave tactical and logistical problems. GB59 Cruiser Mk IV  However, the A13 was popular with its crews, and its only real drawback was the lack of a high-explosive shell for the 2-pounder. GB59 Cruiser Mk IV  Like all British tanks of the period, it was vulnerable to anti-tank guns, which it had no way of countering except by short-range machine gun fire. GB59 Cruiser Mk IV  The A13 was generally reliable, and the 2-pounder gun was adequate against all Axis tanks up to late 1941, when the A13 was retired. GB59 Cruiser Mk IV  It was replaced by the A15 Crusader tank, which was in essence an enlarged A13 with thicker armour. GB59 Cruiser Mk IV  
+
+|HistAcc=
+The 40 mm Pom-Pom and Bofors gun configurations are fake. GB59 Cruiser Mk IV 
+
+|HistoricalGallery=
+image:Cruiser_Mk_IV_1. GB59 Cruiser Mk IV jpg{{!}}The Cruiser Tank Mark IV Side View
+image:Cruiser_Mk_IV. GB59 Cruiser Mk IV jpg{{!}}
+image:Cruiser Mk IV (2). GB59 Cruiser Mk IV jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

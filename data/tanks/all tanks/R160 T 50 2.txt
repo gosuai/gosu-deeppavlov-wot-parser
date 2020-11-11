@@ -1,0 +1,187 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Historical Gallery. 
+2,900 Cost. 
+650520 HP Hit Points. 
+16/186.2/0 t Weight Limit. 
+550550 hp Engine Power. 
+65/23 km/h Speed Limit. 
+4848 deg/s Traverse. 
+34.38Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+37/37/37 mm Hull Armor. 
+52/52/52// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+85/85/9585/85/95 HP Damage. 
+118/165/29118/165/29 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 3 s 50% Crew: 3.72 s 75% Crew: 3.24 s 100% Crew: 2.88 s Rammer: 2.59 s Vents: 2.82 s Both: 2.53 s Both and BiA: 2.48 s Both and Max Crew %: 2.38 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 3 s 50% Crew: 3.72 s 75% Crew: 3.24 s 100% Crew: 2.88 s Rammer: 2.59 s Vents: 2.82 s Both: 2.53 s Both and BiA: 2.48 s Both and Max Crew %: 2.38 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (85 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (85 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (95 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (85 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (85 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (95 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.23 s With 75% Crew: 1.947 s With 100% Crew: 1.726 s With GLD: 1.569 s With BiA: 1.688 s With BiA and Vents: 1.651 s With both and GLD: 1.501 s Maximum possible: 1.439 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.23 s With 75% Crew: 1.947 s With 100% Crew: 1.726 s With GLD: 1.569 s With BiA: 1.688 s With BiA and Vents: 1.651 s With both and GLD: 1.501 s Maximum possible: 1.439 s For more details, see Crew or Equipment Aim time. 
+5252 deg/s Turret Traverse. 
+360° Gun Arc. 
+-7°/+25°-7°/+25° Elevation Arc. 
+7676 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 573.6 m With 75% Crew: 651.8 m With 100% Crew: 730 m With 100% Signal Boost: 876 m When affected by 100% Relaying: 803 m Maximum possible: 1050.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.6 m With 75% Crew: 651.8 m With 100% Crew: 730 m With 100% Signal Boost: 876 m When affected by 100% Relaying: 803 m Maximum possible: 1050.4 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+57 mm ZiS-4T. 
+118/165/29. 
+85/85/95. 
+20. 
+0.38. 
+1.8. 
+nan. 
+nan. 
+41480. 
+nan. 
+T-34S. 
+//. 
+52. 
+370. 
+nan. 
+nan. 
+9900. 
+nan. 
+V-4-2. 
+nan. 
+0. 
+nan. 
+nan. 
+29300. 
+nan. 
+T-50-2. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+15000. 
+X. 
+10RKM. 
+730. 
+nan. 
+100. 
+52200. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT71 CMCD P • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIT42 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • IXConcept 1B • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA43 BP prototype • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52 LIS. 
+''For the preserved page, of the previous T-50-2, see [[T-50-2]]''
+
+{{TankData|Tank= 
+|
+The legend has returned. R160 T 50 2  Gifted to all tankers with a 4+ years service record during the "A Well-Deserved Reward" event. R160 T 50 2   
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Very high rate of fire
+* Good premium APCR rounds
+* Very good mobility - high top speed and acceleration
+* Decent gun depression for a Soviet tank 
+* Small profile and good camouflage values
+
+|InTheGame_cons= 
+* Low alpha damage and standard ammo penetration
+* Small health pool and poor armor
+* Poor crew trainer - the commander is also the radio operator
+* Very expensive repair bill for a Tier 6 tank
+* A "premium" in name only - makes credits like a regular techtree tank
+
+|InTheGame_performance=
+The T-50-2 is a veteran of the good ol' days; an age where many of the in-game mechanics are still very well under-developed (and at most times abused). R160 T 50 2  With a top-speed of 65 kph, the T-50-2 is arguably one of the quickest tanks in the current tech-tree (The Pz I C being the fastest). R160 T 50 2  However it is a vehicle that was mostly seen by players before the 1. R160 T 50 2 07 patch, so naturally, the T-50-2 is only rewarded to accounts dating more than 4 years. R160 T 50 2 
+
+The gun has pretty good DPS and penetration, but it's alpha is quite low for a Tier VI vehicle. R160 T 50 2  That's normally not the case due to how nimble this machine is. R160 T 50 2  While it has been toned down in some aspects, it is still a very potent Light Tank. R160 T 50 2  Players can expect to perform some daring drive-bys and even run rings around slower heavies, and constantly being a major headache where the turret traverse speeds can't keep up. R160 T 50 2 
+
+Speed is your biggest strength as it has one of the lowest HP of its Tier, at 580. R160 T 50 2  Expect to be one-shotted by many Tier VI or higher guns so avoid driving into the crosshairs of a TD or Heavy. R160 T 50 2  It's also quite light and small meaning careless players may often drive over the foot of cliffs and end up tipping over in a rather embarrassing way. R160 T 50 2 
+
+|InTheGame_research= 
+Premium vehicle, comes elite in stock configuration. R160 T 50 2 
+
+|InTheGame_equipment=
+Coated Optics, Vents, Tank Gun Rammer, Binocular Telescope
+
+|InTheGame_Equipment_Builds=
+Since this tank is the very definition and icon of active scouting, mount ''Optics'' and ''Vents'' so that you spot further all the time. R160 T 50 2 <br />
+For players that favor combat-recon role more, utilizing a ''Gun Rammer'' would be wise. R160 T 50 2  Otherwise, have ''Binocs'' so that even when remaining stealth you can still control a large area by providing vision coverage. R160 T 50 2  Another viable option would be the ''ETB 1t Class'' if one would like to strengthen its suspension for rough situations. R160 T 50 2 <br />
+It's also worth mentioning that T-50-2 is currently the sole exception among LTs above tier V, being '''NOT''' able to mount a VStab. R160 T 50 2  Whether this is intentional or forgotten legacy from simply copying the old T-50-2 data is not known. R160 T 50 2 
+
+|External_Reviews= 
+
+|History=
+After the Spanish civil war, Red army leadership found [[T-26]] tanks obsolete and ineffective, mostly due to their weak armor, therefore a development of a new tank was ordered. R160 T 50 2  Two factories joined the competition, the ''OKMO design bureau'' in the ''Factory No. R160 T 50 2  185 (S. R160 T 50 2 M. R160 T 50 2  Kirov)'' and ''Kirov Factory No. R160 T 50 2  100'', both located in Leningrad (the factories are often mistaken for each other because of very similar names). R160 T 50 2 
+
+The project of ''OKMO'' in the ''Factory No. R160 T 50 2  185'' was known as ''Object 126'' or ''T-126 SP'', which later evolved into [[T-127]], and eventually led to the [[T-50]]. R160 T 50 2 
+The competing ''Factory No. R160 T 50 2  100'' came up with project known as ''Object 211'', some sources name it ''"T-50-2"''. R160 T 50 2  It was made in 1941 under the leadership of A. R160 T 50 2  S. R160 T 50 2  Yermolayev. R160 T 50 2  ''Object 211'' was slightly similar to the ''T-126 SP'', it had 2x6 small wheels springed by torsions bars, but in comparison with the ''T-126 SP'', the wheels were differently-made, distance between two whells was different etc. R160 T 50 2  ''Object 211'' also had a differently shaped and angled front armor, longer hull, and differently designed turret with much lower commander's cupola. R160 T 50 2  The armament and engine unit remained the same. R160 T 50 2 
+
+Unfortunately ''Object 211'' did not win the competition because it did not bring any expressive advantages in comparison with the ''T-126 SP'', it was only a little lighter. R160 T 50 2 
+
+The only prototype was deployed in the defense of Leningrad where it was probably destroyed. R160 T 50 2 
+
+|HistAcc=
+[[Gun/USSR#45 mm 20K|45 mm 20K]] gun is missing. R160 T 50 2 
+* The ZiS-4 was only mounted on the [[T-34]]-57. R160 T 50 2  Its configuration on the T-50-2 is fake. R160 T 50 2 
+
+|HistoricalGallery= 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* [https://ru. R160 T 50 2 wikipedia. R160 T 50 2 org/wiki/Т-50#. R160 T 50 2 D0. R160 T 50 2 9C. R160 T 50 2 D0. R160 T 50 2 BE. R160 T 50 2 D0. R160 T 50 2 B4. R160 T 50 2 D0. R160 T 50 2 B8. R160 T 50 2 D1. R160 T 50 2 84. R160 T 50 2 D0. R160 T 50 2 B8. R160 T 50 2 D0. R160 T 50 2 BA. R160 T 50 2 D0. R160 T 50 2 B0. R160 T 50 2 D1. R160 T 50 2 86. R160 T 50 2 D0. R160 T 50 2 B8. R160 T 50 2 D0. R160 T 50 2 B8 Т-50] // ''Wikipedia (RU)''
+
+}}

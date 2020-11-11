@@ -1,0 +1,237 @@
+2,730,000 Cost. 
+430344 HP Hit Points. 
+54.91/5632.69/0 t Weight Limit. 
+650650 hp Engine Power. 
+29/10 km/h Speed Limit. 
+1818 deg/s Traverse. 
+11.8419.88 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+50.8/50.8/50.8 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+600/600/600/600/ HP Damage. 
+35/35/35/35/ mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 26 s 50% Crew: 32.21 s 75% Crew: 28.12 s 100% Crew: 24.93 s Rammer: 22.44 s Vents: 24.38 s Both: 21.94 s Both and BiA: 21.47 s Both and Max Crew %: 20.58 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 26 s 50% Crew: 32.21 s 75% Crew: 28.12 s 100% Crew: 24.93 s Rammer: 22.44 s Vents: 24.38 s Both: 21.94 s Both and BiA: 21.47 s Both and Max Crew %: 20.58 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (600 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (600 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (600 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (600 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.78 m With 75% Crew: 0.681 m With 100% Crew: 0.604 m With BiA: 0.591 m With BiA and Vents: 0.578 m Maximum possible: 0.554 m For more details, see Crew m ▲ With 50% Crew: 0.78 m With 75% Crew: 0.681 m With 100% Crew: 0.604 m With BiA: 0.591 m With BiA and Vents: 0.578 m Maximum possible: 0.554 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 5.327 s With 75% Crew: 4.651 s With 100% Crew: 4.123 s With GLD: 3.748 s With BiA: 4.032 s With BiA and Vents: 3.945 s With both and GLD: 3.586 s Maximum possible: 3.437 s For more details, see Crew or Equipment s ▲ With 50% Crew: 5.327 s With 75% Crew: 4.651 s With 100% Crew: 4.123 s With GLD: 3.748 s With BiA: 4.032 s With BiA and Vents: 3.945 s With both and GLD: 3.586 s Maximum possible: 3.437 s For more details, see Crew or Equipment Aim time. 
+1616 deg/s Gun Traverse Speed. 
+44° Gun Arc. 
+-5°/+70°-5°/+70° Elevation Arc. 
+4848 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 208.2 m With 75% Crew: 236.6 m With 100% Crew: 265 m With Recon and Situational Awareness: 278.4 m With Coated Optics: 291.5 m With Binocular Telescope: 331.25 m Maximum possible: 379.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 208.2 m With 75% Crew: 236.6 m With 100% Crew: 265 m With Recon and Situational Awareness: 278.4 m With Coated Optics: 291.5 m With Binocular Telescope: 331.25 m Maximum possible: 379.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 432.1 m With 75% Crew: 491.1 m With 100% Crew: 550 m With 100% Signal Boost: 660 m When affected by 100% Relaying: 605 m Maximum possible: 791.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+B.L. 5.5-in. Gun. 
+35/35. 
+600/600. 
+2.31. 
+0.63. 
+4.3. 
+nan. 
+nan. 
+88000. 
+nan. 
+Q.F. 6-in. Gun Mk. V. 
+38/38. 
+700/700. 
+2.0. 
+0.65. 
+4.5. 
+nan. 
+nan. 
+130000. 
+V. 
+Rolls-Royce Meteor Mk. IVB. 
+650.0. 
+20. 
+nan. 
+744.0. 
+16000. 
+nan. 
+Rolls-Royce Meteor Mk. IVC. 
+nan. 
+0. 
+nan. 
+nan. 
+84000. 
+nan. 
+FV206. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+20000. 
+nan. 
+FV207. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+35000. 
+VIII. 
+WS No. 22. 
+700. 
+nan. 
+40. 
+25000. 
+VIII. 
+WS No. 19 Mk. III. 
+550. 
+nan. 
+40. 
+22000. 
+X. 
+SR C42. 
+750. 
+nan. 
+40. 
+54000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=GB79_FV206
+|While not considerably the most nimble of the Tier VIII SPGs, unlike its predecessors, the FV207 adopts a more heavier artillery fashion; Keeping up the pace with its noticeably faster reload speed and smiting any stationary or slow moving targets with deadly grace. GB79 FV206 
+
+|Gallery=
+
+File:FV207 scr 1. GB79 FV206 jpg
+File:FV207 scr 2. GB79 FV206 jpg
+File:FV207 scr 3. GB79 FV206 jpg
+
+
+|InTheGame_pros= 
+* Gun range: stock: 1300 m, top: 1400 m
+* High ammo capacity
+* Very wide gun traverse
+* Top gun's fast reload, accuracy, and aim time makes up for its lack of damage. GB79 FV206 
+
+|InTheGame_cons=
+* Weak alpha for its tier
+* Big size
+* Slow with slow traverse speed
+
+|InTheGame_performance=
+
+The FV207 is a hit and miss for most people. GB79 FV206  Right of the bat the first thing everyone notice is the weak alpha damage for its top gun compared to the SPG's in the same tier. GB79 FV206  However, thanks to it's wide gun arc and fast reload speed it's much easier to hit moving targets with this artillery than with any other in its tier. GB79 FV206  Also, if you hit weakspots in the enemy tanks, the FV207 can be very deadly. GB79 FV206 
+
+Unfortunately, unlike most British artillery, this one doesn't have good mobility. GB79 FV206  Couple this with it's big size, and it makes changing positions very difficult, although it's closed armor makes it more resilient to counter battery fire. GB79 FV206 
+
+|InTheGame_research=
+* Nothing carries over from the Crusader 5. GB79 FV206 5-in. GB79 FV206  SP, but the WS No. GB79 FV206  22 Radio carries over from the FV304. GB79 FV206  Mount it immediately. GB79 FV206 
+* The Rolls-Royce Meteor Mk. GB79 FV206  IVC Engine can be mounted without upgrading the suspension. GB79 FV206 
+* If you would prefer to increase your firepower over your manoeuvrability, instead research the FV207 Suspension, followed by the Q. GB79 FV206 F. GB79 FV206  6-in. GB79 FV206  Gun Mk. GB79 FV206  V, then research the engine. GB79 FV206 
+* Finally, research the SR C42 Radio. GB79 FV206  
+
+|InTheGame_equipment=Medium-Caliber Artillery Shell Rammer,Improved Ventilation Class 3,GLD
+
+|History=
+
+Shortly after development began on the A41 Heavy Cruiser aka Centurion, the British drew up a specification for what was known as the ‘Universal’ Tank which was to be one basic hull design being adapted to suit a variety of roles in a complete series of vehicles, from heavy tanks, through self propelled guns all the way to APC's. GB79 FV206  Initial chassis was borrowed from the A45 Infantry Support tank whose development started shortly after that of the A41 Centurion tank. GB79 FV206   
+
+'''FV200 series'''
+
+The first prototype was the FV201, and turned out to be the most popular proposal from FV200 series. GB79 FV206  This vehicle was running in 1948 but development costs were rising and by 1949 it had been found that the Centurion had developed into an extremely versatile vehicle capable of providing most of the Universal tank variants. GB79 FV206  As a consequence the Centurion became the universal tank and development on the FV200 series was cancelled with the exception of the FV214 which was required to counter the threat posed by the Soviet IS-3. GB79 FV206  This vehicle was subsequently named 'Conqueror'. GB79 FV206 
+
+To match the firepower of the IS-3 the Conqueror was fitted with an American 120mm gun the ammunition of which came as a separate charge and projectile. GB79 FV206  This was the first time such ammunition had been used in a british tank, unfortunately the charge came in a large brass case and took up much valuable space. GB79 FV206  The turret had a better ballistic shape than the Centurion and featured a contra-rotating commanders cupola which was located in its own compartment at the rear of the turret and effectively prevented the commander from seeing what was going on in the main turret. GB79 FV206  The commander had a cross-cupola rangefinder allowing him to select new targets whilst the gunner was observing elsewhere. GB79 FV206  The commander could then remotely traverse the turret to whatever his cupola was being used to observe. GB79 FV206  Despite the size and weight, Conqueror turned out to be more mobile than Centurion across rough ground due to low ground pressure from the very wide tracks, and massive power available from the fuel injected Meteor engine. GB79 FV206  In all 185 Conquerors were delivered to the British Army and remained in service from 1955 to 1966. GB79 FV206  They served in Germany with a maximum of nine allocated per regiment being used as long range support for Centurions. GB79 FV206 
+
+Vickers also produced eight FV219 ARV Mk Is and 20 FV222 ARV MKIIs. GB79 FV206 
+
+==Proposed variants==
+
+FV201 - the Universal Tank
+
+FV202 - AVRE (T)
+
+FV203 - AVRE (L)
+
+FV204 - Universal Flail
+
+FV205 - SPMedium Anti-Tank Mounting
+
+FV206 - SP Medium Artillery
+
+'''FV207 - SP Heavy Artillery'''
+
+FV208 - Universal Bridgelayer
+
+FV209 - Universal ARV
+
+FV210 - Tractor Heavy Artillery
+
+FV212 - Assault Personnel Carrier
+
+FV213 - Beach armoured recovery vehicle
+
+FV214 - Conqueror Mk 1 or MK2
+
+FV215A - Heavy armoured vehicle, Royal Engineers
+
+FV215B - SPG heavy, 183mm anti-tank gun
+
+FV216 - Tank, heavy, Royal Engineers, flail
+
+FV217 - SPG medium, No 1, 120mm anti-tank gun
+
+FV219 - Conqueror ARV Mk 1
+
+FV221 - Caernarvon MK 1
+
+FV221 - Caernarvon Mk 2
+
+FV222 - Conqueror ARV Mk 2
+
+FV223 - Bridgelayer ARK
+
+|HistoricalGallery=N/A
+
+|Ref_references=
+
+|Ref_sources= *https://en. GB79 FV206 wikipedia. GB79 FV206 org/wiki/Centurion_tank
+
+|Ref_links=
+
+
+|Sidebar_Camostop=7. GB79 FV206 7
+|Sidebar_Camomove=3. GB79 FV206 8
+|Sidebar_Camofire=1. GB79 FV206 1
+|Sidebar_Passhard=1. GB79 FV206 247
+|Sidebar_Passmed=1. GB79 FV206 438
+|Sidebar_Passsoft=2. GB79 FV206 397
+|Sidebar_DispTurret=0. GB79 FV206 46
+|Sidebar_DispRecoil=4. GB79 FV206 795
+|Sidebar_DispAccel=0. GB79 FV206 345
+|Sidebar_DispTurning=0. GB79 FV206 345
+}}

@@ -1,0 +1,248 @@
+7,500 Cost. 
+13001300 HP Hit Points. 
+36/39.834.98/39.8 t Weight Limit. 
+650650 hp Engine Power. 
+56/20 km/h Speed Limit. 
+4646 deg/s Traverse. 
+18.06Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+100/80/45 mm Hull Armor. 
+230/130/60230/130/60 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+252/4400/252 252/4400/252 Shell Cost. 
+250/250/330250/250/330 HP Damage. 
+185/241/50185/241/50 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 8.4 s 50% Crew: 10.41 s 75% Crew: 9.09 s 100% Crew: 8.05 s Rammer: 7.25 s Vents: 7.87 s Both: 7.09 s Both and BiA: 6.93 s Both and Max Crew %: 6.64 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 8.4 s 50% Crew: 10.41 s 75% Crew: 9.09 s 100% Crew: 8.05 s Rammer: 7.25 s Vents: 7.87 s Both: 7.09 s Both and BiA: 6.93 s Both and Max Crew %: 6.64 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1785 50% Crew: 1440 75% Crew: 1650 100% Crew: 1862.5 100% Crew Vents: 1905 Rammer: 2070 Both: 2115 Both and BiA: 2162.5 Both and Max Crew %: 2257.5 Advantageous Damage Per Minute First-shot DPM: 2035 50% Crew: 1690 75% Crew: 1900 100% Crew: 2112.5 100% Crew Rammer: 2320 Vents: 2155 Both: 2365 Both and BiA: 2412.5 Both and Max Crew %: 2507.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1785 50% Crew: 1440 75% Crew: 1650 100% Crew: 1862.5 100% Crew Vents: 1905 Rammer: 2070 Both: 2115 Both and BiA: 2162.5 Both and Max Crew %: 2257.5 Advantageous Damage Per Minute First-shot DPM: 2035 50% Crew: 1690 75% Crew: 1900 100% Crew: 2112.5 100% Crew Rammer: 2320 Vents: 2155 Both: 2365 Both and BiA: 2412.5 Both and Max Crew %: 2507.5 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (330 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2356.2 50% Crew: 1900.8 75% Crew: 2178 100% Crew: 2458.5 100% Crew Vents: 2514.6 Rammer: 2732.4 Both: 2791.8 Both and BiA: 2854.5 Both and Max Crew %: 2979.9 Advantageous Damage Per Minute First-shot DPM: 2686.2 50% Crew: 2230.8 75% Crew: 2508 100% Crew: 2788.5 100% Crew Rammer: 3062.4 Vents: 2844.6 Both: 3121.8 Both and BiA: 3184.5 Both and Max Crew %: 3309.9 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1785 50% Crew: 1440 75% Crew: 1650 100% Crew: 1862.5 100% Crew Vents: 1905 Rammer: 2070 Both: 2115 Both and BiA: 2162.5 Both and Max Crew %: 2257.5 Advantageous Damage Per Minute First-shot DPM: 2035 50% Crew: 1690 75% Crew: 1900 100% Crew: 2112.5 100% Crew Rammer: 2320 Vents: 2155 Both: 2365 Both and BiA: 2412.5 Both and Max Crew %: 2507.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1785 50% Crew: 1440 75% Crew: 1650 100% Crew: 1862.5 100% Crew Vents: 1905 Rammer: 2070 Both: 2115 Both and BiA: 2162.5 Both and Max Crew %: 2257.5 Advantageous Damage Per Minute First-shot DPM: 2035 50% Crew: 1690 75% Crew: 1900 100% Crew: 2112.5 100% Crew Rammer: 2320 Vents: 2155 Both: 2365 Both and BiA: 2412.5 Both and Max Crew %: 2507.5 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (330 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2356.2 50% Crew: 1900.8 75% Crew: 2178 100% Crew: 2458.5 100% Crew Vents: 2514.6 Rammer: 2732.4 Both: 2791.8 Both and BiA: 2854.5 Both and Max Crew %: 2979.9 Advantageous Damage Per Minute First-shot DPM: 2686.2 50% Crew: 2230.8 75% Crew: 2508 100% Crew: 2788.5 100% Crew Rammer: 3062.4 Vents: 2844.6 Both: 3121.8 Both and BiA: 3184.5 Both and Max Crew %: 3309.9 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.478 s With 75% Crew: 2.163 s With 100% Crew: 1.918 s With GLD: 1.743 s With BiA: 1.875 s With BiA and Vents: 1.835 s With both and GLD: 1.668 s Maximum possible: 1.599 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.478 s With 75% Crew: 2.163 s With 100% Crew: 1.918 s With GLD: 1.743 s With BiA: 1.875 s With BiA and Vents: 1.835 s With both and GLD: 1.668 s Maximum possible: 1.599 s For more details, see Crew or Equipment Aim time. 
+4646 deg/s Turret Traverse. 
+360° Gun Arc. 
+-7°/+20°-7°/+20° Elevation Arc. 
+5050 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 471.4 m With 75% Crew: 535.8 m With 100% Crew: 600 m With 100% Signal Boost: 720 m When affected by 100% Relaying: 660 m Maximum possible: 863.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 471.4 m With 75% Crew: 535.8 m With 100% Crew: 600 m With 100% Signal Boost: 720 m When affected by 100% Relaying: 660 m Maximum possible: 863.4 m For more details, see Skills or Equipment Signal Range. 
+VIII. 
+100 mm Type 59. 
+185/241/50. 
+250/250/330. 
+7.14. 
+0.39. 
+2. 
+nan. 
+2257. 
+78180. 
+VIII. 
+Type 59. 
+230/130/60. 
+46. 
+380. 
+nan. 
+8500. 
+28000. 
+nan. 
+NORINCO 12150L-59. 
+nan. 
+0. 
+nan. 
+nan. 
+79290. 
+VIII. 
+Type 59. 
+39.8. 
+46. 
+B/2. 
+nan. 
+7700. 
+30200. 
+IX. 
+A-220. 
+600. 
+nan. 
+40. 
+24240. 
+Light Tanks. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Medium Tanks. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Heavy Tanks. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Tank Destroyers. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 • VIIICS-53 • IXCS-59 • XCS-63. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIT-44-122 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52. 
+{{TankData|Tank=Ch01_Type59
+|This tank was removed from the in-game store on 16 January 2012. Ch01 Type59  The decision was made "to ensure a healthy gameplay balance at higher tiers, and also to encourage a wider variety of tier 8 medium tank usage. Ch01 Type59 " It last appeared in the gift shop in August 2012. Ch01 Type59  Though not available for traditional purchase, it frequently is the reward for first place in official competitions and tournaments. Ch01 Type59 
+
+Considered one of the best tier 8 premium tanks, the Type 59 combines thick frontal armor with a reliable gun and excellent mobility. Ch01 Type59  Because of its large spread of features and lack of specialization, the Type 59 fills the 'pocket heavy' role of the tier VIII premiums and very often performs better than expected in 1-on-1 fights with tier VIII mediums and light tanks. Ch01 Type59  
+
+A golden variant of the Type 59 - [[Tank:Ch01_Type59_Gold|Type 59 G]] also had its own history, and is occasionally available in Black Market events. Ch01 Type59 
+
+|Gallery=
+File:Type-591. Ch01 Type59 jpg{{!}}Type 59 in HD following update 9. Ch01 Type59 10
+File:Type-592. Ch01 Type59 jpg
+File:Type-593. Ch01 Type59 jpg
+
+|InTheGame_pros=
+* Good gun handling and aim time
+* Outstanding turret armor, hull armor is also decent
+* Good gun depression for a Chinese tank
+* Good top speed, acceleration and agility
+* Preferential matchmaking, won't see Tier 10 battles
+
+|InTheGame_cons=
+* Low DPM
+* Fairly low AP (standard) penetration
+* Vulnerable to module damage and crew injury
+* Low hitpoint pool
+* Extremely hard to obtain
+
+|InTheGame_performance=
+
+The Type 59 is considered by some to be one of the most difficult tanks to destroy by lower tiers since it boasts a well armored and sloped turret, which along with its sloped frontal armor is capable of bouncing many shots. Ch01 Type59  The tank is also fairly agile, so flanking it can prove difficult as well. Ch01 Type59 
+
+The Type 59's main gun is the same 100 mm cannon found on the  [[T-34-2]]. Ch01 Type59  Compared to its tier 8 peers, this tank is very well protected. Ch01 Type59  100 mm frontal armor sloped at 60 degrees is strong enough to stop around 175 mm penetration AP rounds and 200 mm HEAT rounds reliably with minimal angling. Ch01 Type59  This is usually enough to protect from Russian 122 mm D-25T and its peers, as well as many guns found on other tier 8 and below mediums. Ch01 Type59  When shooting this tank from the front, it is generally best to aim for the hatches on top of the turret. Ch01 Type59  While the lower plate might at first seem like a nice target, it is actually just as thick as the upper plate, plus it is generally at a more extreme angle, given its low placement. Ch01 Type59  Availability of gold-ammo-for-credits does allow tanks with weaker penetration to have a better hope at combating this tank frontally. Ch01 Type59  
+The two cupolas on the turret are technically weakspots, but still feature 150 mm armour at the front, which is both rounded and sloped. Ch01 Type59  
+Because of the relatively low silhouette it is possible to shoot down into the top armour in front of the turret from close range. Ch01 Type59  This is very thin and can be easily overmatched even at extreme angles. Ch01 Type59  
+
+The Type 59 is one of the most versatile and feared, if not respected tanks on the battlefield. Ch01 Type59   Its durability, resilience, decent firepower, and agility all contribute to a very well rounded tank. Ch01 Type59   Coupled with the fact that this tank has good matchmaking make it a blast to play, especially in groups. Ch01 Type59 
+
+While the Type 59 has many advantages, it does have a few disadvantages. Ch01 Type59  A fuel tank is located next to the driver at the front of the tank, meaning catching fire from a frontal hit is certainly possible. Ch01 Type59  Ammo racks are also located all along the right side of the hull as well. Ch01 Type59  Flanking a type 59 from the right side can often lead to ammo rack damage for this tank, or even the rack itself detonating. Ch01 Type59 
+
+With the release of the patch 9. Ch01 Type59 20. Ch01 Type59 1 it gave the Type 59 a few buffs such as: Decreased aim time from 2. Ch01 Type59 9 to 2. Ch01 Type59 3 seconds, increase of the ammunition capacity from 34 to 50, decreased turret traverse dispersion by 25%, decreased hull traverse dispersion by 22% and when moving the dispersion is decreased by 22%. Ch01 Type59  In Patch 1. Ch01 Type59 2, the Type 59 received a much more powerful engine and additional gun handling buffs as well as improved frontal turret armor and slight penetration and RoF increases. Ch01 Type59 
+
+The Type 59 also has a very high credit earning ability, just like the other [[Premium Tanks|premium tanks]]. Ch01 Type59  Some even argue that this tank earns the most credits out of the lot due to cheaper ammunition. Ch01 Type59 
+
+Something to note is that since this tank is now only available as a competition prize, it is very hard to acquire one. Ch01 Type59  However, the [[WZ-120]] performs similarly to the Type 59, but the main difference between the two is that you can upgrade the WZ-120 (which ends up vastly better), though you will be facing top tier tanks frequently instead of tier 6 or 7s, as well as not be able to earn as many credits while playing it. Ch01 Type59 
+
+|InTheGame_research=
+Premium tank, none required
+
+|InTheGame_equipment=Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Improved Ventilation Class 2
+
+|InTheGame_Equipment_Builds=
+BiA helps improve its mediocre DPM and accuracy, but not necessarily the most important;
+For improving survivability, one can choose Repairs, Firefightings and Safe Stowage to last longer on the lines. Ch01 Type59 
+For enhancing scouting capability, train Concealments, Recon and Situational Awareness so that poking turret could gain some more assists;
+
+Equipment Setup: Gun Rammer is mandatory, VStab highly recommended to better utilized its high mobility; 3rd slot can be Coated Optics to boost view range or Vents to improve overall performance. Ch01 Type59  Wet Ammo Rack can be somewhat pointless due to the vehicle's low base module HP: even with both Safe Stowage and Wet Rack applied, 100mm projectiles can still detonate it in 2 shots, and 122mm projectiles highly likely to "yellow" by a single shot all the same; only install if you intend to challenge heavy hitters from time to time. Ch01 Type59 
+
+|External_Reviews= 
+{{VideoYT|ZTN2julxBaU}}
+
+|History=
+
+[[image:T59-1. Ch01 Type59 jpg|thumb|200px|left|Type 59 tank in Royal Australian Armoured Corps Tank Museum, captured by ARVN troops in South Vietnam on 4 July 1972. Ch01 Type59 ]]
+The Type 59 (Chinese industrial designation: WZ120) main battle tank is a People's Republic of China produced version of the Soviet Union T-54/T-55 operators and variants tank, an improvement over the ubiquitous T-54/55. Ch01 Type59  The first vehicles were produced in 1958 and it was accepted into service in 1959, with serial production beginning in 1963. Ch01 Type59  Approximately 9,500 of the tanks were produced by the time production ended in 1980 with approximately 5,500 serving with the Chinese armed forces. Ch01 Type59  The tank formed the backbone of the Chinese People's Liberation Army until early 2000s with an estimated 5,000 of the later Type 59-I and Type 59-II variants in service in 2002. Ch01 Type59 
+
+The Type 59 was modified several times during its service with the replacement of the 100mm Type 59 rifled gun with a 105mm rifled gun. Ch01 Type59  It was also the basis of several later Chinese tank designs including the Type 69 and Type 79 tanks. Ch01 Type59 
+
+==Description==
+[[image:T59-2. Ch01 Type59 jpg|200px|right|Note the gap between the first road wheel and the second, and the small hole below the splash board for the bow mounted machine gun. Ch01 Type59 ]]
+Essentially the Type 59 is identical to the early production Soviet T-54As, however there are some key differences. Ch01 Type59  The Type 59 was not originally fitted with the infrared searchlight or main gun stabilization of the T-54. Ch01 Type59 
+
+The Type 59 has a conventional post-war layout with the fighting compartment at the front, an engine compartment at the rear, and a cast dome-shaped gun turret in the centre of the hull. Ch01 Type59  The hull is welded steel varying in thickness between 99mm on the front lower glacis to 20mm on the hull floor. Ch01 Type59  The turret varies from 39–100mm thick. Ch01 Type59 
+
+The driver sits in the front left of the hull, and is provided with a hatch immediately above his seat, which opens to the left. Ch01 Type59  The driver has two pop-up periscopes which give coverage ahead and slightly to the right when buttoned up. Ch01 Type59  The commander sits in the turret along with the gunner and loader. Ch01 Type59  The commander's hatch is on the turret left, with the gunner sitting forward and below him. Ch01 Type59  The loader sits on the right of the turret and has a hatch above him. Ch01 Type59  The turret has a non-rotating floor which complicated the crew's operations. Ch01 Type59 
+
+The turret mounts a rifled 100mm Type 59 cannon, for which 34 rounds are typically carried. Ch01 Type59  A Type 59T 7. Ch01 Type59 62mm machine gun is mounted coaxially with the main gun. Ch01 Type59  A Type 54 12. Ch01 Type59 7mm anti-aircraft machine gun (a Chinese copy of the Russian 12. Ch01 Type59 7mm M1938/46) is provided above the gunner's hatch for which 200 rounds is carried. Ch01 Type59  Additionally a Type 59T 7. Ch01 Type59 62mm bow machine gun is provided for the driver, which fires through a very small hole in the center of the glacis. Ch01 Type59  3,500 rounds of 7. Ch01 Type59 62mm ammunition are normally carried. Ch01 Type59 
+
+[[image:T59-3. Ch01 Type59 jpg|thumb|200px|left|A Type 59 tank at China People's Revolution Military Museum. Ch01 Type59 ]]
+The turret has a powered traverse mechanism that is probably comparable to the T-54 traverse mechanism which can rotate the turret through 360 degrees in 21 seconds. Ch01 Type59  Very early models of the Type 59 gun had manual elevation gear, later replaced with a powered system which allowed the gun to be aimed at between +17 and -4 degrees (the average depression for Western tanks is -10, which allows for better usage of hull-down tactics. Ch01 Type59  Later models added vertical stabilization to make firing on the move practical. Ch01 Type59  An infrared searchlight based night vision system was retrofitted to the tank with infrared periscope for the commander gunner and driver. Ch01 Type59 
+
+The tank is powered by a Model 12150L V-12 liquid cooled diesel engine, which develops 520 horsepower at 2,000 rpm. Ch01 Type59  The engine feeds a manual gearbox with five forward and one reverse gear. Ch01 Type59  A total of 815 liters of diesel can be carried internally in the tank, with a further 400 liters carried externally giving a maximum road range of 600 kilometers, or approximately 430km using only internal fuel. Ch01 Type59  The tank has five road wheels on each side with a prominent gap between the first and second road wheel. Ch01 Type59  The track is driven by a drive sprocket at the rear, with an idler at the front. Ch01 Type59  It is notable that there are no return rollers. Ch01 Type59  The suspension is a torsion bar system. Ch01 Type59  Engine exhaust is on the left fender. Ch01 Type59 
+
+Ammunition is stored inside the turret, which increases the odds of a catastrophic secondary explosion should the tank's interior be penetrated by enemy fire. Ch01 Type59  Crew survivability is hence low. Ch01 Type59 
+
+==History==
+[[image:T59-4. Ch01 Type59 JPEG|thumb|200px|right|A line-up of Chinese armoured vehicles at Shenyang training base, in the foreground are two Type 59-II tanks. Ch01 Type59  Note the bore evacuator in the middle of the barrel. Ch01 Type59 ]]
+
+After the signing of Sino-Soviet Treaty of Friendship, Alliance, and Mutual Assistance, the Soviets agreed to assist China in building a tank manufacturing facility to manufacture the T-54A MBT in 1956. Ch01 Type59  Initially, the tanks were assembled with Soviet-supplied parts, which were gradually replaced by Chinese-made components. Ch01 Type59  The tank was accepted into service by the PLA in 1959, and given the designation Type 59. Ch01 Type59 
+
+The Type 59 MBT represented China's first-generation tank development. Ch01 Type59  Over the years, it was upgraded with various domestic and western technologies. Ch01 Type59  When the PLA captured a Soviet T-62 from the Sino-Soviet border conflict in 1969, improvements based on the T-62 were incorporated into the T-59 design to become the Type 69 MBT, which was further upgraded with western technology and became the Type 79 MBT. Ch01 Type59  The Type 59 was the beginning of China's first-generation MBT, and the Type 79 last, superseded by the Type 80 second-generation MBT. Ch01 Type59 
+
+The Type 59 MBT is also known as WZ-120 by its manufacturer. Ch01 Type59  It was produced in great numbers from 1959 to mid 1980s, totaling over 10,000. Ch01 Type59  This tank gained worldwide infamy after the "Tank Man" incident in 1989. Ch01 Type59  The Type 59, and its successor, the Type 69, were widely exported, with thousands sold. Ch01 Type59  Today an estimated 5,000 Type 59 MBTs remain in PLA inventory, but is used primarily for training and support roles. Ch01 Type59  The Type 59 series are being replaced by the more capable Type 96 and Type 99 MBTs. Ch01 Type59 
+{{VideoYT|eWsxae3a9eY}}{{VideoYT|6kp_-h4l-lo}}
+
+|HistAcc=
+Actual ammo capacity is 34 rounds. Ch01 Type59  In World of Tanks, however, the Type 59 has 50 rounds. Ch01 Type59 
+* The main gun is a copy of the Soviet D-10TG, the same ones seen on the [[T-54]] and [[T 55A]]. Ch01 Type59  However, the penetration values of the armor-piercing shell are inconsistent. Ch01 Type59 
+* Uses the same main gun as the [[WZ-120]] which is essentially the tech tree version of the Type 59, yet the penetration values are inconsistent. Ch01 Type59 
+* The engine is considerably more powerful than it is in real life, with 650 hp compared to the historical 520. Ch01 Type59  Its engine power value is also inconsistent with the WZ-120's. Ch01 Type59 
+* The People's Liberation Army roundel has the ''Eight One'' emblem inside the star. Ch01 Type59  In World of Tanks, however, the roundel consists of only the red star with yellow fimbriation. Ch01 Type59 
+
+|HistoricalGallery=
+image:T59-1. Ch01 Type59 jpg{{!}}Type 59 tank in Royal Australian Armoured Corps Tank Museum, captured by ARVN troops in South Vietnam on 4 July 1972. Ch01 Type59 
+image:Type 59 (3). Ch01 Type59 jpg
+image:Type 59 (4). Ch01 Type59 jpg
+image:Type 59 tank - front right. Ch01 Type59 jpg
+File:Type 59 (1). Ch01 Type59 jpg
+File:Type59history(5). Ch01 Type59 JPEG
+file:Type59history(1). Ch01 Type59 JPEG
+File:Tank Man. Ch01 Type59 jpg{{!}}Type 59 tanks obstructed by Tank Man in Tiananmen Square, 5 June 1989
+File:Type 59 1989. Ch01 Type59 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+|Sidebar_Camostop=16
+|Sidebar_Camomove=12
+|Sidebar_Camofire=3. Ch01 Type59 7
+|Sidebar_Passhard=0. Ch01 Type59 863
+|Sidebar_Passmed=0. Ch01 Type59 959
+|Sidebar_Passsoft=1. Ch01 Type59 918
+|Sidebar_DispTurret=0. Ch01 Type59 153
+|Sidebar_DispRecoil=3. Ch01 Type59 836
+|Sidebar_DispAccel=0. Ch01 Type59 173
+|Sidebar_DispTurning=0. Ch01 Type59 173
+}}

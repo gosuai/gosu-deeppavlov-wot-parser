@@ -1,0 +1,230 @@
+395,000 Cost. 
+470376 HP Hit Points. 
+15.88/1611.88/0 t Weight Limit. 
+165165 hp Engine Power. 
+12/32 km/h Speed Limit. 
+4040 deg/s Traverse. 
+10.3913.89 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+20/20/20 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+75/75/10075/75/100 HP Damage. 
+110/180/30110/180/30 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.5 s 50% Crew: 3.1 s 75% Crew: 2.7 s 100% Crew: 2.4 s Rammer: 2.16 s Vents: 2.35 s Both: 2.11 s Both and BiA: 2.07 s Both and Max Crew %: 1.98 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.5 s 50% Crew: 3.1 s 75% Crew: 2.7 s 100% Crew: 2.4 s Rammer: 2.16 s Vents: 2.35 s Both: 2.11 s Both and BiA: 2.07 s Both and Max Crew %: 1.98 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (100 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (100 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.458 m With 75% Crew: 0.4 m With 100% Crew: 0.355 m With BiA: 0.347 m With BiA and Vents: 0.339 m Maximum possible: 0.325 m For more details, see Crew m ▲ With 50% Crew: 0.458 m With 75% Crew: 0.4 m With 100% Crew: 0.355 m With BiA: 0.347 m With BiA and Vents: 0.339 m Maximum possible: 0.325 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment Aim time. 
+3232 deg/s Gun Traverse Speed. 
+46° Gun Arc. 
+-7°/+15°-7°/+15° Elevation Arc. 
+8080 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 575.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 432.1 m With 75% Crew: 491.1 m With 100% Crew: 550 m With 100% Signal Boost: 660 m When affected by 100% Relaying: 605 m Maximum possible: 791.4 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+OQF 17-pdr AT Gun Mk. VII. 
+171/239/30. 
+150/150/100. 
+12.77. 
+0.36. 
+2.3. 
+nan. 
+nan. 
+65000. 
+nan. 
+QF 6-pdr AT Gun Mk. IV. 
+110/180/30. 
+75/75/100. 
+24.0. 
+0.37. 
+1.9. 
+nan. 
+nan. 
+27000. 
+nan. 
+OQF 17-pdr AT Gun Mk. II. 
+143/171/30. 
+150/150/100. 
+12.24. 
+0.37. 
+2.7. 
+nan. 
+nan. 
+52000. 
+V. 
+GMC 6004 6-71A. 
+165.0. 
+15. 
+nan. 
+991.0. 
+11000. 
+nan. 
+GM 6062 6-71M. 
+nan. 
+0. 
+nan. 
+nan. 
+12200. 
+nan. 
+Archer early. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+4500. 
+nan. 
+Archer late. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+8700. 
+VII. 
+WS No. 19 Mk. II. 
+450. 
+nan. 
+40. 
+21000. 
+VI. 
+WS No. 19 Mk. I. 
+400. 
+nan. 
+40. 
+15000. 
+VIII. 
+WS No. 19 Mk. III. 
+550. 
+nan. 
+40. 
+22000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=
+|The unique tank that shares traits with [[Tank:Crusader 5. GB44 Archer 5-in. GB44 Archer  SP|Crusader SP]] for mounting the gun backwards on a Valentine chassis. GB44 Archer  That makes its reverse speed much higher than forward speed (12/35 KM). GB44 Archer  This means that for travelling, you must drive backwards. GB44 Archer  However, this awkward gun placement can save your life from flanking (Especially because it's thinly armored). GB44 Archer  It can mount a deadly 17 pdr gun aka nightmare in Tier 5. GB44 Archer  
+
+|Gallery=
+
+File:Archer scr 1. GB44 Archer jpg
+File:Archer scr 2. GB44 Archer jpg
+File:Archer scr 3. GB44 Archer jpg
+
+
+|InTheGame_pros=
+- Can mount the 17 pdr gun, boasting phenomenal penetration against all but the toughest of targets. GB44 Archer 
+
+- Very good traverse; low flanking risk
+
+- Very wide gun arc compared to the AT 2
+
+-  Good view range for a tier V
+
+- Very fast reverse speed, allows to reposition quickly and doesnt need to turn in order to retreat into another position
+
+- High rate of fire on top gun plus aforementioned hitting power can tear most enemies to shreds with ease at long ranges. GB44 Archer 
+
+|InTheGame_cons=
+- Stupidly placed gun means you have to go backwards to reach its top speed(32 KM/H)
+
+- Awful forward speed  (12 KM/H; even worse than the TOG II!), and its top (reverse) speed isn't impressive either
+
+- The tank is a glass cannon with virtually no armor; any large calibre howitzer will decimate you
+
+- Loses accuracy very badly when turning. GB44 Archer 
+
+- Poor shell velocity, often misses long-range targets
+
+|InTheGame_performance=
+The Archer is an unusual vehicle in many respects, while also being rather typical in others. GB44 Archer  Because the gun was placed backwards on the chassis, the reverse speed is faster than the forward speed. GB44 Archer  This trait makes it a perfect ambush vehicle; after opponents at range get too close or you are spotted, it will reverse safely back into cover. GB44 Archer  Practising backwards driving will be of great benefit in this vehicle. GB44 Archer  
+
+Aside from the unusually high reverse speed relative to the forward speed, it is a fairly typical open-topped thinly-shielded tank destroyer. GB44 Archer  Do not get shot at at all: while derived from the Valentine chassis, it does not share the armour (due to the rear armor now being the frontal armor), and will be destroyed quickly if cover it not sought. GB44 Archer  
+
+However, the appalling speed driving forwards combined with the good backwards speed means that the Archer should not participate in pushes. GB44 Archer  The top speed of 12 kph means you are too slow to participate properly (and be very vulnerable if caught in the open), and driving backwards is not recommend if at risk at engaging enemies. GB44 Archer  This means that when playing the Archer, you should pick a good spot to hide and snipe, and only relocate within a short distance. GB44 Archer  
+
+The powerful top gun and fast turning radius make the Archer an excellent artillery guard, as it can engage both heavily armoured targets at a distance as well as fast moving lights relatively close up. GB44 Archer  But as always with the Archer: don't get into attrition-based firefights. GB44 Archer   
+
+As a side note, when playing the Archer, be prepared to take the reactions of other players graciously. GB44 Archer  The Archer seem to attract a lot of ire from team mates, as there seem to be more than a few players which don't understand the limitations and playing style of the Archer, i. GB44 Archer e. GB44 Archer  that you need to camp and can't very well participate in pushes. GB44 Archer  
+
+|InTheGame_research=
+
+Stock suspension is very close to load limit and upgraded suspension or Enhanced Coil Springs Class 1 equipment (20 000 credits) is required is mount even both camo-net and binocular telescope. GB44 Archer  Stock gun is totally inadequate too and should be upgraded immediately. GB44 Archer 
+
+You may already have the top 17-pounder gun, since it's shared with AT 8 and Challenger. GB44 Archer  You still have to research first 17-pounder too, since its required to advance to next tank. GB44 Archer 
+
+Radios are shared with many British tanks and can be installed immediately. GB44 Archer  Upgraded engine is not used anywhere else and gives only minor buff to mobility, but is very cheap to research. GB44 Archer 
+
+|InTheGame_equipment=Camouflage Net, Binocular Telescope, Medium-Caliber Tank gun rammer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+{{VideoYT|7dns-rFYTVE}}{{VideoYT|ZdzRusXonAM}}
+The '''Self Propelled 17pdr, Valentine, Mk I, Archer''' was a [[UK|British]] [[Tank_Destroyers|Tank Destroyer]] of the [[World War II|Second World War]] based on the [[Tank:GB04_Valentine|Valentine]] [[infantry tank]] [[chassis]] fitted with an [[Ordnance QF 17 pounder]] gun. GB44 Archer 
+
+==Design and development==
+The [[Ordnance QF 17 pounder|17 pounder anti-tank gun]] was a very powerful gun but also very large, heavy, and could only be moved about the battlefield by a vehicle, which made the gun more effective in defence than in the attack. GB44 Archer   A version of the Churchill tank had been tested as a self-propelled gun; the "3-inch Gun Carrier" and the US was expected to be able to provide the [[Tank:A30_M10_Wolverine|M10 ''Wolverine'']] through [[Lend-lease]]. GB44 Archer  Other projects were considered using obsolete tank chassis; possible vehicles included the Valentine for its reliability and low profile; and the [[Tank:GB20_Crusader|Crusader]] for its good power-to-weight ratio. GB44 Archer  In development were tank designs using the 17-pdr, which led to the [[Tank:GB41_Challenger|Challenger]] (and its post-war variant the Avenger) derived from the [[Tank:GB21_Cromwell|Cromwell]] cruiser tank, and the [[Tank:GB19_Sherman_Firefly|Sherman Firefly]] conversion of Sherman tanks. GB44 Archer 
+
+The Valentine chassis was soon chosen, as it was in production but obsolescent as a tank in British use and was also one of the few chassis that could accommodate such a large gun. GB44 Archer {{Citation needed|date=March 2008}}The engine in the Archer had a higher power rating than in the Valentine. GB44 Archer <ref>Fletcher, ''Universal Tank''</ref> The Valentine had a small hull and it was not possible to use a turret, the gun was mounted in a simple, low, open-topped armoured box, very much like the early ''[[Panzerjäger]]'' German self-propelled guns in appearance, with the gun facing to the rear which kept the length of the Archer short. GB44 Archer  The mounting allowed for 11 degrees of traverse to either side with elevation from -7. GB44 Archer 5 to +15 degrees. GB44 Archer <ref>''British Anti-tank guns 1939-1945'' Osprey p22</ref>
+
+On firing, the gun breech recoiled into the driver's space, with the driver staying in position, in case the vehicle needed to move quickly. GB44 Archer  The rear mounting had the advantage that combined with its low silhouette, the Archer made an excellent ambush weapon, allowing its crew to fire, then drive away without turning round. GB44 Archer 
+
+The first prototype was completed in 1943, with firing trials carried out in April 1943. GB44 Archer  Vickers were given orders for 800 vehicles. GB44 Archer 
+
+==Service==
+[[File:Abandoned Egyptian Archer. GB44 Archer jpg|thumb|left|This Archer tank destroyer was abandoned by the [[Egyptian Army]] during the [[Suez Crisis]], 1956. GB44 Archer ]]
+
+Production started in mid-1943 and the Archer entered service in October 1944. GB44 Archer  It was used in [[Western Front (WWII)|North-West Europe]] and (in 1945<ref>White p17<!--pages not numbered but is the 17th page--></ref>) [[Italian Campaign (World War II)|in Italy]]. GB44 Archer  By the end of the war, 655 of them had been produced. GB44 Archer  The Archer was classified as a self-propelled anti-tank gun and as such was operated by the [[Royal Artillery]] (RA) rather than by [[Royal Armoured Corps]] units - as were British [[M10 Wolverine|3in SP, Wolverine]] and [[17pdr SP Achilles|17pdr SP. GB44 Archer  Achilles]] - during the war. GB44 Archer 
+
+Post-war the Archer served with the [[Egyptian Army]]. GB44 Archer  Surviving vehicles are preserved at the [[Yad La-Shiryon]] museum in [[Latrun]], [[Overloon War Museum|National War and Resistance Museum, Overloon]] in the Netherlands, and the [[Bovington Tank Museum]] in the UK. GB44 Archer  The Archer served with some units of the Royal Armoured Corps in the [[British Army of the Rhine]] (BAOR) in the early 1950s. GB44 Archer 
+
+|HistAcc=
+SCC No. GB44 Archer  15 Olive Drab paint scheme is missing. GB44 Archer  This was the base colour on all British AFVs in Europe from April 1944. GB44 Archer 
+* Allied star identification marking is missing. GB44 Archer  The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942; the Archer entered service in September 1944. GB44 Archer 
+
+|HistoricalGallery=
+Archer. GB44 Archer jpg{{!}}Archer tank destroyer providing fire support near Goch, Germany on 19 February 1945
+Archer (2). GB44 Archer jpg{{!}}Archer tank destroyer in the flooded streets of Kranenburg, Germany on 11 February 1945
+Archer (3). GB44 Archer jpg{{!}}Egyptian Archer in Rafah during the Suez Crisis
+SurvivingArcher. GB44 Archer jpg{{!}}A preserved Archer in the Bovington Tank Museum
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

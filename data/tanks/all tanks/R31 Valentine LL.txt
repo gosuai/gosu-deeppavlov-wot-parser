@@ -1,0 +1,208 @@
+1,000 Cost. 
+580464 HP Hit Points. 
+15.71/16.859.21/0 t Weight Limit. 
+140140 hp Engine Power. 
+32/12 km/h Speed Limit. 
+5050 deg/s Traverse. 
+8.9115.2 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+60/60/60 mm Hull Armor. 
+65/65/65// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+47/47/6247/47/62 HP Damage. 
+51/84/2351/84/23 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.2857142857143 s 50% Crew: 2.83 s 75% Crew: 2.47 s 100% Crew: 2.19 s Rammer: 1.97 s Vents: 2.14 s Both: 1.93 s Both and BiA: 1.89 s Both and Max Crew %: 1.81 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.2857142857143 s 50% Crew: 2.83 s 75% Crew: 2.47 s 100% Crew: 2.19 s Rammer: 1.97 s Vents: 2.14 s Both: 1.93 s Both and BiA: 1.89 s Both and Max Crew %: 1.81 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (47 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (47 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (62 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (47 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (47 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (62 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.522 m With 75% Crew: 0.459 m With 100% Crew: 0.41 m With BiA: 0.401 m With BiA and Vents: 0.393 m Maximum possible: 0.377 m For more details, see Crew m ▲ With 50% Crew: 0.522 m With 75% Crew: 0.459 m With 100% Crew: 0.41 m With BiA: 0.401 m With BiA and Vents: 0.393 m Maximum possible: 0.377 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.182 s With 75% Crew: 1.92 s With 100% Crew: 1.714 s With GLD: 1.558 s With BiA: 1.675 s With BiA and Vents: 1.643 s With both and GLD: 1.494 s Maximum possible: 1.432 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.182 s With 75% Crew: 1.92 s With 100% Crew: 1.714 s With GLD: 1.558 s With BiA: 1.675 s With BiA and Vents: 1.643 s With both and GLD: 1.494 s Maximum possible: 1.432 s For more details, see Crew or Equipment Aim time. 
+4848 deg/s Turret Traverse. 
+360° Gun Arc. 
+-6°/+25°-6°/+25° Elevation Arc. 
+120120 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 447.8 m With 75% Crew: 509 m With 100% Crew: 570 m With 100% Signal Boost: 684 m When affected by 100% Relaying: 627 m Maximum possible: 820.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 447.8 m With 75% Crew: 509 m With 100% Crew: 570 m With 100% Signal Boost: 684 m When affected by 100% Relaying: 627 m Maximum possible: 820.2 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+45 mm 20KL. 
+51/84/23. 
+47/47/62. 
+26.25. 
+0.41. 
+1.71. 
+nan. 
+nan. 
+2530. 
+nan. 
+Valentine II. 
+//. 
+48. 
+350. 
+nan. 
+nan. 
+8160. 
+III. 
+AEC A190. 
+140. 
+15. 
+nan. 
+800. 
+4500. 
+nan. 
+Valentine. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+4510. 
+IX. 
+WS No. 19R. 
+570. 
+nan. 
+110. 
+29400. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT71 CMCD P • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIT42 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • IXConcept 1B • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA43 BP prototype • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52 LIS. 
+{{Alert 
+|i
+|content = This page is about the Soviet Lend-Lease Valentine. R31 Valentine LL   The British Valentine can be found [[Tank:GB04_Valentine|here]]. R31 Valentine LL 
+}}
+{{TankData|Tank=R31_Valentine_LL
+|This is the Valentine that was provided to the [[USSR]] through the Lend-Lease Act. R31 Valentine LL   It's available for purchase in the standard store and tech tree and was given away as a promotion for joining the 2nd phase of closed beta. R31 Valentine LL 
+
+|Gallery=
+image:Valentine screen 01. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 02. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 03. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 04. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 05. R31 Valentine LL jpg{{!}}Valentine II
+image:Valentine screen 06. R31 Valentine LL jpg{{!}}Valentine II
+
+|InTheGame_pros=
+* Very good armour for its tier combined with a high HP pool -- can stand up to those pesky autocannon lights
+* Small size, low profile along with fast gun/track traverse
+* Rapid rate of fire, reasonable accuracy, adequate penetration against tier threes
+* Only sees tier 4 battles, unlike the regular [[Valentine]]
+* Very good camo and unlike the [[Valentine]], it retains full camo value on the move
+
+|InTheGame_cons=
+* Nearly useless penetration for its tier, has serious problems penning some tier 4s even with APCR
+* Only three crew members and dependence on APCR ammo make it poor for both crew training and making credits
+* Weak engine, low speed limit, sluggish reverse, crawls uphill
+* Low ammo capacity
+* Can't use a gun rammer to improve rate of fire
+
+|InTheGame_performance=
+
+The Valentine II is a another heavy tank disguised as a light, having the 2nd best armor of its tier and a shared third place with the two Tier IV French tanks for the most hit points, but also the worst acceleration and top speed, superior to only the ponderous AMX 40. R31 Valentine LL   Its low horsepower is less hampered by rough terrain than most and has admirable camouflage values, being only marginally more visible than the T-50 while shooting. R31 Valentine LL   The jagged armor protects you from most Tier II and III small caliber AP rounds, but only slows down the bigger guns of tank destroyers. R31 Valentine LL   The rear hull armor is listed as 60mm, but it only applies to the vertical "rear bumper" part -- your corrugated engine compartment is much thinner in reality. R31 Valentine LL   You're armed with the BT-2's 45mm gun with a slightly improved accuracy, fire rate and aim time that struggles to penetrate the better protected Tier IV's. R31 Valentine LL   Your AP rounds are still adequate for knocking around the Tier III lights you encounter, but you cannot fight fair against a Lee or a Hetzer -- your rate of fire is fast enough to keep a tank permanently tracked while you put every other round through a weak point in the side or rear. R31 Valentine LL   The tank's small dimensions helps a little, but your low mobility still puts you at risk against sniping tank hunters and artillery. R31 Valentine LL   You can push through ordinary lights or mediums with ease, but you still can't spearhead an assault alone. R31 Valentine LL   Advance together, force yourself in the face of anyone trying to peek and poke at your more fragile, better-armed teammates and absorb the first hit or two while your backup tears the retreating snipers to shreds. R31 Valentine LL 
+
+This tank is one of only two premium tanks (the other being the famed Pz B2) that see only Tier IV matches, and being that the Pz B2 tend to only go up for sale rarely, the Valentine II is an excellent choice for anyone who prefers low to mid-tier game play. R31 Valentine LL   However it does need an almost excessive use of APCR rounds to be effective, but when used properly, the Valentine II can be just as effective as a Pz B2 . R31 Valentine LL  . R31 Valentine LL  . R31 Valentine LL   possibly more because no one expects a Valentine II to be effective. R31 Valentine LL   Use that to your advantage and wreck havoc on the enemy team. R31 Valentine LL 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment=
+Vents, GLD, Spall Liner, Camouflage Net
+
+|History=
+
+There are several proposed explanations for the name Valentine. R31 Valentine LL   According to the most popular one, the design was presented to the War Office on St. R31 Valentine LL  Valentine's Day, 14 February 1940, although some sources say that the design was submitted on 10 February. R31 Valentine LL   According to another version the tank was called Valentine in honor of Sir John Valentine Carden, the man who led the development of the A10 and many other Vickers vehicles, and had died three years before. R31 Valentine LL   Another version says that Valentine is an acronym for Vickers-Armstrong Ltd Elswick & (Newcastle-upon) Tyne. R31 Valentine LL   The "most prosaic" is that it was just an in-house codeword of Vickers with no other significance. R31 Valentine LL 
+
+== History ==
+
+The Valentine was an infantry tank produced in the United Kingdom during the Second World War. R31 Valentine LL   Acounting for approximately a quarter of wartime British tank production, more than 8,000 of these tanks were produced in 11 different marks, including various purpose-built variants. R31 Valentine LL   Over its lifetime it went from a riveted construction to entirely welded, and from a petrol powerplant to a two-stroke diesel engine produced by GMC, which was less likely to catch fire. R31 Valentine LL   It was supplied to the USSR and built under license in Canada. R31 Valentine LL   Developed by Vickers it proved to be both strong and reliable. R31 Valentine LL 
+
+Based on the A10 Cruiser tank, the Valentine was privately designed by Vickers-Armstrongs (hence its lack of a General Staff "A" designation) and was submitted to the War Office on 10 February 1938. R31 Valentine LL   The development team tried to match the lower weight of a cruiser tank (allowing the suspension and transmission parts of the A10 heavy cruiser to be used) and coupled this with the greater armor of an infantry tank. R31 Valentine LL   The result is a very compact vehicle with a cramped interior and two-man turret. R31 Valentine LL  Its armor was weaker than the Infantry Tank II Matilda but, due to a weaker engine, the lighter tank had the same top speed. R31 Valentine LL   However the new design was easier to produce and much less expensive. R31 Valentine LL 
+
+The War Office was initially deterred by the size of the turret, since they considered a turret crew of three necessary to free the vehicle commander from direct involvement in operating the gun. R31 Valentine LL   Concerned by the situation in Europe, however, it finally approved the design in April 1939. R31 Valentine LL   The vehicle reached trials in May 1940, which coincided with the loss of much of Britain's materiel in France during the evacuation at Dunkirk. R31 Valentine LL   The trials were successful and the vehicle was rushed into production as the Infantry Tank III Valentine. R31 Valentine LL   No pilot models were required, as much of the mechanics had been proven on the A10, and it entered service from July 1940. R31 Valentine LL 
+
+image:Valentine_mkII-IWM-KID. R31 Valentine LL jpg‎{{!}}Valentine In Russia
+The first Valentines used a petrol engine with conventional steering. R31 Valentine LL   The Mark II used a diesel version of the engine, and the Mark IV a GMC diesel; these were the majority of those used in the desert campaigns. R31 Valentine LL   Improved tracks were added and the No. R31 Valentine LL  19 Wireless replaced the No. R31 Valentine LL  11. R31 Valentine LL 
+The Valentine remained in production until April 1944, becoming Britain's most-produced tank during the war with 6,855 units manufactured in the UK (by Vickers, Metropolitan-Cammell Carriage and Wagon, and Birmingham Railway Carriage and Wagon), and a further 1,420 in Canada. R31 Valentine LL  
+
+
+== Combat history ==
+image:Valentine_Mk3_desert. R31 Valentine LL jpg{{!}}VA Valentine in North Africa, carrying infantry from a Scottish regiment
+The tank first served in Operation Crusader in the North African desert, where it began to replace the Matilda. R31 Valentine LL   It was extensively used in the North African Campaign, earning a reputation as a reliable and well-protected vehicle. R31 Valentine LL   The Valentine shared the common weaknesses of the British tanks of the period: its 2-pounder gun lacked high-explosive (anti-personnel) capability, and soon became outdated as an anti-tank weapon as well. R31 Valentine LL   The small size of the turret and turret ring made mounting larger guns a difficult task. R31 Valentine LL   Although versions with the 6-pounder, and then with the Ordnance QF 75 mm gun were developed, by the time they were available in significant numbers better tanks had reached the battlefield. R31 Valentine LL   Another weakness was the small crew compartment and the turret for only two men. R31 Valentine LL   A larger turret with a loader position added was used in some of the 2-pounder versions, but the position had to be removed again in variants with larger guns. R31 Valentine LL 
+By 1944 the Valentine had been almost completely replaced in front-line units of the European Theatre by the Infantry Tank IV Churchill and the US-made Sherman. R31 Valentine LL   In the Pacific the tank was employed in limited numbers at least until May 1945. R31 Valentine LL   It was used in New Zealand's service, some with the main armament replaced by the 3 inch howitzer taken from Australian Matilda CS tanks. R31 Valentine LL '''[citation needed]''' in the Solomons in 1943. R31 Valentine LL 
+In Soviet service the Valentine was used from the Battle of Moscow until the end of the war. R31 Valentine LL   Although criticized for its low speed and weak gun the Valentine was liked due to its small size, reliability, and generally good armor protection. R31 Valentine LL 
+
+== Lend Lease ==
+The Valentine was the Commonwealth's main export to the Soviet Union under the Lend-lease Act, with 2,394 of the British models and 1,388 of the Canadian Pacific-built models being sent: the remaining 30 being kept for training. R31 Valentine LL   The Soviet Union conducted various modifications to the original Valentine tank, including the installation of the 45 mm F-95 gun with a modified turret, additional Applique armor plating on the front of the vehicle, and improved spurs to increase the performance of the Valentine in the snow. R31 Valentine LL   While the first modification was cancelled the other two were carried out with several of the Soviet Valentines. R31 Valentine LL 
+
+|HistAcc=
+* The single Valentine fitted with a 45 mm cannon used the 45 mm F-95 cannon and could carry up to 91 rounds of ammunition, while in-game the Valentine uses the 45 mm 20KL and has only 61 rounds of ammunition. R31 Valentine LL 
+* The in-game Valentine II does not have the extra 30mm of applique armor on the front plates or the turret, though it should be mentioned that not all Soviet Valentines underwent this modification. R31 Valentine LL 
+
+|HistoricalGallery=
+image:Valentine_II_Kubinka. R31 Valentine LL jpg{{!}}Valentine II with additional armour, registration number T. R31 Valentine LL 27543, Patriot Park at Kubinka Tank Museum, Russia
+File:Valentine_II_with_45mm_gun. R31 Valentine LL jpg{{!}}Valentine II tested with the 45 mm F-95 gun
+File:45_mm_f-95_gun. R31 Valentine LL jpg{{!}}45 mm F-95 gun
+File:Valentine_with_additional_armor_in_Vilnius_1944. R31 Valentine LL jpg{{!}}Valentine with additional armor in Vilnius 1944
+File:Valentines_improved_spurs. R31 Valentine LL jpg{{!}}Improved spurs designed for the Valentine
+
+|Ref_references=
+
+|Ref_sources=
+The complete guide to tanks & armoured vehicles. R31 Valentine LL  p. R31 Valentine LL  98. R31 Valentine LL  
+
+|Ref_links=
+* https://en. R31 Valentine LL wikipedia. R31 Valentine LL org/wiki/Valentine_tank
+* https://tankarchives. R31 Valentine LL blogspot. R31 Valentine LL com/2016/03/valentine-mods-in-ussr. R31 Valentine LL html
+* https://warspot. R31 Valentine LL ru/5305-valentine-na-prokachke
+* https://tankarchives. R31 Valentine LL blogspot. R31 Valentine LL com/2017/04/end-of-rearmament. R31 Valentine LL html
+
+}}

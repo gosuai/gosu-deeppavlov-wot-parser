@@ -1,0 +1,262 @@
+1,450,000 Cost. 
+12301280 HP Hit Points. 
+45.75/46.145.77/49 t Weight Limit. 
+520580 hp Engine Power. 
+37/14 km/h Speed Limit. 
+3638 deg/s Traverse. 
+11.3712.67 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+90/90/60 mm Hull Armor. 
+100/90/90100/90/90 mm Turret Armor. 
+AP/APCR/HE AP/HEAT/HE Shells. 
+252/4400/252 1025/5600/608 Shell Cost. 
+250/250/330390/390/530 HP Damage. 
+175/235/50175/250/61 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 9.3 s 50% Crew: 11.52 s 75% Crew: 10.06 s 100% Crew: 8.92 s Rammer: 8.03 s Vents: 8.72 s Both: 7.85 s Both and BiA: 7.68 s Both and Max Crew %: 7.36 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 12.3 s 50% Crew: 15.24 s 75% Crew: 13.3 s 100% Crew: 11.79 s Rammer: 10.61 s Vents: 11.53 s Both: 10.38 s Both and BiA: 10.15 s Both and Max Crew %: 9.73 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1612.5 50% Crew: 1302.5 75% Crew: 1490 100% Crew: 1682.5 100% Crew Vents: 1720 Rammer: 1870 Both: 1912.5 Both and BiA: 1955 Both and Max Crew %: 2037.5 Advantageous Damage Per Minute First-shot DPM: 1862.5 50% Crew: 1552.5 75% Crew: 1740 100% Crew: 1932.5 100% Crew Rammer: 2120 Vents: 1970 Both: 2162.5 Both and BiA: 2205 Both and Max Crew %: 2287.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (250 Damage):  Theoretical Damage Per Minute Nominal DPM: 1612.5 50% Crew: 1302.5 75% Crew: 1490 100% Crew: 1682.5 100% Crew Vents: 1720 Rammer: 1870 Both: 1912.5 Both and BiA: 1955 Both and Max Crew %: 2037.5 Advantageous Damage Per Minute First-shot DPM: 1862.5 50% Crew: 1552.5 75% Crew: 1740 100% Crew: 1932.5 100% Crew Rammer: 2120 Vents: 1970 Both: 2162.5 Both and BiA: 2205 Both and Max Crew %: 2287.5 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (330 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2128.5 50% Crew: 1719.3 75% Crew: 1966.8 100% Crew: 2220.9 100% Crew Vents: 2270.4 Rammer: 2468.4 Both: 2524.5 Both and BiA: 2580.6 Both and Max Crew %: 2689.5 Advantageous Damage Per Minute First-shot DPM: 2458.5 50% Crew: 2049.3 75% Crew: 2296.8 100% Crew: 2550.9 100% Crew Rammer: 2798.4 Vents: 2600.4 Both: 2854.5 Both and BiA: 2910.6 Both and Max Crew %: 3019.5 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 1903.2 50% Crew: 1536.6 75% Crew: 1758.9 100% Crew: 1985.1 100% Crew Vents: 2028 Rammer: 2207.4 Both: 2254.2 Both and BiA: 2304.9 Both and Max Crew %: 2406.3 Advantageous Damage Per Minute First-shot DPM: 2293.2 50% Crew: 1926.6 75% Crew: 2148.9 100% Crew: 2375.1 100% Crew Rammer: 2597.4 Vents: 2418 Both: 2644.2 Both and BiA: 2694.9 Both and Max Crew %: 2796.3 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 1903.2 50% Crew: 1536.6 75% Crew: 1758.9 100% Crew: 1985.1 100% Crew Vents: 2028 Rammer: 2207.4 Both: 2254.2 Both and BiA: 2304.9 Both and Max Crew %: 2406.3 Advantageous Damage Per Minute First-shot DPM: 2293.2 50% Crew: 1926.6 75% Crew: 2148.9 100% Crew: 2375.1 100% Crew Rammer: 2597.4 Vents: 2418 Both: 2644.2 Both and BiA: 2694.9 Both and Max Crew %: 2796.3 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2586.4 50% Crew: 2088.2 75% Crew: 2390.3 100% Crew: 2697.7 100% Crew Vents: 2756 Rammer: 2999.8 Both: 3063.4 Both and BiA: 3132.3 Both and Max Crew %: 3270.1 Advantageous Damage Per Minute First-shot DPM: 3116.4 50% Crew: 2618.2 75% Crew: 2920.3 100% Crew: 3227.7 100% Crew Rammer: 3529.8 Vents: 3286 Both: 3593.4 Both and BiA: 3662.3 Both and Max Crew %: 3800.1 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.52 m With 75% Crew: 0.454 m With 100% Crew: 0.403 m With BiA: 0.394 m With BiA and Vents: 0.385 m Maximum possible: 0.369 m For more details, see Crew m ▲ With 50% Crew: 0.57 m With 75% Crew: 0.498 m With 100% Crew: 0.441 m With BiA: 0.431 m With BiA and Vents: 0.422 m Maximum possible: 0.404 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.592 s With 75% Crew: 3.137 s With 100% Crew: 2.781 s With GLD: 2.528 s With BiA: 2.719 s With BiA and Vents: 2.66 s With both and GLD: 2.418 s Maximum possible: 2.318 s For more details, see Crew or Equipment s ▲ With 50% Crew: 4.212 s With 75% Crew: 3.678 s With 100% Crew: 3.26 s With GLD: 2.964 s With BiA: 3.188 s With BiA and Vents: 3.119 s With both and GLD: 2.835 s Maximum possible: 2.718 s For more details, see Crew or Equipment Aim time. 
+2828 deg/s Turret Traverse. 
+360° Gun Arc. 
+-6°/+20°-5°/+20° Elevation Arc. 
+3628 rounds Ammo Capacity. 
+1512 % Chance of Fire. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 255.3 m With 75% Crew: 290.2 m With 100% Crew: 325 m With 100% Signal Boost: 390 m When affected by 100% Relaying: 357.5 m Maximum possible: 467.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 471.4 m With 75% Crew: 535.8 m With 100% Crew: 600 m With 100% Signal Boost: 720 m When affected by 100% Relaying: 660 m Maximum possible: 863.4 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+100 mm 44-100JT. 
+175/235/50. 
+250/250/330. 
+6.45. 
+0.42. 
+2.9. 
+nan. 
+2257. 
+79000. 
+VIII. 
+122 mm 37-122JT. 
+175/250/61. 
+390/390/530. 
+4.29. 
+0.48. 
+3.4. 
+nan. 
+2440. 
+120000. 
+VIII. 
+122 mm D-25T. 
+175/250/61. 
+390/390/530. 
+4.88. 
+0.46. 
+3.4. 
+nan. 
+2590. 
+135000. 
+VI. 
+IS-2 early. 
+100/90/90. 
+28. 
+350. 
+nan. 
+7500. 
+15000. 
+VII. 
+IS-2 late. 
+100/90/90. 
+28. 
+350. 
+nan. 
+7500. 
+25000. 
+VIII. 
+12150L. 
+520. 
+12. 
+nan. 
+750. 
+48000. 
+IX. 
+12150LS. 
+580. 
+12. 
+nan. 
+750. 
+99500. 
+VII. 
+V-2-10. 
+520. 
+15. 
+nan. 
+750. 
+36000. 
+VI. 
+IS-2 early. 
+46.1. 
+36. 
+B/2. 
+nan. 
+11500. 
+12990. 
+VII. 
+IS-2 late. 
+49.0. 
+38. 
+B/2. 
+nan. 
+11500. 
+19400. 
+IX. 
+A-220. 
+600. 
+nan. 
+40. 
+38000. 
+IV. 
+9R. 
+325. 
+nan. 
+80. 
+1980. 
+VIII. 
+9RM. 
+525. 
+nan. 
+100. 
+24240. 
+Light Tanks. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Medium Tanks. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Heavy Tanks. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Tank Destroyers. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+''For the Soviet Premium counterpart of this tank, see [[Tank:R71_IS_2B|IS-2 (Soviet Premium Tank)]]''
+
+{{TankData|Tank=Ch10_IS2
+
+
+|Sidebar_GunAlt= 
+|Sidebar_Camostop=8. Ch10 IS2 0
+|Sidebar_Camomove=4. Ch10 IS2 0
+|Sidebar_Camofire=1. Ch10 IS2 7
+|Sidebar_Passhard=0. Ch10 IS2 959
+|Sidebar_Passmed=1. Ch10 IS2 055
+|Sidebar_Passsoft=2. Ch10 IS2 11
+|Sidebar_DispTurret=0. Ch10 IS2 153
+|Sidebar_DispRecoil=3. Ch10 IS2 836
+|Sidebar_DispAccel=0. Ch10 IS2 221
+|Sidebar_DispTurning=0. Ch10 IS2 221
+
+|InTheGame_pros= 
+- No shot trap into bottom of turret like on the IS
+
+- 100 mm 44-100JT stock gun makes IS-2's "grind" pretty much painless, and is also the best gun for the [[T-34-1]]. Ch10 IS2 
+
+- 50 more hitpoints than the Soviet [[IS]]; 1280 vs. Ch10 IS2  1230 (Top turrets)
+
+- High mobility and low terrain resistance for a heavy tank
+
+- 250mm penetration HEAT round combined with high alpha damage remain capable in high-tier matches 
+
+
+|InTheGame_cons= 
+- Tight internal placement. Ch10 IS2  Prone to module and/or crew damage
+
+- Poor gun depression; results in difficulty cresting and using cover
+
+- Poor gun accuracy at medium to long range and long aim time even with full set of equipments
+
+- Horrible turret traverse makes quick action impossible
+
+- Difficult to angle the hull without exposing weakspots
+
+- Protruding fuel tanks are often set on fire
+
+
+|InTheGame_performance=
+It should be noted that the IS and the IS-2 share a lot of characteristics and should be played similarly. Ch10 IS2  In comparison, the IS-2's frontal armor is much better, has slightly worse gun depression, and can be angled similarly to German heavies. Ch10 IS2  Furthermore, the IS-2 is very quick and nimble for a heavy, although that advantage will dissapear if you are not running a Turbocharger. Ch10 IS2  
+
+The IS-2 is a great brawler and is considered an upgraded version of the [[IS]] by most. Ch10 IS2  While the IS-2 excels in urban maps, it will generally be much less effective at a distance on open-field maps due to its overall low accuracy. Ch10 IS2  
+Unlike on the IS, the IS-2's 100mm gun has a poor rate of fire and poor gun handling, though it is a reasonable alternative to the first 122 mm gun, and can hit something at range unlike the 122 m guns. Ch10 IS2  Unless you make a habit of running food, it is better to stick to the stock gun. Ch10 IS2   In-game statistics imply no difference between the stock turret and the late model turret. Ch10 IS2  However, the second turret does add an additional 50 HP, bringing the overall HP from 1,230 to 1,280. Ch10 IS2 
+
+
+
+|InTheGame_research=
+* The 12150L Engine and 9RM Radio carry over from the Type 58. Ch10 IS2  Mount them immediately. Ch10 IS2 
+* First, research the 122 mm 37-122JT Gun. Ch10 IS2 
+** Alternatively, you can skip the 122 mm 37-122JT Gun and retain the 100mm gun until you have unlocked the top gun. Ch10 IS2  The 122 mm 37-122JT Gun is inaccurate and has a very low rate of fire, while the stock gun performs quite well. Ch10 IS2 
+* If you want more speed, research the 12150LS Engine. Ch10 IS2 
+* If you would prefer more firepower, research the IS-2 late suspension, followed by the 122 mm D-25T Gun. Ch10 IS2 
+* Once you have researched all of these modules, research the IS-2 late Turret. Ch10 IS2  Alternatively, you can simply skip the turret. Ch10 IS2  It is not needed to unlock the [[110]]
+
+
+|InTheGame_equipment= 
+Fill tanks with CO2, GLD, Vents, Coated Optics
+
+
+|Gallery=
+image:IS2-a1. Ch10 IS2 jpg{{!}}IS2, map Lakeville 
+
+
+|History=
+<div class="thumb tright">{{VideoYT|I3TGDi7SpOQ|320}}</div>
+The Iosif Stalin tank was a series of heavy tanks developed as a successor to the KV-series by the Soviet Union during World War II. Ch10 IS2 The tanks were based off of the KV tanks. Ch10 IS2  The heavy tank was designed with thick armour to counter the German 88 mm guns, and carried a main gun that was capable of defeating the German Tiger and Panther tanks. Ch10 IS2 At first, it was to be armed with a 85mm cannon, later, a 100 mm, and finally a 122mm. Ch10 IS2  It was mainly a breakthrough tank, firing a heavy high-explosive shell that was useful against entrenchments and bunkers. Ch10 IS2  It could easily destroy the Tiger I's and Panthers. Ch10 IS2  The IS-2 was put into service in April 1944, and was first used as a spearhead in the Battle of Berlin by the Red Army in the final stage of the war. Ch10 IS2 
+
+==Armament==
+
+Two candidate weapons were the A-19 122 mm gun and the BS-3 100 mm gun. Ch10 IS2  The BS-3 had superior armour penetration (185 mm compared to 160 mm), but a less useful high explosive round. Ch10 IS2  Also, the BS-3 was a relatively new weapon in short supply, while there was excess production capacity for the A-19 and its ammunition. Ch10 IS2  Compared to the older 76. Ch10 IS2 2 mm tank gun, the A-19 had very good armour penetration, similar to that of the effective 75 mm high velocity gun mounted on the German Panther, and delivered 3. Ch10 IS2 5 times the kinetic energy of the older F-34. Ch10 IS2  After testing both BS-3 and A-19 guns, the latter was selected as the main armament of the new tank, primarily because of its ready availability and the effect of its large high-explosive shell when attacking German fortifications. Ch10 IS2  The A-19 used a separate shell and powder charge, resulting in a lower rate of fire and reduced ammunition capacity, both serious disadvantages in tank-to-tank engagements. Ch10 IS2  The gun was very powerful, and while its 122 mm armour-piercing shell had a lower muzzle velocity than similar late-issue German 75 mm and 88 mm guns, Soviet proving-ground tests established that the A-19 could penetrate the front armour of the German Panther tank, and it was therefore considered adequate in the anti-tank role. Ch10 IS2 
+
+German Army data on the penetration ranges of the 122 mm A-19 gun against the Panther tank showed it to be much less effective when the Panther stood at a side angle of 30 degrees to the incoming round: the A-19 gun was unable to penetrate the glacis plate of the Panther at any distance, and could only penetrate the bottom front plate of the hull at 100 m. Ch10 IS2  It was the large HE shell the gun fired which was its main asset, proving highly useful and destructive in the anti-personnel role. Ch10 IS2  The size of its gun continued to plague the IS-2, and the two-piece ammunition was difficult to handle and slow to reload (the rate of fire was only about two rounds per minute). Ch10 IS2  Another limitation imposed by the size of its ammunition was the payload: only 28 rounds could be carried inside the tank. Ch10 IS2 
+
+==Production==
+
+The IS-122 prototype replaced the IS-85, and began mass production as the IS-2. Ch10 IS2  The 85 mm guns could be reserved for the new T-34-85 medium tank, and some of the IS-1s built were rearmed before leaving the factory, and issued as IS-2s. Ch10 IS2  The main production model was the IS-2, with the powerful A-19. Ch10 IS2  It was slightly lighter and faster than the heaviest KV model 1942 tank, with thicker front armour and a much-improved turret design. Ch10 IS2  The tank could carry thicker armour than the KV series, while remaining lighter, due to the better layout of the armour envelope. Ch10 IS2  The KV's armour was less well-shaped and featured heavy armour even on the rear, while the IS series concentrated its armour at the front. Ch10 IS2  The IS-2 weighed about the same as a German Panther and was lighter than the German heavy Tiger tank series, and was slightly lower than either. Ch10 IS2  Western observers tended to criticize Soviet tanks for their lack of finish and crude construction. Ch10 IS2  The Soviets responded that it was warranted considering the need for wartime expediency and the typically short battlefield life of their tanks. Ch10 IS2  
+
+Early IS-2s can be identified by the 'stepped' front hull casting with its small, opening driver's visor. Ch10 IS2  The early tanks lacked gun tube travel locks or antiaircraft machine guns, and had narrow mantlets. Ch10 IS2  Later improved IS-2s (model 1944) had a faster-loading version of the gun, the D25-T with a double-baffle muzzle brake and better fire-control. Ch10 IS2  It also featured a simpler hull front without a 'step' in it (using a flat, sloping glacis armour plate). Ch10 IS2  Some sources called it IS-2m, but it is distinct from the official Soviet designation IS-2M for a 1950s modernization. Ch10 IS2  Other minor upgrades included the addition of a travel lock on the hull rear, wider mantlet, and, on very late models, an antiaircraft machine gun. Ch10 IS2  In the mid-1950s, the remaining IS-2 tanks (mostly model 1944 variants) were upgraded to keep them battle-worthy, producing the IS-2M, which introduced fittings such as external fuel tanks on the rear hull (the basic IS-2 had these only on the hull sides), stowage bins on both sides of the hull, and protective skirting along the top edges of the tracks. Ch10 IS2 
+
+==Operational history==
+
+The IS-2 tank first saw combat in early 1944. Ch10 IS2  IS-2s were assigned to separate heavy tank regiments, normally of 21 tanks each. Ch10 IS2  These regiments were used to reinforce the most important attack sectors during major offensive operations. Ch10 IS2  Tactically, they were employed as breakthrough tanks. Ch10 IS2  Their role was to support infantry in the assault, using their large guns to destroy bunkers, buildings, dug-in crew-served weapons, and other 'soft' targets. Ch10 IS2  They were also capable of taking on any German AFVs if required. Ch10 IS2  Once a breakthrough was achieved, lighter, more mobile T-34s would take over the exploitation. Ch10 IS2 
+By the 1950s the emergence of the main battle tank concept—combining medium-tank mobility with the firepower and later armour of the heavy tank—had rendered heavy tanks obsolete in Soviet operational doctrine. Ch10 IS2  In the late 1960s the remaining Soviet heavy tanks were transferred to Red Army reserve service and storage. Ch10 IS2  The IS-2 Model 1944 remained in active service much longer in the armies of Cuba, China and North Korea. Ch10 IS2  A regiment of Chinese IS-2s was available for use in the Korean War, but saw no service there. Ch10 IS2  In response to border disputes between the Soviet Union and China, some Soviet IS-3s were dug in as fixed pillboxes along the Soviet-Chinese border. Ch10 IS2  
+
+
+|HistoricalGallery=
+image:Ch IS-2 1. Ch10 IS2 jpg{{!}}IS-2 at the Museum of the Great Patriotic War in Kiev
+image:Ch IS-2 2. Ch10 IS2 jpg{{!}}Chinese IS-2 tanks during a parade
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

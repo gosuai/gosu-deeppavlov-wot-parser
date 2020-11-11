@@ -1,0 +1,213 @@
+3,510,000 Cost. 
+18001440 HP Hit Points. 
+60.49/6242.72/0 t Weight Limit. 
+850850 hp Engine Power. 
+55/20 km/h Speed Limit. 
+2222 deg/s Traverse. 
+14.05Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+250/80/50 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+440/440/530440/440/530 HP Damage. 
+258/340/68258/340/68 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 12.3 s 50% Crew: 15.24 s 75% Crew: 13.3 s 100% Crew: 11.79 s Rammer: 10.61 s Vents: 11.53 s Both: 10.38 s Both and BiA: 10.15 s Both and Max Crew %: 9.73 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 12.3 s 50% Crew: 15.24 s 75% Crew: 13.3 s 100% Crew: 11.79 s Rammer: 10.61 s Vents: 11.53 s Both: 10.38 s Both and BiA: 10.15 s Both and Max Crew %: 9.73 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.52 m With 75% Crew: 0.454 m With 100% Crew: 0.403 m With BiA: 0.394 m With BiA and Vents: 0.385 m Maximum possible: 0.369 m For more details, see Crew m ▲ With 50% Crew: 0.52 m With 75% Crew: 0.454 m With 100% Crew: 0.403 m With BiA: 0.394 m With BiA and Vents: 0.385 m Maximum possible: 0.369 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment Aim time. 
+2828 deg/s Gun Traverse Speed. 
+24° Gun Arc. 
+-4°/+18°-4°/+18° Elevation Arc. 
+5050 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 412.5 m With 75% Crew: 468.8 m With 100% Crew: 525 m With 100% Signal Boost: 630 m When affected by 100% Relaying: 577.5 m Maximum possible: 755.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 597.1 m With 75% Crew: 678.6 m With 100% Crew: 760 m With 100% Signal Boost: 912 m When affected by 100% Relaying: 836 m Maximum possible: 1093.6 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+130 mm S-70A. 
+270/300/68. 
+550/550/530. 
+3.92. 
+0.43. 
+2.1. 
+nan. 
+nan. 
+340000. 
+nan. 
+122 mm M62-C2. 
+258/340/68. 
+440/440/530. 
+4.88. 
+0.42. 
+2.1. 
+nan. 
+nan. 
+295500. 
+nan. 
+2x V-16 (1000). 
+nan. 
+0. 
+nan. 
+nan. 
+125000. 
+nan. 
+M-50TS. 
+nan. 
+0. 
+nan. 
+nan. 
+132000. 
+nan. 
+Object 263. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+28150. 
+nan. 
+Object 263 improved. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+63000. 
+VIII. 
+9RM. 
+525. 
+nan. 
+100. 
+24240. 
+X. 
+R-113. 
+730. 
+nan. 
+80. 
+52200. 
+X. 
+10RT-26. 
+760. 
+nan. 
+30. 
+56500. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=Object263
+| The Object 263 was once among the ranks of Tier X Russian Tank Destroyers (before replaced with [[Tank:R149_Object_268_4|Object 268 Version 4]] in 9. R93 Object263 22 patch). R93 Object263  Also known as "'''The Sandal of Stalin"''' or '''"Yolo Wagon"''' as it was well-known for its rapid-firing gun with high DPM, and unexpected strong frontal armor. R93 Object263 
+
+The Object 263 is now downtiered into Tier IX position with toned down stats. R93 Object263  It has become a cumbersome "Assault Gun" with very poor accuracy, pitiful DPM, and weaker side armor. R93 Object263  It retains the good top speed but poor traverse speed and very strong frontal armor. R93 Object263 
+
+Always avoid getting flanked when playing this tank, as your sides and rear won't stand any shots. R93 Object263  It's also good to take into account that side scraping is not advisable, due to the extremely weak ammo rack that the tank has, making it dangerous if you're over angling. R93 Object263 
+Face hugging other tanks is not recommended as your gun mantlet is easily penetrated by very high penetrating guns, making it an easy target. R93 Object263 
+
+Hugging tall tanks, like the Maus, is also a dangerous idea, as they can easily overmatch your weak hull roof and out trade you easily. R93 Object263  
+If the enemy is using premium ammunition, then it's better to take cover as the enemy can penetrate your front most of the time. R93 Object263 
+The mobility on the Object 263 is rather flexible, with great acceleration and top speed, allowing it to get into position very quickly and support your team where needed. R93 Object263  Another serious defect of this tank is the non-enclosed superstructure, exposing the entire crew and critical interior components. R93 Object263  Direct hits from artillery will pretty much devastate you in one shot, or leave you extremely damaged. R93 Object263  This often leaves you with injured crew members and a damaged ammo rack. R93 Object263 
+
+|Gallery=
+
+|InTheGame_pros= 
+* Very good aim time and gun handling for a large caliber TD gun
+* Excellent frontal armor, resilient even against premium rounds
+* Decent concealment for a rather large tank
+* Excellent forward/reverse speed and acceleration
+* Excellent at ramming other tanks thanks to its speed, armor and weight
+
+|InTheGame_cons=
+* Inferior alpha damage and penetration compared to [[Object 704]]
+* Thin side-rear armor and no roof armor, very vulnerable to artillery
+* Poor gun depression and limited horizontal guidance
+* Poor accuracy, even at mid range
+* Poor hull traverse speed, vulnerable to flanking
+
+|InTheGame_performance=
+Formerly a Tier 10 tank, the Object 263 was relegated to Tier 9 with the introduction of the [[Object 268 Version 4]]. R93 Object263  As far as high tier tank destroyers go, it is rather unusual in that it has excellent gun handling, a very high speed with good power to weight ratio to boot, and a somewhat underpowered gun with decent yet unspectacular alpha damage and penetration (comparable to the German [[Jagdtiger]] and the Chinese [[WZ-111-1G FT]]), a fairly limited gun arc with poor gun depression and, most annoying of all, a disappointingly low accuracy. R93 Object263 
+
+That said, the Object 263 performs quite well in the role of an "assault gun" - rather than sit in bushes and be an ambusher, it can keep up with medium and heavy tanks thanks to its good speed, and proper positioning makes it a very tough target on the frontlines, where its excellent frontal armor and good hitpoint pool will provide decent survivability. R93 Object263  Unfortunately, everything good about this tank is concentrated on the frontal arc - it has no roof armor (which makes it incredibly vulnerable to artillery), and its sides and rear are poorly armored and vulnerable to any tank that can be met in the Tier 9 matchmaker spread (including Tier 7 tanks). R93 Object263  Also, while its upper plate and frontal superstructure are tough, the Object 263 has a rather vulnerable lower frontal plate. R93 Object263 
+
+Overall, the Object 263 rewards well-thought aggression. R93 Object263  Overcommitting or being flanked is usually a death sentence, so the player will need to mind their positioning and the presence of allied cover at all times. R93 Object263  The tank also lacks accuracy to hit weakspots, and penetration to go through the frontal armor of tougher targets (unless one opts to keep the stock gun and use a lot of premium ammunition), so challenging extremely durable tanks such as the [[Type 5 Heavy]] or its own successor the [[Object 268 Version 4]] in frontal engagements is ill advised. R93 Object263  
+
+Against same or lower-tiered tanks however, the Object 263 can be a nightmare to encounter, especially in a corridor where its flanks are covered. R93 Object263 
+
+|InTheGame_research=
+
+* The R-113 radio carries over from the SU-101 and can be installed immediately
+* The 10RT-26 radio can be researched on other tanks such as the Object 416 and T-54 ltwt. R93 Object263 
+* Research the 130mm S-70A gun, it is lighter than the stock gun
+* Research the suspensions
+* Research the engine
+* If not already unlocked from other lines, research the top radio
+
+|InTheGame_equipment=
+Tank Gun Rammer, GLD, Binocular Telescope
+
+|History=
+
+At the end of the 40-ies of the last century in the Russian Union was created by the heavy tank IS-7. R93 Object263  He had an awesome time for your own weapons and a decent hotel. R93 Object263  But a series of events associated with the emergence of new armor-piercing ammunition and features of the road network in the country, led to the closure of the project. R93 Object263  IS-7 and has not been put into service. R93 Object263  At the same time, chassis languid IS-7 has earned a number of positive reviews, and some representatives of the military control of the country in no hurry to turn away from it. R93 Object263  Well, the 130-mm gun was pretty tasty piece. R93 Object263 
+
+In this regard, in 1950 the designers of the Leningrad Kirov Plant got the job done on the basis of the JS-7 languid self-propelled artillery. R93 Object263  The project received the designation of "Object 263", and the lead designer of conceptual design was named VS Starovoytov. R93 Object263  At first it was created three versions of the newest self-propelled guns, differing from each other by certain aspects of the design. R93 Object263  While working on "object 263" these choices are "shared" by different aspects of the design and, ultimately, in the program there is only one version, and which was intended for a great future. R93 Object263 
+
+Since one of the main requirements for the latest ACS was the largest unification with the tank IS-7, its chassis was taken virtually without changes. R93 Object263  Motor and transmission group remained the same: 12-cylinder V-type diesel M-50T capacity of 1,050 horsepower and a six-speed gearbox. R93 Object263  The same can be said about the suspension, wheels and tracks. R93 Object263  With all of this general assembly of the housing has been substantially adjusted. R93 Object263  Reinforced cutting self-propelled guns had to be placed in the rear of the chassis because the engine and gearbox have been moved to the front. R93 Object263  Fuel tanks, in turn, is now placed in the middle of the armored hull. R93 Object263  Changing the alignment of the machine associated with the relinking was offset by the increase in thickness of the armor. R93 Object263  First, it should be noted forehead "Object 263". R93 Object263  In contrast to the forehead of the tank IS-7, He was made not by the "pike nose", and represents a single combination of straight panels. R93 Object263  The main plus of the location of armor panels at an angle to each other is to increase the level of protection in relation to "direct". R93 Object263  For this reason, the "Object 263" offered to equip the front plate of a width of 300 mm. R93 Object263  The sides of the housing in the project were still the smallest thickness of 70 to 90 mm. R93 Object263  As for the armored cabin, then she had a formidable defense: the frontal plate of 250 mm and 70 mm on the side. R93 Object263  With such armor "Object 263" could withstand fire from all available guns medium tanks and a number of more severe guns. R93 Object263 
+
+The main armament of self-propelled artillery "Object 263" was to be gun C-70A. R93 Object263  Practically, this was the future development of the C-70 gun set up for the JS-7. R93 Object263  This project, Made in the Central Artillery Design Bureau under the VG Grabin risen to more pre-revolutionary naval gun B-7-caliber 130 mm. R93 Object263  It should be noted that in several of the deepest modernization construction tool has been substantially modified and C-70A had almost nothing in common with the original B-7 except caliber. R93 Object263  Cannon C-70A had a decent size, caused first a barrel length of 57. R93 Object263 2 caliber. R93 Object263  In addition, the larger were the breech and recoil device. R93 Object263  Because of this assembly is cutting out quite unusual. R93 Object263  The breech of the gun almost reached the back wall cutting. R93 Object263  For this reason, the last had to make a flap. R93 Object263  It was assumed that before the fight crew will drop this item and are able to work without fear of damage to logging. R93 Object263  In addition, lean back a little back sheet increased the floor space of the crew compartment, which could significantly facilitate the work of the crew. R93 Object263 
+
+130-mm gun had a very great impact. R93 Object263  Because a slotted muzzle brake system and recoil mechanism had to add a reference Lift Up a device resembling a dozer blade. R93 Object263  Existing photo layout "Object 263" shows that in the last bottom position he held up to discover the lowered aft leaf cuttings. R93 Object263  Along the sides of the cabin, on the inner side of them were located holders for ammunition. R93 Object263  Shots were fixed separately loaded by seven on each side. R93 Object263  For convenience, the shells were placed in a holder sleeve — in the other. R93 Object263  Loading of the gun was the duty of 2-crew: loader and his assistant. R93 Object263 
+
+All in all, the crew SAU "Object 263" was to go 5 people: the commander, a driver, gunner and two loaders. R93 Object263  For direct fire crew had sight of TP-47, and to fire from concealed positions offered to equip the self-propelled gun TS-46. R93 Object263  The estimated rate of "Object 263" was not great — in a minute the crew could manage to do less than one-half shots. R93 Object263  The main premise of this was specific cutting assembly that prevented access those features that were in the JS-7 (about 6 shots). R93 Object263  The low rate of fire, according to the views of military and developers should be compensated by the highest firing features a long-barrel gun. R93 Object263  So, from a distance of two thousand meters-70A instrument with the use of armor-piercing projectile BR-482 was to punch up to 160-170 mm homogeneous armor (at an angle of meetings at 90 °). R93 Object263 
+
+First, in 1951 the latest conceptual design of self-propelled gun was ready, and he was presented to the commission of the Ministry of Defence. R93 Object263  The military brass acquainted with the works of designers LCZ, then started assembling the full-scale mock ACS. R93 Object263  On the model was planned to test some ideas and identify prepyadstviya assembly, ergonomics, etc. R93 Object263  Just weeks after the end of the assembly layout "Object 263" order came from Moscow: finish work on the project. R93 Object263  Of course, a 130-mm gun was a very good argument on the battlefield. R93 Object263  But the calculated mass of the newest self-propelled artillery was at 60 tons. R93 Object263  It was 8000 pounds less than that not so long ago closed the project IS-7, but still a lot of practical use in the existing criteria. R93 Object263  The design of self-propelled, on a theoretical level, could be eased. R93 Object263  But only at the cost of reducing the level of protection that it would be far not the most sensible solution. R93 Object263  On the totality of the advantages and shortcomings main armored management decided that the Russian army, this technique is not necessary. R93 Object263  The only built mock "Object 263" was dismantled, while the construction of the "in metal", it never came. R93 Object263 
+
+
+
+|HistoricalGallery=
+image:Objekt_263_001. R93 Object263 jpg{{!}}Object 263 Back View
+image:Objekt_263_002. R93 Object263 jpg{{!}}Object 263 Front View
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://survincity. R93 Object263 com/2010/11/victim-of-its-own-weight-sau-object-263/
+* Nickname source: https://youtu. R93 Object263 be/bArJTtAk6bY?t=7m33s
+
+|Sidebar_Camostop=14. R93 Object263 3
+|Sidebar_Camomove=8. R93 Object263 9
+|Sidebar_Camofire=4. R93 Object263 0
+|Sidebar_Passhard=1. R93 Object263 151
+|Sidebar_Passmed=1. R93 Object263 342
+|Sidebar_Passsoft=2. R93 Object263 205
+|Sidebar_DispTurret=0. R93 Object263 077
+|Sidebar_DispRecoil=3. R93 Object263 356
+|Sidebar_DispAccel=0. R93 Object263 163
+|Sidebar_DispTurning=0. R93 Object263 163
+}}

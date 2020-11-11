@@ -1,0 +1,228 @@
+38,000 Cost. 
+370312 HP Hit Points. 
+14.19/14.57.33/0 t Weight Limit. 
+340395 hp Engine Power. 
+48/20 km/h Speed Limit. 
+3232 deg/s Traverse. 
+23.9653.89 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+14/14/14 mm Hull Armor. 
+14/14/14// mm Turret Armor. 
+AP AP/APCR/HE Shells. 
+1/0 30/800/16 Shell Cost. 
+9//9/45/60 HP Damage. 
+27//27/71/23 mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 5 rounds Magazine Size: 40 rounds Cycle Time: 0.14 s Magazine Reload Times Nominal: 18 s 50% Crew: 22.3 s 75% Crew: 19.47 s 100% Crew: 17.26 s With Vents: 16.88 s With Vents and BiA: 16.51 s Click here for more information. r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 40 rounds Cycle Time: 0.14 s Magazine Reload Times Nominal: 18 s 50% Crew: 22.3 s 75% Crew: 19.47 s 100% Crew: 17.26 s With Vents: 16.88 s With Vents and BiA: 16.51 s Click here for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (9 Damage): Theoretical Damage Per Minute Nominal: 155.79 50% Crew: 129.33 75% Crew: 145.62 100% Crew: 161.55 With Vents: 158.85 With Vents and BiA: 161.82 Advantageous Damage Per Minute Loaded-mag DPM: 464.22 50% Crew: 446.49 75% Crew: 457.38 100% Crew: 468 With Vents: 466.2 With Vents and BiA: 468.18 Click here for more information.▲ Magazine-fed Gun Using Shell Type 1 (9 Damage): Theoretical Damage Per Minute Nominal: 223.11 50% Crew: 198.63 75% Crew: 214.11 100% Crew: 227.97 With Vents: 225.72 With Vents and BiA: 228.24 Advantageous Damage Per Minute Loaded-mag DPM: 409.05 50% Crew: 403.74 75% Crew: 407.07 100% Crew: 410.13 With Vents: 409.68 With Vents and BiA: 410.22 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (45 Damage): Theoretical Damage Per Minute Nominal: 1115.55 50% Crew: 993.15 75% Crew: 1070.55 100% Crew: 1139.85 With Vents: 1128.6 With Vents and BiA: 1141.2 Advantageous Damage Per Minute Loaded-mag DPM: 2045.25 50% Crew: 2018.7 75% Crew: 2035.35 100% Crew: 2050.65 With Vents: 2048.4 With Vents and BiA: 2051.1 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (60 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 1487.4 50% Crew: 1324.2 75% Crew: 1427.4 100% Crew: 1519.8 With Vents: 1504.8 With Vents and BiA: 1521.6 Advantageous Damage Per Minute Loaded-mag DPM: 2727 50% Crew: 2691.6 75% Crew: 2713.8 100% Crew: 2734.2 With Vents: 2731.2 With Vents and BiA: 2734.8 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.657 m With 75% Crew: 0.573 m With 100% Crew: 0.508 m With BiA: 0.497 m With BiA and Vents: 0.486 m Maximum possible: 0.466 m For more details, see Crew m ▲ With 50% Crew: 0.657 m With 75% Crew: 0.573 m With 100% Crew: 0.508 m With BiA: 0.497 m With BiA and Vents: 0.486 m Maximum possible: 0.466 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment Aim time. 
+4646 deg/s Turret Traverse. 
+360° Gun Arc. 
+-15°/+20°-15°/+20° Elevation Arc. 
+720720 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.20 % Chance of Fire. 
+m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With 100% Signal Boost: 420 m When affected by 100% Relaying: 385 m Maximum possible: 503.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 575.6 m For more details, see Skills or Equipment Signal Range. 
+I. 
+15 mm Machine Gun BESA. 
+27. 
+9. 
+102.38. 
+0.53. 
+1.7. 
+nan. 
+70. 
+1900. 
+III. 
+QF 2-pdr Mk. IX. 
+64/121/23. 
+45/45/60. 
+22.22. 
+0.4. 
+2.1. 
+nan. 
+130. 
+6000. 
+IV. 
+40 mm Pom-Pom. 
+49/71/23. 
+45/45/60. 
+22.86. 
+0.45. 
+2.3. 
+nan. 
+160. 
+20000. 
+nan. 
+Cruiser Mk. III. 
+//. 
+46. 
+320. 
+nan. 
+nan. 
+120. 
+nan. 
+Cruiser Mk. III*. 
+//. 
+42. 
+330. 
+nan. 
+nan. 
+500. 
+IV. 
+Nuffield Liberty Mk. III. 
+395.0. 
+20. 
+nan. 
+383.0. 
+11500. 
+nan. 
+Nuffield Liberty Mk. II. 
+nan. 
+0. 
+nan. 
+nan. 
+500. 
+nan. 
+Cruiser Mk. III. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+660. 
+nan. 
+Cruiser Mk. III*. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+1220. 
+VI. 
+WS No. 19 Mk. I. 
+400. 
+nan. 
+40. 
+15000. 
+V. 
+WS No. 9. 
+375. 
+nan. 
+40. 
+3600. 
+III. 
+WS No. 11. 
+350. 
+nan. 
+40. 
+600. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=GB58_Cruiser_Mk_III
+|Bumped up to Tier 3 in 1. GB58 Cruiser Mk III 9, the Cruiser III is a departure from the first two tanks in the British Tech Tree. GB58 Cruiser Mk III  Boasting greatly improved mobility at the cost of armour, this tank excels as a flanker, and can even do well as a sniper with the decent accuracy and penetration on its QF 2-pdr. GB58 Cruiser Mk III  Mk IX. GB58 Cruiser Mk III 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Good power/weight ratio
+* Upgraded turret provides spaced armor
+* High view range
+* 15 degrees of gun depression
+
+|InTheGame_cons=
+* Weak armour and below average HP
+* Horrifyingly poor hull traverse at high speed
+* Vulnerable to ammo rack damage from frontal shots, as ammo rack is located in the front
+* Auto cannons and HE shells are very effective against this tank
+
+
+|InTheGame_performance=
+Stock, this tank turns poorly at high speed, similar to the USSR A-20. GB58 Cruiser Mk III  However, once you're going in the right direction you will reach top speed rather quickly thanks to the tanks engine power. GB58 Cruiser Mk III 
+
+Unfortunately, with the jump to Tier 3 in Update 1. GB58 Cruiser Mk III 9, the Pom-Pom is no longer a viable long-term option for this tank; its penetration is lacking when fighting against even some other Tier 3 tanks, let alone Tier 4's. GB58 Cruiser Mk III  The Cruiser III also does not get the upgraded 40 mm Bofors gun that the Cruiser IV had at Tier 3, meaning the only truly viable gun is the QF 2-pdr Mk. GB58 Cruiser Mk III  IX. GB58 Cruiser Mk III  Though the DPM and gun handling are a bit worse than they were at Tier 2, The penetration is unchanged, and the gun fits right in with those on the other Tier 3 Light Tanks. GB58 Cruiser Mk III 
+
+While it doesn't have much in the way of armour, it has very good gun depression, allowing it to easily hull down on hilly terrain. GB58 Cruiser Mk III  The second turret also has spaced armour on the sides, which helps absorb HE damage. GB58 Cruiser Mk III 
+
+One interesting thing to note is that every British radio, all the way up to tier 10, has the same weight. GB58 Cruiser Mk III  So, radio upgrades will never factor into any weight capacity considerations you may have when it comes to your British tanks. GB58 Cruiser Mk III 
+
+|InTheGame_research=
+* The '''40 mm Pom-Pom''' carries over from Cruiser II and should be mounted immediately. GB58 Cruiser Mk III 
+* First, research the '''Nuffield Liberty Mk. GB58 Cruiser Mk III  III''' engine for a nice boost to horsepower without any added weight. GB58 Cruiser Mk III 
+* The suspension should be researched next for improved hull traverse speed. GB58 Cruiser Mk III 
+* The turret gives extra health and view range at the cost of turret traverse speed. GB58 Cruiser Mk III 
+* Finally, research the radios. GB58 Cruiser Mk III  The '''WS. GB58 Cruiser Mk III  No. GB58 Cruiser Mk III  19 Mk. GB58 Cruiser Mk III  I''' carries over to the Cruiser IV. GB58 Cruiser Mk III 
+
+
+|InTheGame_equipment=
+Vents, Enhanced Suspension, Camouflage Net
+
+|History=
+                                                                     
+                                                                     
+                                                                     
+                                             
+Cruiser, Mk III also known by its General Staff specification number A13 Mark I was a British cruiser tank of the Second World War. GB58 Cruiser Mk III  It was the first British cruiser tank to use the Christie suspension system which gave higher speeds and better cross-country performance, previous models of cruiser tanks having used triple wheeled bogie suspension. GB58 Cruiser Mk III 
+
+==Development history==
+
+Orders for the Mk I and Mk II Cruiser tanks were restricted, since the British Army had decided to produce a more advanced and faster cruiser tank which would incorporate the Christie suspension designed by American inventor J. GB58 Cruiser Mk III  Walter Christie and have better armour. GB58 Cruiser Mk III  In 1936, General Martel, a pioneer in tank design who had published works on armoured warfare and pioneered the lightly armoured "tankette" to enhance infantry mobility, became Assistant Director of Mechanization at the War Office. GB58 Cruiser Mk III  Later that year Martel witnessed demonstrations of Soviet tank designs including the BT tank, which had been influenced by Christie's work. GB58 Cruiser Mk III  He urged the adoption of a tank that would use the suspension system and also follow Christie's practice of using a lightweight aircraft engine such as the Liberty Engine. GB58 Cruiser Mk III  The government authorized purchase and licensing of a Christie design via the Nuffield Organization rather than contact the Soviet authorities. GB58 Cruiser Mk III 
+
+The vehicle obtained from Christie became the basis of the Cruiser Mk III (A13). GB58 Cruiser Mk III  It had to be extensively redesigned by Morris Commercial Cars as it was too small and had several faults Christie had not addressed. GB58 Cruiser Mk III  A new company Nuffield Mechanization & Aero Limited was formed for the development and production of the design. GB58 Cruiser Mk III  At a meeting of the General Staff, an official specification was determined. GB58 Cruiser Mk III  This included 30 mm (1. GB58 Cruiser Mk III 2 in) armour, a 2 pdr gun, road speed of 30 mph. GB58 Cruiser Mk III  A subsequent review of the specification by Martel and Hobart approved 30mm armour all round provided cross-country speed could be kept at 25 mph. GB58 Cruiser Mk III  Pending the delivery of the A13, an interim design was approved - of the A7, A9 and A10, the A9 was selected. GB58 Cruiser Mk III 
+
+The first prototype (the A13-E1) was delivered in 1937. GB58 Cruiser Mk III  Following testing of the two prototypes, the A13 was ordered into production and a total of 65 were manufactured. GB58 Cruiser Mk III  The Mk III weighed 14 long tons (14,200 kg) had a crew of 4, a 340 hp engine which gave a top speed of 30 mph (48 km/h) and was armed with a 2 pounder gun and a machine gun. GB58 Cruiser Mk III  However, when it was introduced into service in 1937, the Army still lacked a formal tank division. GB58 Cruiser Mk III  Sixty five were built, the original order being for 50. GB58 Cruiser Mk III  The order was completed by mid 1939. GB58 Cruiser Mk III 
+
+==Combat history==
+
+Like most British cruisers, the A 13 was fast but under armoured and proved unreliable mechanically. GB58 Cruiser Mk III  Most were lost in the French campaign in 1940, but a few were used in Greece and the North African campaign in 1940-41. GB58 Cruiser Mk III  The basic design was used for the Cruiser Mk IV. GB58 Cruiser Mk III  As part of the British Expeditionary Force sent to France, the Cruiser Mark II equipped units in the 1st Armoured Division. GB58 Cruiser Mk III  In the Western Desert 1940-1941 (Libya) they were in the units of the 7th Armoured Division. GB58 Cruiser Mk III 
+
+|HistAcc=
+*The 40 mm Pom-Pom and 15mm BESA gun configurations are fake. GB58 Cruiser Mk III 
+
+|HistoricalGallery=
+image:A13 Mark I Cruiser Tank Mark III 1. GB58 Cruiser Mk III jpg{{!}}The A13 Mark I Cruiser Tank Mark III Front View
+image:A13 Mark I Cruiser Tank Mark III 2. GB58 Cruiser Mk III jpg{{!}}The A13 Mark I Cruiser Tank Mark III Side View
+image:A13 Mark I Cruiser Tank Mark III 3. GB58 Cruiser Mk III jpg{{!}}The A13 Mark I Cruiser Tank Mark III on trials
+image:IWM-KID-358-Cruiser-MkIII. GB58 Cruiser Mk III jpg{{!}}
+image:Cruiser MKIII. GB58 Cruiser Mk III jpg{{!}}Captured!
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}

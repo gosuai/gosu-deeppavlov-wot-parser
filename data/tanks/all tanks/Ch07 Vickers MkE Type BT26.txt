@@ -1,0 +1,230 @@
+3,900 Cost. 
+325340 HP Hit Points. 
+7.16/7.57.14/10 t Weight Limit. 
+92100 hp Engine Power. 
+35/15 km/h Speed Limit. 
+4448 deg/s Traverse. 
+12.8514.01 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+12.7/12.7/12.7 mm Hull Armor. 
+12.7/12.7/12.730/15/15 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+10/800/13 30/800/15 Shell Cost. 
+50/50/6545/45/60 HP Damage. 
+45/70/2349/71/23 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 3.3 s 50% Crew: 4.2 s 75% Crew: 3.7 s 100% Crew: 3.3 s Rammer: 2.97 s Vents: 3.22 s Both: 2.9 s Both and BiA: 2.85 s Both and Max Crew %: 2.73 s See Crew, Consumables, or Equipment for more information. r/m ▲ Magazine-fed Gun Burst Length: 1 rounds Magazine Size: 4 rounds Cycle Time: 0.63 s Magazine Reload Times Nominal: 8 s 50% Crew: 10.18 s 75% Crew: 8.96 s 100% Crew: 8 s With Vents: 7.82 s With Vents and BiA: 7.67 s Click here for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (50 Damage):  Theoretical Damage Per Minute Nominal DPM: 909 50% Crew: 714 75% Crew: 811.5 100% Crew: 909 100% Crew Vents: 930.5 Rammer: 1010 Both: 1033.5 Both and BiA: 1053.5 Both and Max Crew %: 1099 Advantageous Damage Per Minute First-shot DPM: 959 50% Crew: 764 75% Crew: 861.5 100% Crew: 959 100% Crew Rammer: 1060 Vents: 980.5 Both: 1083.5 Both and BiA: 1103.5 Both and Max Crew %: 1149 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (50 Damage):  Theoretical Damage Per Minute Nominal DPM: 909 50% Crew: 714 75% Crew: 811.5 100% Crew: 909 100% Crew Vents: 930.5 Rammer: 1010 Both: 1033.5 Both and BiA: 1053.5 Both and Max Crew %: 1099 Advantageous Damage Per Minute First-shot DPM: 959 50% Crew: 764 75% Crew: 861.5 100% Crew: 959 100% Crew Rammer: 1060 Vents: 980.5 Both: 1083.5 Both and BiA: 1103.5 Both and Max Crew %: 1149 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (65 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1181.7 50% Crew: 928.2 75% Crew: 1054.95 100% Crew: 1181.7 100% Crew Vents: 1209.65 Rammer: 1313 Both: 1343.55 Both and BiA: 1369.55 Both and Max Crew %: 1428.7 Advantageous Damage Per Minute First-shot DPM: 1246.7 50% Crew: 993.2 75% Crew: 1119.95 100% Crew: 1246.7 100% Crew Rammer: 1378 Vents: 1274.65 Both: 1408.55 Both and BiA: 1434.55 Both and Max Crew %: 1493.7 See here, here, or here for more information.▲ Magazine-fed Gun Using Shell Type 1 (45 Damage): Theoretical Damage Per Minute Nominal: 340.65 50% Crew: 281.7 75% Crew: 311.85 100% Crew: 340.65 With Vents: 346.5 With Vents and BiA: 351.45 Advantageous Damage Per Minute Loaded-mag DPM: 478.35 50% Crew: 427.05 75% Crew: 453.15 100% Crew: 478.35 With Vents: 483.75 With Vents and BiA: 488.25 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (45 Damage): Theoretical Damage Per Minute Nominal: 340.65 50% Crew: 281.7 75% Crew: 311.85 100% Crew: 340.65 With Vents: 346.5 With Vents and BiA: 351.45 Advantageous Damage Per Minute Loaded-mag DPM: 478.35 50% Crew: 427.05 75% Crew: 453.15 100% Crew: 478.35 With Vents: 483.75 With Vents and BiA: 488.25 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (60 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 454.2 50% Crew: 375.6 75% Crew: 415.8 100% Crew: 454.2 With Vents: 462 With Vents and BiA: 468.6 Advantageous Damage Per Minute Loaded-mag DPM: 637.8 50% Crew: 569.4 75% Crew: 604.2 100% Crew: 637.8 With Vents: 645 With Vents and BiA: 651 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.595 m With 75% Crew: 0.519 m With 100% Crew: 0.46 m With BiA: 0.45 m With BiA and Vents: 0.44 m Maximum possible: 0.422 m For more details, see Crew m ▲ With 50% Crew: 0.557 m With 75% Crew: 0.487 m With 100% Crew: 0.431 m With BiA: 0.422 m With BiA and Vents: 0.413 m Maximum possible: 0.396 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment Aim time. 
+2424 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-6°/+23° Elevation Arc. 
+100320 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 220 m With 75% Crew: 250 m With 100% Crew: 280 m With Recon and Situational Awareness: 294.2 m With Coated Optics: 308 m With Binocular Telescope: 350 m Maximum possible: 400.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With Recon and Situational Awareness: 325.7 m With Coated Optics: 341 m With Binocular Telescope: 387.5 m Maximum possible: 443.8 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With 100% Signal Boost: 360 m When affected by 100% Relaying: 330 m Maximum possible: 431.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With 100% Signal Boost: 360 m When affected by 100% Relaying: 330 m Maximum possible: 431.7 m For more details, see Skills or Equipment Signal Range. 
+II. 
+47 mm Vickers QF. 
+45/70/23. 
+50/50/65. 
+18.18. 
+0.48. 
+2.1. 
+nan. 
+100. 
+1500. 
+IV. 
+40 mm Pom-Pom. 
+49/71/23. 
+45/45/60. 
+24.3. 
+0.45. 
+1.9. 
+nan. 
+160. 
+20000. 
+II. 
+45 mm 20K. 
+51/88/23. 
+47/47/62. 
+26.09. 
+0.46. 
+2.1. 
+nan. 
+313. 
+2530. 
+I. 
+Vickers Mk. E. 
+12.7/12.7/12.7. 
+24. 
+280. 
+nan. 
+650. 
+160. 
+II. 
+Vickers Mk. E Type B. 
+30/15/15. 
+24. 
+310. 
+nan. 
+1050. 
+500. 
+I. 
+Armstrong Siddeley V4. 
+92. 
+20. 
+nan. 
+545. 
+770. 
+II. 
+Franklin. 
+100. 
+20. 
+nan. 
+266. 
+800. 
+I. 
+Vickers Mk. E Type B. 
+7.5. 
+44. 
+B/2. 
+nan. 
+1880. 
+340. 
+II. 
+T-26-2. 
+10.0. 
+48. 
+B/2. 
+nan. 
+1880. 
+620. 
+III. 
+71-TK-3. 
+300. 
+nan. 
+50. 
+570. 
+Light Tanks. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Medium Tanks. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Heavy Tanks. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Tank Destroyers. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=Ch07_Vickers_MkE_Type_BT26
+| An imported Vickers tank from the British, the Mk. Ch07 Vickers MkE Type BT26  E has worse handling than its tier 2 counterparts of other nations, but it can equip excellent guns. Ch07 Vickers MkE Type BT26  It may be difficult to appreciate due the poor accuracy, yet the Vickers is deadly at close ranges where its gun can easily penetrate any tank it gets to face and cause destruction faster than the rest. Ch07 Vickers MkE Type BT26  When upgraded to the second turret, it technically becomes a [[T-26]]. Ch07 Vickers MkE Type BT26  
+
+|InTheGame_pros= 
+- Has powerful guns for its tier, Doesn't really fear tier 3 tanks
+
+- Very good traverse similar to the [[T-26]]
+
+- 40 mm pom-pom gun can easily kill many tier II tanks really fast
+
+- Vickers cannon with HE shells can devastate thinner armors
+
+|InTheGame_cons= 
+- Unresponsive at high speeds, Slow acceleration 
+
+- Weak hull armor, avoiding HE and autocannon shells is really important
+
+- Terrible accuracy on all guns
+
+- Somewhat easy to getting module damage
+
+- Doesn't shared any modules to the next tier
+
+ 
+
+|InTheGame_performance=
+This vehicle plays much like a T-26, and is in fact the vehicle the T-26 was based off of. Ch07 Vickers MkE Type BT26  The 40mm Pom-Pom will devastate tanks at this tier with ease. Ch07 Vickers MkE Type BT26  The Gun 45mm 20K is an effective tank-killer as well, and will do in a pinch. Ch07 Vickers MkE Type BT26  Stay in the back- your thin armor will do nothing to stop anything at this tier. Ch07 Vickers MkE Type BT26  Overall, if you have played the T-26, then you will be at home, and many skills learned here will apply to the T-26. Ch07 Vickers MkE Type BT26  
+
+Due to the Pom-Pom, it's natural to make a comparison with the [[Tank:GB58 Cruiser Mk III|Cruiser Mk. Ch07 Vickers MkE Type BT26  III]]. Ch07 Vickers MkE Type BT26  The Cruiser Mk. Ch07 Vickers MkE Type BT26  III is faster, more maneuverable, and has much faster turret traverse. Ch07 Vickers MkE Type BT26  The VAE benefits from having a much smaller profile than the Cruiser Mk. Ch07 Vickers MkE Type BT26  III and it has much stronger front turret armor when equipped with the T-26 turret. Ch07 Vickers MkE Type BT26  It also has slightly better accuracy. Ch07 Vickers MkE Type BT26 
+
+
+|InTheGame_research=
+* First, research the Franklin Engine. Ch07 Vickers MkE Type BT26 
+* Next, research the Vickers Mk. Ch07 Vickers MkE Type BT26  E Type B Turret. Ch07 Vickers MkE Type BT26 
+* Research either the 45 mm 20K Gun or the 40 mm Pom Pom Gun, depending on your preference. Ch07 Vickers MkE Type BT26  The Pom Pom is generally the superior gun. Ch07 Vickers MkE Type BT26 
+* Now, research the T-26-2 Suspension. Ch07 Vickers MkE Type BT26 
+* Finally, research the gun you didn't already research. Ch07 Vickers MkE Type BT26 
+
+|InTheGame_equipment=Vents,Coated Optics
+
+
+|Gallery=
+
+
+|History=
+The Vickers 6-Ton Tank or Vickers Mark E was a British light tank designed as a private project at Vickers. Ch07 Vickers MkE Type BT26  It was not purchased by the British Army, but was picked up by a large number of foreign armed forces and was copied almost exactly by the Soviets as the T-26. Ch07 Vickers MkE Type BT26  It was also the direct predecessor of the Polish 7TP tank. Ch07 Vickers MkE Type BT26  By the start of World War II it was the second most common tank design in the world after the Renault FT. Ch07 Vickers MkE Type BT26 
+
+'''''History'''''
+
+The first Mark E was built in 1928 by a design team that included the famed tank designers John Valentine Carden and Vivian Loyd. Ch07 Vickers MkE Type BT26  The hull was made of riveted steel plates, 1 inch (25 mm) thick at the front and over most of the turrets, and about 3/4 inch (19 mm) thick on the rear of the hull. Ch07 Vickers MkE Type BT26  The power was provided by an Armstrong Siddeley Puma engine of 80–95 horsepower (60–70 kW) (depending on the version), which gave it a top speed of 22 mph (35 km/h) on roads. Ch07 Vickers MkE Type BT26 
+The suspension used two axles, each of which carried a two-wheel bogie to which a second set of bogies was connected with a leaf spring. Ch07 Vickers MkE Type BT26  Upward movement of either set of bogies would force the other down through the spring. Ch07 Vickers MkE Type BT26  This was considered to be a fairly good system and offered better than normal cross-country performance although it could not compare with the contemporary Christie suspension. Ch07 Vickers MkE Type BT26  High strength steel tracks gave over 3000 miles (5000 km) of life which was considerably better than most designs of the era. Ch07 Vickers MkE Type BT26 <br>
+
+The tank was built in two versions:
+*Type A with two turrets, each mounting a Vickers machine gun. Ch07 Vickers MkE Type BT26 
+*Type B with a single two-man turret mounting a single machine gun and a short-barreled 47 mm cannon OQF 3-pdr Gun. Ch07 Vickers MkE Type BT26 
+
+<br>The Type B proved to be a real innovation, it was found that the two-man turret dramatically increased the rate of fire of either weapon, while still allowing both to be fired at the same time. Ch07 Vickers MkE Type BT26  This design, which they referred to as a duplex mounting, became common on almost all tanks designed after the Mark E. Ch07 Vickers MkE Type BT26 
+
+<br>The British Army evaluated the Mark E, but rejected it, apparently due to questions about the reliability of the suspension. Ch07 Vickers MkE Type BT26  Vickers then started advertising the design to all buyers, and soon received a trickle of orders eventually including USSR, Greece, Poland, Bolivia, Siam, Finland, Portugal, China and Bulgaria. Ch07 Vickers MkE Type BT26  A Thai order was placed, but taken over by the British when the war started. Ch07 Vickers MkE Type BT26  Vickers built a total of 153 (the most common figure) Mark E's. Ch07 Vickers MkE Type BT26 
+
+<br>Experience with the Polish machines showed that the engine tended to overheat due to poor airflow over the air-cooled Puma engine. Ch07 Vickers MkE Type BT26  This was addressed by the addition of large air vents on either side of the hull. Ch07 Vickers MkE Type BT26  For a new Belgian order the design was modified to use the Rolls-Royce Phantom II water-cooled engine instead. Ch07 Vickers MkE Type BT26  This engine would not fit in the rear, and had to be mounted along the left side of the tank, requiring the turret to be moved to the right and rearward. Ch07 Vickers MkE Type BT26  One example of the resulting Mark F was tested by Belgium, but rejected. Ch07 Vickers MkE Type BT26  Nevertheless the new hull was used, with the older engine, in the sales to Finland and Siam. Ch07 Vickers MkE Type BT26 
+
+<br>The Mark E was also developed as a cargo vehicle, and purchased by the British Army in small numbers as artillery tractors to haul their large 60 pounder (127 mm) artillery guns. Ch07 Vickers MkE Type BT26  Twelve were ordered by the Army as the Dragon, Medium Mark IV', while China purchased 23 and India 18. Ch07 Vickers MkE Type BT26 
+
+<br>Poland was generally happy with the design, and purchased 50 and licensed it for local production. Ch07 Vickers MkE Type BT26  Modifying it with larger air intakes, their own machine gun, 360-degree Gundlach periscope. Ch07 Vickers MkE Type BT26 [1] and a Diesel engine, the design entered service as the 7TP. Ch07 Vickers MkE Type BT26  Only the original 38 entered service, 12 remained unassembled and later used for spares. Ch07 Vickers MkE Type BT26  Out of 38 original two-turreted tanks, 22 were later converted to single turret version with a modified turret and the 47 mm main gun (Type B standard). Ch07 Vickers MkE Type BT26 
+
+<br>The Soviets were also happy with the design and licensed it for production. Ch07 Vickers MkE Type BT26  However in their case local production started as the T-26, and eventually over 12,000 were built in various versions. Ch07 Vickers MkE Type BT26  The Soviet early twin-turret T-26s had 7. Ch07 Vickers MkE Type BT26 62 mm DT machine guns in each turret, or a mix of one machine gun turret and one 37 mm gun turret. Ch07 Vickers MkE Type BT26  Later, more common versions mounted a 45 mm gun and two DT machine guns. Ch07 Vickers MkE Type BT26  The final versions of the T-26 had welded construction and, eventually, sloped armor on the hull and turret. Ch07 Vickers MkE Type BT26  Because the T-26 was in such wide use and was a reliable platform, a variety of engineer vehicles were built on the chassis, including flamethrowers and bridgelayers. Ch07 Vickers MkE Type BT26  A novel radio-controlled demolition tank was built on the T-26 chassis also. Ch07 Vickers MkE Type BT26  During the Spanish Civil War the Soviet Union sent the T-26 to the Republican Army. Ch07 Vickers MkE Type BT26  The Italians, after suffering losses from Republican's T-26 during the battle of Guadalajara (1937), captured some of these tanks which served as a model for their M11/39 and M13/40 light/medium tanks. Ch07 Vickers MkE Type BT26 
+
+<br>In 1939, during the Soviet-Finnish Winter War, the Finnish armoured forces consisted of around thirty-two obsolete Renault FT-17 tanks, some Vickers-Carden-Lloyd Mk. Ch07 Vickers MkE Type BT26  IVs and Model 33s, which were equipped with machine guns, and 26 Vickers Armstrongs 6-ton tanks. Ch07 Vickers MkE Type BT26  The latter had been re-equipped with 37 mm Bofors AT-guns after the outbreak of the war. Ch07 Vickers MkE Type BT26  Only 13 of these tanks managed to get to the front in time to participate in the battles. Ch07 Vickers MkE Type BT26 
+
+<br>At the Battle of Honkaniemi on February 26, 1940, the Finns employed their Vickers tanks for the first - and only - time against Russian armour during the Winter War. Ch07 Vickers MkE Type BT26  The results were disastrous. Ch07 Vickers MkE Type BT26  Of the thirteen available Finnish Vickers 6-ton tanks only six were in fighting condition and able to participate in the first assault on the Soviet lines - to make matters worse, one of the tanks was forced to stop, unable to cross a wide trench. Ch07 Vickers MkE Type BT26  The remaining five continued onwards a few hundred meters but ran into dozens of Soviet tanks in the village of Honkaniemi. Ch07 Vickers MkE Type BT26  The Finnish tanks managed to knock out three Soviet tanks but were soon themselves knocked-out. Ch07 Vickers MkE Type BT26  In the skirmishes that followed, the Finns lost two more Vickers tanks. Ch07 Vickers MkE Type BT26 [4]
+In 1941, the Finns rearmed their Vickers 6-Ton tanks with the Soviet 45 mm gun and re-designated them as T-26E. Ch07 Vickers MkE Type BT26  These tanks were used by the Finnish Army during the Continuation War. Ch07 Vickers MkE Type BT26  19 rebuilt Vickers tanks, along with 75 T-26s continued in Finnish service after the end of the Second World War. Ch07 Vickers MkE Type BT26  Some of these tanks were kept as training tanks until 1959, when they were finally phased out and replaced by newer British and Soviet tanks. Ch07 Vickers MkE Type BT26 
+<br>Republic of China used 20 single-turret tanks Vickers Mk. Ch07 Vickers MkE Type BT26 E Type B. Ch07 Vickers MkE Type BT26  They were used in combat against the Japanese in Shanghai in 1937. Ch07 Vickers MkE Type BT26 
+
+|HistAcc=
+This tank was only used by Chinese Nationalists, yet it has Communist Chinese roundels. Ch07 Vickers MkE Type BT26  The People's Liberation Army did not officially exist until 1945, by then the Vickers Mk. Ch07 Vickers MkE Type BT26  E Type B tanks in Nationalist service were already destroyed or captured by the Japanese. Ch07 Vickers MkE Type BT26  The Republic of China roundels can be found under military emblems, but at the cost of gold. Ch07 Vickers MkE Type BT26 
+
+|HistoricalGallery=
+image:Vickers_cross. Ch07 Vickers MkE Type BT26 gif{{!}}Vickers Mk. Ch07 Vickers MkE Type BT26  E Type B Section
+image:Vickers6ton_front. Ch07 Vickers MkE Type BT26 JPG{{!}}Vickers Mk. Ch07 Vickers MkE Type BT26  E Type B
+image:Vickers Mk E Type B. Ch07 Vickers MkE Type BT26 jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+[[https://en. Ch07 Vickers MkE Type BT26 wikipedia. Ch07 Vickers MkE Type BT26 org/wiki/Vickers_6-Ton Wikipedia]]
+
+|Ref_links=
+
+}}

@@ -1,0 +1,259 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Player Opinion: Equipment. 
+3,900 Cost. 
+330340 HP Hit Points. 
+8.71/98.95/10 t Weight Limit. 
+142160 hp Engine Power. 
+45/18 km/h Speed Limit. 
+3842 deg/s Traverse. 
+16.317.88 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+13/13/13 mm Hull Armor. 
+13/13/1315/13/13 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+3/800/3 12/800/10 Shell Cost. 
+14/14/1840/40/50 HP Damage. 
+31/59/1055/78/19 mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 2 rounds Magazine Size: 10 rounds Cycle Time: 0.3 s Magazine Reload Times Nominal: 5 s 50% Crew: 6.36 s 75% Crew: 5.6 s 100% Crew: 5 s With Vents: 4.89 s With Vents and BiA: 4.79 s Click here for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.35 s 50% Crew: 2.99 s 75% Crew: 2.63 s 100% Crew: 2.35 s Rammer: 2.12 s Vents: 2.3 s Both: 2.07 s Both and BiA: 2.03 s Both and Max Crew %: 1.94 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (14 Damage): Theoretical Damage Per Minute Nominal: 91.84 50% Crew: 73.36 75% Crew: 82.74 100% Crew: 91.84 With Vents: 93.94 With Vents and BiA: 95.62 Advantageous Damage Per Minute Loaded-mag DPM: 222.04 50% Crew: 205.52 75% Crew: 213.92 100% Crew: 222.04 With Vents: 223.86 With Vents and BiA: 225.4 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (14 Damage): Theoretical Damage Per Minute Nominal: 91.84 50% Crew: 73.36 75% Crew: 82.74 100% Crew: 91.84 With Vents: 93.94 With Vents and BiA: 95.62 Advantageous Damage Per Minute Loaded-mag DPM: 222.04 50% Crew: 205.52 75% Crew: 213.92 100% Crew: 222.04 With Vents: 223.86 With Vents and BiA: 225.4 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (18 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 118.08 50% Crew: 94.32 75% Crew: 106.38 100% Crew: 118.08 With Vents: 120.78 With Vents and BiA: 122.94 Advantageous Damage Per Minute Loaded-mag DPM: 285.48 50% Crew: 264.24 75% Crew: 275.04 100% Crew: 285.48 With Vents: 287.82 With Vents and BiA: 289.8 Click here for more information.▲ Standard Gun Using Shell Type 1 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1021.2 50% Crew: 802.4 75% Crew: 912 100% Crew: 1021.2 100% Crew Vents: 1045.2 Rammer: 1134.8 Both: 1161.2 Both and BiA: 1183.2 Both and Max Crew %: 1234.4 Advantageous Damage Per Minute First-shot DPM: 1061.2 50% Crew: 842.4 75% Crew: 952 100% Crew: 1061.2 100% Crew Rammer: 1174.8 Vents: 1085.2 Both: 1201.2 Both and BiA: 1223.2 Both and Max Crew %: 1274.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1021.2 50% Crew: 802.4 75% Crew: 912 100% Crew: 1021.2 100% Crew Vents: 1045.2 Rammer: 1134.8 Both: 1161.2 Both and BiA: 1183.2 Both and Max Crew %: 1234.4 Advantageous Damage Per Minute First-shot DPM: 1061.2 50% Crew: 842.4 75% Crew: 952 100% Crew: 1061.2 100% Crew Rammer: 1174.8 Vents: 1085.2 Both: 1201.2 Both and BiA: 1223.2 Both and Max Crew %: 1274.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (50 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1276.5 50% Crew: 1003 75% Crew: 1140 100% Crew: 1276.5 100% Crew Vents: 1306.5 Rammer: 1418.5 Both: 1451.5 Both and BiA: 1479 Both and Max Crew %: 1543 Advantageous Damage Per Minute First-shot DPM: 1326.5 50% Crew: 1053 75% Crew: 1190 100% Crew: 1326.5 100% Crew Rammer: 1468.5 Vents: 1356.5 Both: 1501.5 Both and BiA: 1529 Both and Max Crew %: 1593 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.595 m With 75% Crew: 0.519 m With 100% Crew: 0.46 m With BiA: 0.45 m With BiA and Vents: 0.44 m Maximum possible: 0.422 m For more details, see Crew m ▲ With 50% Crew: 0.52 m With 75% Crew: 0.454 m With 100% Crew: 0.403 m With BiA: 0.394 m With BiA and Vents: 0.385 m Maximum possible: 0.369 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.478 s With 75% Crew: 2.163 s With 100% Crew: 1.918 s With GLD: 1.743 s With BiA: 1.875 s With BiA and Vents: 1.835 s With both and GLD: 1.668 s Maximum possible: 1.599 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.23 s With 75% Crew: 1.947 s With 100% Crew: 1.726 s With GLD: 1.569 s With BiA: 1.688 s With BiA and Vents: 1.651 s With both and GLD: 1.501 s Maximum possible: 1.439 s For more details, see Crew or Equipment Aim time. 
+3235 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+25°-15°/+25° Elevation Arc. 
+500200 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 227.8 m With 75% Crew: 259 m With 100% Crew: 290 m With Recon and Situational Awareness: 304.7 m With Coated Optics: 319 m With Binocular Telescope: 362.5 m Maximum possible: 415.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With Recon and Situational Awareness: 315.2 m With Coated Optics: 330 m With Binocular Telescope: 375 m Maximum possible: 429.5 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 227.8 m With 75% Crew: 259 m With 100% Crew: 290 m With 100% Signal Boost: 348 m When affected by 100% Relaying: 319 m Maximum possible: 417.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 227.8 m With 75% Crew: 259 m With 100% Crew: 290 m With 100% Signal Boost: 348 m When affected by 100% Relaying: 319 m Maximum possible: 417.3 m For more details, see Skills or Equipment Signal Range. 
+II. 
+20 mm akan m/40. 
+31/59/10. 
+14/14/18. 
+77.92. 
+0.48. 
+2.0. 
+nan. 
+44. 
+3050. 
+III. 
+37 mm kan m/38 strv. 
+55/78/19. 
+40/40/50. 
+25.53. 
+0.42. 
+1.8. 
+nan. 
+82. 
+8200. 
+I. 
+Strv m/38. 
+13/13/13. 
+32. 
+290. 
+nan. 
+1350. 
+300. 
+II. 
+Strv m/39. 
+15/13/13. 
+35. 
+300. 
+nan. 
+1633. 
+710. 
+II. 
+Scania-Vabis 1664. 
+142. 
+20. 
+nan. 
+485. 
+1050. 
+III. 
+Büssing NAG L8V/36 TR. 
+160. 
+20. 
+nan. 
+600. 
+4350. 
+I. 
+Strv m/38. 
+9. 
+38. 
+B/2. 
+nan. 
+2050. 
+350. 
+II. 
+Strv m/39. 
+10. 
+42. 
+B/2. 
+nan. 
+2050. 
+630. 
+II. 
+25 W Sv/1 m/39. 
+290. 
+nan. 
+34. 
+180. 
+Light Tanks. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Medium Tanks. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Heavy Tanks. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Tank Destroyers. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank= 
+Developed on the basis of the L-60 light tank by AB Landswerk. S03 Strv M38  During mass production, the vehicle underwent several modifications. S03 Strv M38  A total of 216 vehicles of different variants were produced from 1939 through 1944. S03 Strv M38  The vehicle remained in service of the Swedish Army until the 1960s. S03 Strv M38 
+
+| 
+
+|Gallery= 
+image:strv38_frontleft. S03 Strv M38 png{{!}}Strv m/38 front-left view
+image:strv38_rearleft. S03 Strv M38 png{{!}}Strv m/38 rear-left view
+image:strv38front. S03 Strv M38 png{{!}}Strv m/38 front view
+image:strv38_rear. S03 Strv M38 png{{!}}Strv m/38 rear view
+image:str38_side. S03 Strv M38 png{{!}}Strv m/38 side view
+
+|InTheGame_pros= 
+* Fantastic depression
+* Good penetration and alpha values
+* Low dispersion on the move and on turret rotation
+* Decent maneuverability
+|InTheGame_cons= 
+* Paper thin armour
+* Below average DPM
+
+|InTheGame_performance= 
+Crew: If you are planning to purchase the tank without crew, only the commander and driver can be carried over from tier 1. S03 Strv M38   You will need to recruit a gunner as 4th crew member in tier 1 is a loader. S03 Strv M38 
+
+|InTheGame_research= 
+* First, research the 37 mm kan m/38 strv gun for much needed penetration
+* Next research the Strv m/39 suspension as the stock suspension is overloaded
+* Research the Strv m/39 turret next 
+* Lastly, research the engine Büssing NAG L8V/36 TR	 
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The story of the L-60 begins in 1934, when Landsverk was contacted by the Irish Ministry of Defence, that took notice of their advanced tank designs. S03 Strv M38  Soon, it was decided, that Landsverk would produce two prototypes of their most advanced tank yet. S03 Strv M38 
+
+
+This new tank design was called L-60. S03 Strv M38  It was further development of their previous L-10 design, but was smaller and it incorporated what experience Landsverk gained during the Swedish tests of the Strv m/31. S03 Strv M38  It was armed with a 20mm autocannon and a 8mm machinegun in fully traverseable turret. S03 Strv M38  The tank’s hull and turret was fully welded and equipped with state-of-the-art optics – in fact, it was one of the most modern designs in the world at that time, using in full the important lessons, learned from the Swedish trials L-10 trials. S03 Strv M38 
+
+First, the rear mounted transmission got moved to the front to resolve the problem with track tension, caused by the rear-mounted transmission on the L-10. S03 Strv M38  Second, the unreliable spring suspension got replaced with a newly developed torsion bar suspension, this is one of the first times (if not the first) it has ever been fitted to a tank. S03 Strv M38 
+
+L-60 schematics from 1934
+
+[[File:L-60_schematics_from_1934. S03 Strv M38 jpg]]
+
+The first prototype was finished just a year after – in 1935 – and soon it attracted the attention of Switzerland, leading to the order of six L-60 and L-120 tanks. S03 Strv M38  This however led nowhere, as Switzerland decided to buy the Czech TNH instead. S03 Strv M38  In late 1935, an Irish committee came to Landsverk to check on the progress on the prototypes, but during the visit, because of a driver error, one of the prototypes backfired and burned out, despite best efforts to put the fire out. S03 Strv M38  Landsverk offered to produce third prototype as soon as possible, but as a result, only one L-60 got shipped to Ireland in 1935. S03 Strv M38 
+
+Irish L-60 prototype
+
+[[File:Irish_L-60_prototype. S03 Strv M38 jpg]]
+
+In 1935, one of the Irish tanks was also shown to Swedish delegation. S03 Strv M38  The tank soon became the preferred alternative for a new tank to other designs, such the British Vickers 6 ton and the Czech TNH. S03 Strv M38  Soon after, the tank was redesigned to Swedish standards. S03 Strv M38  Swedish engine was put in, new bigger turret with a radio was installed as well and a new 37mm Bofors gun was also implemented. S03 Strv M38  In 1936, two Swedish prototypes were ordered – one complete and one hull for trials. S03 Strv M38  At the same time, Austria ordered one prototype for evaluation. S03 Strv M38  Austria ended up not buying the tank – instead, the austrian prototype was sent to Hungary. S03 Strv M38  In Hungary, the tank (as well as the L-62 (SPAAG based on the L-60 chassis)) are evaluated and after comparative trials with the Strussler V4, the design was chosen for licensed production, which started in 1940. S03 Strv M38  The L-60 and L-120 got also shown during a Polish visit to Landsverk in 1937, but nothing came of it. S03 Strv M38 
+
+Hungarian Toldi tank
+
+[[File:Hungarian_Toldi_Tank. S03 Strv M38 jpg]]
+
+Swedish L-60 prototype
+
+[[File:Swedish_L-60_prototype. S03 Strv M38 jpg]]
+
+By 1937, the Swedish prototypes were finished and not long after, a modified version is ordered into production under the designation of Strv m/38, with Lansverk designation “L-60-S”. S03 Strv M38  In total, 16 tanks were delivered from 1938-1939, one of which was a prototype, rebuilt to production specifications. S03 Strv M38  The tank was relatively modern for 1938 with its 15mm of armour and 37mm gun, but in 1939, World War Two breaks out and it became apparent that the design was quickly becoming obsolete. S03 Strv M38 
+
+Strv m/38
+
+[[File:Strv_m_38_old. S03 Strv M38 jpg]]
+
+In 1939, after the annexation of Czechoslovakia, it became clear that more tanks were needed. S03 Strv M38  Therefore, second production run of tanks was ordered. S03 Strv M38  Despite the demands for increased armour protection, the new model of the tank went in production without much improvement due to its fragile suspension. S03 Strv M38  The main change on this new model was the new turret, which had sloped frontal armor. S03 Strv M38  The tanks were seriously delayed by the failure of Bofors to produce enough 37mm guns. S03 Strv M38  The tank was designated as Strv m/39, with the Lansverk designation of “L-60-S II”. S03 Strv M38  A total of 20 of these tanks were made from 1939 to 1941. S03 Strv M38  By this time however, it was absolutely clear that the armour was completely irrelevant and after a lot of arguing, Landsverk agreed to finally increase the armor of the tank, but only using additional applique armor kits. S03 Strv M38 
+
+Strv m/39, note the early gun mantlet
+
+[[File:Strv_m39_with_early_mantlet. S03 Strv M38 jpg]]
+
+Sweden was now in really bad situation. S03 Strv M38  Its neighbor, Finland was already involved in its war with the Russians and in 1940, its other neighbor, Norway got invaded by the Germans. S03 Strv M38  To top it all, the previously ordered 90 Czech TNH tanks (the order was made before the invasion of 1939) were now cancelled by the Germans, who seized the tanks for their own army. S03 Strv M38  This meant that Sweden was cut off from the outside world and would have to rely on its own tank designs. S03 Strv M38  Therefore, the L-60 was modified once again, this time with mass production in mind. S03 Strv M38  The tank was largely the same as the L-60-SII, but was now equipped with an automatic gearbox, some vehicles could even mount a mortar on the back for infantry support in addition to the applique armor, but mainly the tank was simplified for mass production. S03 Strv M38  The vehicle was designated Strv m/40L (“L-60-S III” by Landsverk). S03 Strv M38  A total of 100 tanks of this type were produced between 1941 and 1942. S03 Strv M38 
+
+Strv m/40L with applique armour
+
+[[File:Strv_m_40L_with_applique_armour. S03 Strv M38 jpg]]
+
+And its armor schematics
+
+[[File:Strv_m40L_armor_schematics. S03 Strv M38 jpg]]
+
+By 1943, Landsverk started to produce a heavier tank design and no longer had the capacity to produce the L-60 series of tanks, so instead, their production shifted to Karlstad Mekaniska Werkstad. S03 Strv M38  The L-60 design recieved another overhaul and the suspension was finaly improved to the point where the applique armour could be built in from the start. S03 Strv M38  Other than that, new, more powerful engine was fitted, the result of which was making the vehicle longer. S03 Strv M38  This tank model was designated Strv m/40K by the army (and L-60-SV by Landsverk). S03 Strv M38  An interesting thing to note is that there is no information on the previous L-60-S IV design, other than it weighed 12 tones and had the same armament as well as an unknown 180hp engine. S03 Strv M38  Anyhow, 80 Strv m/40K tanks were produced between 1943 and 1944 and this was the final version of the L-60 to be produced during the war. S03 Strv M38 
+
+Strv m/40K
+
+[[File:Strv_m40K. S03 Strv M38 jpg]]
+
+Armour schematics
+
+[[File:Strv_m40K_armour_schematics. S03 Strv M38 jpg]]
+
+After the war, some models of the tank wer still in active service during the 50′s, there were even plans to re-equip the tanks with a new turret with a 57mm gun. S03 Strv M38  The idea was kicked around since 1944, but the first prototype was only ready by 1949-1950. S03 Strv M38  The prototype hull was that of the Strv m/40L and the turret mounted the 5,7cm Pvkan m/43 gun. S03 Strv M38  The vehicle was designated Pvkv IV “Värjan” (Pvkv meaning “tank destroyer 4″, it was named “Värjan” after some kind of sword, used by the Swedish Carolean army in 16th century). S03 Strv M38  The new turret and the gun increased the weight by 500kg, but this was compensated by the removal of the applique armour. S03 Strv M38  The turret was poorly armored to keep the weight down, with a 20mm gun mantlet and 12mm of armor everywhere else. S03 Strv M38  The trials of the prototype showed that there were big problems with the aiming system and the project was discontinued. S03 Strv M38 
+
+Pvkv IV “Värjan”
+
+[[File:Pvkv_IV_Varjan. S03 Strv M38 jpg]]
+
+The last model of the L-60 to serve with the Swedish army was the Strv m/40K, which was retired in 1957. S03 Strv M38  However, a few years later, 25 Strv m/40′s were sold to Dominican Republic. S03 Strv M38  There, some of them would serve until the 1990s! In fact, three of these tanks were lost while fighting the American marine corps, one was even destroyed by a M48 Patton. S03 Strv M38 
+
+Strv m/40 in service with Dominican forces
+
+[[File:Strv_m40_in_service_with_dominican_forces. S03 Strv M38 jpg]]
+
+
+|HistoricalGallery= 
+image:strvm38. S03 Strv M38 jpg{{!}}Stridsvagn m/38
+image:strv38dominican. S03 Strv M38 jpg{{!}}Strv m/38 in Dominican service. S03 Strv M38  About 25 tanks were sold to the Dominican Republic in 1956. S03 Strv M38 
+image:strv38helsingborg. S03 Strv M38 jpg{{!}}Strv m/38 on display in Helsingborg. S03 Strv M38 
+|Ref_references=
+
+|Ref_sources=
+* Pansar issue 1 year 2013
+* Pansar issue 2 year 2013
+* Pansar issue 3 year 2013
+
+|Ref_links=
+* https://en. S03 Strv M38 wikipedia. S03 Strv M38 org/wiki/Stridsvagn_L-60
+* https://www. S03 Strv M38 tanks-encyclopedia. S03 Strv M38 com/ww2/sweden/L60_stridsvagn_M38-39-40. S03 Strv M38 php
+* https://ftr. S03 Strv M38 wot-news. S03 Strv M38 com/2014/03/21/swedish-tanks-part-iv-landsverk-l-60/
+* https://www. S03 Strv M38 ointres. S03 Strv M38 se/strv_m38_instruktionsbok. S03 Strv M38 pdf
+* https://www. S03 Strv M38 ointres. S03 Strv M38 se/pansar. S03 Strv M38 htm
+}}

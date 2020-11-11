@@ -1,0 +1,205 @@
+2,650,000 Cost. 
+440352 HP Hit Points. 
+74.9/7545.06/0 t Weight Limit. 
+600600 hp Engine Power. 
+35/10 km/h Speed Limit. 
+1414 deg/s Traverse. 
+8.01Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+100/80/16 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+850/850/850/850/ HP Damage. 
+44/44/44/44/ mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 33 s 50% Crew: 40.88 s 75% Crew: 35.69 s 100% Crew: 31.64 s Rammer: 28.48 s Vents: 30.94 s Both: 27.85 s Both and BiA: 27.24 s Both and Max Crew %: 26.11 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 33 s 50% Crew: 40.88 s 75% Crew: 35.69 s 100% Crew: 31.64 s Rammer: 28.48 s Vents: 30.94 s Both: 27.85 s Both and BiA: 27.24 s Both and Max Crew %: 26.11 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (850 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (850 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (850 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (850 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.83 m With 75% Crew: 0.725 m With 100% Crew: 0.642 m With BiA: 0.628 m With BiA and Vents: 0.615 m Maximum possible: 0.589 m For more details, see Crew m ▲ With 50% Crew: 0.83 m With 75% Crew: 0.725 m With 100% Crew: 0.642 m With BiA: 0.628 m With BiA and Vents: 0.615 m Maximum possible: 0.589 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 5.946 s With 75% Crew: 5.192 s With 100% Crew: 4.602 s With GLD: 4.184 s With BiA: 4.501 s With BiA and Vents: 4.403 s With both and GLD: 4.003 s Maximum possible: 3.837 s For more details, see Crew or Equipment s ▲ With 50% Crew: 5.946 s With 75% Crew: 5.192 s With 100% Crew: 4.602 s With GLD: 4.184 s With BiA: 4.501 s With BiA and Vents: 4.403 s With both and GLD: 4.003 s Maximum possible: 3.837 s For more details, see Crew or Equipment Aim time. 
+1010 deg/s Gun Traverse Speed. 
+10° Gun Arc. 
+-2°/+48°-2°/+48° Elevation Arc. 
+2121 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 227.8 m With 75% Crew: 259 m With 100% Crew: 290 m With Recon and Situational Awareness: 304.7 m With Coated Optics: 319 m With Binocular Telescope: 362.5 m Maximum possible: 415.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 227.8 m With 75% Crew: 259 m With 100% Crew: 290 m With Recon and Situational Awareness: 304.7 m With Coated Optics: 319 m With Binocular Telescope: 362.5 m Maximum possible: 415.2 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 250.2 m With 75% Crew: 286.6 m With 100% Crew: 323.3 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 465.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+17 cm Kanone 72. 
+44/44. 
+850/850. 
+1.82. 
+0.67. 
+4.8. 
+nan. 
+nan. 
+140000. 
+nan. 
+21 cm Mörser 18/1. 
+53/53. 
+1100/1100. 
+1.3. 
+0.79. 
+5.2. 
+nan. 
+nan. 
+245000. 
+nan. 
+2 x Maybach HL 120 TRM. 
+nan. 
+0. 
+nan. 
+nan. 
+35500. 
+nan. 
+2 x Porsche Typ 101/1. 
+nan. 
+0. 
+nan. 
+nan. 
+54000. 
+nan. 
+G.W. Tiger (P). 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+20000. 
+nan. 
+G.W. Tiger (P) verstärkteketten. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+36000. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+IX. 
+FuG 12. 
+710. 
+nan. 
+150. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=GW_Tiger_P
+|
+
+|InTheGame_pros=
+* Best alpha damage of any tier 8 artillery; can deal serious damage to any tank in the game
+* Best stock gun alpha damage, penetration and burst radius of any tier 8 artillery
+* Surprisingly good hull armor for an SPG, can get the random lucky bounce
+* Unappealing to ram due to weight and hull armor thickness
+
+|InTheGame_cons=
+* Poor mobility, struggles to relocate
+* Narrow gun traverse arc
+* Paper-thin casemate armor negates the hull armor's usefulness
+* Enormous target with very poor concealment
+* Under risk of running out of shells in longer games
+
+
+|InTheGame_performance=
+The G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) is very different from its predecessor, the G. G94 GW Tiger P W. G94 GW Tiger P  Panther. G94 GW Tiger P  The G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) is significantly less mobile, while gun performance is more about damage than accuracy. G94 GW Tiger P    
+
+The outstanding feature of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) is its lack of mobility. G94 GW Tiger P   Due to weak engine and abysmal ground resistance it will often struggle to reach even 20 kilometers per hour in stock configuration. G94 GW Tiger P  The term "slug" would sadly not seem out of place. G94 GW Tiger P 
+
+The engine upgrade delivers a meager 6. G94 GW Tiger P 67% more power, in exchange for an eye-watering 31. G94 GW Tiger P 000 experience. G94 GW Tiger P  You'll still want this upgrade, as improved mobility is desperately needed, but the difference won't be spectacular. G94 GW Tiger P  If you have credits to spare, consider using a fuel consumable, which will make movement less painful. G94 GW Tiger P    
+
+Relocating between firing positions is time consuming, and a retreat from an exposed position will be as slow as it will be hazardous. G94 GW Tiger P  It might be prudent to instead opt for a perhaps less rewarding but safer position further back. G94 GW Tiger P   The practically non-existent camouflage rating of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) provides another reason to choose a position as far back as possible. G94 GW Tiger P           
+
+Should your team push hard on one flank and leave the other wide open, the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) will be hard pressed to keep up with the other tanks, even if it does not stop to lob a single shell at the enemy. G94 GW Tiger P 
+
+Alternatively, you could stay in place to provide support fire, take your chances with enemy tanks possibly exploiting the flank left open by your team mates, and hope for the best. G94 GW Tiger P   However, realize that the low mobility of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) makes it extremely difficult to defend against scouts, especially ones that move horizontally to you, forcing you to turn. G94 GW Tiger P  
+
+The combination of fire and movement is unfortunately not very practical due to the slow speed, low tank traverse rate and narrow gun arc of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P). G94 GW Tiger P   Should you attempt to utilize the reload time of the gun for movement, the time needed to traverse the tank, the direction of the target, and the direction of your movement and back to another target can be substantial, especially when tough terrain is involved. G94 GW Tiger P   There will be comparatively few seconds left to move the tank when aim time is accounted for, thus slowing the already sluggish movement rate of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) down to a crawl. G94 GW Tiger P   
+
+What the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) does offer, however, is the most powerful stock gun of any tier VIII artillery. G94 GW Tiger P  The 17 cm "Kanone 72" is in terms of damage, penetration and burst radius more akin to the 180/183mm top guns of some tier IX/X SPG’s than the 152/155mm guns of other tier VIII SPG’s. G94 GW Tiger P   If you want a hard-hitting gun but can't stand the lengthy reload of the biggest guns, the 17 cm "Kanone 72" might suit you. G94 GW Tiger P 
+ 
+The top gun of the G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P), the 21 cm "Mörser 18/1" is a different beast altogether with a lot worse accuracy, a lot longer reload, but a devastating effect on enemies. G94 GW Tiger P   This gun deals 1100 alpha damage if it penetrates, which can only happen to some light tanks, tanks with paper thin armor, or vehicles with an open roof. G94 GW Tiger P  The longer reload of the top gun means fewer shots fired, less time spent acquiring targets, and more time available for movement. G94 GW Tiger P  A 21 cm Mörser can also be found as the top gun of similar tier IX and tier X German SPG's. G94 GW Tiger P 
+
+
+Current as of version 1. G94 GW Tiger P 0. G94 GW Tiger P 0. G94 GW Tiger P 1
+
+
+|InTheGame_research=
+* Immediately research the suspension, preferably with free experience, to be able to fit an Artillery Shell Rammer and a Gun Laying Drive. G94 GW Tiger P 
+* Alternatively, you may want to fit the Enhanced Longitudinal Torsion Bar, to be able to leave the suspension for last. G94 GW Tiger P 
+* Research the top gun or engine, depending on whether you want a gun with higher alpha damage or improved mobility. G94 GW Tiger P 
+* The upgraded gun is lighter than the stock gun. G94 GW Tiger P 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+
+File:G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) scr 1. G94 GW Tiger P jpg
+File:G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) scr 2. G94 GW Tiger P jpg
+File:G. G94 GW Tiger P W. G94 GW Tiger P  Tiger (P) scr 3. G94 GW Tiger P jpg
+
+|History=
+N/A (see below)
+
+|HistoricalGallery=
+N/A
+
+|HistAcc=
+The vehicle's in-game description is false. G94 GW Tiger P  No historical records of this SPG exists since all [[Tiger (P)]]s were converted into the [[Ferdinand]] tank destroyer. G94 GW Tiger P 
+
+|Ref_references=*https://en. G94 GW Tiger P wikipedia. G94 GW Tiger P org/wiki/VK4501
+
+
+|Ref_sources=
+
+
+|Sidebar_Camostop=3. G94 GW Tiger P 7
+|Sidebar_Camomove=1. G94 GW Tiger P 4
+|Sidebar_Camofire=0. G94 GW Tiger P 3
+|Sidebar_Passhard=1. G94 GW Tiger P 247
+|Sidebar_Passmed=1. G94 GW Tiger P 438
+|Sidebar_Passsoft=2. G94 GW Tiger P 397
+|Sidebar_DispTurret=0. G94 GW Tiger P 614
+|Sidebar_DispRecoil=5. G94 GW Tiger P 753
+|Sidebar_DispAccel=0. G94 GW Tiger P 422
+|Sidebar_DispTurning=0. G94 GW Tiger P 422
+}}

@@ -1,0 +1,199 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: History Historical Gallery. 
+385,000 Cost. 
+275220 HP Hit Points. 
+10/115.94/0 t Weight Limit. 
+140170 hp Engine Power. 
+30/10 km/h Speed Limit. 
+2424 deg/s Traverse. 
+1428.62 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+25/15/10 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+465//465// HP Damage. 
+32//32// mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 16.5 s 50% Crew: 20.44 s 75% Crew: 17.85 s 100% Crew: 15.82 s Rammer: 14.24 s Vents: 15.47 s Both: 13.92 s Both and BiA: 13.62 s Both and Max Crew %: 13.06 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 16.5 s 50% Crew: 20.44 s 75% Crew: 17.85 s 100% Crew: 15.82 s Rammer: 14.24 s Vents: 15.47 s Both: 13.92 s Both and BiA: 13.62 s Both and Max Crew %: 13.06 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (465 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (465 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 1.065 m With 75% Crew: 0.93 m With 100% Crew: 0.825 m With BiA: 0.806 m With BiA and Vents: 0.789 m Maximum possible: 0.756 m For more details, see Crew m ▲ With 50% Crew: 1.065 m With 75% Crew: 0.93 m With 100% Crew: 0.825 m With BiA: 0.806 m With BiA and Vents: 0.789 m Maximum possible: 0.756 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 8.671 s With 75% Crew: 7.572 s With 100% Crew: 6.712 s With GLD: 6.102 s With BiA: 6.564 s With BiA and Vents: 6.421 s With both and GLD: 5.838 s Maximum possible: 5.595 s For more details, see Crew or Equipment s ▲ With 50% Crew: 8.671 s With 75% Crew: 7.572 s With 100% Crew: 6.712 s With GLD: 6.102 s With BiA: 6.564 s With BiA and Vents: 6.421 s With both and GLD: 5.838 s Maximum possible: 5.595 s For more details, see Crew or Equipment Aim time. 
+1616 deg/s Gun Traverse Speed. 
+14° Gun Arc. 
+-3°/+45°-3°/+45° Elevation Arc. 
+2424 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 200.4 m With 75% Crew: 227.7 m With 100% Crew: 255 m With Recon and Situational Awareness: 267.9 m With Coated Optics: 280.5 m With Binocular Telescope: 318.75 m Maximum possible: 365.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 200.4 m With 75% Crew: 227.7 m With 100% Crew: 255 m With Recon and Situational Awareness: 267.9 m With Coated Optics: 280.5 m With Binocular Telescope: 318.75 m Maximum possible: 365.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With 100% Signal Boost: 432 m When affected by 100% Relaying: 396 m Maximum possible: 518 m For more details, see Skills or Equipment m ▲ With 50% Crew: 491.1 m With 75% Crew: 558.1 m With 100% Crew: 625 m With 100% Signal Boost: 750 m When affected by 100% Relaying: 687.5 m Maximum possible: 899.3 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+122 mm Howitzer M-30. 
+32. 
+465. 
+3.64. 
+0.86. 
+7. 
+nan. 
+nan. 
+45000. 
+nan. 
+152 mm Howitzer D-1. 
+38. 
+600. 
+1.9. 
+0.85. 
+7. 
+nan. 
+nan. 
+61000. 
+III. 
+GAZ-203. 
+140. 
+20. 
+nan. 
+550. 
+3830. 
+III. 
+M-80. 
+170. 
+20. 
+nan. 
+550. 
+4130. 
+nan. 
+SU-122A. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+4510. 
+nan. 
+SU-122A enhanced. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+8500. 
+V. 
+10R. 
+360. 
+nan. 
+100. 
+3660. 
+IX. 
+12RT. 
+625. 
+nan. 
+110. 
+33600. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=
+|
+
+|InTheGame_pros=
+* Decent engine power and traverse - relocates easily
+* Top gun has the highest damage of all tier V SPG's  
+* Gun range: stock: 1150 m, top: 1200 m 
+* Gun range can reach end map easily 
+
+
+|InTheGame_cons=
+* Quite poor accuracy and slow aim time on both guns. R100 SU122A  Occasionally misses fully aimed shots. R100 SU122A 
+* Almost a half minute to reload top gun, DPM is lowest of all tier V SPG's. R100 SU122A 
+* Unstellar gun elevation and narrow gun traverse. R100 SU122A 
+* Limited top speed
+
+
+|InTheGame_performance= So, you have a brand new SU-122A in your garage?  With the best crew and equipment credits can buy. R100 SU122A  You've got a 75% crew, an artillery rammer and a gun laying drive. R100 SU122A  What could you expect from this tier V SPG then?
+
+The mobility of the SU-122A is adequate. R100 SU122A  While its top speed is only 30 kmp/h, a power to weight ratio above 15 is enough to get the SU-122A where it needs to be. R100 SU122A  Due to its decent acceleration and traverse, combined with its compact size, the SU-122A has the potential to become a deadly ambush tank. R100 SU122A  If you can lure tanks to expose their side to you rounding a corner, you can severely damage them at point blank range. R100 SU122A  However, with your long reload time you should not expect to fire a second shot unless you have plenty of team support. R100 SU122A 
+
+The difficulties begin when it's time to fire the gun in artillery mode. R100 SU122A  The stock 122 mm M-30 of the SU-122A comes with large dispersion and an insignificant burst radius. R100 SU122A  Fully aimed shots are typically required for a reasonable chance to hit a target. R100 SU122A   And to cause substantial damage direct hits are necessary given the small burst radius. R100 SU122A  Unfortunately even fully aimed shots will often miss. R100 SU122A 
+  
+Aiming the SU-122A is an excruciatingly slow process and to fire a fully aimed shot with the above crew and equipment layout will require more than 11 seconds of aim time. R100 SU122A  Any potential target will have plenty of time to move away before a fully aimed shot can be fired. R100 SU122A   Also a spotted tank might disappear in about 10 seconds if no longer visible to your team mates and having a target disappear before the shot is fully aimed is naturally not helpful when attempting to hit said target. R100 SU122A  
+
+The long aim time of the SU-122A gives it a sluggish response which makes it difficult to hit targets of opportunity. R100 SU122A  Instead one will often have to rely on pre-aimed shots, hoping for an enemy tank to appear near the pre-aimed target point. R100 SU122A  Which is fine when a target does appear but less so when the result is staring at an empty piece of ground, waiting for a target which never shows. R100 SU122A   
+
+Because of the awkwardly long  aim time of the SU-122A, there won't be many opportunities to fire fully aimed shots at visible targets in a game. R100 SU122A  Furthermore, when a target do remain visible in the open long enough that SU-122A can fire a fully aimed shot, then this target can also typically be shot by some of your allies. R100 SU122A  Allies which generally will aim and fire much faster than the SU-122A, meaning your intended target will likely explode before you're able to fire at it. R100 SU122A  
+
+The top 152mm D-1 of the SU-122A comes with the same awkward aim time and large dispersion as the stock gun. R100 SU122A  The reload time is furthermore nearly twice that of the stock gun, so the rate of fire of the 152mm top gun is nearly cut in half compared to the stock gun. R100 SU122A  This is not as bad as it may sound however, as nearly all those shells from the stock gun would have missed their targets anyway to create nothing but expensive holes in the ground. R100 SU122A  
+
+What the top gun offers is higher damage, a much larger burst radius and the ability to stun the target. R100 SU122A   When that rare opportunity does arise and the SU-122A is finally able to fire a fully aimed shot at a target which have not yet disappeared or been destroyed by your allies, the 152 mm top gun is more likely to catch the target within its burst radius, will do more damage when it does and may also generate some secondary damage if your allies can hit a stunned target. R100 SU122A   
+
+These are significant improvements and it's arguably even more important to have the top gun if the crew has not yet reached 100% as they'll be hard pressed to hit anything  with the stock gun. R100 SU122A  With a 100% crew you could perhaps go back to the stock 122mm M-30 gun to check if the crew is good enough to leverage the higher DPM the stock gun provides. R100 SU122A  
+
+The top 152mm D-1 does not necessarily transform the SU-122A into something resembling a capable SPG. R100 SU122A  While the top gun does offer some advantages, the identical aim time and dispersion means the gameplay of the SU-122A largely stays the same irrespective of which gun is is mounted: 
+
+
+Aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  and the target moves away. R100 SU122A 
+  
+Aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  and the target disappears. R100 SU122A   
+
+Aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  aiming. R100 SU122A . R100 SU122A . R100 SU122A  and the target is destroyed by allies. R100 SU122A  
+
+
+Over and over again. R100 SU122A   
+
+
+There will be lots of aiming done. R100 SU122A  There will be lots of missed opportunities and targets lost. R100 SU122A  There will be lots of shots going astray. R100 SU122A  Few targets will be hit and little damage will be done. R100 SU122A  
+
+If that is the gameplay you're looking for, the SU-122A might be the SPG for you. R100 SU122A  Else you might find it a less than rewarding grind. R100 SU122A 
+
+|InTheGame_research=
+* Nothing carries over from the SU-5. R100 SU122A 
+* First, research the SU-122A enhanced Suspension. R100 SU122A 
+* Next, research the 152 mm Howitzer D-1. R100 SU122A 
+* Now, research the M-80 Engine. R100 SU122A 
+* Finally, research the 12RT Radio. R100 SU122A  It is used on many other Soviet vehicles in a variety of different lines. R100 SU122A 
+
+|InTheGame_equipment=
+Artillery Shell Rammer, GLD, Camouflage Net
+
+|Gallery=
+
+
+|History=
+
+
+|HistoricalGallery=
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+}}

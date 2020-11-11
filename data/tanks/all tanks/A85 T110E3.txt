@@ -1,0 +1,182 @@
+6,100,000 Cost. 
+20501640 HP Hit Points. 
+74.73/7860.16/0 t Weight Limit. 
+875875 hp Engine Power. 
+24/8 km/h Speed Limit. 
+2424 deg/s Traverse. 
+11.71Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+305/76/38 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+750/750/1100750/750/1100 HP Damage. 
+295/375/90295/375/90 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 17 s 50% Crew: 21.06 s 75% Crew: 18.39 s 100% Crew: 16.3 s Rammer: 14.67 s Vents: 15.94 s Both: 14.35 s Both and BiA: 14.04 s Both and Max Crew %: 13.45 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 17 s 50% Crew: 21.06 s 75% Crew: 18.39 s 100% Crew: 16.3 s Rammer: 14.67 s Vents: 15.94 s Both: 14.35 s Both and BiA: 14.04 s Both and Max Crew %: 13.45 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (750 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (750 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (1100 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (750 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (750 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (1100 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment Aim time. 
+2626 deg/s Gun Traverse Speed. 
+16° Gun Arc. 
+-8°/+16°-8°/+16° Elevation Arc. 
+2727 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 585.3 m With 75% Crew: 665.2 m With 100% Crew: 745 m With 100% Signal Boost: 894 m When affected by 100% Relaying: 819.5 m Maximum possible: 1072 m For more details, see Skills or Equipment m ▲ With 50% Crew: 585.3 m With 75% Crew: 665.2 m With 100% Crew: 745 m With 100% Signal Boost: 894 m When affected by 100% Relaying: 819.5 m Maximum possible: 1072 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+155 mm AT Gun T7E2. 
+295/375/90. 
+750/750/1100. 
+3.53. 
+0.36. 
+2.5. 
+nan. 
+nan. 
+335000. 
+nan. 
+Continental AOI-1490. 
+nan. 
+0. 
+nan. 
+nan. 
+100000. 
+nan. 
+T110E3. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+82500. 
+X. 
+AN/VRC-3. 
+745. 
+nan. 
+160. 
+51600. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=
+|The T110E3 is the tier X American Tank Destroyer on the turretless tech tree. A85 T110E3  A compact, slightly more mobile than the [[T95]], the E3 can move around the battlefield better with its increased top speed, but at the dire sacrifice of overall armor protection. A85 T110E3  Cutting the side and rear armor by more than half, the T110E3 is much more vulnerable to flanking tanks, and the lack of "skirt" armor on the sides makes the E3 take in more damage from artillery shells. A85 T110E3  However, the E3 still maintains the 305mm of frontal armor that the [[T95]] is famous for, so fighting this tank from the front is incredibly difficult. A85 T110E3  The increased vulnerability should not scare anyone away from trying to get this tank, as it can still do much of what the [[T95]] was able to do and even more. A85 T110E3 
+
+|Sidebar_Camostop=9
+|Sidebar_Camomove=4
+|Sidebar_Camofire=2. A85 T110E3 17
+|Sidebar_Passhard=1. A85 T110E3 438
+|Sidebar_Passmed=1. A85 T110E3 63
+|Sidebar_Passsoft=2. A85 T110E3 877
+|Sidebar_DispTurret=0. A85 T110E3 077
+|Sidebar_DispRecoil=3. A85 T110E3 836
+|Sidebar_DispAccel=0. A85 T110E3 211
+|Sidebar_DispTurning=0. A85 T110E3 211
+
+|Gallery=
+
+|InTheGame_pros= 
+- Shares the same very strong 305mm frontal armor with its predecessor. A85 T110E3  And unlike its predecessor and other T110E tanks, the Cupola is outrageously strong. A85 T110E3 
+
+- Gun Mantlet with superstructure behind it is 600+ mm of effective armor, making it truly invincible. A85 T110E3 
+
+- Yields an improoved variant of the T95s 155mm gun with better penetration, slightly better accuracy, and higher damage per minute. A85 T110E3 
+
+- -8° of gun depression allows for more usable hull-down tactics than the T95. A85 T110E3  
+
+
+
+|InTheGame_cons=
+- Side (Below superstructure) and rear armor is very weak and vulnerable to HE. A85 T110E3  Can also be overmatched by +133mm guns. A85 T110E3  
+
+- Sluggish speed and traverse, one of the slowest tanks in the game. A85 T110E3  
+
+- Lower glacis is very weak and easily penned, but can be trollish at times. A85 T110E3 
+
+- Gets shot at with nothing but HE and Premium rounds all the time, damaging you frequently even in hulldown. A85 T110E3 
+
+- Bad terrain resistance, even on hard ground. A85 T110E3 
+
+- Awful gun handling, long aim time with below average accuracy. A85 T110E3  
+
+- Repair costs are high, even for a tier X. A85 T110E3  Being killed will suck close to 25K silver from your earnings
+
+|InTheGame_performance=
+The T110E3 is a truly devastating tank destroyer. A85 T110E3  Its ability to reliably bounce shells from nearly all tanks in the game means it can single-handedly distract an enemy team as they focus fire without any significant results. A85 T110E3  Woe to the enemy tankers who sit face to face with a T110E3 as the likelihood of survival is virtually nil in the right hands. A85 T110E3  T95 drivers will notice many of the same characteristics of the T95 in the T110E3 and should play it the same way with some minor adjustments. A85 T110E3  The T110E3's primary weak point from the front is its lower hull corners, so T110E3 drivers should seek camping spots that cover this area, or if not possible, terrain that can cover large portions of the lower glacis. A85 T110E3  If achieved, the only other weak point from the front is the Commander's view port on top of the tank, but even so it is still a very difficult target to penetrate and bounces shells as well. A85 T110E3  While faster and more agile than the T95, it is still weak to flanking and getting tracked, so play smart and use reverse and track any tank attempting to flank you and ram his front. A85 T110E3  Doing so will essentially guarantee a win as their shells cannot penetrate your upper hull and your shells will pierce every time, quickly destroying them. A85 T110E3 
+
+While the side and rear armor is statistically weaker than the front, everything above the tracks is still difficult to penetrate. A85 T110E3  The T110E3 works best in conjunction with support tanks acting as the tank that leads the rush around corners into enemy formations and focusing directly on the highest tiered tank, running into it if possible. A85 T110E3  If that support requirement is met, the enemy will shoot the T110E3 in a futile effort only to immediately be overrun. A85 T110E3  The camo rating for the T110E3 is low so sniping from distance can be difficult except if hidden behind a heavy brush. A85 T110E3  Sixth sense skill is strongly recommended for T110E3 drivers for this reason. A85 T110E3  The gun is accurate to specific areas on enemy tanks up to 350m and larger tank sections up to 500m. A85 T110E3 
+
+The T110E3 is still highly underestimated and does not receive as much respect and fear as it should. A85 T110E3  Take advantage of this doubt as the enemy attempts to exchange shots with you and finish them off swiftly. A85 T110E3  The only other tank a T110E3 fears fighting against is another T110E3 simply because it's so difficult to damage it. A85 T110E3 
+
+The Armor on a T110E3 is 305mm on the superstructure front, the gun mantle is 305mm of spaced armor plus 305mm of base armor behind that, and the hull "beak" is also 305mm thick. A85 T110E3  The hull, while based on the same design as the T110E5s, is actually tougher by ~10mm of actual thickness (not effective) on the upper and lower glacis while the beak is a 51mm upgrade. A85 T110E3  Keeping in mind how sloping increases the effective thickness of thicker armor drastically more than on thinner armor and you can get an idea of just how strong the rounded sloped frontal hull of the E3 is even compared to the E5. A85 T110E3  In fact when aiming at the lower glacis you should still aim for the corners or the flattest part relative to your firing angle because if the shot hits at evenly a slightly odd angle anything but tier 10 TDs will get trolled by the lower glacis. A85 T110E3  If you go for a fully aimed shallow angle shot and the round diverts to the outside of the aiming circle it will probable face ~268mm of armor. A85 T110E3  If the shot is poorly aimed and hits the lower glacis at a moderately bad to extreme angle it will almost certainly just richochet off. A85 T110E3 
+
+It is also worth noting that the E3 has very potent HE, if you are doubting your capabilities to land AP or even APCR rounds on targets, or prefer to actually do damage instead of running the risk bouncing, the HE of the T110E3 is quite forgiving, and will almost always deal no less than 300 damage, on top of this, such HE rounds are an absolute nightmare to Chinese tanks or even exposed tanks in general for that matter, having a Gunner with Deadeye maxed will mean high chances at critically hitting multiple modules on just one enemy vehicle, which can lead to fires and delayed kills, or at least crippling these tanks severely. A85 T110E3  It is highly recommended for use against softer targets (Especially like the Grille 15, which, if it penetrates, will chop off over half of its health), and can also prove handy for pounding mediums like Obj. A85 T110E3  140s, T-62A's, etc that are using hull down tactics. A85 T110E3 
+
+Overall the E3 is an offensively flexible and, at least from the front, defensively powerful tank destroyer, harness such power wisely. A85 T110E3 
+
+|InTheGame_research= This tank is elite in its stock configuration
+
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, Spall Liner, GLD, Toolbox
+
+|External_Reviews= 
+{{#ev:youtube|AjgJXMf_2Zk}}
+
+|History= 
+
+The T110E3 as represented in game is the third Chrysler proposal of the T110 120mm Heavy tank project. A85 T110E3  This should not be confused with the [https://blog. A85 T110E3 tankpedia. A85 T110E3 org/wp-content/uploads/2013/05/Capture6. A85 T110E3 png third Detroit T110 proposal]. A85 T110E3  The Chrysler T110E3 is mostly identical to the T110E4 save for being slightly shorter due to a worse power plant. A85 T110E3 
+
+
+
+The T110E3/4 was planned to use an AOI-1490 engine located in the rear of the hull along with the transmission. A85 T110E3  The rear section of the hull was to be covered with infrared shielding. A85 T110E3  The main weapon of the T110 series (the T123 120 mm gun, prototype to the M58) was to be mounted in a gimbal ring mount. A85 T110E3 This arrangement gave the tank 15 degrees of movement either left or right and -10 to +20 degrees of depression/elevation. A85 T110E3  The gun mantlet was to weight ~2 tons and would be ~230 mm thick without any curvature being taken into consideration. A85 T110E3  The rest of the hull was to be protected by 127 mm of armor sloped at 60 degrees(254 mm of effective armor). A85 T110E3  There was to be 4 crew members with the driver and gunner being located uncomfortably in the front of the vehicle wedged against 127 mm of armor. A85 T110E3  The cupola was to have a . A85 T110E3 30 caliber MG and was to use an OPTAR rangefinder using pulsed light. A85 T110E3 
+
+|HistAcc=
+* The frontal armor of the T110E3 is much thicker than historically proposed. A85 T110E3 
+* The only gun planned for the whole of the T110 series was the T123 120mm gun. A85 T110E3 
+* The AOI-1490 engine only had 700 horsepower in real life, but in game it has 875 horsepower. A85 T110E3 
+
+|HistoricalGallery=
+image:T110E3 1. A85 T110E3 jpg{{!}}Internal layout of the T110E3 (T110E4 in real life)
+image:T110E3 3. A85 T110E3 jpg{{!}}T110E3/4 plans
+image:T110E3 2. A85 T110E3 jpg{{!}}T110E3/4 mock up
+
+
+|Ref_references=
+
+
+|Ref_sources=
+R. A85 T110E3 P. A85 T110E3  Hunnicutt - A History of the American Heavy Tank: Firepower, 1988 Presidio Press, ISBN 0891413049
+
+|Ref_links=
+* https://blog. A85 T110E3 tankpedia. A85 T110E3 org/2013/05/30/the-t110-120mm-heavy-tank-project/
+* https://ftr. A85 T110E3 wot-news. A85 T110E3 com/2013/06/11/the-t110e4/
+
+}}
+
+[[Category:USA Tanks]]

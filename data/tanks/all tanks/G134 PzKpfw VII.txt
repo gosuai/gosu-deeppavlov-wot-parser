@@ -1,0 +1,168 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery History Historical Gallery. 
+6,100,000 Cost. 
+25002000 HP Hit Points. 
+120.03/13051.13/0 t Weight Limit. 
+12001200 hp Engine Power. 
+33/15 km/h Speed Limit. 
+2424 deg/s Traverse. 
+10Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+240/160/120 mm Hull Armor. 
+200/160/120// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+560/560/700560/560/700 HP Damage. 
+258/315/65258/315/65 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 16 s 50% Crew: 19.82 s 75% Crew: 17.31 s 100% Crew: 15.34 s Rammer: 13.81 s Vents: 15 s Both: 13.5 s Both and BiA: 13.21 s Both and Max Crew %: 12.66 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 16 s 50% Crew: 19.82 s 75% Crew: 17.31 s 100% Crew: 15.34 s Rammer: 13.81 s Vents: 15 s Both: 13.5 s Both and BiA: 13.21 s Both and Max Crew %: 12.66 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (560 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (560 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (700 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (560 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (560 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (700 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.458 m With 75% Crew: 0.4 m With 100% Crew: 0.355 m With BiA: 0.347 m With BiA and Vents: 0.339 m Maximum possible: 0.325 m For more details, see Crew m ▲ With 50% Crew: 0.458 m With 75% Crew: 0.4 m With 100% Crew: 0.355 m With BiA: 0.347 m With BiA and Vents: 0.339 m Maximum possible: 0.325 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.221 s With 75% Crew: 2.812 s With 100% Crew: 2.493 s With GLD: 2.266 s With BiA: 2.438 s With BiA and Vents: 2.385 s With both and GLD: 2.168 s Maximum possible: 2.078 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.221 s With 75% Crew: 2.812 s With 100% Crew: 2.493 s With GLD: 2.266 s With BiA: 2.438 s With BiA and Vents: 2.385 s With both and GLD: 2.168 s Maximum possible: 2.078 s For more details, see Crew or Equipment Aim time. 
+1818 deg/s Turret Traverse. 
+360° Gun Arc. 
+-7°/+17°-7°/+17° Elevation Arc. 
+4040 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 581.2 m With 75% Crew: 665.6 m With 100% Crew: 750.9 m With 100% Signal Boost: 864 m When affected by 100% Relaying: 792 m Maximum possible: 1080.9 m For more details, see Skills or Equipment m ▲ With 50% Crew: 581.2 m With 75% Crew: 665.6 m With 100% Crew: 750.9 m With 100% Signal Boost: 864 m When affected by 100% Relaying: 792 m Maximum possible: 1080.9 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+12,8 cm Kw.K. 46 L/61. 
+258/315/65. 
+560/560/700. 
+3.75. 
+0.37. 
+2.6. 
+nan. 
+nan. 
+340000. 
+nan. 
+Pz.Kpfw. VII. 
+//. 
+18. 
+400. 
+nan. 
+nan. 
+66000. 
+nan. 
+MB 517. 
+nan. 
+0. 
+nan. 
+nan. 
+132000. 
+nan. 
+Pz.Kpfw. VII. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+82500. 
+X. 
+10WSc. 
+720. 
+nan. 
+160. 
+51600. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+{{TankData|Tank= Pz. G134 PzKpfw VII Kpfw. G134 PzKpfw VII  VII
+| Simply called the '''Panzer 7''' or '''Panzer VII''', This Replaced the [[Tank:G42_Maus|Maus]]'s position as the new end of the Porsche/Krupp tank line in the 9. G134 PzKpfw VII 17. G134 PzKpfw VII 1 patch. G134 PzKpfw VII 
+
+Basically, It's the [[Tank:G92_VK7201|VK 72. G134 PzKpfw VII 01 (K)]] with a different gun. G134 PzKpfw VII  It carries a 12. G134 PzKpfw VII 8cm gun with better penetration and rate of fire than [[Tank:E 100|E 100]]'s, but with lower alpha damage, This gun is very similar to the top gun of the Jagdtiger, but has lower penetration and rate of fire. G134 PzKpfw VII  Unlike the other German Superheavy tanks, It doesn't have all-around protection. G134 PzKpfw VII  Instead, it provides very tough and sloped frontal hull armor and a tough rounded turret, It doesn't have the lower plate as weakspot, But it has weak and flat side and rear armor that makes this tank very vulnerable to flanking. G134 PzKpfw VII 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- Insanely thick and sloped upper plate (400mm effective!) and side armor is thick enough to do sidescraping. G134 PzKpfw VII 
+
+- Unlike most of German tanks its lower glacis, despite lacks of angling, is thick enough to withstand most regular shots (270 mm effective when not angling the tank). G134 PzKpfw VII 
+
+- High HP pool (2500)
+
+- Decent mobility for its weight (33KM/H)
+
+- Great alpha and penetration
+
+- Its "ears" (boxes on the side of the turret) are not included as part of the tank's armor layout, But they may trick enemies into shooting at them, and wasting their ammo
+
+|InTheGame_cons= 
+
+- Long reload time (15. G134 PzKpfw VII 3 seconds with 100% crew), worst dpm of all Tier X heavies
+
+- Side and Rear armor is flat, Very vulnerable to flanking if not angled
+
+- Turret base armor is weak, and can be exposed when peek-a-boom or sidescraping
+
+- Inner gun mantlet is weak and can be penetrated often
+
+|InTheGame_performance= 
+
+The Pz. G134 PzKpfw VII Kpfw. G134 PzKpfw VII VII is a tank requiring a discreet amount of knowledge on game mechanics to show its full potential. G134 PzKpfw VII  Arising from the dreaded [[VK 45. G134 PzKpfw VII 02 (P) Ausf. G134 PzKpfw VII  B]], it is possible for standard players to believe that the Pz. G134 PzKpfw VII VII is a powerful side scraping juggernaut. G134 PzKpfw VII  It is important to understand that before playing this tank, one must know this is not the case. G134 PzKpfw VII  Both flanking sides of the armour may show as presumably strong and able on statistics, however the in-game exposure to a substantially weak turret ring is very common when being outflanked by superiorly mobile enemies. G134 PzKpfw VII  The turret ring and most viable port and starboard locations of the hull is also penetrated with regular rounds from even Tier VIII tanks, make it an astonishing surprise. G134 PzKpfw VII  One must also take priority note that within the turret ring, is a vulnerable ammunition rack that can be at risk of detonation upon damage. G134 PzKpfw VII  Most players utilising this tank usually would have a loader trained in Safe Stowage in the appropriate case of ammunition explosion. G134 PzKpfw VII 
+
+The lower plate, to many players surprise that often play German tanks, is incredibly useful and works perfectly against a majority of regular armour-penetrating shells. G134 PzKpfw VII  However, this is mostly overcome against many foes that utilise both Armour Piercing Composite Rounds (APCR) and High Explosive Armour Piercing shells (HEAT). G134 PzKpfw VII  Hull down tactics are very relevant in this scenario. G134 PzKpfw VII 
+
+This tank is a beast when you minimize your total area that's exposed to enemy fire especially on hull down position: your upper plate is almost impenetrable, whilst giving the benefit with a standing gun depression that is enough to retaliate against enemy tanks (-7°, but remember when the gun is upon the upper plate gun depression decrease to -5°). G134 PzKpfw VII  One must take into account of the inner gun mantlet that is only 200 mm thick, with the cupola being a weak spot. G134 PzKpfw VII  This is usually nullified when in hull down positioning. G134 PzKpfw VII  
+
+It is also important for a player within this tank to always stay on the move, for a multitude of hostile tanks will have difficulty facing against a heavily armoured frontal foe. G134 PzKpfw VII  Furthermore, the Pz. G134 PzKpfw VII VII has does not rely on a high DPM rating, so it works best in a defensive capability utilising high alpha damage or by working in concert with other tanks while pushing down a chosen front. G134 PzKpfw VII  In the end, the Pz. G134 PzKpfw VII Kpfw. G134 PzKpfw VII  VII is like Dr Jekyll and Mr Hyde: really strong against vehicles unable to defeat whilst well positioned and ready, but must adapt against vehicles that are able to exploit the Pz. G134 PzKpfw VII VII's weaknesses, upright. G134 PzKpfw VII 
+
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Vertical Stabilizer, Spall Liner
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+|HistoricalGallery= 
+
+|HistAcc=
+Since it shared its '''Pz. G134 PzKpfw VII Kpfw. G134 PzKpfw VII  VII''' codename with '''[[Tank:G51_Lowe|Löwe]]''', This tank is likely based on '''"Leicher Löwe"''', a light weight version of Löwe, But it had higher armour strength that its '''"Heavy"''' counterpart. G134 PzKpfw VII 
+
+* In-game description said that it was upgraded version of Löwe. G134 PzKpfw VII  But, Actually, It was planned to be a cheaper and mass-production variant of Löwe. G134 PzKpfw VII 
+* Its actual weight is only 77 tons. G134 PzKpfw VII 
+* Its actual maximum speed is only 27 KM/H
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

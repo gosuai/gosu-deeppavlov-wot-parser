@@ -1,0 +1,224 @@
+315,000 Cost. 
+600630 HP Hit Points. 
+23.82/24.9519.82/0 t Weight Limit. 
+350585 hp Engine Power. 
+55/18 km/h Speed Limit. 
+3434 deg/s Traverse. 
+14.6929.52 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+80/30/20 mm Hull Armor. 
+50/30/3050/30/30 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+70/2800/38 70/2800/38 Shell Cost. 
+110/110/175110/110/175 HP Damage. 
+103/139/38110/158/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 4.3 s 50% Crew: 5.33 s 75% Crew: 4.65 s 100% Crew: 4.12 s Rammer: 3.71 s Vents: 4.03 s Both: 3.63 s Both and BiA: 3.55 s Both and Max Crew %: 3.4 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 4 s 50% Crew: 4.96 s 75% Crew: 4.33 s 100% Crew: 3.84 s Rammer: 3.46 s Vents: 3.76 s Both: 3.38 s Both and BiA: 3.31 s Both and Max Crew %: 3.17 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1534.5 50% Crew: 1238.6 75% Crew: 1419 100% Crew: 1600.5 100% Crew Vents: 1636.8 Rammer: 1778.7 Both: 1818.3 Both and BiA: 1859 Both and Max Crew %: 1939.3 Advantageous Damage Per Minute First-shot DPM: 1644.5 50% Crew: 1348.6 75% Crew: 1529 100% Crew: 1710.5 100% Crew Rammer: 1888.7 Vents: 1746.8 Both: 1928.3 Both and BiA: 1969 Both and Max Crew %: 2049.3 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1534.5 50% Crew: 1238.6 75% Crew: 1419 100% Crew: 1600.5 100% Crew Vents: 1636.8 Rammer: 1778.7 Both: 1818.3 Both and BiA: 1859 Both and Max Crew %: 1939.3 Advantageous Damage Per Minute First-shot DPM: 1644.5 50% Crew: 1348.6 75% Crew: 1529 100% Crew: 1710.5 100% Crew Rammer: 1888.7 Vents: 1746.8 Both: 1928.3 Both and BiA: 1969 Both and Max Crew %: 2049.3 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2441.25 50% Crew: 1970.5 75% Crew: 2257.5 100% Crew: 2546.25 100% Crew Vents: 2604 Rammer: 2829.75 Both: 2892.75 Both and BiA: 2957.5 Both and Max Crew %: 3085.25 Advantageous Damage Per Minute First-shot DPM: 2616.25 50% Crew: 2145.5 75% Crew: 2432.5 100% Crew: 2721.25 100% Crew Rammer: 3004.75 Vents: 2779 Both: 3067.75 Both and BiA: 3132.5 Both and Max Crew %: 3260.25 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1650 50% Crew: 1332.1 75% Crew: 1525.7 100% Crew: 1720.4 100% Crew Vents: 1758.9 Rammer: 1911.8 Both: 1954.7 Both and BiA: 1997.6 Both and Max Crew %: 2084.5 Advantageous Damage Per Minute First-shot DPM: 1760 50% Crew: 1442.1 75% Crew: 1635.7 100% Crew: 1830.4 100% Crew Rammer: 2021.8 Vents: 1868.9 Both: 2064.7 Both and BiA: 2107.6 Both and Max Crew %: 2194.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1650 50% Crew: 1332.1 75% Crew: 1525.7 100% Crew: 1720.4 100% Crew Vents: 1758.9 Rammer: 1911.8 Both: 1954.7 Both and BiA: 1997.6 Both and Max Crew %: 2084.5 Advantageous Damage Per Minute First-shot DPM: 1760 50% Crew: 1442.1 75% Crew: 1635.7 100% Crew: 1830.4 100% Crew Rammer: 2021.8 Vents: 1868.9 Both: 2064.7 Both and BiA: 2107.6 Both and Max Crew %: 2194.5 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2625 50% Crew: 2119.25 75% Crew: 2427.25 100% Crew: 2737 100% Crew Vents: 2798.25 Rammer: 3041.5 Both: 3109.75 Both and BiA: 3178 Both and Max Crew %: 3316.25 Advantageous Damage Per Minute First-shot DPM: 2800 50% Crew: 2294.25 75% Crew: 2602.25 100% Crew: 2912 100% Crew Rammer: 3216.5 Vents: 2973.25 Both: 3284.75 Both and BiA: 3353 Both and Max Crew %: 3491.25 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.508 m With 75% Crew: 0.443 m With 100% Crew: 0.393 m With BiA: 0.384 m With BiA and Vents: 0.376 m Maximum possible: 0.361 m For more details, see Crew m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+4453 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+130105 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 267.1 m With 75% Crew: 303.6 m With 100% Crew: 340 m With Recon and Situational Awareness: 357.2 m With Coated Optics: 374 m With Binocular Telescope: 425 m Maximum possible: 486.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 250.2 m With 75% Crew: 286.6 m With 100% Crew: 323.3 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 465.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+7,5 cm Kw.K. 40 L/43. 
+103/139/38. 
+110/110/175. 
+15. 
+0.41. 
+2.3. 
+nan. 
+1437. 
+25000. 
+V. 
+7,5 cm Kw.K. 40 L/48. 
+110/158/38. 
+110/110/175. 
+15. 
+0.39. 
+2.3. 
+nan. 
+1520. 
+27380. 
+IV. 
+Pz.Kpfw. III/IV Ausf. A. 
+50/30/30. 
+44. 
+340. 
+nan. 
+3000. 
+5370. 
+V. 
+Pz.Kpfw. III/IV Ausf. B. 
+50/30/30. 
+53. 
+350. 
+nan. 
+4000. 
+11330. 
+IV. 
+Maybach HL 120 TR. 
+350. 
+20. 
+nan. 
+510. 
+10430. 
+IV. 
+Maybach HL 120 TRM. 
+440. 
+20. 
+nan. 
+510. 
+19900. 
+V. 
+Maybach HL 157 P. 
+585. 
+20. 
+nan. 
+580. 
+20000. 
+nan. 
+Pz.Kpfw. III/IV. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+4430. 
+nan. 
+Pz.Kpfw. III/IV verstärkteketten. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+8310. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+IX. 
+FuG 12. 
+710. 
+nan. 
+150. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank=PzIII_IV
+|Fast, agile and properly armored, the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III/IV can cover the flanks of heavier tanks, as well as defend terrain from a distance. G28 PzIII IV  Its fast speed allows it react to cover critical points of the map and stay ahead ahead of its allies as a spotter. G28 PzIII IV  However, it doesn't pay to go solo, as this tank lacks in alpha damage, so it can't actually push through the enemy advance: it is best played like a flanker and scout for the bigger guns. G28 PzIII IV  On the plus side, your mobility allows you to duck into cover, poke out of it, and finally get around  it. G28 PzIII IV  This repositioning allows you to dodge fire directed at your weak turret armor, while you shoot at them from behind with your adequately accurate 75mm gun. G28 PzIII IV  It is a remarkable defensive vehicle, but due to its offensive weaknesses it can't be relied upon to win a tier 5 match all by itself. G28 PzIII IV  This vehicle is currently a Collector's tank as it has been removed from the Main Tree. G28 PzIII IV 
+
+|InTheGame_pros=
+* Great mobility: high acceleration and top speed
+* Jack-of-All-Trades, directly superior to [[Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV Ausf. G28 PzIII IV  H|Pz. G28 PzIII IV IV H]] mounting the same 7,5cm L/48 gun
+* Hull armor is decently sloped, upper plate is thicker than some Tier 5 heavy tanks
+* Gun penetration vastly more reliable for picking off enemies, compared to the weaker 50mm L/60 at tier IV. G28 PzIII IV 
+* Spaced Turret armor is almost completely invulnerable to HEAT and reduces HE damage
+
+|InTheGame_cons=
+* Mediocre accuracy, somewhat difficult to hit distant targets
+* Large front mounted transmission compartment, prone to engine damage and de-tracking shots
+* Weak hull side and turret armor, can not angle effective
+* Turret is giant 50mm weak spot, although spaced armor screens can trick your enemies into shooting them and dealing no damage
+* Mediocre view range doesn't enable very effective active scouting
+* Harsh stock grind with poor gun and very bad terrain resistance
+
+|InTheGame_performance=
+As in the page introduction, the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III/IV is a somewhat unique tier 5 tank. G28 PzIII IV   It's somewhere between a [[Glossary|flanker]] and a half-scout, combining high mobility, good acceleration, agility, and fairly powerful hull armor at the price of some glaring weaknesses. G28 PzIII IV  Notably these are mediocre accuracy, poor armor on hull sides and turret, also somewhat lacking alpha damage giving it a limited offensive capability. G28 PzIII IV  In terms of tactics, use the mobility to position yourself in vital spots in the map, such as cap points and on your enemies flanks, as long as you stay far back enough to be in cover with an escape route. G28 PzIII IV  Try to react and defend from cover or strike accurately from afar, rather than charging in and going on the offensive. G28 PzIII IV 
+
+Firstly, ''mobility''. G28 PzIII IV  first played with all modules stock you may be disappointed by its sloppy movement as it's a far cry from your Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III, but with a ridiculously strong top engine and upgraded suspension you will be able to outrun almost all non-scout tanks you will face. G28 PzIII IV  The best use for the high speed is popping around ridgelines, spotting the enemy for heavier guns and earn a few snap shots by yourself. G28 PzIII IV  Agility is excellent and well suited for circling, with unrivalled turret traverse speed, though it never hurts being vigilant of enemy reinforcements possibly planning to outflank you. G28 PzIII IV 
+
+In terms of ''survivability'', 80mm of sloped upper glacis armor is directly superior to 70mm on the PzKpfw III, though also facing opponents with bigger guns. G28 PzIII IV  The lower parts and sides left much to be desired, barely improved at 60mm and 30mm respectively. G28 PzIII IV  Size wise, the tank is rather tall and has mediocre camouflage. G28 PzIII IV  If you can add your own angling into the mix, you might get a Steel Wall achievement by luck. G28 PzIII IV  Also note that a large portion of your hull side is not covered by spaced armor, so one hit from 105 mm howitzer there will probably cripple you. G28 PzIII IV  
+
+The ''gun'' is one of the most notable issues of Pz. G28 PzIII IV Kpwf. G28 PzIII IV  III/IV. G28 PzIII IV  It can't mount a 105 mm howitzer like [[Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV]] or [[M4 Sherman]], and 7,5cms' are not really impressive, with mediocre accuracy, penetration and acceptable RoF. G28 PzIII IV  If you are putting it to use, better avoid long-range engagements for preservance of ammunition. G28 PzIII IV  Usually if you utilize your assets right, you will still come out on top of duels (ie due to the armour and agility). G28 PzIII IV  In a solo engagement, peek around corners with angled armor, and get up close and personal and force them to rotate helplessly in place and abuse their slower reload. G28 PzIII IV  
+
+It is advised to go for the suspension before anything else, because the stock one has pitiful traverse speed and terrain resistance even with top engine mounted. G28 PzIII IV  Be aware that the upgraded gun has marginal amounts of penetration and accuracy over the stock gun, and isn't necessarily the first choice for research. G28 PzIII IV  Additionally, the turret gives you a good bit of health, so this will increase your overall survivability and will also probably be more useful than going straight for the gun. G28 PzIII IV  
+
+Crew skills are advised to focus on maximising the already outstanding mobility, as well as compensating the mediocre spotting capability and firepower efficiency. G28 PzIII IV  The loader who cannot help with that can take Safe Stowage to prevent ammo rack damage from weak sides (or repairs if you tend not to take large hits). G28 PzIII IV  GLD, Optics, and Gun Rammer are good equipment to help those two traits respectively - the optics especially is a must for the next tank, the VK 3001D. G28 PzIII IV 
+
+|InTheGame_research=
+* Upon purchasing this tank, you should immediately install the Maybach HL 120 TRM engine and upgrade the radio to at least the FuG 7. G28 PzIII IV 
+* Get enhanced Torsion Bars to bypass the tracks and shorten the stock grind. G28 PzIII IV  
+* Now you have the weight capacity to upgrade everything else. G28 PzIII IV 
+* Next you may want to upgrade to the 7. G28 PzIII IV 5 cm KwK 40 L/48 gun. G28 PzIII IV 
+* The high power of HL 157P engine brings out this tank's true potential. G28 PzIII IV 
+* Upgrading the turret not only gives a small boost to gun stats and view range, but also grants additional hitpoints and armor screen around the turret. G28 PzIII IV   
+* With the high speed of this tank, you may be called upon to scout, so you'll want the FuG 12 if you don't have it by now. G28 PzIII IV 
+
+
+|InTheGame_equipment=
+Tank Gun Rammer, Coated Optics, GLD, Vents, Toolbox
+
+|Gallery=
+image:Pz34-a. G28 PzIII IV jpg{{!}}Front right
+image:Pz34-b. G28 PzIII IV jpg{{!}}Front left
+image:Pz34-c. G28 PzIII IV jpg{{!}}Rear right
+image:Pz34-d. G28 PzIII IV jpg{{!}}Rear left
+
+|History=
+''The Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III/IV represents an attempt to integrate the development of the'' [[Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III]] ''and'' [[Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV]] ''vehicles. G28 PzIII IV ''
+
+On September 14, 1941, Chief of Stab Rüstung 11a approved the specification of the tank, a combination of Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III and Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV chassis leichte Panzer Jaeger (later renamed the Panzer IV lang (E)). G28 PzIII IV  As the engine had passed the test of time and war, the Maybach HL-120TRM was chosen and connected to the transmission SSG-77. G28 PzIII IV  The driving wheels of the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III were used and reinforced output shafts were added. G28 PzIII IV  The chassis consisted of six rollers 660 mm in diameter on the board, semi-detached on the leaf springs in pairs. G28 PzIII IV  New symmetrical tracks 540 mm wide with a central ridge were chosen. G28 PzIII IV  Sloth - from the tank Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV, but strengthened and expanded. G28 PzIII IV  Plans were to increase cruising range by placing an additional 300 liter fuel tank in the engine compartment. G28 PzIII IV 
+
+The front part of the body was redesigned. G28 PzIII IV  The top 60 mm thick armored plates got an inclination of 60 degrees to the vertical, the bottom plates were 60 mm thick, with an inclination of 45 degrees to the vertical. G28 PzIII IV  The turret was a slightly modified version of the one one used on the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV Ausf. G28 PzIII IV  J. G28 PzIII IV  The construction of the turret excluded rotary electrical contacts at the base, opting instead to use a flexible electrical cable. G28 PzIII IV  This limited the traverse angle of the turret to 270 degrees right and left of the longitudinal axis. G28 PzIII IV  Ammunition was increased to one hundred rounds of 75mm cannon and up to 3,150 rounds of machine-gun rounds. G28 PzIII IV 
+
+In March 1944 Wa Pruef 6 signed a contract to build three experimental tanks Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV auf Einheitsfahrgesyell. G28 PzIII IV  In June 1944 it was decided to launch full production at Krupp-Gruzonverk, but on July 12, 1944, the Krupp firm was informed about the cancellation of the Pz. G28 PzIII IV Kpfw. G28 PzIII IV  III / Pz. G28 PzIII IV Kpfw. G28 PzIII IV  IV program. G28 PzIII IV 
+
+|HistoricalGallery=
+image:PzIII-IV Drawing Side. G28 PzIII IV jpg{{!}}Front right
+image:PzIII-IV Drawing Top. G28 PzIII IV jpg{{!}}Front left
+image:PzIII-IV Drawing Front. G28 PzIII IV jpg{{!}}Rear right
+
+|Ref_references=
+
+
+|Ref_sources=
+History Article: https://pro-tank. G28 PzIII IV ru/blog/653-german-tanks-non-realized-projects-on-basis-pz3-pz4 (Translated using Google Translate and then further edited by hand)
+* PzIII-IV Drawing Side. G28 PzIII IV jpg: https://pro-tank. G28 PzIII IV ru/blog/653-german-tanks-non-realized-projects-on-basis-pz3-pz4
+* PzIII-IV Drawing Top. G28 PzIII IV jpg: https://pro-tank. G28 PzIII IV ru/blog/653-german-tanks-non-realized-projects-on-basis-pz3-pz4
+* PzIII-IV Drawing Front. G28 PzIII IV jpg: https://pro-tank. G28 PzIII IV ru/blog/653-german-tanks-non-realized-projects-on-basis-pz3-pz4
+
+|Ref_links=
+
+}}

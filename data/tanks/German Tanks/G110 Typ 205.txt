@@ -1,0 +1,231 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery. 
+3,580,000 Cost. 
+23001840 HP Hit Points. 
+168.39/17187.13/0 t Weight Limit. 
+13001300 hp Engine Power. 
+20/15 km/h Speed Limit. 
+1212 deg/s Traverse. 
+7.72Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+200/155/135 mm Hull Armor. 
+240/160/150// mm Turret Armor. 
+AP/APCR/HE Shells. 
+0/0 1070/4800/935 Shell Cost. 
+440/440/630440/440/630 HP Damage. 
+220/260/65220/260/65 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 14 s 50% Crew: 17.34 s 75% Crew: 15.14 s 100% Crew: 13.42 s Rammer: 12.08 s Vents: 13.12 s Both: 11.81 s Both and BiA: 11.56 s Both and Max Crew %: 11.08 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 14 s 50% Crew: 17.34 s 75% Crew: 15.14 s 100% Crew: 13.42 s Rammer: 12.08 s Vents: 13.12 s Both: 11.81 s Both and BiA: 11.56 s Both and Max Crew %: 11.08 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (630 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: 1786.4 50% Crew: 1443.2 75% Crew: 1650 100% Crew: 1861.2 100% Crew Vents: 1905.2 Rammer: 2068 Both: 2116.4 Both and BiA: 2160.4 Both and Max Crew %: 2257.2 Advantageous Damage Per Minute First-shot DPM: 2226.4 50% Crew: 1883.2 75% Crew: 2090 100% Crew: 2301.2 100% Crew Rammer: 2508 Vents: 2345.2 Both: 2556.4 Both and BiA: 2600.4 Both and Max Crew %: 2697.2 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (440 Damage):  Theoretical Damage Per Minute Nominal DPM: 1786.4 50% Crew: 1443.2 75% Crew: 1650 100% Crew: 1861.2 100% Crew Vents: 1905.2 Rammer: 2068 Both: 2116.4 Both and BiA: 2160.4 Both and Max Crew %: 2257.2 Advantageous Damage Per Minute First-shot DPM: 2226.4 50% Crew: 1883.2 75% Crew: 2090 100% Crew: 2301.2 100% Crew Rammer: 2508 Vents: 2345.2 Both: 2556.4 Both and BiA: 2600.4 Both and Max Crew %: 2697.2 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (630 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2557.8 50% Crew: 2066.4 75% Crew: 2362.5 100% Crew: 2664.9 100% Crew Vents: 2727.9 Rammer: 2961 Both: 3030.3 Both and BiA: 3093.3 Both and Max Crew %: 3231.9 Advantageous Damage Per Minute First-shot DPM: 3187.8 50% Crew: 2696.4 75% Crew: 2992.5 100% Crew: 3294.9 100% Crew Rammer: 3591 Vents: 3357.9 Both: 3660.3 Both and BiA: 3723.3 Both and Max Crew %: 3861.9 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.345 s With 75% Crew: 2.92 s With 100% Crew: 2.589 s With GLD: 2.354 s With BiA: 2.532 s With BiA and Vents: 2.477 s With both and GLD: 2.252 s Maximum possible: 2.158 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.345 s With 75% Crew: 2.92 s With 100% Crew: 2.589 s With GLD: 2.354 s With BiA: 2.532 s With BiA and Vents: 2.477 s With both and GLD: 2.252 s Maximum possible: 2.158 s For more details, see Crew or Equipment Aim time. 
+1515 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+25°-8°/+25° Elevation Arc. 
+5050 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 335 m With 75% Crew: 383.7 m With 100% Crew: 432.8 m With 100% Signal Boost: 498 m When affected by 100% Relaying: 456.5 m Maximum possible: 623 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+X. 
+12,8 cm Kw.K. 44 L/55. 
+246/311/65. 
+490/490/630. 
+4.0. 
+0.38. 
+2.3. 
+nan. 
+3480.0. 
+310000. 
+nan. 
+12,8 cm Kw.K. L/50. 
+220/260/65. 
+440/440/630. 
+4.29. 
+0.4. 
+2.7. 
+nan. 
+nan. 
+220000. 
+nan. 
+Mäuschen. 
+//. 
+15. 
+400. 
+nan. 
+nan. 
+55000. 
+nan. 
+DB 603 mit mechanischer Aufladung. 
+nan. 
+0. 
+nan. 
+nan. 
+94000. 
+nan. 
+DB 603 A1. 
+nan. 
+0. 
+nan. 
+nan. 
+132000. 
+nan. 
+170 ton Panzer. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+32000. 
+nan. 
+Mäuschen. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+65500. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+IX. 
+FuG 12. 
+710. 
+nan. 
+150. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+{{TankData|Tank= Mäuschen
+
+|The '''Mäuschen''' (Little Mouse) was first introduced in the 8. G110 Typ 205 8 Version of WoT as a new predecessor to the [[Tank:G42_Maus|Maus]] but WG later removed it, since it was deemed very unbalanced (practically unbeatable against tier 7 and many tier 8s due to its armor and 150mm gun, while being very underpowered in tier 10 matches). G110 Typ 205  It was reintroduced in the 9. G110 Typ 205 17. G110 Typ 205 1 patch with buffed health, mobility and gun stats, but no longer having a 150mm gun as an option, and with less side and rear armor. G110 Typ 205 
+
+|Gallery= 
+
+|InTheGame_pros= 
+-Very thick armor for Tier 9, although it's just a slight increase the from VK 100. G110 Typ 205 01. G110 Typ 205 
+
+-Highest HP of any Tier 9 Tank (2300), higher than many Tier 10 Heavies. G110 Typ 205 
+
+-Second heaviest tank in the game (Nearly 170 tons), extremely resistant to ramming. G110 Typ 205 
+
+-Low chance of catching fire with top engine (12%). G110 Typ 205 
+
+-Painless stock grind; All of its modules don't need new suspension to support more weight, stock gun is decent for its tier, and only has one turret to be used. G110 Typ 205  Similar to Japanese Super Heavies. G110 Typ 205 
+
+-Decent aiming time with top gun
+
+|InTheGame_cons= 
+-Very slow and large; main target for SPGs. G110 Typ 205 
+
+-Somewhat low rate of fire for its alpha. G110 Typ 205 
+
+-Flat side armor, it also had the same shot trap at turret cheeks like pre-0. G110 Typ 205 9. G110 Typ 205 17 [[Maus]]. G110 Typ 205 
+
+-Terrible traverse speed. G110 Typ 205 
+
+-Although huge cupola is thickly armored, it can be penetrated, especially when sidescraping. G110 Typ 205 
+
+
+
+
+|InTheGame_performance= 
+A tier nine Maus. G110 Typ 205  Its all about drawing enemy fire. G110 Typ 205  The excellent armor makes it a very good assault leader and is very good for holding a chokepoint, where it will not get flanked while blocking one, due to its mass. G110 Typ 205  It is the absolute king of side-scraping, due to its thick, flat sides. G110 Typ 205  While its mobility seems to disappoint with a top speed of only 20 km/h, its acceleration is very good. G110 Typ 205  Another thing to note is that due to its mass, it is unable to stop when going down certain slopes. G110 Typ 205  Its main weapon is the 12. G110 Typ 205 8 cm KwK 44 L/55, the same top gun used on the VK 45. G110 Typ 205 02 (P) Ausf. G110 Typ 205  B and E-75. G110 Typ 205  It lacks penetration in comparison with the tier X guns of other nations, but it's accurate enough to reliably hit weak spots, even at medium range. G110 Typ 205  
+|InTheGame_research= 
+* The radio is carried over from earlier tanks, mount it immediately. G110 Typ 205 
+
+* Upgrade stock suspension to handle all top modules and improve traverse speed. G110 Typ 205  
+
+* Go for engine next, as it gives more mobility for this tank and also decreases the chance of it catching fire. G110 Typ 205 
+
+* Finally, go for the top gun by unlocking it and get the XP for the [[Maus]]. G110 Typ 205 
+
+
+|InTheGame_equipment=Vents, Spall Liner, Tank Gun Rammer, Toolbox
+
+|InTheGame_Equipment_Builds=
+
+|InTheGame_builds=
+
+
+
+
+|External_Reviews= https://www. G110 Typ 205 youtube. G110 Typ 205 com/watch?v=llIUacxzKcE
+
+|History= 
+
+(See the VK 100. G110 Typ 205 01 (P) for the first part of the tank's development)
+
+
+The in-game Mauschen is based on an intermediate step in the development of the Maus, specifically the blueprint K. G110 Typ 205 3385, dated to November 14, 1942. G110 Typ 205 
+
+
+On June 25th, 1942, Krupp supplied the first draft of a completely reworked turret. G110 Typ 205  Almost a month later, on July 17th, the 6th Waffenamt and Krupp signed contract #SS 006-4467/42 for the development of a turret for the Pz. G110 Typ 205 Kpfw. G110 Typ 205  Maus. G110 Typ 205  The 128 and 105 mm guns were left out, and the designers settled on a 149 mm gun. G110 Typ 205  The length of the barrel was reduced to 31 calibers, which was about the same as the sFH 18 gun family. G110 Typ 205  The gun, indexed 15 cm KwK L/31, had one piece ammunition. G110 Typ 205 
+
+
+Nevertheless, the 15 cm L/31 gun remained in correspondence until March of 1943. G110 Typ 205  A coaxial 75 mm L/24 gun was meant to fight infantry and lightly armoured targets. G110 Typ 205  The armour thickness of the turret was 250 mm in the front, 200 in the sides and rear, and 80 mm in the roof. G110 Typ 205  Overall, the turret weighed 57 tons, including the weight of 25 149 mm shells and 50 75 mm shells. G110 Typ 205 
+
+
+Even though the turret was designed for the 15 cm KwK L/31, the Porsche K. G110 Typ 205 G. G110 Typ 205  project supported the guns proposed in June requirements: the 15 cm KwK L/37 or 12. G110 Typ 205 8 cm KwK. G110 Typ 205  Both guns had a portion of their ammunition in the turret and a portion in the sponsons. G110 Typ 205  None of the guns had the 100 rounds that Hitler demanded. G110 Typ 205  By October of 1942, the mass of the turret and armament was estimated at 47 tons. G110 Typ 205 
+
+The redesigned Pz. G110 Typ 205 Kpfw. G110 Typ 205  Maus was presented by Porsche on October 5th, 1942. G110 Typ 205  By October 28th, blueprint K. G110 Typ 205 3384 was ready. G110 Typ 205  The mass of the tank increased only a little bit compared to the late June version, a mere 10 tons. G110 Typ 205  The tank, however, changed beyond all recognition. G110 Typ 205  The new turret had a larger turret ring, so the sloped sides had to go. G110 Typ 205  The hull resembled a box with a sloped rear and front. G110 Typ 205  There was a new feature, a machinegun mount in the hull. G110 Typ 205  Due to the longer and heavier hull, there were now 8 road wheels per side. G110 Typ 205  For ease of service, instead of one wide track, there were now two narrower ones, like on the VK 40. G110 Typ 205 01(P). G110 Typ 205  
+
+The project was proposed in two variants. G110 Typ 205  The first, indexed Typ 205A, had a 12 cylinder V-type water cooled 42. G110 Typ 205 4 L Daimler-Benz diesel engine, which produced 1000 hp at 2400 RPM. G110 Typ 205  The second, Typ 205B, had a Typ 141 engine developed by Porsche K. G110 Typ 205 G. G110 Typ 205  This was an 18 cylinder air cooled 41. G110 Typ 205 5 L diesel engine that produced 780 hp at 2400 RPM. G110 Typ 205 
+
+
+A decision was made to keep it safe and develop both projects in case one engine doesn't work out. G110 Typ 205  In November, the main candidate for installation became the Daimler-Benz 603 aircraft engine. G110 Typ 205  Its power output could be increased to 1500 hp with a compressor. G110 Typ 205 
+
+This increase in power was mandated by the fact that the tank's armour kept growing and it now weighed almost 170 tons. G110 Typ 205  Understanding that these massive weight will cause trouble, Porsche allowed the turret armour to be decreased by 10%. G110 Typ 205  Thanks to this, the mass of the turret dropped to 43 tons. G110 Typ 205  In early November of 1942, the tank was reworked again. G110 Typ 205  By November 14th, blueprint K. G110 Typ 205 3385 was ready, where the turret moved to the rear of the hull. G110 Typ 205  Similar metamorphoses happened to the Porsche Typ 180 heavy tank (VK 45. G110 Typ 205 01(P)). G110 Typ 205 
+
+
+|HistoricalGallery= 
+File:Mauschen_Blueprint_K. G110 Typ 205 3885. G110 Typ 205 jpg{{!}}Blueprint K. G110 Typ 205 3885, November 14, 1942. G110 Typ 205  This is the version of the Mauschen that is in-game. G110 Typ 205 
+File:15_cm_K_L37_document. G110 Typ 205 jpg{{!}}Documentation of the 15 cm Kwk L/37 gun. G110 Typ 205  While the Mauschen's turret was meant to hold the 15 cm Kwk L/31, both the L/37 and the 12,8 cm Kwk  were considered. G110 Typ 205 
+
+|HistAcc=
+* The 15 cm guns proposed for this design, the 15 cm KwK L/31 and the 15 cm KwK L/37, are unavailable in-game. G110 Typ 205 
+
+|Ref_references=
+
+|Ref_sources=
+* Michael Fröhlich: Kampfpanzer Maus – der überschwere Panzer Porsche Typ 205
+* Jentz, Doyle: Panzertracts No. G110 Typ 205  6-3 Schwere Panzerkampfwagen Maus and E100
+
+|Ref_links=
+* https://ftr-wot. G110 Typ 205 blogspot. G110 Typ 205 cz/2013/04/porsche-unleashed-typ-205a-mauschen. G110 Typ 205 html
+* https://tankarchives. G110 Typ 205 blogspot. G110 Typ 205 com/2016/04/mauschen-rat-race. G110 Typ 205 html
+* https://tankarchives. G110 Typ 205 blogspot. G110 Typ 205 ca/2013/04/ancestors-of-maus. G110 Typ 205 html
+
+}}

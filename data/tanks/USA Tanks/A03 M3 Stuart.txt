@@ -1,0 +1,268 @@
+37,500 Cost. 
+410425 HP Hit Points. 
+12.04/12.512.49/14.5 t Weight Limit. 
+245350 hp Engine Power. 
+61/20 km/h Speed Limit. 
+4045 deg/s Traverse. 
+20.3528.02 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+38.1/25.4/25.4 mm Hull Armor. 
+38.1/25.4/25.438.1/31.7/31.7 mm Turret Armor. 
+AP/APCR AP/APCR/HE Shells. 
+3/400 18/800/10 Shell Cost. 
+12/12/40/40/50 HP Damage. 
+30/41/56/78/19 mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 3 rounds Magazine Size: 15 rounds Cycle Time: 0.1 s Magazine Reload Times Nominal: 7.7 s 50% Crew: 9.8 s 75% Crew: 8.62 s 100% Crew: 7.7 s With Vents: 7.52 s With Vents and BiA: 7.38 s Click here for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.3 s 50% Crew: 2.93 s 75% Crew: 2.58 s 100% Crew: 2.3 s Rammer: 2.07 s Vents: 2.25 s Both: 2.02 s Both and BiA: 1.98 s Both and Max Crew %: 1.9 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (12 Damage): Theoretical Damage Per Minute Nominal: 100.56 50% Crew: 80.4 75% Crew: 90.48 100% Crew: 100.56 With Vents: 102.72 With Vents and BiA: 104.52 Advantageous Damage Per Minute Loaded-mag DPM: 266.16 50% Crew: 248.88 75% Crew: 257.64 100% Crew: 266.16 With Vents: 268.08 With Vents and BiA: 269.64 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (12 Damage): Theoretical Damage Per Minute Nominal: 100.56 50% Crew: 80.4 75% Crew: 90.48 100% Crew: 100.56 With Vents: 102.72 With Vents and BiA: 104.52 Advantageous Damage Per Minute Loaded-mag DPM: 266.16 50% Crew: 248.88 75% Crew: 257.64 100% Crew: 266.16 With Vents: 268.08 With Vents and BiA: 269.64 Click here for more information.▲ Standard Gun Using Shell Type 1 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1043.6 50% Crew: 820 75% Crew: 932 100% Crew: 1043.6 100% Crew Vents: 1068 Rammer: 1159.6 Both: 1186.8 Both and BiA: 1209.2 Both and Max Crew %: 1261.6 Advantageous Damage Per Minute First-shot DPM: 1083.6 50% Crew: 860 75% Crew: 972 100% Crew: 1083.6 100% Crew Rammer: 1199.6 Vents: 1108 Both: 1226.8 Both and BiA: 1249.2 Both and Max Crew %: 1301.6 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 1043.6 50% Crew: 820 75% Crew: 932 100% Crew: 1043.6 100% Crew Vents: 1068 Rammer: 1159.6 Both: 1186.8 Both and BiA: 1209.2 Both and Max Crew %: 1261.6 Advantageous Damage Per Minute First-shot DPM: 1083.6 50% Crew: 860 75% Crew: 972 100% Crew: 1083.6 100% Crew Rammer: 1199.6 Vents: 1108 Both: 1226.8 Both and BiA: 1249.2 Both and Max Crew %: 1301.6 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (50 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1304.5 50% Crew: 1025 75% Crew: 1165 100% Crew: 1304.5 100% Crew Vents: 1335 Rammer: 1449.5 Both: 1483.5 Both and BiA: 1511.5 Both and Max Crew %: 1577 Advantageous Damage Per Minute First-shot DPM: 1354.5 50% Crew: 1075 75% Crew: 1215 100% Crew: 1354.5 100% Crew Rammer: 1499.5 Vents: 1385 Both: 1533.5 Both and BiA: 1561.5 Both and Max Crew %: 1627 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.619 m With 75% Crew: 0.541 m With 100% Crew: 0.479 m With BiA: 0.469 m With BiA and Vents: 0.459 m Maximum possible: 0.44 m For more details, see Crew m ▲ With 50% Crew: 0.508 m With 75% Crew: 0.443 m With 100% Crew: 0.393 m With BiA: 0.384 m With BiA and Vents: 0.376 m Maximum possible: 0.361 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+4048 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+1500180 rounds Ammo Capacity. 
+1220 % Chance of Fire. 
+m ▲ With 50% Crew: 220 m With 75% Crew: 250 m With 100% Crew: 280 m With Recon and Situational Awareness: 294.2 m With Coated Optics: 308 m With Binocular Telescope: 350 m Maximum possible: 400.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 213.9 m With 75% Crew: 245 m With 100% Crew: 276.4 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 397.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 496.5 m With 75% Crew: 568.6 m With 100% Crew: 641.4 m With 100% Signal Boost: 738 m When affected by 100% Relaying: 676.5 m Maximum possible: 923.2 m For more details, see Skills or Equipment Signal Range. 
+II. 
+20 mm Hispano-Suiza Birkigt Gun. 
+30/41. 
+12/12. 
+108.43. 
+0.5. 
+1.6. 
+nan. 
+68. 
+2600. 
+II. 
+37 mm Gun M5. 
+48/70/19. 
+40/40/50. 
+26.09. 
+0.46. 
+1.7. 
+nan. 
+78. 
+2000. 
+III. 
+37 mm Gun M6. 
+56/78/19. 
+40/40/50. 
+26.09. 
+0.41. 
+1.7. 
+nan. 
+82. 
+8350. 
+II. 
+D37812. 
+38.1/25.4/25.4. 
+40. 
+280. 
+nan. 
+1250. 
+800. 
+III. 
+D39273. 
+38.1/31.7/31.7. 
+48. 
+330. 
+nan. 
+1700. 
+2000. 
+III. 
+Continental W-670. 
+262. 
+20. 
+nan. 
+256. 
+8200. 
+III. 
+Guiberson T-1020-4. 
+245. 
+12. 
+nan. 
+331. 
+5000. 
+IV. 
+Continental R-975-C1. 
+350. 
+20. 
+nan. 
+500. 
+10500. 
+II. 
+Stuart E1. 
+12.5. 
+40. 
+B/2. 
+nan. 
+3000. 
+660. 
+III. 
+Stuart E2. 
+14.5. 
+45. 
+B/2. 
+nan. 
+3000. 
+1850. 
+IV. 
+SCR 210. 
+325. 
+nan. 
+80. 
+1980. 
+IX. 
+SCR 506. 
+615. 
+nan. 
+110. 
+33600. 
+II. 
+SCR 200. 
+265. 
+nan. 
+40. 
+0. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=M3_Stuart
+|The tank has reasonable armor for its tier, and the upgraded 37mm gun is fast and accurate. A03 M3 Stuart  However, when placed in higher-tier battles, it will face better armed and armored opposition. A03 M3 Stuart  Speed and stealth are the keys to survival for light tanks; the M3 excels in both. A03 M3 Stuart  Upgrade your suspension and engine and keep your movements unpredictable as you exploit the enemy's flanks, or race to a good hiding spot and help out your [[Self-Propelled Guns|artillery]] and snipers by spotting the enemy as they advance. A03 M3 Stuart  Avoid long drawn-out, stand-still shooting matches; the 37mm has a very high rate of fire so you can afford a few misses while shooting on the move. A03 M3 Stuart  
+
+|InTheGame_pros=
+* Great top speed and hull traverse. A03 M3 Stuart 
+* Good rate-of-fire. A03 M3 Stuart 
+* Above average accuracy, aim time, turret traverse speed, and gun elevation arc. A03 M3 Stuart 
+* Very good frontal armor for light tank, immune to most machineguns and autocannons (except weak spots like driver's hatch; shots may knock out the driver)
+* Excellent radio. A03 M3 Stuart 
+
+|InTheGame_cons=
+* Poor damage. A03 M3 Stuart 
+* Mediocre gun penetration. A03 M3 Stuart 
+
+|InTheGame_performance=
+The M3 Stuart is a speedy, agile light tank. A03 M3 Stuart  The M3 Stuart has both good straight line speed and decent traverse at high speeds. A03 M3 Stuart   It has above average gun depression, mobility, and damage per minute. A03 M3 Stuart   The tank can function as a scout, a sniper, or a flanker. A03 M3 Stuart   The M3 Stuart is a good introduction to the American medium and light tank lines as the playstyles that work in the M3 carry over as a player advances up the two lines. A03 M3 Stuart 
+
+When top tier and fully upgraded the mobility and gun depression can be used to efficiently deal damage. A03 M3 Stuart  Many opponents at tier will find it difficult to penetrate the 38mm frontal armor. A03 M3 Stuart  However, that armor does have weak spots, so it should not be relied upon. A03 M3 Stuart   As with most light tanks the M3 Stuart relies on its mobility and camo rather than its armor. A03 M3 Stuart   The gun of this tank is more than adequate at tier 3 with standard AP rounds. A03 M3 Stuart   With premium APCR rounds it is able to penetrate most tanks in the same tier frontally. A03 M3 Stuart 
+
+When facing tier 4 tanks the M3 Stuart can be an effective scout or flanking tank. A03 M3 Stuart   However several tanks at Tier 4, including the Matilda, B2, and AMX 40, can be very difficult for a M3 to penetrate even if APCR rounds are used. A03 M3 Stuart   Drivers of the M3 Stuart should engage with lower tier tanks or lightly armored light/medium Tier 4 tanks. A03 M3 Stuart   
+
+When facing tier 5 tanks the M3 Stuart can be an effective scout with proper equipment. A03 M3 Stuart   An M3 with vents, camo net, and binoculars/coated optics can effectively match or exceed the vision ratings on many tier 5 tanks. A03 M3 Stuart   The mobility of the tank will also allow it to spot tanks on the move and retreat back out of range of the enemy. A03 M3 Stuart  The gun is unable to penetrate most tier 5 tanks frontally even with premium ammunition. A03 M3 Stuart   Against highly armored tanks, such as the KV-1, it can only penetrate with very precise shots in the rear of the tank or by hitting weak spots with premium APCR rounds. A03 M3 Stuart 
+Ignore all of this now; no tier 3 can face tier 5s now (thanks to the 9. A03 M3 Stuart 18 update). A03 M3 Stuart 
+|InTheGame_research=
+* The 20 mm Hispano-Suiza Birgikt Gun and the 37 mm Gun M5 carry over from the [[M2 Light Tank]], as well as the SCR 506 radio if you researched it. A03 M3 Stuart 
+* First research the Continental W-670 and the Continental R-975-C1 engines. A03 M3 Stuart 
+* Next research the upgraded suspension for a large improvement in traverse speed. A03 M3 Stuart 
+* Now research the second turret and the 37 mm Gun M6. A03 M3 Stuart 
+* Be sure to research the SCR 506 if you haven't by now. A03 M3 Stuart 
+
+|InTheGame_equipment=
+Vents, GLD, Coated Optics
+
+|Gallery=
+image:M3_Stuart_001. A03 M3 Stuart jpg
+image:M3_Stuart_002. A03 M3 Stuart jpg
+image:M3_Stuart_003. A03 M3 Stuart jpg
+image:M3_Stuart_004. A03 M3 Stuart jpg
+
+|History=
+[[image:M3 light tank at the Aberdeen Proving Grounds, Maryland. A03 M3 Stuart png |thumb|200px|left|M3 light tank at the Aberdeen Proving Grounds, Maryland ]]
+The "M3 Stuart", formally "Light Tank M3", was an American light tank of World War II. A03 M3 Stuart  It was supplied to the British and Commonwealth forces under the lend-lease program prior to the US entering the war and used thereafter by both US and Allied forces until the end of the war. A03 M3 Stuart 
+
+The name "General Stuart" or "Stuart" given by the British comes from the American Civil War Confederate General J. A03 M3 Stuart E. A03 M3 Stuart B. A03 M3 Stuart  Stuart and was used for both the M3 and the derivative M5 Light Tank. A03 M3 Stuart  In British service it also had the unofficial nickname of "Honey", after a tank driver remarked "She's a honey". A03 M3 Stuart  To the United States Army, the tanks were officially known only as "Light Tank M3" and "Light Tank M5". A03 M3 Stuart 
+
+The "M3 Stuart" was the first US tank with an American crew to engage in tank versus tank combat during World War II. A03 M3 Stuart 
+
+== Development ==
+
+Observing events in Europe, American tank designers realized that the Light Tank M2 was becoming obsolete and set about improving it. A03 M3 Stuart  The upgraded design, with thicker armor, modified suspension, and new gun recoil system was called "Light Tank M3". A03 M3 Stuart  Production of the vehicle started in March 1941 and continued until October 1943. A03 M3 Stuart  Like its direct predecessor, the M2A4, the M3 was armed with a 37 mm M5 gun and five . A03 M3 Stuart 30-06 Browning M1919A4 machine guns: coaxial with the gun, on top of the turret in an M20 AA mount, in a ball mount in the right bow, and in the right and left hull sponsons. A03 M3 Stuart  [[image:M3 Light Tank. A03 M3 Stuart png |thumb|200px|right|M3 Light Tank]]
+Internally, the radial engine was at the rear of the tank and the transmission to the driving sprockets was at the front. A03 M3 Stuart  The prop shaft connecting the two ran through the middle of the fighting compartment. A03 M3 Stuart  The radial engine compounded the problem by having its crankshaft high off the hull bottom. A03 M3 Stuart  When a turret floor was introduced, the crew had even less room. A03 M3 Stuart 
+To relieve the demand for the radial airplane engines used in the M3, a new version was developed using twin Cadillac V-8 automobile engines and a Hydra-Matic transmission. A03 M3 Stuart  Such installation produced a quieter, cooler and roomier variant, and it was easier to train with the automatic transmission. A03 M3 Stuart  This new model was initially called "M4", but redesignated "M5" to avoid confusion with the "M4 Sherman[5]". A03 M3 Stuart  It also featured a redesigned hull with sloped glacis plate and driver's hatches moved to the top. A03 M3 Stuart  Although the main criticism from the units using it was that the Stuarts lacked firepower, the improved M5 series kept the same 37 mm gun. A03 M3 Stuart  The M5 gradually replaced the M3 in production from 1942 and was, in turn, succeeded by the Light Tank M24 in 1944. A03 M3 Stuart 
+
+== Combat history ==
+
+'''War in North Africa and Europe'''
+[[image:M3 Light Tank in Casablanca. A03 M3 Stuart png |thumb|200px|left|M3 Light Tank in Casablanca ]]
+The British Army was the first to use the Light Tank M3 as the "General Stuart" in combat. A03 M3 Stuart  From mid-November 1941 to the end of the year, about 170 Stuarts (in a total force of over 700 tanks) took part in Operation Crusader during the North Africa Campaign, with poor results. A03 M3 Stuart  Although the high losses suffered by Stuart-equipped units during the operation had more to do with better tactics and training of the Afrika Korps than the apparent superiority of German armoured fighting vehicles used in the North African campaign, the operation revealed that the M3 had several technical faults. A03 M3 Stuart  Mentioned in the British complaints were the 37 mm M5 gun and poor internal layout. A03 M3 Stuart  The two-man turret crew was a significant weakness, and some British units tried to fight with three-man turret crews. A03 M3 Stuart  The Stuart also had a limited range, which was a severe problem in the highly mobile desert warfare as units often outpaced their supplies and were stranded when they ran out of fuel. A03 M3 Stuart  On the positive side, crews liked it's relatively high speed and mechanical reliability. A03 M3 Stuart  The high reliability distinguished the Stuart from cruiser tanks of the period, in particular the Crusader, which composed a large portion of the British tank force in Africa up until 1942. A03 M3 Stuart 
+
+From the summer of 1942, when enough US medium tanks had been received, the British usually kept Stuarts out of tank-to-tank combat, using them primarily for reconnaissance. A03 M3 Stuart  The turret was removed from some examples to save weight and improve speed and range. A03 M3 Stuart  These became known as "Stuart Recce". A03 M3 Stuart  Some others were converted to armored personnel carriers and were known as "Stuart Kangaroo", and some were converted command vehicles and known as "Stuart Command". A03 M3 Stuart  M3s, M3A3s, and M5s continued in British service until the end of the war, but British units had a smaller proportion of these light tanks than US units. A03 M3 Stuart 
+The other major Lend-Lease recipient of the M3, the Soviet Union, was even less happy with the tank, considering it under-gunned, under-armored, likely to catch fire, and too sensitive to fuel quality. A03 M3 Stuart  The narrow tracks were highly unsuited to operation in winter conditions, as they resulted in high ground pressures under which the tank sank into the snow. A03 M3 Stuart  Further, the M3's radial aircraft engine required high-octane fuel, which complicated Soviet logistics as most of their tanks used diesel. A03 M3 Stuart  However, the M3 was superior to early-war Soviet light tanks such as the T-60, which were often underpowered and possessed even lighter armament than the Stuart. A03 M3 Stuart  In 1943, the Red Army tried out the M5 and decided that the upgraded design was not much better than the M3. A03 M3 Stuart  Being less desperate than in 1941, the Soviets turned down an American offer to supply the M5. A03 M3 Stuart  M3s continued in Red Army service at least until 1944. A03 M3 Stuart 
+
+== War in the Far East - CBI and Pacific ==
+
+[[image:M3 light with seven sided welded turret and riveted hull. A03 M3 Stuart png |thumb|200px|right|M3 light with seven sided welded turret and riveted hull. A03 M3 Stuart png ]]
+The US Army initially deployed 108 Stuart light tanks to the Philippines in September 1941, equipping the US Army's 194th and 192nd Tank Battalions. A03 M3 Stuart  The first US tank versus tank combat to occur in World War II, began on 22 December 1941, when a platoon of five M3s led by Lieutenant Ben R. A03 M3 Stuart  Morin engaged Type 95 Ha-Go's north of Damaris. A03 M3 Stuart  LT Morin maneuvered his Stuart off the road, but took a direct hit while doing so, and his tank began to burn. A03 M3 Stuart  The other four Stuarts were also hit, but managed to leave the field under their own power. A03 M3 Stuart  LT Morin was wounded, and he and his crew were captured by the enemy. A03 M3 Stuart  M3s of the 194th and 192nd Tank Battalions continued to skirmish with the 4th Tank Regiment's Type 95 Ha-Go light tanks as they continued their retreat down the Bataan Peninsula, with the last tank verses tank combat occurring on 7 April 1942. A03 M3 Stuart 
+
+Due to the naval nature of the Pacific campaign, steel for warship production took precedence over tanks for the Imperial Japanese Army (IJA), creating by default an IJA light tank which performed admirably in the jungle terrain of the South Pacific. A03 M3 Stuart  By the same measure, although the US was not hampered by industrial restrictions, the US M3 light tank proved to be an effective armored vehicle for fighting in jungle environments. A03 M3 Stuart 
+With the IJA's drive toward India within the China-Burma-India Theater of Operations (CBI), the United Kingdom hastily withdrew their 2nd Royal Tank Regiment and 7th Hussars Stuart tank units (which also contained some M2A4 light tanks[15]) from North Africa, and deployed them against the Japanese 14th Tank Regiment. A03 M3 Stuart  By the time the Japanese had been stopped at Imphal, only one British Stuart remained operational. A03 M3 Stuart  Upon the American entry into the war in 1941, it had began to supply China with AFVs including the M3 Stuarts, and later M4 Shermans, and M18 Hellcats which trickled in through Burma and formed part of the several well-equipped, well-trained armies that the Chinese Nationalists could deploy. A03 M3 Stuart  These units were responsible for stopping numerous Japanese attacks during the later phases of the war. A03 M3 Stuart 
+Although the US light tanks had proven effective in jungle warfare, by late 1943, US Marine Corps tank battalions were transitioning their M3/M5 light tanks to M4 medium tanks. A03 M3 Stuart  For the IJA, even though the US Marines had exchanged their light tanks for M4 medium tanks, they could not; and with the less common supplement of their Type 97 Chi-Ha medium tanks, the IJA was left to do battle against US Marine M4 Sherman medium tanks, with armor that had been designed and fielded in the 1930s. A03 M3 Stuart 
+
+== Overview ==
+[[image:M3 Light Tank purchased in July 1942, with war bonds by the community of Banning, California. A03 M3 Stuart png |thumb|200px|left|M3 Light Tank purchased in July 1942, with war bonds by the community of Banning, California ]]
+When the US Army joined the North African Campaign in late 1942, Stuart units still formed a large part of it's armor strength. A03 M3 Stuart  After the disastrous Battle of the Kasserine Pass, the US quickly followed the British in disbanding most of their light tank battalions and subordinating the Stuarts to medium tank battalions performing the traditional cavalry missions of scouting and screening. A03 M3 Stuart  For the rest of the war, most US tank battalions had three companies of M4 Shermans and one company of M3s or M5/M5A1s. A03 M3 Stuart 
+In Europe, Allied light tanks had to be given cavalry and infantry fire support roles since their main cannon armament could not compete with heavier enemy AFVs. A03 M3 Stuart  However, the Stuart was still effective in combat in the Pacific Theater, as Japanese tanks were both relatively rare and were lighter in armor than even Allied light tanks. A03 M3 Stuart  Japanese infantrymen were not well equipped with anti-tank weapons, and as such, had to use close assault tactics. A03 M3 Stuart  In this environment, the Stuart was only moderately more vulnerable than medium tanks. A03 M3 Stuart  In addition, the poor terrain and roads common to the theatre were unsuitable for the much heavier M4 medium tanks, and so initially, for both sides, it was advantageous to deploy light armor. A03 M3 Stuart  Heavier M4s were eventually brought to overcome heavily entrenched positions, though the Stuart continued to serve in a combat capacity until the end of the war. A03 M3 Stuart 
+Though the Stuart was to be completely replaced by the newer M24 Chaffee, the number of M3s/M5s produced was so great (over 25,000 including the 75 mm HMC M8) that the tank remained in service until the end of the war and well after. A03 M3 Stuart  In addition to the United States, United Kingdom and Soviet Union, who were the primary users, it was also used by France, China (M3A3s and, immediately post-war, M5A1s) and Josip Broz Tito's Partisans in Yugoslavia (M3A3s and few M3A1). A03 M3 Stuart 
+After the war, some countries chose to equip their armies with cheap and reliable Stuarts. A03 M3 Stuart  The Republic of China Army, having suffered great attrition as a result of the ensuing civil war, rebuilt their armored forces by acquiring surplus vehicles left behind in the area by the US forces, including 22 M5A1s to equip two tank companies. A03 M3 Stuart  They would have their finest hours during the Battle of Kuningtou, for which the tank came to be known as the "Bear of Kinmen". A03 M3 Stuart 
+
+The M5 played a significant role in the First Kashmir War (1947) between India and Pakistan. A03 M3 Stuart  Most notably at the battle of Zoji-la Pass, which was fought at an elevation of nearly 12,000 feet. A03 M3 Stuart  The vehicle remained in service in several South American countries until at least 1996. A03 M3 Stuart 
+During the 1960s and 1970s, the Portuguese Army also used the M5 in the war in Angola, where its all terrain capability (compared to wheeled vehicles) was greatly appreciated. A03 M3 Stuart  In 1967, The Portuguese Army  deployed three M5A1 Light Tanks – nicknamed ‘Milocas’, ‘Licas’ and ‘Gina’ by their crews – in northern Angola, which served with the 1927th Cavalry Battalion stationed at Nambuangongo. A03 M3 Stuart  The vehicles were employed mostly for convoy escort and recovery duties, and limited counter-insurgency operations against FNLA guerrillas, who dubbed them “Elefante Dundum”. A03 M3 Stuart  ‘Milocas’ was destroyed by an accidental fire in 1969 whilst ‘Gina’ and ‘Licas’ were withdrawn from active service in 1972, the former being sent to Luanda and the latter ended up in 1973 as an airfield security pillbox in the Portuguese Air Force’ Zala airfield. A03 M3 Stuart  Period photographs show some modifications in the basic design, namely the omission of the bow machine gun, re-installed on a pintle mount in the roof of the turret and a small searchlight fitted in front of the commander’s copula. A03 M3 Stuart 
+The M3 Stuart is still on the active list in the Armed Forces of Paraguay where those elderly survivors are the only tracked armor used by that country. A03 M3 Stuart 
+
+|HistAcc=
+The 20mm gun configuration is fictitious. A03 M3 Stuart 
+
+|HistoricalGallery=
+image:M44 gun mount. A03 M3 Stuart png{{!}}M44 gun mount
+image:M3 light tank's rounded homogeneous turret. A03 M3 Stuart png{{!}}M3 light tank's rounded homogeneous turret
+image:M3 light tank's pistol port and protectoscope. A03 M3 Stuart png{{!}}M3 light tank's pistol port and protectoscope
+image:M3 light tank with rounded homogeneous welded turret. A03 M3 Stuart png{{!}}M3 light tank with rounded homogeneous welded turret
+image:M3 Light Tank during war games in Tennessee. A03 M3 Stuart png{{!}}M3 Light Tank during war games in Tennessee
+image:M3 Light Tank captured by the Germans in North Africa. A03 M3 Stuart png{{!}}M3 Light Tank captured by the Germans in North Africa
+
+|Ref_references=
+
+
+|Ref_sources=
+* Crisp, Robert Major, Brazen Chariots (Ballantine Books, NY, NY 1961 Lib. A03 M3 Stuart  Congress No. A03 M3 Stuart  60-5845)- Maj. A03 M3 Stuart  Crisp's Story of British M3 Honeys in N. A03 M3 Stuart Africa campaign 1941 near Tobruk. A03 M3 Stuart 
+* Hunnicutt, R. A03 M3 Stuart  P. A03 M3 Stuart  Stuart, A History of the American Light Tank. A03 M3 Stuart  Vol. A03 M3 Stuart  1; 1992, Presidio Press. A03 M3 Stuart  ISBN 0-89141-462-2. A03 M3 Stuart 
+* Zaloga, Steven. A03 M3 Stuart  M3 & M5 Stuart Light Tank. A03 M3 Stuart  1999; Osprey New Vanguard 33. A03 M3 Stuart  ISBN 978-1-85532-911-9. A03 M3 Stuart 
+* Zaloga, Steven. A03 M3 Stuart  Japanese Tanks 1939-45. A03 M3 Stuart  Osprey New Vanguard 137. A03 M3 Stuart  ISBN 978-1-84603-091-8. A03 M3 Stuart 
+* Zaloga, Steven. A03 M3 Stuart  Armored Thunderbolt, The US Army Sherman in World War II. A03 M3 Stuart  2008; Stackpole Books. A03 M3 Stuart  ISBN 978-0-8117-0424-3. A03 M3 Stuart 
+* Hembree, Mark. A03 M3 Stuart  "History You Can Model" FineScale Modeler February 2011. A03 M3 Stuart . A03 M3 Stuart Page 74 (ISSN 0277-979X, USPS No. A03 M3 Stuart  679-590)
+
+|Ref_links=
+
+
+}}
+
+[[Category:USA Tanks]]

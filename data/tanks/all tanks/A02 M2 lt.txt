@@ -1,0 +1,223 @@
+3,400 Cost. 
+305320 HP Hit Points. 
+8.64/11.58.46/11.5 t Weight Limit. 
+220262 hp Engine Power. 
+58/20 km/h Speed Limit. 
+3640 deg/s Traverse. 
+25.4630.97 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+38.1/25.4/25.4 mm Hull Armor. 
+15.9/15.9/15.938.1/25.4/25.4 mm Turret Armor. 
+AP AP/APCR Shells. 
+1/0 3/400 Shell Cost. 
+8//12/12/ HP Damage. 
+27//30/41/ mm Penetration. 
+r/m ▲ Magazine-fed Gun Burst Length: 5 rounds Magazine Size: 40 rounds Cycle Time: 0.11 s Magazine Reload Times Nominal: 22.9 s 50% Crew: 29.15 s 75% Crew: 25.65 s 100% Crew: 22.9 s With Vents: 22.38 s With Vents and BiA: 21.96 s Click here for more information. r/m ▲ Magazine-fed Gun Burst Length: 3 rounds Magazine Size: 15 rounds Cycle Time: 0.1 s Magazine Reload Times Nominal: 7.7 s 50% Crew: 9.8 s 75% Crew: 8.62 s 100% Crew: 7.7 s With Vents: 7.52 s With Vents and BiA: 7.38 s Click here for more information. Rate of Fire. 
+▲ Magazine-fed Gun Using Shell Type 1 (8 Damage): Theoretical Damage Per Minute Nominal: 167.12 50% Crew: 138.08 75% Crew: 152.96 100% Crew: 167.12 With Vents: 170.08 With Vents and BiA: 172.56 Advantageous Damage Per Minute Loaded-mag DPM: 413.28 50% Crew: 397.04 75% Crew: 405.36 100% Crew: 413.28 With Vents: 414.88 With Vents and BiA: 416.32 Click here for more information.▲ Magazine-fed Gun Using Shell Type 1 (12 Damage): Theoretical Damage Per Minute Nominal: 100.56 50% Crew: 80.4 75% Crew: 90.48 100% Crew: 100.56 With Vents: 102.72 With Vents and BiA: 104.52 Advantageous Damage Per Minute Loaded-mag DPM: 266.16 50% Crew: 248.88 75% Crew: 257.64 100% Crew: 266.16 With Vents: 268.08 With Vents and BiA: 269.64 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (12 Damage): Theoretical Damage Per Minute Nominal: 100.56 50% Crew: 80.4 75% Crew: 90.48 100% Crew: 100.56 With Vents: 102.72 With Vents and BiA: 104.52 Advantageous Damage Per Minute Loaded-mag DPM: 266.16 50% Crew: 248.88 75% Crew: 257.64 100% Crew: 266.16 With Vents: 268.08 With Vents and BiA: 269.64 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.706 m With 75% Crew: 0.617 m With 100% Crew: 0.547 m With BiA: 0.534 m With BiA and Vents: 0.523 m Maximum possible: 0.501 m For more details, see Crew m ▲ With 50% Crew: 0.619 m With 75% Crew: 0.541 m With 100% Crew: 0.479 m With BiA: 0.469 m With BiA and Vents: 0.459 m Maximum possible: 0.44 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+3235 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+36002400 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 204.3 m With 75% Crew: 232.2 m With 100% Crew: 260 m With Recon and Situational Awareness: 273.2 m With Coated Optics: 286 m With Binocular Telescope: 325 m Maximum possible: 372.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 213.9 m With 75% Crew: 245 m With 100% Crew: 276.4 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 397.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 213.9 m With 75% Crew: 245 m With 100% Crew: 276.4 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 397.8 m For more details, see Skills or Equipment Signal Range. 
+II. 
+20 mm Hispano-Suiza Birkigt Gun. 
+30/41. 
+12/12. 
+98.9. 
+0.5. 
+1.7. 
+nan. 
+68. 
+2600. 
+II. 
+37 mm Gun M5. 
+48/70/19. 
+40/40/50. 
+24.0. 
+0.46. 
+2.1. 
+nan. 
+78. 
+2000. 
+I. 
+Browning MG caliber .50 HB, M2. 
+27. 
+8. 
+112.39. 
+0.57. 
+1.7. 
+nan. 
+70. 
+2000. 
+I. 
+M2D27810. 
+15.9/15.9/15.9. 
+32. 
+260. 
+nan. 
+700. 
+450. 
+II. 
+M2D27812. 
+38.1/25.4/25.4. 
+35. 
+320. 
+nan. 
+800. 
+640. 
+III. 
+Guiberson T-10204. 
+220. 
+20. 
+nan. 
+331. 
+500. 
+III. 
+Continental W-670-7. 
+262. 
+20. 
+nan. 
+256. 
+5600. 
+I. 
+VVSS T16E1. 
+11.5. 
+36. 
+B/2. 
+nan. 
+3300. 
+330. 
+II. 
+VVSS T16E2. 
+11.5. 
+40. 
+B/2. 
+nan. 
+3300. 
+620. 
+II. 
+SCR 200. 
+265. 
+nan. 
+40. 
+0. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT26E4 SuperPershing FL • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • VIIIELC EVEN 90 FL • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{for|the medium tank|M2 Medium Tank}}
+{{TankData|Tank=M2_Light_Tank
+|Shorter and smaller than its tier 2 cousin, the [[T2 Medium Tank]], the M2 Light Tank has many of the same stats plus a much more powerful engine. A02 M2 lt  The M2 is one of the fastest tier 2 tanks and is decently armored. A02 M2 lt  It has a bit of difficulty in tight spaces, but in the open it is very fast. A02 M2 lt  Its speed is best used to exploit the sluggishness of other low tier tanks. A02 M2 lt  Many High Tier players also use this tank to "Seal Club" Newcomers. A02 M2 lt 
+|InTheGame_pros=
+* Good acceleration and top speed
+* Good view range
+* High ammunition capacity
+* Decent gun choice
+* Decent armor for tier II, but angling it correctly is a must
+
+|InTheGame_cons=
+* Poor accuracy on all guns
+* Low tank traverse speed
+* Fairly tall for a light tank
+* Bad gun depression
+
+|InTheGame_performance=
+In its stock configuration, it is initially armed with the weakest gun in the entire game. A02 M2 lt  While an excellent machine gun in real life, the . A02 M2 lt 50 caliber M2 Browning machine gun is at best described as an amusing novelty in World of Tanks. A02 M2 lt  But it can still be used well if you aim at your enemies' weak spots. A02 M2 lt  Thankfully, it can quickly be upgraded to the Hispano-Suiza Birgikt [[Automatic_Loader#Autocannons|auto-cannon]], which does more damage and has higher penetration than the . A02 M2 lt 50 caliber. A02 M2 lt  Later the gun can be upgraded again with a powerful 37mm gun that hits very hard for its tier, considering its short reload time. A02 M2 lt 
+
+With the upgraded turret, this tank has 25mm of armor on all sides, both on the hull, and on the turret (the front has slightly better slope). A02 M2 lt  As a result, you don't have to worry much about keeping your front facing your enemy with this tank. A02 M2 lt  However, don't get too used to it since on most tanks facing matters a great deal. A02 M2 lt 
+
+Compared with the German auto-cannons at this tier, the 20 mm Hispano-Suiza Birgikt has significantly less penetration, but it fires three shots per burst instead of two, so against armor it can penetrate, it does much more damage. A02 M2 lt  When using this weapon, try to avoid enemies you know you can't penetrate and focus on the ones you can. A02 M2 lt  You will have to flank most tier 3 enemies to get at their weaker side or rear armor. A02 M2 lt 
+
+With great view range for a tier 2 tank, small size, high top speed and good maneuverability (especially with a trained crew) this tank makes a great scout regardless of tier - and is very underestimated by many higher tier players. A02 M2 lt  A good tip is using this for tank companies - being a tier 2 tank, it has a very small match weight, but is still very useful as a scout and arty killer(although its guns might have issues penetrating even artillery). A02 M2 lt  For example, one could bring (theoretically) THIRTY of these tanks in a medium tank company, although the feasibility of this is questionable. A02 M2 lt  
+
+The BT-2 light tank serves a similar purpose to this tank, but the M2 LT has higher view/signal range, more armor (marginal in anything but its own tier), similar firepower, and unfortunately less speed, maneuverability and acceleration. A02 M2 lt  Similarly, the much loved premium T2 LT compares in much of the same ways; less signal/view range, less armor, similar firepower and higher speed and acceleration. A02 M2 lt  The use of these tanks in higher tier battles can all be surprisingly effective. A02 M2 lt 
+
+|InTheGame_research=
+* Both the engine and the turret are good places to begin researching. A02 M2 lt 
+* Go from there. A02 M2 lt 
+
+|InTheGame_equipment=
+Vents, Enhanced Gun Laying Drive, Coated Optics
+
+|Gallery=
+image:M2 Light Tank_001. A02 M2 lt jpg
+image:M2 Light Tank_002. A02 M2 lt jpg 
+image:M2 Light Tank_004. A02 M2 lt jpg 
+
+|History=
+The M2 Light Tank was an American pre-World War II light tank that saw combat with the US Marine Corps 1st Tank Battalion on Guadalcanal in 1942 during World War II. A02 M2 lt  Its service with the 1st Tank Battalion during the Pacific War was its only US combat use during the war; however, it is believed that M2A4s served in Burma and India with the British 7th Hussars and 2nd Royal Tank Regiment during their engagements with the IJA 14th Tank Regiment. A02 M2 lt  The M2A4 was the immediate predecessor of the [[M3 Stuart]] light tank. A02 M2 lt 
+
+== History of Development ==
+The Light Tank M2 was developed in 1935 by the Rock Island arsenal as an infantry tank for the US Army. A02 M2 lt  It was inspired by the well-known Vickers 6-ton. A02 M2 lt  Its main armament was one . A02 M2 lt 50 caliber M2 Browning machine gun in a small one-man turret, of which only 10 were made. A02 M2 lt  The US Infantry Branch then decided to switch to a twin turret configuration, with a . A02 M2 lt 30 caliber machine gun in the second turret. A02 M2 lt  These two turret tanks was given the nickname “Mae west“ by the troops, after the popular busty movie star. A02 M2 lt  The twin-turret layout was inefficient, but was a common feature of 1930s light tanks derived from the Vickers, such as the [[T-26|Soviet T-26]] and Polish 7TP. A02 M2 lt 
+
+From the events in the Spanish Civil War, the US Army drew the conclusion that tanks had to be better armed and protected. A02 M2 lt  By 1940 the twin machine gun turrets were replaced by one larger turret with a 37 mm gun, and armor was increased to 25 mm. A02 M2 lt  Other upgrades included improved suspension, improved transmission, and better engine cooling. A02 M2 lt 
+
+The fall of France affected the progress on the US tank program. A02 M2 lt  In July 1940, work began on a new light tank based on the M2. A02 M2 lt  Stronger armor and a longer tank hull finally led to the M3 Stuart. A02 M2 lt 
+
+The importance of the M2 lies in its basis for the M3, which exploited the high speed and reliability of the mechanical parts based on the M2 program. A02 M2 lt 
+
+== Deployment ==
+In December 1941, the M2A1, M2A2, and M2A3 variants were only used for training. A02 M2 lt  A small number of the M2A4 variant took part in the Battle of Guadalcanal while assigned to the US Marine Corps 1st Tank Battalion, and remained in service in some areas of the Pacific until 1943. A02 M2 lt 
+
+Great Britain ordered 100 M2A4 tanks in the spring of 1941 . A02 M2 lt  After 36 was delivered, the order was withdrawn in favor of the improved M3 Stuart. A02 M2 lt  There is evidence that indicates these 36 M2A4s ended up as part of the British Army's 7th Hussars and 2nd Royal Tank Regiment, fighting in the India and Burma campaigns against the Japanese 14th Tank Regiment. A02 M2 lt 
+
+== Variants ==
+M2A1 (1935) - . A02 M2 lt 50 MG in a single turret. A02 M2 lt  10 units were produced. A02 M2 lt 
+
+M2A2 (1935) - Twin turrets. A02 M2 lt  Dubbed "Mae West". A02 M2 lt  239 units produced. A02 M2 lt 
+
+M2A3 (1938) - Twin turrets, Thicker armor, improved suspension. A02 M2 lt  72 units produced. A02 M2 lt 
+
+M2A4 (1940) - Single turret with 37mm gun, thicker armor. A02 M2 lt  375 units produced. A02 M2 lt 
+
+|HistAcc=
+The 20 mm gun configuration is fake. A02 M2 lt 
+
+|HistoricalGallery=
+image:M2 Light Tank 1. A02 M2 lt jpg{{!}}The M2 with the early turret, the M2A1
+image:M2 Light Tank 2. A02 M2 lt jpg{{!}}The M2 with the late turret, the M2A4
+image:M2 Light Tank (3). A02 M2 lt jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. A02 M2 lt wikipedia. A02 M2 lt org/wiki/M2_Light_Tank 
+* https://www. A02 M2 lt wwiivehicles. A02 M2 lt com/usa/tanks-light/m2. A02 M2 lt asp
+
+}}

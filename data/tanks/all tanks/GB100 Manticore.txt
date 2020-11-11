@@ -1,0 +1,182 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery. 
+6,100,000 Cost. 
+14001120 HP Hit Points. 
+12.4/135.87/0 t Weight Limit. 
+530530 hp Engine Power. 
+68/25 km/h Speed Limit. 
+4545 deg/s Traverse. 
+42.74Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+50/30/25 mm Hull Armor. 
+80/40/30// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+390/390/480390/390/480 HP Damage. 
+248/268/60248/268/60 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 14 s 50% Crew: 17.82 s 75% Crew: 15.68 s 100% Crew: 14 s Rammer: 12.6 s Vents: 13.68 s Both: 12.31 s Both and BiA: 12.08 s Both and Max Crew %: 11.58 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 14 s 50% Crew: 17.82 s 75% Crew: 15.68 s 100% Crew: 14 s Rammer: 12.6 s Vents: 13.68 s Both: 12.31 s Both and BiA: 12.08 s Both and Max Crew %: 11.58 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (480 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (480 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.484 m With 75% Crew: 0.426 m With 100% Crew: 0.38 m With BiA: 0.371 m With BiA and Vents: 0.364 m Maximum possible: 0.349 m For more details, see Crew m ▲ With 50% Crew: 0.484 m With 75% Crew: 0.426 m With 100% Crew: 0.38 m With BiA: 0.371 m With BiA and Vents: 0.364 m Maximum possible: 0.349 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.418 s With 75% Crew: 2.128 s With 100% Crew: 1.9 s With GLD: 1.727 s With BiA: 1.857 s With BiA and Vents: 1.822 s With both and GLD: 1.656 s Maximum possible: 1.588 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.418 s With 75% Crew: 2.128 s With 100% Crew: 1.9 s With GLD: 1.727 s With BiA: 1.857 s With BiA and Vents: 1.822 s With both and GLD: 1.656 s Maximum possible: 1.588 s For more details, see Crew or Equipment Aim time. 
+4040 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+8°-8°/+8° Elevation Arc. 
+2020 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+QF 105 mm Gun. 
+248/268/60. 
+390/390/480. 
+4.29. 
+0.38. 
+1.9. 
+nan. 
+nan. 
+290000. 
+nan. 
+Manticore 1955. 
+//. 
+40. 
+400. 
+nan. 
+nan. 
+66000. 
+nan. 
+Rolls-Royce B81. 
+nan. 
+0. 
+nan. 
+nan. 
+100000. 
+nan. 
+Manticore 1955. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+82500. 
+X. 
+C42 VHF. 
+750. 
+nan. 
+40. 
+54000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Good alpha damage
+* Best standard penetration in tier/class
+* Good gun depression
+* Very good speed and acceleration
+* Small size and low profile, excellent camouflage
+
+|InTheGame_cons= 
+* Very poor DPM 
+* Subpar accuracy and gun handling
+* Very low ammo capacity
+* Very poor gun elevation
+* Subpar agility for a light tank
+
+|InTheGame_performance= 
+The Manticore is equipped with an underpowered variant of the 105mm L7 found on many other Western tanks (such as the [[Centurion Mk. GB100 Manticore 7/1]]), with the same meaty 390 alpha damage (joint highest among Tier 10 light tanks) and a reasonably good penetration for its class, though using standard AP ammunition (APCR is available as premium rounds); gun depression is good, but gun elevation is very lacking, as is ammo capacity. GB100 Manticore  It is also a very small and light tank, and enjoys excellent acceleration and good speed, as well as very good camouflage; its size also allows it to hide in most bushes and behind cover with ease, something Manticore players would do well to get acquainted with. GB100 Manticore  Survivability is abysmal - the armor is so thin artillery penetrations are a real possiblity, the healthpool is low, and the crew of two (with the Commander also being Gunner and Radio Operator) means it's quite easy for all crewmen to get injured and knock out the tank. GB100 Manticore  
+
+Manticore is not a tank suited for leading a team to victory. GB100 Manticore  It is, however, a superb passive spotter and a potentially serious threat if left unchecked. GB100 Manticore  Players are encouraged to adopt a cautious playstyle, creeping around the battlefield while abusing camouflage and vision mechanics to provide effective spotting for their teammates, while taking safe potshots at distracted and/or unwary enemies. GB100 Manticore  Always be mindful of the very small ammo capacity though, and make every shot count. GB100 Manticore 
+
+|InTheGame_research= 
+None required. GB100 Manticore 
+
+|InTheGame_equipment=
+Binocular Telescope, Camouflage Net, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+Chimera (or in-game Manticore) was 1955's british tank design. GB100 Manticore  The name "Manticore" is a straight fabrication on Wargamming's part, probably to avoid confusion with the other Chimera. GB100 Manticore  There was some blueprints drawn. GB100 Manticore  Vehicle was never built or made. GB100 Manticore 
+
+
+While the Chimera is certainly a "light" tank at 12. GB100 Manticore 4 tonnes (27,345lbs more precisely), it would have been more accurate to describe the tank as a self-propelled anti-tank gun. GB100 Manticore  To quote the documents about the aim of the STT project "To design a vehicle-mounted substitute for the BAT which is acceptable in the Forward Infantry positions. GB100 Manticore  Its role is to provide anti-tank defence for the Infantry Battalion up to 1000 yards stand off distance in front of the Forward Defended localities. GB100 Manticore " For reference, the L2 BAT is a 120mm recoil-less rifle used by the British as a Battalion anti tank gun. GB100 Manticore  The vehicle also had a much smaller engine, but I'll get too other inaccuracies in a moment. GB100 Manticore 
+
+
+To sum up these (and other information) in a simplified WOT-friendly form. GB100 Manticore 
+
+
+* Turrets: Chimera
+* Guns: Gun: QF 105mm (ex 20 pounder). GB100 Manticore  The 105mm L7 was still being developed at this time. GB100 Manticore 
+* Engines: Rolls Royce B81 (198bhp @ 3700 RPM)
+* Suspension: Webbed Single Trailing Spud
+* Radio: B 47 VHF and C 47 VHF
+* Crew: 2 (Commander/Gunner/Radio Operator, Driver/Loader)
+* Weight: 27,345lbs (12. GB100 Manticore 403 t)
+* Max Speeds: 32mph (51. GB100 Manticore 49km/h)
+* Hull: 25mm / 29mm / 17mm. GB100 Manticore 
+* Turret: 28mm / 28mm / 20mm
+* Elevation/Depression: +10/-10. GB100 Manticore 
+* Shell Capacity: 20 rounds (not 16)
+
+
+And as for the dimensions. GB100 Manticore 
+
+* Dimensions: 66 Inches (1. GB100 Manticore 6764m) High, 96 inches (2. GB100 Manticore 4384m) Wide, 183 inches (4. GB100 Manticore 6482m) Long, 272 inches (6. GB100 Manticore 9088m) long counting gun. GB100 Manticore 
+
+|HistoricalGallery=
+File:1955 Chimera 3 dimension drawing. GB100 Manticore jpg{{!}}1955 Chimera 3 dimension drawing
+File:1955 Chimera side drawing. GB100 Manticore jpg{{!}}1955 Chimera side drawing
+File:1955 Chimera A cutaway of sorts view. GB100 Manticore jpg{{!}}Cut views
+File:Some basic specifications about the Chimera. GB100 Manticore jpg{{!}}Basic specifications
+File:1955 Chimera Basic specifications next. GB100 Manticore jpg{{!}}Basic specifications
+
+
+|HistAcc=
+The Manticore's actual designation is actually the '''Chimera 1955'''. GB100 Manticore  The fake name was given to avoid confusion with another existing tank in World of Tanks which were also named as "[[Tank:GB97_Chimera|Chimera]]". GB100 Manticore 
+* The Chimera 1955 project was a tank destroyer, not a light tank. GB100 Manticore 
+* The Chimera 1955 project used an autoloader. GB100 Manticore 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+https://www. GB100 Manticore reddit. GB100 Manticore com/r/WorldofTanks/comments/c6pczl/what_the_heck_is_the_manticore_tier_x_british/
+}}

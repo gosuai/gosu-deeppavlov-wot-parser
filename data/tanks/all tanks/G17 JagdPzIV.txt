@@ -1,0 +1,247 @@
+910,500 Cost. 
+670670 HP Hit Points. 
+24.15/24.224.48/26.8 t Weight Limit. 
+320440 hp Engine Power. 
+40/12 km/h Speed Limit. 
+3235 deg/s Traverse. 
+13.2517.97 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+80/40/22 mm Hull Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+70/2800/38 252/3200/252 Shell Cost. 
+110/110/175220/220/270 HP Damage. 
+110/158/38145/194/44 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 3.2 s 50% Crew: 3.96 s 75% Crew: 3.46 s 100% Crew: 3.07 s Rammer: 2.76 s Vents: 3 s Both: 2.7 s Both and BiA: 2.64 s Both and Max Crew %: 2.53 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 5.4 s 50% Crew: 6.69 s 75% Crew: 5.84 s 100% Crew: 5.18 s Rammer: 4.66 s Vents: 5.07 s Both: 4.56 s Both and BiA: 4.46 s Both and Max Crew %: 4.28 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 2062.5 50% Crew: 1665.4 75% Crew: 1906.3 100% Crew: 2150.5 100% Crew Vents: 2198.9 Rammer: 2389.2 Both: 2443.1 Both and BiA: 2497 Both and Max Crew %: 2605.9 Advantageous Damage Per Minute First-shot DPM: 2172.5 50% Crew: 1775.4 75% Crew: 2016.3 100% Crew: 2260.5 100% Crew Rammer: 2499.2 Vents: 2308.9 Both: 2553.1 Both and BiA: 2607 Both and Max Crew %: 2715.9 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 2062.5 50% Crew: 1665.4 75% Crew: 1906.3 100% Crew: 2150.5 100% Crew Vents: 2198.9 Rammer: 2389.2 Both: 2443.1 Both and BiA: 2497 Both and Max Crew %: 2605.9 Advantageous Damage Per Minute First-shot DPM: 2172.5 50% Crew: 1775.4 75% Crew: 2016.3 100% Crew: 2260.5 100% Crew Rammer: 2499.2 Vents: 2308.9 Both: 2553.1 Both and BiA: 2607 Both and Max Crew %: 2715.9 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 3281.25 50% Crew: 2649.5 75% Crew: 3032.75 100% Crew: 3421.25 100% Crew Vents: 3498.25 Rammer: 3801 Both: 3886.75 Both and BiA: 3972.5 Both and Max Crew %: 4145.75 Advantageous Damage Per Minute First-shot DPM: 3456.25 50% Crew: 2824.5 75% Crew: 3207.75 100% Crew: 3596.25 100% Crew Rammer: 3976 Vents: 3673.25 Both: 4061.75 Both and BiA: 4147.5 Both and Max Crew %: 4320.75 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (220 Damage):  Theoretical Damage Per Minute Nominal DPM: 2444.2 50% Crew: 1973.4 75% Crew: 2259.4 100% Crew: 2549.8 100% Crew Vents: 2607 Rammer: 2833.6 Both: 2897.4 Both and BiA: 2961.2 Both and Max Crew %: 3088.8 Advantageous Damage Per Minute First-shot DPM: 2664.2 50% Crew: 2193.4 75% Crew: 2479.4 100% Crew: 2769.8 100% Crew Rammer: 3053.6 Vents: 2827 Both: 3117.4 Both and BiA: 3181.2 Both and Max Crew %: 3308.8 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (220 Damage):  Theoretical Damage Per Minute Nominal DPM: 2444.2 50% Crew: 1973.4 75% Crew: 2259.4 100% Crew: 2549.8 100% Crew Vents: 2607 Rammer: 2833.6 Both: 2897.4 Both and BiA: 2961.2 Both and Max Crew %: 3088.8 Advantageous Damage Per Minute First-shot DPM: 2664.2 50% Crew: 2193.4 75% Crew: 2479.4 100% Crew: 2769.8 100% Crew Rammer: 3053.6 Vents: 2827 Both: 3117.4 Both and BiA: 3181.2 Both and Max Crew %: 3308.8 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (270 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2999.7 50% Crew: 2421.9 75% Crew: 2772.9 100% Crew: 3129.3 100% Crew Vents: 3199.5 Rammer: 3477.6 Both: 3555.9 Both and BiA: 3634.2 Both and Max Crew %: 3790.8 Advantageous Damage Per Minute First-shot DPM: 3269.7 50% Crew: 2691.9 75% Crew: 3042.9 100% Crew: 3399.3 100% Crew Rammer: 3747.6 Vents: 3469.5 Both: 3825.9 Both and BiA: 3904.2 Both and Max Crew %: 4060.8 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.458 m With 75% Crew: 0.4 m With 100% Crew: 0.355 m With BiA: 0.347 m With BiA and Vents: 0.339 m Maximum possible: 0.325 m For more details, see Crew m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+2626 deg/s Gun Traverse Speed. 
+27° Gun Arc. 
+-8°/+15°-6°/+15° Elevation Arc. 
+12050 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 446.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 326.1 m With 75% Crew: 370.6 m With 100% Crew: 415 m With 100% Signal Boost: 498 m When affected by 100% Relaying: 456.5 m Maximum possible: 597.2 m For more details, see Skills or Equipment Signal Range. 
+V. 
+7,5 cm Pak 39 L/48. 
+110/158/38. 
+110/110/175. 
+18.75. 
+0.37. 
+1.7. 
+nan. 
+1520. 
+27380. 
+VI. 
+7,5 cm Pak 42 L/70. 
+150/194/38. 
+135/135/175. 
+15.79. 
+0.33. 
+1.7. 
+nan. 
+1740. 
+53000. 
+VII. 
+8,8 cm Pak L/56. 
+145/194/44. 
+220/220/270. 
+11.11. 
+0.35. 
+1.7. 
+nan. 
+2050. 
+66000. 
+IV. 
+Maybach HL 108 TR. 
+320. 
+20. 
+nan. 
+450. 
+9460. 
+IV. 
+Maybach HL 120 TR. 
+350. 
+20. 
+nan. 
+510. 
+10430. 
+IV. 
+Maybach HL 120 TRM. 
+440. 
+20. 
+nan. 
+510. 
+19900. 
+V. 
+Jagdpanzer IV 0-Serie. 
+24.2. 
+32. 
+0. 
+nan. 
+7800. 
+9610. 
+VI. 
+Jagdpanzer IV. 
+26.8. 
+35. 
+0. 
+nan. 
+7800. 
+12860. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=
+|Unlike most other tank destroyers of its tier, the Jagdpanzer IV is not optimised for sniping at long distances. G17 JagdPzIV  Its guns simply do not have the penetration for that purpose. G17 JagdPzIV  What it does have is a ferocious rate-of-fire with its two top guns, excellent mobility, and a low and stealthy profile. G17 JagdPzIV  It also has fairly decent frontal armor for its tier as an added bonus. G17 JagdPzIV  
+
+|Gallery=
+image:JagdPz IV front view 1. G17 JagdPzIV jpg {{!}}JagdPz IV front left view
+image:JagdPz IV front view 2. G17 JagdPzIV jpg‎{{!}}JagdPz IV front right view
+image:JagdPz IV back view 1. G17 JagdPzIV jpg‎{{!}}JagdPz IV back left view
+image:JagdPz IV back view 2. G17 JagdPzIV jpg‎{{!}}JagdPz IV back right view
+
+|InTheGame_pros=
+* Sloped and rather strong front armor for its tier; and roughly double the hitpoints of the StuG III Ausf. G17 JagdPzIV  G
+* Very low and somewhat small silhouette; excellent camouflage rating
+* Fast-firing, fast-aiming guns, giving it a ferocious damage-per-minute (DPM)
+* Good acceleration and turning
+
+|InTheGame_cons=
+* Mediocre penetration by Tier 6 tank destroyer standards
+* 7,5 cm StuK 42 L/70 has low damage-per-shot
+* Frontal transmission ie. G17 JagdPzIV  engine damage can be incurred from shots to the lower front hull
+* Mediocre top speed
+* Slow shell velocity on the 8,8, sniping from long distances at moving targets is exceedingly difficult. G17 JagdPzIV 
+
+|InTheGame_performance=
+
+The Jagdpanzer IV does not play like any of the other Tier 6 tank destroyers. G17 JagdPzIV  While most of the other tank destroyers of its tier feature high penetration guns, the Jagdpanzer IV does not get any better penetration than its predecessor, the StuG III Ausf. G17 JagdPzIV  G. G17 JagdPzIV  There are two viable options: the 7,5 cm StuK 42 L/70 will be familiar to those used to the StuG III G. G17 JagdPzIV  It is quite accurate, and fires even faster on the Jagdpanzer IV. G17 JagdPzIV  The other gun is the 8,8 cm PaK L/56. G17 JagdPzIV  This gun is essentially the same as that used by the [[VK 36. G17 JagdPzIV 01 (H)]], but fires even faster. G17 JagdPzIV  With an exceptional base DPM of over 2400 (most others of its tier do not even reach 2000), a reload of under 6 seconds and a very respectable 220 damage per shot, this is slightly offset by the mediocre penetration of only 145 mm (tier 6 medium level). G17 JagdPzIV  Both of these guns have outstanding aim times, allowing the Jagdpanzer IV to shift targets and aim quickly after coming to a brief stop. G17 JagdPzIV 
+
+Like many tank destroyers, the frontal armour of the Jagdpanzer IV is quite decent for its tier, 80 mm thick and fairly well-sloped, and will protect it against most lower tiers, but its flanks are much thinner. G17 JagdPzIV  It also has an outstanding camouflage factor and a low profile, making it very easy to hide on the battlefield in order to ambush enemy tanks or snipe undetected. G17 JagdPzIV 
+
+The overall mobility is quite good, although the top speed and reverse speed are fairly low. G17 JagdPzIV  The Jagdpanzer IV turns very well, and also accelerates well. G17 JagdPzIV 
+
+Given these traits, the Jagdpanzer IV with the 8,8 cm excels very much as an assault gun, not a sniper. G17 JagdPzIV  Instead of sitting on a hill with this tank, use your speed and mobility to keep up with friendly tanks and provide them with supporting fire to help their advance. G17 JagdPzIV  Only when you know you will be able to penetrate enemies from your position should you stay stationary. G17 JagdPzIV  The fast aiming gun allows you to minimize your time standing still. G17 JagdPzIV  Another key element of being an ambush DPM tank destroyer is defending losing flanks. G17 JagdPzIV  Utilize the tank's mobility to re-position and ambush enemy tanks pushing a flank. G17 JagdPzIV  This should give you a first strike advantage, and possibly a health advantage, if your allies were able to do something before falling. G17 JagdPzIV  Few tanks of the same tier can deal with multiple targets and stay nearly invisible to the enemy. G17 JagdPzIV 
+
+Using the L/70, one may take a more traditional role, and play the tank to its biggest strengths, without getting dangerously close to the front line. G17 JagdPzIV  With the high accuracy of the L/70, one may target specific areas of tanks, such as the tracks - even at range. G17 JagdPzIV  This tactic will allow a player to remain at least 100 m away from the enemy at all times - easily done in combination with mobility. G17 JagdPzIV  Additionally, the Jagdpanzer has a very good camo value and when properly hidden (remaining far enough behind bushes that any shot will not break camouflage) can lay on the DPM from afar without any risk of return fire. G17 JagdPzIV  Using the L/70 and a gun rammer, the Jagdpanzer IV becomes almost like a tier 6 E 25, with a very fast firing gun, good speed and camo values. G17 JagdPzIV 
+
+Don't be afraid to trade with the enemy, even if they have big guns. G17 JagdPzIV  With either gun, but especially the L/70 (due to the lower frequency of unfortunate bounces and weird misses), you can take hits to your decently large HP pool/sloped armor and you will have higher DPM than any enemy you face - letting you win fights through sheer attrition. G17 JagdPzIV  This is something the StuG III couldn't do. G17 JagdPzIV  However, remember to only resort to this tactic when absolutely needed, as in self defense situations. G17 JagdPzIV  Otherwise, staying hidden is key. G17 JagdPzIV  The Jagdpanzer has a great gun, that averages at 230 alpha, so just keep wiggling to increase the chance of a >70 degree bounce or a hit to the gun mantlet. G17 JagdPzIV  You can also try and outflank the enemy, by using the great stealth, speed, and camo rating on this tank. G17 JagdPzIV  
+
+A few pointers: do NOT do these things
+1. G17 JagdPzIV  Jump off small cliffs, like on [[Mines]]- the German suspension is quite fragile, and it will break even with the new physics update. G17 JagdPzIV 
+2. G17 JagdPzIV  Use HE- does zero damage, useless unless against lights. G17 JagdPzIV 
+3. G17 JagdPzIV  Try and sidescrape or armor angle- side armor is horrible with no sloping. G17 JagdPzIV 
+4. G17 JagdPzIV  Chase after other tanks- they usually lead you to other enemy tanks, and as a TD, you cannot afford to have 2 or more tanks circling you
+
+Some APCR is recommended for both guns to use against the Tier 8s that Tier 6s will face from time-to-time, although they are still not enough for penetrating most Tier 8s from head-on. G17 JagdPzIV 
+
+|InTheGame_research=
+* Nothing can be mounted with the stock suspension, so either research the upgrade first or use the enhanced suspension equipment. G17 JagdPzIV 
+* The L/70, engines, and FuG 7 radio all carry over from the StuG III G. G17 JagdPzIV 
+* Research the 8,8 cm PaK L/56 before moving on to the Jagdpanther, since otherwise it must be researched on the Jagdpanther anyway. G17 JagdPzIV 
+
+|InTheGame_equipment=GLD, Camouflage Net, Binocular Telescope, Medium-Caliber Tank gun rammer, Vents
+
+|History=
+The Jagdpanzer IV, Sd. G17 JagdPzIV Kfz. G17 JagdPzIV  162, was a tank-destroyer based on the Panzer IV chassis built in three main variants. G17 JagdPzIV  As one of the casemate-style turretless Jagdpanzer ("Hunting tank") designs, it was developed against the wishes of Heinz Guderian, the inspector general of the Panzertruppen, as a replacement for the Sturmgeschütz III (StuG III). G17 JagdPzIV  Guderian objected against the needless, in his eyes, diversion of resources from Panzer IV tank production, as the Stug III and Sturmgeschütz IV were still more than adequate for their role. G17 JagdPzIV 
+
+== Development ==
+After the Battle of Stalingrad, in September 1942, the Wehrmacht's arms bureau, the Waffenamt, called for a new standard for assault weapons; 100 mm of armor to the front, 40–50 mm on the sides, wider tracks, ground clearance of 50 cm, top speed of 26 km/h, and the lowest possible firing positions. G17 JagdPzIV  The new Panzerjager ("tank hunter") design would be armed with the same 7. G17 JagdPzIV 5 cm gun as fitted to the Panther: the Pak 42 L/70. G17 JagdPzIV  Initially, a new chassis were planned, but that of the Panzer IV had to be used. G17 JagdPzIV 
+Previous efforts to mount bigger guns on smaller chassis resulted in the Marder series as well as StuG IIIs. G17 JagdPzIV  The Marder series were tall and had open crew compartments. G17 JagdPzIV  The new design had a low silhouette and completely enclosed fighting compartment. G17 JagdPzIV 
+
+The Jagdpanzer IV used the Panzer IV chassis 7 (known as BW7), but the almost-vertical front hull plate was replaced by sloped armor plates. G17 JagdPzIV  Internally, the layout was changed to accommodate the new superstructure, moving the fuel tanks and ammunition racks[clarification needed]. G17 JagdPzIV  Since the Jagdpanzer lacked a turret, the engine which originally powered the Panzer IV's turret could be eliminated. G17 JagdPzIV 
+
+The new superstructure had 80 mm-thick sloped armour, which gives greater armor protection than a vertical armor of 100 mm. G17 JagdPzIV  To make the manufacturing process as simple as possible, the superstructure was made of large, interlocking plates which were welded together. G17 JagdPzIV 
+
+Armament consisted of a 7. G17 JagdPzIV 5 cm main gun, originally intended to be the PaK 42 L/70, but shortages meant that for the pre-production and the first production run, different older guns were used: the 7. G17 JagdPzIV 5 cm PaK 39 L/48. G17 JagdPzIV  These were shorter and less-powerful than the PaK 42. G17 JagdPzIV 
+
+Installing the much heavier PaK 42 meant that the Jagdpanzer IV was nose heavy, especially with the heavy frontal armor. G17 JagdPzIV  This made them less mobile and more difficult to operate in rough terrain, leading their crews to nickname them Guderian-Ente "Guderian's duck". G17 JagdPzIV  To prevent the rubber rims of the roadwheels from being dislocated by the weight of the vehicle, some later versions had steel roadwheels installed on the front. G17 JagdPzIV 
+
+The final prototype of the Jagdpanzer IV was presented in December 1943 and production started in January 1944, with the PaK 39 L/48 armed variant staying in production until November. G17 JagdPzIV  Production of the PaK 42 L/70 armed variants started in August and continued until March/April 1945. G17 JagdPzIV 
+
+On August 19–22, 1943, after the Battle of Kursk, Hitler received reports that StuG IIIs performed better than Panzer IVs, within certain restraints of how they were deployed. G17 JagdPzIV  It was thus intended to stop production of the Panzer IV itself at the end of 1944 to concentrate solely on production of the Jagdpanzer IV, but the Panzer IV was in production all the way until the end of the conflict, along with Jagdpanzer IV. G17 JagdPzIV 
+
+== Variants ==
+* Jagdpanzer IV with 7. G17 JagdPzIV 5 cm PaK 39 L/43: a small number of these were built as the pre-production (0) series. G17 JagdPzIV 
+* Jagdpanzer IV with 7. G17 JagdPzIV 5 cm PaK 39 L/48, official name Sturmgeschütz neuer Art mit 7. G17 JagdPzIV 5 cm PaK L/48 auf Fahrgestell PzKpfw IV. G17 JagdPzIV  Some 780 or so were produced in 1944. G17 JagdPzIV 
+* Jagdpanzer IV/70 (V) (Sd. G17 JagdPzIV Kfz. G17 JagdPzIV 162/1) was one of two variants armed with the PaK 42 L/70 gun. G17 JagdPzIV  Some 940 were built in 1944 and 1945. G17 JagdPzIV  The (V) stands for the builder, Vomag. G17 JagdPzIV 
+* Jagdpanzer IV/70 (A) (Sd. G17 JagdPzIV Kfz. G17 JagdPzIV 162/1) was the other PaK 42 L/70 armed Jagdpanzer IV. G17 JagdPzIV  In order to send Pak 42 L/70-armed vehicles to the front as soon as possible, Hitler ordered an interim solution in July 1944. G17 JagdPzIV  Alkett, a manufacturer of the StuG III, Alkett, was to immediately produce the Jagdpanzer IV to its own design. G17 JagdPzIV  These differed in that its superstructure was mounted directly on the original Panzer IV chassis, and as such, lacked the sharp-edged nose of the Vomag variant. G17 JagdPzIV  It was also taller. G17 JagdPzIV  Only 278 were built in the period from August 1944 to March 1945. G17 JagdPzIV  The (A) in the designation came from Alkett. G17 JagdPzIV  This variant is also known as the Zwischenlosung: in translation, the "intermediate solution". G17 JagdPzIV 
+
+Minor modifications and improvements were made throughout the production runs of all variants, as well as several field improvements, the most common being the addition of armor side-skirts. G17 JagdPzIV 
+
+Originally, the Jagdpanzer IV/48's gun had a muzzle brake installed, but because the gun was so close to the ground, each time it fired, huge dust clouds would rise up and betrayed the vehicle's position, leading many crews to remove the muzzle brake in the field. G17 JagdPzIV  Later variants dispensed with the muzzle brake. G17 JagdPzIV 
+
+Early L/48 and L/70-armed vehicles had zimmerit applied to the hull to protect against anti-tank grenades, but this was discontinued after about September 1944. G17 JagdPzIV  Later vehicles had three return rollers rather than the original four, and adopted the twin vertical exhausts typical of the late Panzer IV series. G17 JagdPzIV  Some late vehicles also had all-steel road wheels on the first couple of bogies on each side. G17 JagdPzIV 
+
+== Combat history ==
+The Jagdpanzer IV served in the anti-tank sections of Panzer and SS Panzer divisions. G17 JagdPzIV  They fought in Normandy, the Battle of the Bulge, and on the Eastern Front (WWII). G17 JagdPzIV  They were very successful tank-destroyers, but performed badly when used out of role as substitutes for tanks or assault guns, as most tank-destroyers were. G17 JagdPzIV 
+In the later stages of the war however, they were increasingly used as tank substitutes, because there was often nothing else available. G17 JagdPzIV 
+Romania received several Jagdpanzer IV tank-destroyers from the Red Army after the war ended. G17 JagdPzIV  They were officially known as TAs T4s in the army inventory and were used until 1950. G17 JagdPzIV  All German armor was scrapped in 1954. G17 JagdPzIV 
+
+One of the more notable Jagdpanzer IV aces was SS-Oberscharführer Roy from the 12th SS Panzerjäger Abteilung of the 12th SS Panzer Division. G17 JagdPzIV  He was killed by an American sniper while looking out of the hatch of his Jagdpanzer IV on December 17 1944, during the Ardennes Offensive in Belgium. G17 JagdPzIV 
+
+After the war, West Germany continued the Jagdpanzer concept with the Kanonenjagdpanzer, but few other fixed-casemate self-propelled guns were built postwar. G17 JagdPzIV 
+
+|HistoricalGallery=
+image:JagdPz_IV_0_Serie. G17 JagdPzIV jpg{{!}}Jagdpanzer IV/48 (Sd. G17 JagdPzIV Kfz. G17 JagdPzIV  162) 0 Serie pre production vehicle on display at the [https://commons. G17 JagdPzIV wikimedia. G17 JagdPzIV org/wiki/Panzermuseum_Munster Deutsches Panzermuseum Munster] , Germany. G17 JagdPzIV 
+image:JagdPz_IV_Canada. G17 JagdPzIV jpg{{!}}German tank destroyer Jagdpanzer IV/70 (V) displayed at the Canadian War Museum in Ottawa, Ontario. G17 JagdPzIV 
+image:JagdPz_IV_Hungrey. G17 JagdPzIV jpg{{!}}Jagdpanzer IV with infantry support, Hungary, 1944
+image:JagdPz_IV_Germany. G17 JagdPzIV JPG{{!}}Deutsches Panzermuseum Munster in Munster (Örtze) (German Tank Museum)
+
+|HistAcc=
+Its only primary armaments were the 7,5 cm guns. G17 JagdPzIV  The 8,8 cm gun configuration is fake. G17 JagdPzIV 
+* The Jagdpanzer IV is considerably faster than in reality, with an engine power of 440 hp compared to the historical 300. G17 JagdPzIV 
+* Uses the same engines as the [[Nashorn]] which is also a Panzer IV chassis. G17 JagdPzIV  However, their horsepower and weight values are inconsistent. G17 JagdPzIV 
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* [[https://en. G17 JagdPzIV wikipedia. G17 JagdPzIV org/wiki/Jagdpanzer_IV ''Source: Wikipedia'']]
+
+}}

@@ -1,0 +1,236 @@
+147,500 Cost. 
+380400 HP Hit Points. 
+20.18/20.2321.61/25.23 t Weight Limit. 
+150190 hp Engine Power. 
+50/20 km/h Speed Limit. 
+2830 deg/s Traverse. 
+7.438.79 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+70/65/40 mm Hull Armor. 
+70/60/6080/60/60 mm Turret Armor. 
+AP/APCR/HE AP/HEAT/HE Shells. 
+10/800/13 46/2800/38 Shell Cost. 
+50/50/62110/110/175 HP Damage. 
+25/46/2474/92/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.3 s 50% Crew: 2.93 s 75% Crew: 2.58 s 100% Crew: 2.3 s Rammer: 2.07 s Vents: 2.25 s Both: 2.02 s Both and BiA: 1.98 s Both and Max Crew %: 1.9 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 6.2 s 50% Crew: 7.89 s 75% Crew: 6.94 s 100% Crew: 6.2 s Rammer: 5.58 s Vents: 6.06 s Both: 5.45 s Both and BiA: 5.35 s Both and Max Crew %: 5.13 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (50 Damage):  Theoretical Damage Per Minute Nominal DPM: 1304.5 50% Crew: 1025 75% Crew: 1165 100% Crew: 1304.5 100% Crew Vents: 1335 Rammer: 1449.5 Both: 1483.5 Both and BiA: 1511.5 Both and Max Crew %: 1577 Advantageous Damage Per Minute First-shot DPM: 1354.5 50% Crew: 1075 75% Crew: 1215 100% Crew: 1354.5 100% Crew Rammer: 1499.5 Vents: 1385 Both: 1533.5 Both and BiA: 1561.5 Both and Max Crew %: 1627 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (50 Damage):  Theoretical Damage Per Minute Nominal DPM: 1304.5 50% Crew: 1025 75% Crew: 1165 100% Crew: 1304.5 100% Crew Vents: 1335 Rammer: 1449.5 Both: 1483.5 Both and BiA: 1511.5 Both and Max Crew %: 1577 Advantageous Damage Per Minute First-shot DPM: 1354.5 50% Crew: 1075 75% Crew: 1215 100% Crew: 1354.5 100% Crew Rammer: 1499.5 Vents: 1385 Both: 1533.5 Both and BiA: 1561.5 Both and Max Crew %: 1627 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (62 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1617.58 50% Crew: 1271 75% Crew: 1444.6 100% Crew: 1617.58 100% Crew Vents: 1655.4 Rammer: 1797.38 Both: 1839.54 Both and BiA: 1874.26 Both and Max Crew %: 1955.48 Advantageous Damage Per Minute First-shot DPM: 1679.58 50% Crew: 1333 75% Crew: 1506.6 100% Crew: 1679.58 100% Crew Rammer: 1859.38 Vents: 1717.4 Both: 1901.54 Both and BiA: 1936.26 Both and Max Crew %: 2017.48 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1064.8 50% Crew: 837.1 75% Crew: 950.4 100% Crew: 1064.8 100% Crew Vents: 1090.1 Rammer: 1183.6 Both: 1211.1 Both and BiA: 1234.2 Both and Max Crew %: 1287 Advantageous Damage Per Minute First-shot DPM: 1174.8 50% Crew: 947.1 75% Crew: 1060.4 100% Crew: 1174.8 100% Crew Rammer: 1293.6 Vents: 1200.1 Both: 1321.1 Both and BiA: 1344.2 Both and Max Crew %: 1397 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1064.8 50% Crew: 837.1 75% Crew: 950.4 100% Crew: 1064.8 100% Crew Vents: 1090.1 Rammer: 1183.6 Both: 1211.1 Both and BiA: 1234.2 Both and Max Crew %: 1287 Advantageous Damage Per Minute First-shot DPM: 1174.8 50% Crew: 947.1 75% Crew: 1060.4 100% Crew: 1174.8 100% Crew Rammer: 1293.6 Vents: 1200.1 Both: 1321.1 Both and BiA: 1344.2 Both and Max Crew %: 1397 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1694 50% Crew: 1331.75 75% Crew: 1512 100% Crew: 1694 100% Crew Vents: 1734.25 Rammer: 1883 Both: 1926.75 Both and BiA: 1963.5 Both and Max Crew %: 2047.5 Advantageous Damage Per Minute First-shot DPM: 1869 50% Crew: 1506.75 75% Crew: 1687 100% Crew: 1869 100% Crew Rammer: 2058 Vents: 1909.25 Both: 2101.75 Both and BiA: 2138.5 Both and Max Crew %: 2222.5 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.657 m With 75% Crew: 0.573 m With 100% Crew: 0.508 m With BiA: 0.497 m With BiA and Vents: 0.486 m Maximum possible: 0.466 m For more details, see Crew m ▲ With 50% Crew: 0.57 m With 75% Crew: 0.498 m With 100% Crew: 0.441 m With BiA: 0.431 m With BiA and Vents: 0.422 m Maximum possible: 0.404 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment Aim time. 
+3226 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-7°/+17° Elevation Arc. 
+310105 rounds Ammo Capacity. 
+1520 % Chance of Fire. 
+m ▲ With 50% Crew: 251.4 m With 75% Crew: 285.7 m With 100% Crew: 320 m With Recon and Situational Awareness: 336.2 m With Coated Optics: 352 m With Binocular Telescope: 400 m Maximum possible: 458.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 267.1 m With 75% Crew: 303.6 m With 100% Crew: 340 m With Recon and Situational Awareness: 357.2 m With Coated Optics: 374 m With Binocular Telescope: 425 m Maximum possible: 486.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With 100% Signal Boost: 360 m When affected by 100% Relaying: 330 m Maximum possible: 431.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With 100% Signal Boost: 432 m When affected by 100% Relaying: 396 m Maximum possible: 518 m For more details, see Skills or Equipment Signal Range. 
+II. 
+47 mm SA34. 
+25/46/24. 
+50/50/62. 
+26.09. 
+0.53. 
+1.7. 
+nan. 
+90. 
+2400. 
+III. 
+47 mm SA35. 
+45/79/24. 
+55/55/70. 
+26.09. 
+0.47. 
+1.7. 
+nan. 
+100. 
+3250. 
+IV. 
+75 mm SA32. 
+74/92/38. 
+110/110/175. 
+9.68. 
+0.46. 
+2.5. 
+nan. 
+1520. 
+10360. 
+III. 
+AMX 40. 
+70/60/60. 
+32. 
+320. 
+nan. 
+2250. 
+1850. 
+IV. 
+Renault-Balland. 
+80/60/60. 
+26. 
+340. 
+nan. 
+2500. 
+4700. 
+II. 
+Aster. 
+150. 
+15. 
+nan. 
+540. 
+750. 
+III. 
+Somua LM. 
+190. 
+20. 
+nan. 
+540. 
+4500. 
+III. 
+AMX 40. 
+20.23. 
+28. 
+B/2. 
+nan. 
+4200. 
+1750. 
+IV. 
+AMX 40 bis. 
+25.23. 
+30. 
+B/2. 
+nan. 
+4200. 
+4750. 
+II. 
+ER 52. 
+300. 
+nan. 
+100. 
+0. 
+V. 
+ER 53. 
+360. 
+nan. 
+100. 
+3650. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=AMX40
+|One of the most futuristic tanks of its time, with unique thick and rounded armour. F14 AMX40  There is almost no straight angled part on the hull and turret which gives it good shot deflection abilities. F14 AMX40  In game, it plays more like a heavy medium or heavy tank. F14 AMX40  It is a cumbersome vehicle that barely scratches the 20km/h mark on flat ground, and has a slow firing gun to "compliment" its sluggishness. F14 AMX40  Players often call it the "Duck" in game due to its shape. F14 AMX40  Because of the poor gun, poor mobility and obsolescence against higher-tier tanks, it is often considered alongside the [[M3 Lee]] as one of the worst vehicles in the game. F14 AMX40  While the armor sloping is impressive, the 60 to 70mm of base armor means that protection peaks at 130mm without angling, and a lot of guns on your tier can penetrate you if you aren't positioned right (especially from TDs). F14 AMX40  Nonetheless, while it's far from an insight to future French light tanks, it's a pretty good platform to practice the traditional methods of driving heavy armored tanks. F14 AMX40 
+
+|Gallery=
+
+|InTheGame_pros=
+* Phenomenal protection at the front from all angles, most at tier enemies are no match for your sloped armor
+* For a tier 4 light, the alpha damage on the top gun is pretty high
+* Getting pushed by an ally can allow you to go much faster due to the transmission allowing a +50 KM/H top speed
+* This is the last of the slow, poorly armed french light tanks
+
+|InTheGame_cons=
+* Very sluggish traverse and speed, moves like a heavy tank; without an allie's help, you'll barely see above 20 KM/H
+* Like most french tanks, the HP Pool is low for its tier
+* Bad radio means you cant be too far from your allies, or you'll lose track of enemies
+* All guns, even the top one, have very poor penetraton; accuracy, aimtime, and RoF (3rd gun) are awful too
+* Between its poor speed, severely handicapped firepower and heavy team reliance, this tank performs terribly beyond tier IV
+
+|InTheGame_performance=
+Like all low tier French tanks, it suffers from poor speed and maneuverability. F14 AMX40  Its top speed can only be reached when it is going downhill, and its effective top speed on flat terrain is little more than 20 kilometers per hour. F14 AMX40  In addition, while it has thicker armour than the [[AMX 38]], it will be facing much higher tier opponents capable of penetrating it. F14 AMX40  Try to avoid high-tier tanks unless you can flank them to get a shot at their weaker side and rear armor. F14 AMX40 
+
+The first guns are woefully inadequate for its tier, with only the final gun, the 75mm SA32, providing decent punch. F14 AMX40  To equip this gun requires a turret upgrade (with increased armor thickness but slower traverse) and since the tank at stock is nearly at the load limit, this will also require a suspension upgrade. F14 AMX40 
+
+The AMX 40 can be a versatile tank. F14 AMX40  Depending on the teams, maps, position in the list, and the availability of equipment, modules, you can choose from a variety of tactics. F14 AMX40  Fully upgraded, the AMX 40 can take on nearly every tank at its tier and below but will be left defenseless if caught in the open by higher tier vehicles. F14 AMX40 
+
+*'''At the top of the list''': When it's one of the higher tanks, which isn't often, the AMX 40 is a considerable force, especially when fully upgraded. F14 AMX40  The armour will bounce a lot of Tier 3 and 4 shots, and the gun is good for a Tier 4. F14 AMX40  However, this does not mean a player should go rushing in, though the term "rushing" may be an overstatement for the AMX 40. F14 AMX40  When it's at the top of the list, play the AMX 40 as a frontliner. F14 AMX40  Dawdle forwards at 15-20km/h and keep firing; don't give the enemy a chance to advance on you, because you will never get away. F14 AMX40  Keep moving with the full support of a few allies and you can use the AMX's armour to the best of its ability. F14 AMX40  Angling and wiggling your tank will improve your chance to bounce shots and throw enemies off. F14 AMX40 
+
+*'''In the middle of the list''': In the middle of the list, which is where the AMX will find itself the most, its once superior armor is no longer the dominant power. F14 AMX40  While your gun and armor will still be effective to some Tier 5's, there are more guns which will now be effective against you. F14 AMX40  Bear in mind you will be destroyed in a mere 12 seconds from a T-34 or you could be one-shotted by a KV-1 with its 122mm. F14 AMX40  The AMX, at this level, is best used in two ways; it can be used to defend artillery from rushing scouts (who usually have low armor and bad guns), or it can be used as a mobile watchtower, where its average view range will help, but its dismal speed and radio will hinder it somewhat. F14 AMX40  You should not go out on your own and try to stick with tanks that are tough and cannot be destroyed easily. F14 AMX40 
+
+*'''At the bottom of the list''': You are dead weight to the team. F14 AMX40  Your armor is worthless and your gun even more so. F14 AMX40  At this tier, the low speed is what will kill you. F14 AMX40  Even the frontal armor of the M4A3E8 Sherman Easy Eight will be troublesome for the gun, without angling. F14 AMX40  The AMX 40 should be employed as a stationary watchtower in areas where the team is less concentrated, such as little-used corridors. F14 AMX40  This will negate the slow speed, poor gun and enable it to utilize its light tank buff. F14 AMX40  Combined with a Sixth-Sense skill, it can warn allies of incoming armor, and allow them to respond. F14 AMX40  However, it will often be incapable of responding itself, due to the poor cannon. F14 AMX40  If necessary, it is possible to sacrifice itself as a roadblock, though the meager 20-ton weight will mean even Sherman tanks would be able to push it away and should only be considered as a last resort. F14 AMX40 
+
+Some players recommend using the stock turret as it is more rounded, has a better mantlet, and better gun depression. F14 AMX40  You will have to use the 47mm SA35, but the 75mm isnt much better. F14 AMX40 
+The AMX 40 will often be faster on flat ground if driven backwards. F14 AMX40  However, this is not recommended, as you will expose your weak rear armor. F14 AMX40  One way to counter the poor penetration on the 75mm gun is to only carry HE. F14 AMX40 
+ 
+|InTheGame_research=
+* The ER 53 radio and the 47 mm SA35 gun carry over from the AMX 38. F14 AMX40 
+* The stock suspension is completely maxed out, so researching the upgraded suspension first is a must. F14 AMX40 
+* Research the 47 mm SA35 next. F14 AMX40 
+* Continue by researching the Somua LM engine. F14 AMX40 
+* After that research the second turret and the 75 mm SA32. F14 AMX40 
+
+|InTheGame_equipment=
+Vents, GLD, Binocular Telescope, Small Spall Liner
+
+|History=
+1940 CHAR MOYEN AMX 40
+
+In March 1940, the Workshop of Issy-les-Moulineaux was studying a new medium tank of cavalry, the successor of the SOMUA S-35 and the S-40. F14 AMX40  The design was never built, due to the Fall of France in June 1940. F14 AMX40 
+
+
+== Description ==
+
+The AMX 40 Cavalry was designed as a medium tank, modelled along very futuristic lines. F14 AMX40  Its rounded hull offers only oblique surfaces; the undercarriage consists of four road wheels which was very modern for a 1940s tank. F14 AMX40  Its general hullform resembles that of postwar tanks. F14 AMX40  The tank had a cast steel body, 60mm front armor, side 50 to 30 mm and 40 mm to the rear. F14 AMX40  Length 5. F14 AMX40 30 m, width 2. F14 AMX40 45 m The chassis was composed of four-wheel drive twin 82cm in diameter protected with side shields. F14 AMX40  The two rear wheels are driven, which could allow the movement without the tracks. F14 AMX40  There were no return rollers; the drive sprocket is at the rear. F14 AMX40  Fuel tanks placed above the tracks were expected to help strengthen the lateral protection (the AMX-40 was to be diesel-fueled; unlike gasoline, diesel is not flammable at room temperature). F14 AMX40 
+  
+'''Engine'''
+
+The AMX was expected to be powered by a diesel engine of 160 hp, low compared to the SOMUA's 190 hp and the S-40's 220 hp engines, for a vehicle with an estimated weight very close to the SOMUA (nearly 20 tonnes). F14 AMX40  However, the rotation system could save significant weight and provide good performance despite the power deficit. F14 AMX40  As mentioned earlier, the choice of diesel fuel improves safety. F14 AMX40 
+
+'''Turret and armament'''
+
+The two-man turret casting has an ovoid shape reminiscent of the future Russian tanks of the T-54/T-55 family. F14 AMX40  Access was to be through a 60cm-diameter circular hatch on the back of the turret. F14 AMX40  The hatch follows the general shape of the turret, which has no protrusions except for two openings in the rangefinder. F14 AMX40  Visibility was to be provided by a panoramic periscope on top of the turret. F14 AMX40  No slot vision seems to have been planned. F14 AMX40  The solution is attractive in terms of protection, but the concentration of the tank's visibility into a single element would have adverse consequences in the event of damage to the periscope. F14 AMX40 
+
+The main armament was expected to be an SA 35 47mm cannon, placed on the axis of the turret. F14 AMX40  Turret rotation was hydraulic, rather than hand-cranked. F14 AMX40  Breaking with the custom of one-man turrets, the AMX-40 was to have a dedicated gunner along with the commander in the turret. F14 AMX40  Both occupants sat on a swivelled strap with the turret gunner on the left and the commander on the right. F14 AMX40  In addition to the 47mm gun, the tank had a secondary armament of two 7. F14 AMX40 5 mm machine guns- one co-axial with the main gun for close defense, and one on a retractable swivel joint in a compartment behind the turret for anti-air defense. F14 AMX40  The tank could hold up to 156 rounds of 47mm, distributed in the periphery of the turret in rotating part lockers, to facilitate access to ammunition. F14 AMX40  The ammunition supply is higher by almost 50% than in the SOMUA. F14 AMX40 
+  
+'''The hull'''
+
+The driver was centrally located in the front, with the dashboard is in the center of the steering wheel driving, such as how the Leclerc has not innovated on that. F14 AMX40  The driver's position is surrounded on both sides of a storage system chain for around 30 magazines of 7. F14 AMX40 5mm ammunition. F14 AMX40  This system used to access all of the stock without moving. F14 AMX40  Magazines are positioned in the turret for immediate use. F14 AMX40  The AMX 40 is as a potential successor to SOMUA S 35. F14 AMX40  The S 40 S 35 which is only improved, particularly at the undercarriage, can no longer ensure a transitional role. F14 AMX40  Compared to SOMUA, this prototype's dimensions are nearly the same. F14 AMX40  The AMX is slightly shorter and less high but wider 33cm which should improve its capabilities in all terrain. F14 AMX40  
+
+|HistAcc=
+The top turret is from the unrelated Renault Char G1. F14 AMX40  There were never any plans to fit that turret onto the AMX 40. F14 AMX40 
+* The 75mm gun configuration is fictitious. F14 AMX40 
+
+|HistoricalGallery=
+image:AMX_40_Plans_Side_Exterior. F14 AMX40 jpg{{!}}AMX 40
+image:AMX_40_Plans_Side_Interior. F14 AMX40 jpg{{!}}AMX 40
+image:AMX_40_Plans_Top. F14 AMX40 jpg{{!}}AMX 40
+image:AMX_40_Plans_Rear. F14 AMX40 jpg{{!}}AMX 40
+image:AMX_40_Drawing. F14 AMX40 jpg{{!}}AMX 40
+
+|Ref_references=
+
+
+|Ref_sources=
+DGA Châtellerault
+
+|Ref_links=
+
+* [https://www. F14 AMX40 chars-francais. F14 AMX40 net/new/index. F14 AMX40 php?option=com_content&task=view&id=704&Itemid=36 '''<i>1940 CHAR MOYEN AMX 40 at chars-francais. F14 AMX40 net</i>'''] Photos, specs, and brief history in French. F14 AMX40 
+* https://ritastatusreport. F14 AMX40 blogspot. F14 AMX40 com/2015/03/history-of-amx-40. F14 AMX40 html
+
+}}

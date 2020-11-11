@@ -1,0 +1,240 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery. 
+3,580,000 Cost. 
+18001440 HP Hit Points. 
+71.65/7436.75/0 t Weight Limit. 
+750850 hp Engine Power. 
+40/15 km/h Speed Limit. 
+2626 deg/s Traverse. 
+10.4723.13 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+180/60/40 mm Hull Armor. 
+250/80/60// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+400/400/515400/400/515 HP Damage. 
+257/315/65257/315/65 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 11.7 s 50% Crew: 14.49 s 75% Crew: 12.66 s 100% Crew: 11.22 s Rammer: 10.1 s Vents: 10.97 s Both: 9.88 s Both and BiA: 9.66 s Both and Max Crew %: 9.26 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 11.7 s 50% Crew: 14.49 s 75% Crew: 12.66 s 100% Crew: 11.22 s Rammer: 10.1 s Vents: 10.97 s Both: 9.88 s Both and BiA: 9.66 s Both and Max Crew %: 9.26 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (400 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (400 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (515 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (400 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (400 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (515 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+2626 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+13°-8°/+13° Elevation Arc. 
+4040 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.9 m With 75% Crew: 369.8 m With 100% Crew: 417.2 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 600.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 605.4 m With 75% Crew: 693.4 m With 100% Crew: 782.2 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1125.9 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+127 mm/54 Model 1948. 
+242/270/65. 
+470/470/515. 
+4.51. 
+0.36. 
+2.3. 
+nan. 
+nan. 
+336000. 
+nan. 
+120 mm D. 1203 A. 
+257/315/65. 
+400/400/515. 
+5.36. 
+0.34. 
+2.0. 
+nan. 
+nan. 
+330000. 
+nan. 
+AMX M4 mle. 51 TCA 120. 
+//. 
+26. 
+370. 
+nan. 
+nan. 
+31000. 
+nan. 
+AMX M4 mle. 52 TCB 120. 
+//. 
+28. 
+380. 
+nan. 
+nan. 
+63000. 
+VIII. 
+Maybach HL 230 P45F. 
+750.0. 
+20. 
+nan. 
+750.0. 
+55000. 
+IX. 
+Maybach HL 295. 
+850.0. 
+20. 
+nan. 
+750.0. 
+78000. 
+nan. 
+Maybach HL 295 à injection d'essence. 
+nan. 
+0. 
+nan. 
+nan. 
+86000. 
+nan. 
+AMX M4 mle. 51. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+32000. 
+nan. 
+AMX M4 mle. 52. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+67000. 
+X. 
+SCR-528 Fr. 
+750. 
+nan. 
+80. 
+54000. 
+VI. 
+SCR 508. 
+400. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+{{TankData|Tank= AMX M4 mle. F83 AMX M4 Mle1949 Bis  51
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- Strong UFP, lower plate and (especially) turret front protection; turret is proof against all but the highest penetrating guns
+
+- Good handling and accuracy on both guns
+
+- Very mobile for an heavy, reaches top speed with ease unlike the [[Tank:F81_Char_de_65t|AMX 65t]]
+
+- Has 8° of gun depression and decent height
+
+- Respectable weight coupled with high mobility can lead to decent amount of ramming damage
+
+- Easy and enjoyable grind. F83 AMX M4 Mle1949 Bis 
+
+
+|InTheGame_cons= 
+
+- Cupolas are small, but still vulnerable
+
+- Rather weak shoulders and very thin sides prevent effective side-scraping and are prone to flanking
+
+- Horribly oversized, not very easy to conceal when needed
+
+- High penetrating APCR rounds can pen your mantlet, and 330+ pen ammo in general can pen you quite often frontally
+
+- Limited penetration and slow shell velocity on 127mm gun
+
+|InTheGame_performance= 
+
+This tank is used best as a support vehicle with other heavies. F83 AMX M4 Mle1949 Bis  When supporting, best position for this tank is behind cover or hills, peeking out (you have a good gun depression). F83 AMX M4 Mle1949 Bis  120mm gun is considered by most to be a more reliable choice overall for this role due to higher DPM, pen and better accuracy. F83 AMX M4 Mle1949 Bis  With 120mm gun, you can even snipe when you need to. F83 AMX M4 Mle1949 Bis 
+
+It is best to stay around other heavy tanks whenever possible - you serve not only to act as a support, but you also need it to prevent flanking. F83 AMX M4 Mle1949 Bis  Not being flanked is paramount to stay alive. F83 AMX M4 Mle1949 Bis  Never go anywhere alone in this tank, whenever possible. F83 AMX M4 Mle1949 Bis 
+
+You can also play as a brawler, but then it is better to get a 127mm gun with higher alpha for peek-a-boo tactics if you have a chance to trade favourably. F83 AMX M4 Mle1949 Bis  This will only work on city maps and with good cover - and since you are a fairly large target, it is sometimes hard to hide completely. F83 AMX M4 Mle1949 Bis  Note, however, that you will mostly have to use premium ammo on 127mm gun, as default one has very low pen for this tier. F83 AMX M4 Mle1949 Bis 
+
+This tank has very good armor on entire front, except 2 small cupolas and the narrow horizontal section between upper and lower plate. F83 AMX M4 Mle1949 Bis  Cheeks are very tough from the front, but become a huge weakspot when angled. F83 AMX M4 Mle1949 Bis  NEVER angle this tank for this very reason: sides and cheeks become prominent when doing so. F83 AMX M4 Mle1949 Bis  Always try to show only the front to the enemy. F83 AMX M4 Mle1949 Bis 
+
+Mobility is excellent, especially for a heavy tank, and even more so when compared to AMX 65t before it. F83 AMX M4 Mle1949 Bis  Accelerates very quickly, reaches top speed of 40 km/h on flat ground quite easily, and even climbs well. F83 AMX M4 Mle1949 Bis  With good skills, it even turns acceptably well. F83 AMX M4 Mle1949 Bis  It is one of the best tanks in that regard among "true" heavy tanks (meaning: not counting heaviums). F83 AMX M4 Mle1949 Bis 
+
+Overall, this tank is very similar to the Conqueror in most aspects (when playing with 120mm gun). F83 AMX M4 Mle1949 Bis  AMX is more mobile and has a much smaller lower plate (with quite a bit more armor on it), while Conqueror has 2 extra degrees of gun depression and can afford to angle the tank and sidescrape if required. F83 AMX M4 Mle1949 Bis 
+
+|InTheGame_research= 
+
+* You should already have last engine and radio, mount them immediately
+* Research 2nd turret as a priority: it has better armor, increased view range, better dpm, and smaller weakspots (cupolas)
+* Upgrade tracks (they can carry everything, including the 2nd cupola and 3 pieces of equipment, but not the last gun)
+* Get the final gun if you like to play more as a brawler, otherwise you can skip it or research just to elite the vehicle
+
+|InTheGame_equipment=
+
+Vents, Tank Gun Rammer, Vertical Stabilizer, Enhanced Gun Laying Drive
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+The FAHM turret (the turret from AMX 65t), was considered to be mounted on one of the up-armored models of the AMX M4 1949, but a prototype was never built. F83 AMX M4 Mle1949 Bis  This model appears in-game as the tank's stock configuration. F83 AMX M4 Mle1949 Bis  However, the TCB turret (the top turret in-game) was never considered to be mounted on any AMX M4 hull, since it was developed years after the AMX M4 project evolved into AMX 50. F83 AMX M4 Mle1949 Bis  The top configuration is thus fictional and never existed. F83 AMX M4 Mle1949 Bis 
+
+
+See the [[AMX M4 mle. F83 AMX M4 Mle1949 Bis  45]] and the [https://wiki. F83 AMX M4 Mle1949 Bis wargaming. F83 AMX M4 Mle1949 Bis net/en/Tank:F74_AMX_M4_1949 AMX M4 mle. F83 AMX M4 Mle1949 Bis  49] history sections for more information on the AMX M4 development history. F83 AMX M4 Mle1949 Bis  The cast FAMH turret, first proposed on the AMX 65T tank destroyer, was also considered for use on the AMX M4 model 1949. F83 AMX M4 Mle1949 Bis 
+
+The TCB turret was developed by the FAMH company (Forges et Aciéries de la Marine et d'Homécourt). F83 AMX M4 Mle1949 Bis  Specifications on this turret are unknown, but it would have had a rangefinder, no auto-loader, and most likely thicker armor than the AMX 50's standard oscillating turret. F83 AMX M4 Mle1949 Bis  This was intended to be an alternative to the AMX 50 Surbaissé's TOB oscillating turret, but was never built. F83 AMX M4 Mle1949 Bis 
+
+|HistoricalGallery= 
+File:AMX_M4_49_with_FAMH_Turret. F83 AMX M4 Mle1949 Bis png{{!}}Plan for the FAMH turret on a AMX M4 hull. F83 AMX M4 Mle1949 Bis  The AMX M4 51 is heavily based on this in it's stock configuration. F83 AMX M4 Mle1949 Bis 
+File:AMX_Char_M4_Etudes. F83 AMX M4 Mle1949 Bis jpg{{!}}AMX Char M4 Etudes hull armor
+File:FAMH_turret. F83 AMX M4 Mle1949 Bis jpg{{!}}FAMH turret
+File:CAFL_TCB_Turret. F83 AMX M4 Mle1949 Bis jpg{{!}}The TCB turret
+File:TCB_120_Turret. F83 AMX M4 Mle1949 Bis png{{!}}TCB 120 turret with the AMX 50 Surbaissé hull (the same hull as the AMX 50B)
+
+|HistAcc=
+The AMX M4 51 in it's stock configuration is heavily based on an alternative variant of AMX M4 1949, with uparmored hull and FAHM turret. F83 AMX M4 Mle1949 Bis  However, the top configuration is fictional, as the TCB turret was only intended to be used on the Surbaissé hull, or better known as the AMX 50 B. F83 AMX M4 Mle1949 Bis  In addition, the designation "AMX M4 51" is fictional, since by then the AMX M4 project already evolved into AMX 50 project. F83 AMX M4 Mle1949 Bis 
+* The armor thickness of the both the TCB and FAMH turrets is unknown and was most likely made-up by WG for balance purposes. F83 AMX M4 Mle1949 Bis 
+* The 127 mm/54 Model 1948 was a naval gun, and there are no known plans or proposals to ever use it as a tank gun. F83 AMX M4 Mle1949 Bis 
+
+|Ref_references=
+
+|Ref_sources=
+* Centre des archives de l'Armement et du personnel civil (CAAPC)
+
+|Ref_links=
+* https://thedailybounce. F83 AMX M4 Mle1949 Bis net/2017/09/15/new-french-heavy-tanks-what-are-they/
+* https://tankarchives. F83 AMX M4 Mle1949 Bis blogspot. F83 AMX M4 Mle1949 Bis ca/2016/01/third-reich-serving-fourth-republic. F83 AMX M4 Mle1949 Bis html
+* https://tankarchives. F83 AMX M4 Mle1949 Bis blogspot. F83 AMX M4 Mle1949 Bis com/2016/03/amx-50-five-years-of-trial-and-error. F83 AMX M4 Mle1949 Bis html
+* https://tankarchives. F83 AMX M4 Mle1949 Bis blogspot. F83 AMX M4 Mle1949 Bis com/2016/03/amx-50-120-long-road-to-dead-end. F83 AMX M4 Mle1949 Bis html
+* https://www. F83 AMX M4 Mle1949 Bis chars-francais. F83 AMX M4 Mle1949 Bis net/2015/index. F83 AMX M4 Mle1949 Bis php/liste-chronologique/de-1945-a-1990?task=view&id=20
+
+}}

@@ -1,0 +1,259 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery. 
+2,540,000 Cost. 
+17001360 HP Hit Points. 
+119.7/120.2572.7/0 t Weight Limit. 
+10001000 hp Engine Power. 
+20/15 km/h Speed Limit. 
+1212 deg/s Traverse. 
+8.35Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+200/130/120 mm Hull Armor. 
+230/160/140// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+1030/4800/650 1030/4800/650 Shell Cost. 
+320/320/420320/320/420 HP Damage. 
+200/244/60200/244/60 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 9.8 s 50% Crew: 12.14 s 75% Crew: 10.6 s 100% Crew: 9.4 s Rammer: 8.46 s Vents: 9.19 s Both: 8.27 s Both and BiA: 8.09 s Both and Max Crew %: 7.76 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 9.8 s 50% Crew: 12.14 s 75% Crew: 10.6 s 100% Crew: 9.4 s Rammer: 8.46 s Vents: 9.19 s Both: 8.27 s Both and BiA: 8.09 s Both and Max Crew %: 7.76 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: 1865.6 50% Crew: 1507.2 75% Crew: 1724.8 100% Crew: 1945.6 100% Crew Vents: 1990.4 Rammer: 2163.2 Both: 2211.2 Both and BiA: 2259.2 Both and Max Crew %: 2358.4 Advantageous Damage Per Minute First-shot DPM: 2185.6 50% Crew: 1827.2 75% Crew: 2044.8 100% Crew: 2265.6 100% Crew Rammer: 2483.2 Vents: 2310.4 Both: 2531.2 Both and BiA: 2579.2 Both and Max Crew %: 2678.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: 1865.6 50% Crew: 1507.2 75% Crew: 1724.8 100% Crew: 1945.6 100% Crew Vents: 1990.4 Rammer: 2163.2 Both: 2211.2 Both and BiA: 2259.2 Both and Max Crew %: 2358.4 Advantageous Damage Per Minute First-shot DPM: 2185.6 50% Crew: 1827.2 75% Crew: 2044.8 100% Crew: 2265.6 100% Crew Rammer: 2483.2 Vents: 2310.4 Both: 2531.2 Both and BiA: 2579.2 Both and Max Crew %: 2678.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (420 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2448.6 50% Crew: 1978.2 75% Crew: 2263.8 100% Crew: 2553.6 100% Crew Vents: 2612.4 Rammer: 2839.2 Both: 2902.2 Both and BiA: 2965.2 Both and Max Crew %: 3095.4 Advantageous Damage Per Minute First-shot DPM: 2868.6 50% Crew: 2398.2 75% Crew: 2683.8 100% Crew: 2973.6 100% Crew Rammer: 3259.2 Vents: 3032.4 Both: 3322.2 Both and BiA: 3385.2 Both and Max Crew %: 3515.4 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: 1865.6 50% Crew: 1507.2 75% Crew: 1724.8 100% Crew: 1945.6 100% Crew Vents: 1990.4 Rammer: 2163.2 Both: 2211.2 Both and BiA: 2259.2 Both and Max Crew %: 2358.4 Advantageous Damage Per Minute First-shot DPM: 2185.6 50% Crew: 1827.2 75% Crew: 2044.8 100% Crew: 2265.6 100% Crew Rammer: 2483.2 Vents: 2310.4 Both: 2531.2 Both and BiA: 2579.2 Both and Max Crew %: 2678.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: 1865.6 50% Crew: 1507.2 75% Crew: 1724.8 100% Crew: 1945.6 100% Crew Vents: 1990.4 Rammer: 2163.2 Both: 2211.2 Both and BiA: 2259.2 Both and Max Crew %: 2358.4 Advantageous Damage Per Minute First-shot DPM: 2185.6 50% Crew: 1827.2 75% Crew: 2044.8 100% Crew: 2265.6 100% Crew Rammer: 2483.2 Vents: 2310.4 Both: 2531.2 Both and BiA: 2579.2 Both and Max Crew %: 2678.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (420 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2448.6 50% Crew: 1978.2 75% Crew: 2263.8 100% Crew: 2553.6 100% Crew Vents: 2612.4 Rammer: 2839.2 Both: 2902.2 Both and BiA: 2965.2 Both and Max Crew %: 3095.4 Advantageous Damage Per Minute First-shot DPM: 2868.6 50% Crew: 2398.2 75% Crew: 2683.8 100% Crew: 2973.6 100% Crew Rammer: 3259.2 Vents: 3032.4 Both: 3322.2 Both and BiA: 3385.2 Both and Max Crew %: 3515.4 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment Aim time. 
+1515 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+30°-8°/+30° Elevation Arc. 
+120120 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 250.2 m With 75% Crew: 286.6 m With 100% Crew: 323.3 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 465.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+VIII. 
+10,5 cm Kw.K. L/52. 
+200/244/60. 
+320/320/420. 
+6.12. 
+0.36. 
+2.1. 
+nan. 
+3000.0. 
+116490. 
+nan. 
+12,8 cm Kw.K. L/50. 
+220/260/60. 
+440/440/420. 
+4.0. 
+0.4. 
+2.7. 
+nan. 
+nan. 
+220000. 
+nan. 
+VK 100.01 (P). 
+//. 
+15. 
+400. 
+nan. 
+nan. 
+30000. 
+nan. 
+Porsche 16 Cyl. Y. 
+nan. 
+0. 
+nan. 
+nan. 
+58000. 
+nan. 
+Porsche Typ 212 NL. 
+nan. 
+0. 
+nan. 
+nan. 
+88000. 
+nan. 
+VK 100.01 (P). 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+21000. 
+nan. 
+VK 100.01 (P) verstärkte Ketten. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+37500. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+IX. 
+FuG 12. 
+710. 
+nan. 
+150. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+{{TankData|Tank= VK 100. G115 Typ 205B 01 (P)
+
+|This huge, bulky heavy tank was introduced in the 9. G115 Typ 205B 17. G115 Typ 205B 1 update as a part of the new Maus line. G115 Typ 205B  It has extremely strong frontal armor that can withstand even Tier 10 tanks, but it comes at the cost of terrible speed and relatively weak side and rear. G115 Typ 205B 
+
+|Gallery= 
+
+|InTheGame_pros= 
+-Monstrously thick armor; upper plate is comparable to Maus's upper plate and can resist even Tier 10 guns from the front, and cupola is surprisingly tough. G115 Typ 205B 
+
+-Although the top speed is only 20kph, it is very capable of maintaining that speed even on slight inclines due to high engine power; great reverse speed compared being almost as high as top speed
+
+-Tied with [[Tank:J27_O_I_120|O-Ho]] for second highest HP pool for Tier 8 (1700) as well as weight (120t)
+
+-Insane view range for its tier; comparable to tier 10s
+
+-Top 12. G115 Typ 205B 8cm has highest alpha damage of all tier 8 heavies, tied with Obj 252U
+
+-Huge ammo capacity for stock gun (120 rounds, won't use more than 25) and top gun has fairly respectable ammo capacity as well
+
+-Very powerful HE shells (nearly 200 higher potential damage than AP shells at 630); can two-shot some poorly armored tier 8 TDs!
+
+-Large skirt armor on rear can absorb a LOT of HE, HEAT and HESH shells
+
+|InTheGame_cons= 
+-Slowest tank in its tier and has very large shilouette, juicy target for SPGs
+
+-Sides are flat and much weaker than its bigger brothers, Its cupola can still be penetrated by some guns. G115 Typ 205B 
+
+-Very slow traverse speed
+
+-Inadequate stock gun makes for painful grind
+
+-Mediocre reload times for both guns, bad softgun stats (tricky snapshots and missing without fully aim). G115 Typ 205B 
+
+-Huge ammorack can get damaged very often if hit from the sides
+
+-Lower glacis is quite weak (around 180-190 effective when unangled)
+
+
+|InTheGame_performance= 
+This tank is relatively simple to play and sets the standard for the tier 9 and 10 tanks that follow. G115 Typ 205B  Its defining feature is its strong armour, particularly at the front. G115 Typ 205B  As long as you can keep the lower glacis covered and deny your opponents shots at the commander's hatch by moving back and forth this tank is nearly impregnable from the front and, combined with the space armour at the sides excells at sidescraping. G115 Typ 205B  The downside is its low top speed and generally low mobility. G115 Typ 205B  This makes it nearly impossible to relocate once you have commited to a position. G115 Typ 205B  It's one advantage in this regard is the excellent ground-resistance, which means that rough terrain makes little difference in the mobility. G115 Typ 205B 
+
+The best gun is great, with the stock gun having unacceptable penetration, unless you spam gold, better accuracy and higher DPM than the 128 mm gun. G115 Typ 205B   With the stock gun, the VK100. G115 Typ 205B 01(P) is relatively inflexible, as it can't engage targets at a distance or fight multiple opponents. G115 Typ 205B  It is VERY expensive to use, since you have to spam gold to make it work. G115 Typ 205B  Stock gun is the short barrel 105MM from the Tiger II. G115 Typ 205B  With the 128MM gun you are effectively reduced to short-to-medium range brawling and trading shots. G115 Typ 205B  This can become a problem because of your low top speed, if the enemy refuses to close the distance. G115 Typ 205B  Best to carry at least 10 rounds of HE. G115 Typ 205B  When you get stuck playing against tier 10, HE is often the best choice. G115 Typ 205B  It can do a '''huge''' amount of damage when placed in the right location. G115 Typ 205B  Modules and crew are decimated by it. G115 Typ 205B 
+
+|InTheGame_research= 
+Firstly you should research the better suspension as it gives much needed boost to turning speed and is necessary for the top gun and some modules. G115 Typ 205B 
+After that you need to make a choice. G115 Typ 205B  The top gun has better penetration and alpha than the stock gun. G115 Typ 205B  However it has reduced DPM and the ammunition costs are high. G115 Typ 205B  Alternatively, you may wish to research the engine first for a much needed boost in mobility. G115 Typ 205B 
+
+|InTheGame_equipment= Vertical Stabilizer Mk 2,Spall Liner, Improved Ventilation Class 3, Large-Caliber Tank Gun Rammer
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+The VK 100. G115 Typ 205B 01 (P) was a superheavy tank design that eventually grew into the Maus. G115 Typ 205B 
+
+
+==History==
+
+The first order to create a superheavy tank came in March 22, 1942. G115 Typ 205B  According to preliminary classification, the 100 ton class tank would have a 15 cm KwK L/40 gun with a capacity for at least 100 rounds. G115 Typ 205B  A part of the ammunition would be stored in the rear of the turret. G115 Typ 205B  Initially, the rounds would have been two piece, but a sketch of a one piece round was attached to a letter regarding the turret, dated April 18th, 1942. G115 Typ 205B  The overall length of the round was 1. G115 Typ 205B 6 meters, and it weighed 57. G115 Typ 205B 4 kg, 34 of which were for the shell. G115 Typ 205B  This was the lightened variant: initially, the 15 cm K18 round was used, which weighed 43 kg. G115 Typ 205B  The muzzle velocity of this shell was 875 m/s, and the rate of fire was an optimistic 4-5 RPM. G115 Typ 205B  As an alternative, the 12. G115 Typ 205B 8 cm KwK L/50 was proposed, with a 29. G115 Typ 205B 3 kg shell and 810 m/s of muzzle velocity. G115 Typ 205B  The design of the VK 100. G115 Typ 205B 01 was to be done by May 15th. G115 Typ 205B 
+
+
+Some changes were made to the tank design. G115 Typ 205B  First, the length of the gun was reduced to 37 calibers, dropping the muzzle velocity to 750 m/s. G115 Typ 205B  The length of the one-piece round decreased to 1530 mm, while the mass increased to 69 kg due to returning to the K18 shell. G115 Typ 205B  Second, the length of the 128 mm gun was deemed insufficient by Hitler, who personally supervised the project. G115 Typ 205B  He wanted an L/60 or L/70 gun. G115 Typ 205B  Finally, in a meeting on May 13th, Hitler proposed that even the 100 ton limit might not be enough, raising the bar to 120 tons. G115 Typ 205B  Hitler tried to accelerate the work on this superheavy tank with all his efforts. G115 Typ 205B  According to German intelligence, new Soviet heavy tanks would be ready by spring of 1943. G115 Typ 205B 
+
+
+The change of name also happened around this time. G115 Typ 205B  The myth that the tank was initially called Mammut (Mammoth) is connected with this change. G115 Typ 205B  The date of this name's appearance was allegedly May 21st, 1942. G115 Typ 205B  Documents found in Bundesarchiv dispel this misinformation. G115 Typ 205B  By May 18th, the tank was already called Maus, and since summer of 1942, it was called "Mauschen" (little mouse) at least once. G115 Typ 205B 
+
+
+As for the Mammut, this designation does appear elsewhere: in British intelligence reports, dated January 29th, 1945. G115 Typ 205B  This information was received from German POWs. G115 Typ 205B  Allegedly, two tanks were built under this name. G115 Typ 205B  Other tanks "discovered" in such a way include the exotic Adolf Hitler Panzer with two 88 mm guns (one in the turret and one in the hull). G115 Typ 205B  In other words, the name Mammut has no relevance to reality. G115 Typ 205B 
+
+
+On June 4th, 1942, Porsche K. G115 Typ 205B G. G115 Typ 205B  presented Hitler with a draft numbered K. G115 Typ 205B 3381. G115 Typ 205B  This blueprint, labelled "heavy tank project" contained Porsche's vision for a competitor to the Pz. G115 Typ 205B Kpfw. G115 Typ 205B  Lowe. G115 Typ 205B  The tank's mass was about 120 tons. G115 Typ 205B  The overall view of the tank was defined by a strict railroad transport limit and Porsche's refusal to use transport tracks. G115 Typ 205B  The turret was designed by Krupp, which also had a characteristic effect on the tank's looks. G115 Typ 205B 
+
+
+The superheavy tank from Porsche K. G115 Typ 205B G. G115 Typ 205B  was similar to the Pz. G115 Typ 205B Kpfw. G115 Typ 205B  Lowe. G115 Typ 205B  Unlike later redesigns, this was a classically laid out vehicle with a turret in the center of the hull. G115 Typ 205B  The length of the hull was slightly longer than the Pz. G115 Typ 205B Kpfw. G115 Typ 205B  Lowe in May of 1942 (8331 mm vs 7740 mm), but the overall length was less (10,620 mm vs 10,760 mm). G115 Typ 205B  The tank's height was 3. G115 Typ 205B 3 meters and width was 3. G115 Typ 205B 45 meters. G115 Typ 205B 
+
+
+Seeing this tank, Hitler agreed that it could serve as a "mobile fortress". G115 Typ 205B  This was not only because of the tank's size. G115 Typ 205B  Porsche K. G115 Typ 205B G. G115 Typ 205B  developed a new 16 cylinder V-shaped engine for the new tank. G115 Typ 205B  With this engine, the vehicle's maximum speed was rated at 20 kph. G115 Typ 205B  The engine was connected to a generator, which transferred the energy to electric motors in the rear of the hull. G115 Typ 205B 
+
+
+Due to the tank's weight, it received a massive suspension. G115 Typ 205B  It used two-wheel bogies with a torsion bar suspension from the Typ 101 (VK 45. G115 Typ 205B 01), which were attached to the spaced armour and hull sides. G115 Typ 205B  Each side would have 6 bogies. G115 Typ 205B  It must be said that servicing this arrangement would have been difficult. G115 Typ 205B  This dual layer design was made necessary by the fact that the tracks were about a meter wide. G115 Typ 205B  As a result, the compartment where the driver and radio operator were placed was very narrow. G115 Typ 205B  Porsche's engineers spread the tank's hatches very widely, so climbing into the tank or getting out was not a simple task. G115 Typ 205B 
+
+
+Of the tank's 120 tons, 23 were used up in the turret. G115 Typ 205B  It had many elements of the Pz. G115 Typ 205B Kpfw. G115 Typ 205B  Lowe, down to the gun mantlet that almost perfectly repeated the contours of its lighter competitor. G115 Typ 205B  The turret had a 149 mm L/37 gun with a massive muzzle brake. G115 Typ 205B  30 one-piece rounds were stored in the turret. G115 Typ 205B  Another 36 were going to be stored in the hull. G115 Typ 205B  The question of there they would have gone is an interesting one indeed. G115 Typ 205B 
+
+
+Upon seeing the project, Hitler agreed with the general idea, but proposed that Porsche think about thicker armour and protection from enemy infantry. G115 Typ 205B  The project had no machinegun. G115 Typ 205B  Porsche's engineers thought for a while and came up with draft K. G115 Typ 205B 3382 on June 17th, 1942. G115 Typ 205B  The name Maus can be seen on this blueprint. G115 Typ 205B  On July 23rd, Hitler rejected the idea of infantry protection, suggesting that the tank should be accompanied by separate tanks with short 75 mm guns for support. G115 Typ 205B 
+
+
+This is not surprising, as the new tank resembled a pagoda. G115 Typ 205B  Krupp's engineers placed another smaller turret on top of the main one, equipping it with a 75 mm L/24 gun from the PzIV. G115 Typ 205B  As a result, the tank grew to almost 4 meters in height. G115 Typ 205B  A 105 mm L/70 gun was offered as alternative armament. G115 Typ 205B  Hitler preferred it, since it had a higher rate of fire. G115 Typ 205B 
+
+
+Hitler approved Porsche's concept, but even the thicker armour did not satisfy him. G115 Typ 205B  He wanted more armour, which led to more mass, which led to a complete redesign of the tank, eventually becoming the Mäuschen. G115 Typ 205B  The rival project Pz. G115 Typ 205B Kpfw. G115 Typ 205B  Lowe couldn't compete and was cancelled on July 20th, 1942. G115 Typ 205B 
+
+|HistoricalGallery= 
+File:VK_100. G115 Typ 205B 01_P_blueprint_1. G115 Typ 205B jpg{{!}}Blueprint K. G115 Typ 205B 3881, dated to June 4, 1942. G115 Typ 205B  This was the first version of the tank that would eventually become the Maus. G115 Typ 205B 
+File:Typ_205_Blueprint. G115 Typ 205B jpg{{!}}Blueprint #3382, dated to June 17th, 1942. G115 Typ 205B  This development had a miniturret on the top of the tank holding a 75mm KwK L/24. G115 Typ 205B  Its weight was increased to 140 tons and 150 mm of armor. G115 Typ 205B 
+File:VK_100. G115 Typ 205B 01_P_size_comparison_with_Maus. G115 Typ 205B png{{!}}Size of the VK 100. G115 Typ 205B 01 (P) compared with the Maus
+File:105_mm_L67_gun. G115 Typ 205B jpg{{!}}Blueprint of the 105 mm L/67 gun, an alternate armament of the VK 100. G115 Typ 205B 01 (P)
+File:15_cm_K_L37_document. G115 Typ 205B jpg{{!}}Documentation of the 15 cm K L/37 gun, the initial armament of the VK 100. G115 Typ 205B 01 (P), dated to May 18, 1942. G115 Typ 205B  This was both the day the gun was shortened from L/40 to L/37 as well as the first mention of the name "Maus". G115 Typ 205B 
+
+|HistAcc=
+* The VK 100. G115 Typ 205B 01 (P)'s armor is much thicker than it was designed to have. G115 Typ 205B  The initial version had 120 mm of armor maximum at the front of the hull, with estimates of the same or less armor on the rest of the tank. G115 Typ 205B 
+* The VK 100. G115 Typ 205B 01 (P) initially would have had a 15 cm KwK L/40 gun, which was later shortened to a L/37, which is unavailable in-game. G115 Typ 205B  Alternative armaments that were proposed but are 
+unavailable include a 105 mm L/70 and L/67 guns. G115 Typ 205B 
+* The 10,5 cm Kw. G115 Typ 205B K. G115 Typ 205B  L/52 was never proposed for the VK 100. G115 Typ 205B 01 (P)
+
+|Ref_references=
+
+|Ref_sources=
+* Michael Fröhlich: Kampfpanzer Maus – der überschwere Panzer Porsche Typ 205
+* Jentz, Doyle: Panzertracts No. G115 Typ 205B  6-3 Schwere Panzerkampfwagen Maus and E100
+
+|Ref_links=
+* https://ftr-wot. G115 Typ 205B blogspot. G115 Typ 205B cz/2013/04/this-is-how-maus-started. G115 Typ 205B html
+* https://ftr-wot. G115 Typ 205B blogspot. G115 Typ 205B cz/2013/04/porsche-unleashed. G115 Typ 205B html
+* https://ftr-wot. G115 Typ 205B blogspot. G115 Typ 205B cz/2013/04/vk-10001-mammut. G115 Typ 205B html
+* https://tankarchives. G115 Typ 205B blogspot. G115 Typ 205B ca/2013/04/ancestors-of-maus. G115 Typ 205B html
+* https://tankarchives. G115 Typ 205B blogspot. G115 Typ 205B com/2016/04/mauschen-rat-race. G115 Typ 205B html
+
+}}

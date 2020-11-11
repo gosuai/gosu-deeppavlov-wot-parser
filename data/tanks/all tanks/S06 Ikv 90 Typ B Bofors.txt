@@ -1,0 +1,248 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery Player Opinion: Equipment. 
+1,420,000 Cost. 
+800800 HP Hit Points. 
+13.25/13.513.22/16 t Weight Limit. 
+270310 hp Engine Power. 
+65/20 km/h Speed Limit. 
+3030 deg/s Traverse. 
+20.3823.45 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+15/12/12 mm Hull Armor. 
+AP/HEAT/HE AP/HEAT/HE Shells. 
+320/4000/195 390/4400/210 Shell Cost. 
+240/240/320240/240/320 HP Damage. 
+180/230/45210/250/45 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 8 s 50% Crew: 9.91 s 75% Crew: 8.65 s 100% Crew: 7.67 s Rammer: 6.9 s Vents: 7.5 s Both: 6.75 s Both and BiA: 6.6 s Both and Max Crew %: 6.33 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 7.4 s 50% Crew: 9.17 s 75% Crew: 8 s 100% Crew: 7.1 s Rammer: 6.39 s Vents: 6.94 s Both: 6.25 s Both and BiA: 6.11 s Both and Max Crew %: 5.86 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1800 50% Crew: 1452 75% Crew: 1663.2 100% Crew: 1876.8 100% Crew Vents: 1920 Rammer: 2085.6 Both: 2131.2 Both and BiA: 2179.2 Both and Max Crew %: 2272.8 Advantageous Damage Per Minute First-shot DPM: 2040 50% Crew: 1692 75% Crew: 1903.2 100% Crew: 2116.8 100% Crew Rammer: 2325.6 Vents: 2160 Both: 2371.2 Both and BiA: 2419.2 Both and Max Crew %: 2512.8 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1800 50% Crew: 1452 75% Crew: 1663.2 100% Crew: 1876.8 100% Crew Vents: 1920 Rammer: 2085.6 Both: 2131.2 Both and BiA: 2179.2 Both and Max Crew %: 2272.8 Advantageous Damage Per Minute First-shot DPM: 2040 50% Crew: 1692 75% Crew: 1903.2 100% Crew: 2116.8 100% Crew Rammer: 2325.6 Vents: 2160 Both: 2371.2 Both and BiA: 2419.2 Both and Max Crew %: 2512.8 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2400 50% Crew: 1936 75% Crew: 2217.6 100% Crew: 2502.4 100% Crew Vents: 2560 Rammer: 2780.8 Both: 2841.6 Both and BiA: 2905.6 Both and Max Crew %: 3030.4 Advantageous Damage Per Minute First-shot DPM: 2720 50% Crew: 2256 75% Crew: 2537.6 100% Crew: 2822.4 100% Crew Rammer: 3100.8 Vents: 2880 Both: 3161.6 Both and BiA: 3225.6 Both and Max Crew %: 3350.4 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1946.4 50% Crew: 1572 75% Crew: 1800 100% Crew: 2030.4 100% Crew Vents: 2076 Rammer: 2256 Both: 2306.4 Both and BiA: 2359.2 Both and Max Crew %: 2460 Advantageous Damage Per Minute First-shot DPM: 2186.4 50% Crew: 1812 75% Crew: 2040 100% Crew: 2270.4 100% Crew Rammer: 2496 Vents: 2316 Both: 2546.4 Both and BiA: 2599.2 Both and Max Crew %: 2700 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1946.4 50% Crew: 1572 75% Crew: 1800 100% Crew: 2030.4 100% Crew Vents: 2076 Rammer: 2256 Both: 2306.4 Both and BiA: 2359.2 Both and Max Crew %: 2460 Advantageous Damage Per Minute First-shot DPM: 2186.4 50% Crew: 1812 75% Crew: 2040 100% Crew: 2270.4 100% Crew Rammer: 2496 Vents: 2316 Both: 2546.4 Both and BiA: 2599.2 Both and Max Crew %: 2700 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2595.2 50% Crew: 2096 75% Crew: 2400 100% Crew: 2707.2 100% Crew Vents: 2768 Rammer: 3008 Both: 3075.2 Both and BiA: 3145.6 Both and Max Crew %: 3280 Advantageous Damage Per Minute First-shot DPM: 2915.2 50% Crew: 2416 75% Crew: 2720 100% Crew: 3027.2 100% Crew Rammer: 3328 Vents: 3088 Both: 3395.2 Both and BiA: 3465.6 Both and Max Crew %: 3600 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+2020 deg/s Gun Traverse Speed. 
+40° Gun Arc. 
+-10°/+12°-10°/+12° Elevation Arc. 
+4848 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 267.1 m With 75% Crew: 303.6 m With 100% Crew: 340 m With Recon and Situational Awareness: 357.2 m With Coated Optics: 374 m With Binocular Telescope: 425 m Maximum possible: 486.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 267.1 m With 75% Crew: 303.6 m With 100% Crew: 340 m With Recon and Situational Awareness: 357.2 m With Coated Optics: 374 m With Binocular Telescope: 425 m Maximum possible: 486.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 357.5 m With 75% Crew: 406.3 m With 100% Crew: 455 m With 100% Signal Boost: 546 m When affected by 100% Relaying: 500.5 m Maximum possible: 654.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 483.2 m With 75% Crew: 549.2 m With 100% Crew: 615 m With 100% Signal Boost: 738 m When affected by 100% Relaying: 676.5 m Maximum possible: 884.9 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+9 cm Bofors L/53. 
+180/230/45. 
+240/240/320. 
+7.5. 
+0.4. 
+2.1. 
+nan. 
+815. 
+84000. 
+VIII. 
+9 cm kan m/F. 
+210/250/45. 
+240/240/320. 
+8.11. 
+0.36. 
+2.3. 
+nan. 
+1030. 
+124000. 
+VI. 
+Volvo TD 100 A. 
+270. 
+15. 
+nan. 
+940. 
+26600. 
+VI. 
+Volvo THD 100 B. 
+310. 
+15. 
+nan. 
+940. 
+28000. 
+VI. 
+Ikv 90 Alt 1. 
+13.5. 
+30. 
+0. 
+nan. 
+3500. 
+12000. 
+VII. 
+Ikv 90 Alt 2. 
+16.0. 
+30. 
+0. 
+nan. 
+3500. 
+23300. 
+VII. 
+Ra 100. 
+455. 
+nan. 
+14. 
+23500. 
+VIII. 
+Ra 105. 
+525. 
+nan. 
+8. 
+24800. 
+IX. 
+Ra 146. 
+615. 
+nan. 
+12. 
+33600. 
+Light Tanks. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Medium Tanks. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Heavy Tanks. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Tank Destroyers. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- Good gun arc (20 degrees on both sides), it also has a great depression (Especially for vehicle with rear-mounted gun) value of -10 degrees. S06 Ikv 90 Typ B Bofors 
+
+- The top gun (90 cm kan m/F) has a stupendous shell speed that might allow you to shoot fast moving targets. S06 Ikv 90 Typ B Bofors 
+
+- Low chance of engine catching fire (15%). S06 Ikv 90 Typ B Bofors 
+
+- High mobility and low profile. S06 Ikv 90 Typ B Bofors 
+
+- Excellent penetration both on stock gun and top gun. S06 Ikv 90 Typ B Bofors 
+
+|InTheGame_cons= 
+
+- Practically no armor combined with Lowest non-SPG health in its tier (800); very vulnerable to HE shells and can be easily get one-shotted by SPGs and large caliber howitzers. S06 Ikv 90 Typ B Bofors 
+
+- Engine gets constantly damaged from front, Stock engine had poor p/w ratio. S06 Ikv 90 Typ B Bofors  Can accelerate only up to 45KM/H for the best, also turns slowly when moving at high speeds. S06 Ikv 90 Typ B Bofors 
+
+- Low alpha, long aim time and accuracy isn't that amazing, Stock gun has awful accuracy for a TD (0. S06 Ikv 90 Typ B Bofors 4). S06 Ikv 90 Typ B Bofors 
+
+- Somewhat low maximum ammo, this tank can carry (48 shells) compared to its fast rate of fire (7. S06 Ikv 90 Typ B Bofors 5 shots per minute with stock gun and 8. S06 Ikv 90 Typ B Bofors 11 shots per minute with top gun). S06 Ikv 90 Typ B Bofors 
+
+- Light weight makes this TD very vulnerable to ramming. S06 Ikv 90 Typ B Bofors 
+
+- Extremely weak stock suspension, easily getting tracked. S06 Ikv 90 Typ B Bofors 
+
+- Very poor view range for its tier, forced the player to get closer to the enemies and somewhat negated its camoflage ratings. S06 Ikv 90 Typ B Bofors 
+
+|InTheGame_performance=
+
+Even though this TD has a very good top speed and acceleration, it can´t be used for close combat. S06 Ikv 90 Typ B Bofors  It is suggested to use this speed to reach crucial spots early in the battle (e. S06 Ikv 90 Typ B Bofors g. S06 Ikv 90 Typ B Bofors  hills, corners, bushes, buildings, sniping positions), and also to retreat from too intense combat or dangerous situations. S06 Ikv 90 Typ B Bofors  As a lightly armored vehicle you also have to avoid getting shot by high caliber guns, especially artillery and howitzers (''derp'' guns). S06 Ikv 90 Typ B Bofors  Additionally, the armor is so thin that any gun it encounters will overmatch, no matter what the angle. S06 Ikv 90 Typ B Bofors 
+
+One thing to note is that this TD has a very low profile, which means you can stay hidden in a bush and shoot safely, provided the player knows spotting and concealment mechanics, but don´t expect to be a ghost. S06 Ikv 90 Typ B Bofors 
+
+The maneuverability of this TD is limited by the traverse speed, with only 30 deg/sec you will have trouble facing agile opponents, so you have to make sure the target is far enough from you to prevent it from circling you. S06 Ikv 90 Typ B Bofors  Don't be afraid to face high tier enemy tanks, but have in mind you must be as stealthy and accurate as possible, always have an escape route and a trustful scout at hand. S06 Ikv 90 Typ B Bofors 
+
+|InTheGame_research=
+
+- The Ra 105 and Ra 106 radios can be researched in the previous vehicle, mount the Ra 105 at least. S06 Ikv 90 Typ B Bofors  The top radio is not essencial and can be skipped since it is automatically unlocked as a stock radio when the UDES is researched, but have in mind you can lose communication with far away-positioned allies in the mini map. S06 Ikv 90 Typ B Bofors 
+
+- First either research the top suspension, or mount enhanced suspension equipment, because the stock suspension will not allow even gunrammer + binoculars. S06 Ikv 90 Typ B Bofors 
+ 
+- Research the top engine for a better acceleration, it will give you more chances to take positions early and to withdraw from intense combat. S06 Ikv 90 Typ B Bofors 
+
+- Research the top suspension, if you haven't done so already. S06 Ikv 90 Typ B Bofors  It is required to mount the top gun. S06 Ikv 90 Typ B Bofors 
+
+- Finally, research the top gun (9 cm kan m/F)
+
+|InTheGame_equipment=
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+https://www. S06 Ikv 90 Typ B Bofors youtube. S06 Ikv 90 Typ B Bofors com/watch?v=I5Pbue9tCaM 
+
+|History= 
+
+(See the Ikv 65 Alt II History for more information)
+
+In 1964, a project called Ikv ny was started. S06 Ikv 90 Typ B Bofors  The goal of this project was to acquire a new cheap vehicle, which could offer good mobility and still be able to both support infantry like older Ikv’s, but also would be able to fight tanks. S06 Ikv 90 Typ B Bofors  Essentially, the idea had come about as there simply weren’t enough modern tanks in the Swedish army and there was a need to re-equip a large part of the army, which was still using modified WW2 era vehicles. S06 Ikv 90 Typ B Bofors 
+
+
+In the discussions leading up to the project, a number of different armament options had been considered, ranging from ATGM’s to 10,5cm and 12cm tank guns, but to cut down the unit cost, it was decided that the new Ikv should use a 9cm gun capable of shooting modified ammunition from the newly developed Pvpj1110 recoilless rifle, which was entering service at the time. S06 Ikv 90 Typ B Bofors  These discussions also set up series of other requirements for the vehicle, described as a lightly armored vehicle weighing only 15 tons, which was to have the top road speed of 70kph with a crew of no more than 4 men. S06 Ikv 90 Typ B Bofors  The vehicle was to be able to operate in the harsh conditions of the northern parts of the country, have good gun traverse and the gun elevation of at least -10/+20 to allow it to make use of hull down positions. S06 Ikv 90 Typ B Bofors 
+
+As the project moved on in 1965, three different companies were contacted to propose their designs for the new Ikv. S06 Ikv 90 Typ B Bofors  The first company was Landsverk, who had created the original Ikv’s and had been producing tanks since the 1930s. S06 Ikv 90 Typ B Bofors  The second was Bofors, who was already working on the completion of the S-tank project. S06 Ikv 90 Typ B Bofors  And finally there was Hägglunds, who was a newcomer to armored vehicles, but had recently won the contract for the Swedish army’s next APC. S06 Ikv 90 Typ B Bofors 
+
+Given their different backgrounds it’s not surprising that these companies came up with very different answers to the same requirements. S06 Ikv 90 Typ B Bofors 
+
+Landsverk’s Ikv ny proposals
+
+[[File:Landsverk%27s_Ikv_ny_proposals. S06 Ikv 90 Typ B Bofors jpg]]
+
+The Landsverk proposals were probably the most traditional and realistic with mainly casemate designs, some of which were based on the old Ikv chassis. S06 Ikv 90 Typ B Bofors  However, since both the other companies came up with turreted designs, Landsverk was asked to come with one of their own, which did lead to two rather interesting designs. S06 Ikv 90 Typ B Bofors  Most of Landsverk’s proposals had been designed to make use of existing vehicles and many components were to be shared with the Pbv 302 APC to allow for greater interchangeability of parts between the vehicles. S06 Ikv 90 Typ B Bofors  The main armament was a 90mm L/53 Bofors low pressure gun, which could fire HE and HEAT rounds. S06 Ikv 90 Typ B Bofors  Overall, the Landsverk proposals were very light on the armor even when compared to the other Ikv proposals and a lot of the casemate designs had a maximum of only 15mm at the front. S06 Ikv 90 Typ B Bofors  One thing the designs did have however was excellent gun traverse (40dg) and depression/elevation (-10/+35). S06 Ikv 90 Typ B Bofors 
+
+Bofors Ikv ny proposals
+
+[[File:Bofors_Ikv_ny_proposals. S06 Ikv 90 Typ B Bofors jpg]]
+
+Bofors had an interesting mix of features, which borrowed from their ongoing work with the S-tank, all of their designs had – like the S-tank – frontally mounted engine and some models featured an autoloader. S06 Ikv 90 Typ B Bofors  Initially, three versions, called Ikv 90 A, B and C were offered. S06 Ikv 90 Typ B Bofors  The A and B models were pretty much the same vehicle but differed in the use of a casemate on the B model and a turret on the A model, both of which could be equipped with an autoloader. S06 Ikv 90 Typ B Bofors  The C model was the smallest one and was designed with a shorter 90mm gun than the other two models, this model was however not liked and later dropped when the proposals were redesigned. S06 Ikv 90 Typ B Bofors  To meet updated requirements on gun elevation Bofors redesigned the model A and B into models T and S. S06 Ikv 90 Typ B Bofors  The model T differed very little from the model A but it did have changes to the turret and hull, however model S had turned into what was basically a miniature S-tank but with gun elevation and depression independent of the hull. S06 Ikv 90 Typ B Bofors 
+
+Hägglunds Ikv ny proposals
+
+[[File:Hagglunds_Ikv_ny_proposals. S06 Ikv 90 Typ B Bofors jpg]]
+
+Unlike the other companies, Hägglunds had focused their efforts on mainly turreted designs for the new Ikv project. S06 Ikv 90 Typ B Bofors  They had also probably overestimated some aspects of their vehicles, like the projected top speed and the use of autoloaders on certain models. S06 Ikv 90 Typ B Bofors  In any case, Hägglunds had done a more thorough research of the possibility of using foreign engines or guns and had even based their projected vehicles around a French 90mm gun rather than the Bofors model. S06 Ikv 90 Typ B Bofors  The guns, considered by Hägglunds, were the DTAT 90mm L/51,5 from the AMX-13, a licensed produced version of that gun by Motala Verkstad, the Bofors 90mm L/53, used on the other companies Ikv proposals and a DTAT 105mm low pressure gun using the same recoil mechanism and breach as the French 90mm. S06 Ikv 90 Typ B Bofors  These guns were to be available for use with either a conventional loading system, a fully automated loader or a semi-autoloader with a 4 round magazine, which would be continually fed by the loader. S06 Ikv 90 Typ B Bofors  The armor of the vehicle was – as with the other proposals – very light with a maximum of 20mm at the front, but unlike the other companies, Hägglunds made extensive use of spaced armor for the hull sides and sometimes rear. S06 Ikv 90 Typ B Bofors  It was however very thin and was only meant to offer protection against small arms. S06 Ikv 90 Typ B Bofors 
+
+As the project continued into 1966, it became clear that the Bofors proposals were the most problematic, as they were completely new vehicles, sharing no parts in common with other Swedish vehicles. S06 Ikv 90 Typ B Bofors  Because of this, it was decided that development of the Bofors proposals would be discontinued, it’s at this point where Landsverk and Hägglunds are asked to finalise their designs for the Ikv project. S06 Ikv 90 Typ B Bofors  For Landsverk, this means redesigning the Alternative 5 design into a sort of half turret design seen below. S06 Ikv 90 Typ B Bofors 
+
+Landsverk’s redesigned Ikv Alt 5
+
+[[File:Landsverk%27s_redesigned_Ikv_Alt_5. S06 Ikv 90 Typ B Bofors jpg]]
+
+Hägglund also redesigned their proposal 1 to be more viable, which meant the removal of the autoloader and a change in turret design and results in what would become the Ikv 91. S06 Ikv 90 Typ B Bofors  It was said that the army actually preferred the Landsverk proposal, but that they ultimately chose Hägglunds proposal due to the greater interchangability of parts between their vehicle and the Pbv 302, also designed by Hägglunds. S06 Ikv 90 Typ B Bofors 
+
+Hägglund’s redesigned Ikv
+
+[[File:Hagglund%27s_redesigned_Ikv. S06 Ikv 90 Typ B Bofors jpg]]
+
+|HistAcc=
+* The Volvo THD 100 B engine was 330 HP historically, but in game it is only 310 HP. S06 Ikv 90 Typ B Bofors 
+
+|HistoricalGallery= 
+File:Ikv_90_typ_B_sketch. S06 Ikv 90 Typ B Bofors jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S06 Ikv 90 Typ B Bofors wot-news. S06 Ikv 90 Typ B Bofors com/2015/01/23/swedish-tanks-part-xxi-ikv-ny/
+* https://ritastatusreport. S06 Ikv 90 Typ B Bofors live/2016/09/24/swedish-tree-supertest-and-beyond-messed-up-models-and-made-up-stats/
+* https://ritastatusreport. S06 Ikv 90 Typ B Bofors live/2016/08/18/how-much-paper-is-there-in-the-swedish-tree/
+
+}}

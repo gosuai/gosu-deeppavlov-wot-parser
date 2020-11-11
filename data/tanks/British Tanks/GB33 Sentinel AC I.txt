@@ -1,0 +1,193 @@
+1,200 Cost. 
+570570 HP Hit Points. 
+27.94/3127.69/31 t Weight Limit. 
+330330 hp Engine Power. 
+60.4/20 km/h Speed Limit. 
+4040 deg/s Traverse. 
+11.8111.92 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+65/45/45 mm Hull Armor. 
+65/65/6565/65/65 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+30/1200/15 30/1200/15 Shell Cost. 
+45/45/6045/45/60 HP Damage. 
+88/121/2388/121/23 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2. s 50% Crew: 2.48 s 75% Crew: 2.16 s 100% Crew: 1.92 s Rammer: 1.73 s Vents: 1.88 s Both: 1.69 s Both and BiA: 1.65 s Both and Max Crew %: 1.58 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2. s 50% Crew: 2.48 s 75% Crew: 2.16 s 100% Crew: 1.92 s Rammer: 1.73 s Vents: 1.88 s Both: 1.69 s Both and BiA: 1.65 s Both and Max Crew %: 1.58 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: 1304.55 50% Crew: 1053 75% Crew: 1206 100% Crew: 1360.35 100% Crew Vents: 1390.95 Rammer: 1511.55 Both: 1545.75 Both and BiA: 1579.95 Both and Max Crew %: 1648.35 Advantageous Damage Per Minute First-shot DPM: 1349.55 50% Crew: 1098 75% Crew: 1251 100% Crew: 1405.35 100% Crew Rammer: 1556.55 Vents: 1435.95 Both: 1590.75 Both and BiA: 1624.95 Both and Max Crew %: 1693.35 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: 1304.55 50% Crew: 1053 75% Crew: 1206 100% Crew: 1360.35 100% Crew Vents: 1390.95 Rammer: 1511.55 Both: 1545.75 Both and BiA: 1579.95 Both and Max Crew %: 1648.35 Advantageous Damage Per Minute First-shot DPM: 1349.55 50% Crew: 1098 75% Crew: 1251 100% Crew: 1405.35 100% Crew Rammer: 1556.55 Vents: 1435.95 Both: 1590.75 Both and BiA: 1624.95 Both and Max Crew %: 1693.35 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (60 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1739.4 50% Crew: 1404 75% Crew: 1608 100% Crew: 1813.8 100% Crew Vents: 1854.6 Rammer: 2015.4 Both: 2061 Both and BiA: 2106.6 Both and Max Crew %: 2197.8 Advantageous Damage Per Minute First-shot DPM: 1799.4 50% Crew: 1464 75% Crew: 1668 100% Crew: 1873.8 100% Crew Rammer: 2075.4 Vents: 1914.6 Both: 2121 Both and BiA: 2166.6 Both and Max Crew %: 2257.8 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: 1304.55 50% Crew: 1053 75% Crew: 1206 100% Crew: 1360.35 100% Crew Vents: 1390.95 Rammer: 1511.55 Both: 1545.75 Both and BiA: 1579.95 Both and Max Crew %: 1648.35 Advantageous Damage Per Minute First-shot DPM: 1349.55 50% Crew: 1098 75% Crew: 1251 100% Crew: 1405.35 100% Crew Rammer: 1556.55 Vents: 1435.95 Both: 1590.75 Both and BiA: 1624.95 Both and Max Crew %: 1693.35 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (45 Damage):  Theoretical Damage Per Minute Nominal DPM: 1304.55 50% Crew: 1053 75% Crew: 1206 100% Crew: 1360.35 100% Crew Vents: 1390.95 Rammer: 1511.55 Both: 1545.75 Both and BiA: 1579.95 Both and Max Crew %: 1648.35 Advantageous Damage Per Minute First-shot DPM: 1349.55 50% Crew: 1098 75% Crew: 1251 100% Crew: 1405.35 100% Crew Rammer: 1556.55 Vents: 1435.95 Both: 1590.75 Both and BiA: 1624.95 Both and Max Crew %: 1693.35 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (60 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1739.4 50% Crew: 1404 75% Crew: 1608 100% Crew: 1813.8 100% Crew Vents: 1854.6 Rammer: 2015.4 Both: 2061 Both and BiA: 2106.6 Both and Max Crew %: 2197.8 Advantageous Damage Per Minute First-shot DPM: 1799.4 50% Crew: 1464 75% Crew: 1668 100% Crew: 1873.8 100% Crew Rammer: 2075.4 Vents: 1914.6 Both: 2121 Both and BiA: 2166.6 Both and Max Crew %: 2257.8 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.458 m With 75% Crew: 0.4 m With 100% Crew: 0.355 m With BiA: 0.347 m With BiA and Vents: 0.339 m Maximum possible: 0.325 m For more details, see Crew m ▲ With 50% Crew: 0.458 m With 75% Crew: 0.4 m With 100% Crew: 0.355 m With BiA: 0.347 m With BiA and Vents: 0.339 m Maximum possible: 0.325 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.345 s With 75% Crew: 2.92 s With 100% Crew: 2.589 s With GLD: 2.354 s With BiA: 2.532 s With BiA and Vents: 2.477 s With both and GLD: 2.252 s Maximum possible: 2.158 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.345 s With 75% Crew: 2.92 s With 100% Crew: 2.589 s With GLD: 2.354 s With BiA: 2.532 s With BiA and Vents: 2.477 s With both and GLD: 2.252 s Maximum possible: 2.158 s For more details, see Crew or Equipment Aim time. 
+4444 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+195195 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 363.3 m With 75% Crew: 416 m With 100% Crew: 469.3 m With 100% Signal Boost: 540 m When affected by 100% Relaying: 495 m Maximum possible: 675.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 363.3 m With 75% Crew: 416 m With 100% Crew: 469.3 m With 100% Signal Boost: 540 m When affected by 100% Relaying: 495 m Maximum possible: 675.5 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+QF 2-pdr Mk. X-A. 
+88/121/23. 
+45/45/60. 
+30. 
+0.37. 
+2.7. 
+nan. 
+130. 
+20150. 
+IV. 
+AC 1 Sentinel. 
+65/65/65. 
+44. 
+350. 
+nan. 
+4000. 
+8160. 
+IV. 
+Cadillac "75" x3. 
+330. 
+20. 
+nan. 
+1000. 
+10350. 
+IV. 
+AC 1 Sentinel. 
+31. 
+40. 
+B/2. 
+nan. 
+5000. 
+6250. 
+VII. 
+WS No. 19 Mk. II (Aust.). 
+450. 
+nan. 
+40. 
+21000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 • VIIICS-53 • IXCS-59 • XCS-63. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIT-44-122 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52. 
+{{TankData|Tank= 
+
+| 
+The AC 1 Sentinel is a Tier IV premium medium tank. GB33 Sentinel AC I  The tank is the object of derision due to it's poor gun and "distinctive" front machine gun port. GB33 Sentinel AC I  The tank is in the British tech tree as Australia doesn't have it's own tech tree and is part of the British Commonwealth. GB33 Sentinel AC I 
+
+|Gallery=
+
+File:AC 1 Sentinel scr 1. GB33 Sentinel AC I jpg
+File:AC 1 Sentinel scr 2. GB33 Sentinel AC I jpg
+File:AC 1 Sentinel scr 3. GB33 Sentinel AC I jpg
+
+
+|InTheGame_pros= 
+* High fire rate
+* High top speed and decent reverse speed
+* Low dispersion bloom when rotating turret (only)
+* Good gun depression
+* Reasonable view range
+
+|InTheGame_cons= 
+* Terrible DPM and alpha damage
+* Poor aim time and reloads faster than it can aim, hurting potential DPM even further unless engaging at point blank range. GB33 Sentinel AC I 
+* Low shell velocity
+* Poor power to weight ratio and average terrain handling hurts maneuverability
+* No preferential matchmaking 
+
+|InTheGame_performance= 
+The AC 1 Sentinel is a not so great brawling medium tank. GB33 Sentinel AC I  With the frontal armor of the Valentine, HP pool of the Matilda, and some of the speed of the Covenanter, it cant make aggressive maneuvers on flat ground and take a few hits without turning into a burning wreck. GB33 Sentinel AC I  This is especially true in Tier 4 and 5 games. GB33 Sentinel AC I  In Tier 6, it is relegated to a secondary role as an anti-scout and flank protector in coordination with allies. GB33 Sentinel AC I  In this role, it will have the benefit of a 350 meter view range. GB33 Sentinel AC I  
+
+Firepower-wise, it has a reasonable DPM and good armor penetration of 88mm. GB33 Sentinel AC I  However, its alpha damage of 45 means it will take numerous shots to take out opponents, something partially compensated by its high rate of fire. GB33 Sentinel AC I  While comparable British 2-pdr guns on the Valentine and Covenanter can fire more quickly and do more damage, they only have 78mm of armor penetration. GB33 Sentinel AC I  This is the difference between punching through a KV-1 or Matilda and not. GB33 Sentinel AC I  Therefore, the Sentinel's 2-pdr gun is able to deal less, but more consistent damage. GB33 Sentinel AC I  The only 2-pdr gun that beats the Mk X-A on the Sentinel is the 2-pdr Mk. GB33 Sentinel AC I  X-B with the Little-John adapter on the Matilda. GB33 Sentinel AC I  However, the Matilda does not have the benefit of being able to outflank opponents. GB33 Sentinel AC I  It also has great gun depression, though the Covenanter, Valentine, and Matilda are not lacking in gun depression as well. GB33 Sentinel AC I  
+
+The vehicle is not without faults, however. GB33 Sentinel AC I  With an 11. GB33 Sentinel AC I 81hp/ton ratio, the Sentinel will struggle up hills and will feel somewhat sluggish on flat ground. GB33 Sentinel AC I  While it is better than the Matilda and Valentine, they are really pocket heavy tanks, where the Sentinel is closer to a proper brawling medium. GB33 Sentinel AC I  Its gun also has an uncharacteristically long 2. GB33 Sentinel AC I 7 second aim time, as comparable guns have aim times closer to 2 seconds or less. GB33 Sentinel AC I  Combined with its mediocre gun handling, the Sentinel is very ineffective at long-range combat. GB33 Sentinel AC I  
+
+The Sentinel is a bad Tier 4 medium tank, capable of holding its own when top tier and supporting allies when its bottom tier with its good combination of protection, mobility, and firepower. GB33 Sentinel AC I  It also has good view range, which comes in handy when bottom tier. GB33 Sentinel AC I  
+|InTheGame_research= 
+As this is a premium tank, no research is needed. GB33 Sentinel AC I  
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, GLD, Coated Optics, Binocular Telescope
+|InTheGame_Equipment_Builds=
+
+
+
+|External_Reviews= 
+
+|History= 
+The Sentinel tank was a cruiser tank designed in Australia in World War II in response to the war in Europe, and to the threat of Japan expanding the war to the Pacific or even a feared Japanese invasion of Australia. GB33 Sentinel AC I  It was the first tank to be built with a hull cast as a single piece, and the only tank to be produced in quantity in Australia. GB33 Sentinel AC I  The few Sentinels that were built never saw action as Australia's armoured divisions had been equipped by that time with British and American tanks. GB33 Sentinel AC I 
+
+When design work began in November 1940, the AC1 was originally intended to be a 2 pounder gun-equipped vehicle, that was intended to be a true Cruiser tank,[3] with a weight of between 16 and 20 tonnes. GB33 Sentinel AC I [4] Due to a lack of home grown experience in tank design a mission was sent to the US to examine the M3 design and Colonel W. GB33 Sentinel AC I D. GB33 Sentinel AC I  Watson MC, an artillery officer with many years of tank design experience was provided by the UK. GB33 Sentinel AC I  He arrived in December 1940. GB33 Sentinel AC I [5] Like the Canadian Ram, the Australian Cruiser was to be based on the engine, drive train, and lower hull of the American M3 Medium tank,[6] mated to an upper hull and turret built closely along the lines of a British Crusader. GB33 Sentinel AC I  By 1942, attempting to keep pace with German tank developments,[7] the design specification had become more like an American medium tank, resulting in a heavier design and a higher silhouette profile. GB33 Sentinel AC I [4]
+
+The Australian Cruiser tank Mark 1 (AC1) was designated "Sentinel" in February 1942. GB33 Sentinel AC I [8] Manufactured by the New South Wales Railway Company,[4] fabrication took place at Sydney's Chullora Tank Assembly Shops with serial production vehicles emerging in August 1942, the premises also being used as a testing ground. GB33 Sentinel AC I  The design used existing parts where available from other tank designs, simplified where necessary to match the machining capacity present in Australia. GB33 Sentinel AC I  The hull was cast as a single piece, as was the turret; a technique not used on the hull of any other tanks of the era. GB33 Sentinel AC I [9]
+
+The original vehicle was designed to mount a QF 2 pounder this was later changed to a QF 6 pdr (57 mm, 2. GB33 Sentinel AC I 25 in). GB33 Sentinel AC I  However, none of these were available and the first 65 tanks were built with the 2 pounder. GB33 Sentinel AC I  Two Vickers machine guns were carried as secondary armament, one in the hull and a second mounted coaxially beside the main gun. GB33 Sentinel AC I  The preferred engines suitable to power a 28 tonne tank, a Pratt & Whitney Wasp single row petrol radial, or a Guiberson diesel radial, were not available within Australia, so the Sentinel was powered by the combined output of three Cadillac 346 in³ (5. GB33 Sentinel AC I 7 L) V8 petrol car engines installed in clover-leaf configuration (two engines side-by-side to the front and a single to the rear: all three feeding a common gearbox). GB33 Sentinel AC I  Sixty-five production vehicles had been completed by June 1943. GB33 Sentinel AC I [10]
+
+
+An AC3 tank. GB33 Sentinel AC I 
+The Sentinel was to be succeeded by the AC3, a much improved design with better armour protection, and most importantly increased firepower. GB33 Sentinel AC I  The next step up in firepower available in Australia was the 25 pounder (87. GB33 Sentinel AC I 6 mm, 3. GB33 Sentinel AC I 45 in) gun-howitzer. GB33 Sentinel AC I  This was quickly redesigned as a tank gun, work that would later prove useful for the design of the Short 25 Pounder. GB33 Sentinel AC I  Mounted in a fully traversable turret larger than that of the AC1 but using the same 54 in (1. GB33 Sentinel AC I 4 m) turret ring,[11] it was slightly cramped for the turret crew but gave the AC3 both armour piercing capability as well as an effective high explosive round. GB33 Sentinel AC I  The hull machine gun and gunner were removed from the design to make room for stowage of the larger 25 pounder ammunition. GB33 Sentinel AC I  Powered by the same three Cadillac V8 engines as the AC1, they were now mounted radially on a common crank case and geared together to form the "Perrier-Cadillac",[Note 1] a single 17. GB33 Sentinel AC I 1 L, 24 cylinder engine, very similar in some respects to the later A57 Chrysler multibank used in some variants of the US M3 and M4 tanks. GB33 Sentinel AC I  One pilot model AC3 had been completed and work had started on producing 25 tanks for trials when the programme was terminated. GB33 Sentinel AC I [8]
+
+In an effort to further improve the firepower of the Australian produced tanks, a turret was developed and mounted on one of the earlier development vehicles to assess the vehicle's ability to mount the foremost Allied anti-tank gun of the day – the British 17 pounder (76 mm, 3 in). GB33 Sentinel AC I  This was achieved by mounting two 25 pounder gun-howitzers which when fired together would significantly exceed the recoil of a 17 pounder. GB33 Sentinel AC I [12] It was later fitted with a 17 pounder and after successful gunnery trials the 17 pounder was selected for the AC4 design. GB33 Sentinel AC I  For the AC4 the 17 pounder was to be mounted in a new and larger turret, attached by a 70 inch (1778 mm) diameter turret ring, the space for which was accommodated by changes to the upper hull permitted by the compact nature of the "Perrier-Cadillac". GB33 Sentinel AC I [8]
+
+The completed Sentinel tanks were used for evaluation purposes only and were not issued to operational armoured units. GB33 Sentinel AC I  The Australian Cruiser tank programme was terminated in July 1943 believing it better for Australia to put the effort spent on the AC tanks towards building her own railway locomotives and supporting the large number of US tanks due to arrive. GB33 Sentinel AC I [13] The tanks that had been produced were placed in storage until the end of the war. GB33 Sentinel AC I [14] In 1943, the 3rd Army Tank Battalion was equipped with a squadron of AC1 tanks which had been modified to resemble German tanks. GB33 Sentinel AC I  These tanks were used in the filming of the movie The Rats of Tobruk. GB33 Sentinel AC I  This appears to have been the only time a squadron of Sentinels was used for any purpose. GB33 Sentinel AC I 
+{{VideoYT|XUqBMC5-HPI|320}}{{VideoYT|-P1PZtZCup8|320}}{{VideoYT|o9Skii3YvQM|320}}
+
+|HistoricalGallery= 
+File:AC 1 Sentinel foto 1. GB33 Sentinel AC I jpg{{!}}An AC MkI tank on trials
+File:AC3 tank (AWM 101155). GB33 Sentinel AC I jpg{{!}}An AC3 tank. GB33 Sentinel AC I 
+File:AC1 Sentinel 8030. GB33 Sentinel AC I jpg{{!}}The AC1 Sentinel tank at the RAAC Tank Museum. GB33 Sentinel AC I 
+File:AC E1(AWM P03498. GB33 Sentinel AC I 010). GB33 Sentinel AC I jpg{{!}}AC E1 development vehicle with a test turret and 17 pounder gun
+File:AustralianCruiserTankMkIV. GB33 Sentinel AC I jpg{{!}}A 1943 artist's drawing based upon the production drawings of the Mark IV tank. GB33 Sentinel AC I 
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

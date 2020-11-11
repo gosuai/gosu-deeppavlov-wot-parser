@@ -1,0 +1,188 @@
+3,670,000 Cost. 
+15501240 HP Hit Points. 
+50.2/59.5635.13/0 t Weight Limit. 
+8501000 hp Engine Power. 
+50/13 km/h Speed Limit. 
+2626 deg/s Traverse. 
+16.9328.47 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+180/70/40 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+400/400/515400/400/515 HP Damage. 
+257/325/65257/325/65 mm Penetration. 
+r/m ▲ Autoloaded Gun Burst Length: 1 round Magazine Size: 4 rounds Cycle Time: 2.4 s Magazine Reload Times Nominal: 34 s 50% Crew: 42.12 s 75% Crew: 36.78 s 100% Crew: 32.6 s With Vents: 31.88 s With Vents and BiA: 31.19 s Click here for more information. r/m ▲ Autoloaded Gun Burst Length: 1 round Magazine Size: 4 rounds Cycle Time: 2.4 s Magazine Reload Times Nominal: 34 s 50% Crew: 42.12 s 75% Crew: 36.78 s 100% Crew: 32.6 s With Vents: 31.88 s With Vents and BiA: 31.19 s Click here for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Autoloaded Gun Using Shell Type 1 (400 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▼ Autoloaded Gun Using Shell Type 2 (400 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▲ Autoloaded Gun Using Shell Type 3 (515 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information.Expression error: Unexpected < operator. ▲ Autoloaded Gun Using Shell Type 1 (400 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▼ Autoloaded Gun Using Shell Type 2 (400 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▲ Autoloaded Gun Using Shell Type 3 (515 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment Aim time. 
+2626 deg/s Gun Traverse Speed. 
+20° Gun Arc. 
+-6°/+18°-6°/+18° Elevation Arc. 
+6868 rounds Ammo Capacity. 
+2015 % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 575.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+120 mm AC SA46. 
+257/325/65. 
+400/400/515. 
+5.83. 
+0.35. 
+2.5. 
+nan. 
+nan. 
+339000. 
+IX. 
+Maybach HL 295. 
+850. 
+20. 
+nan. 
+750. 
+78000. 
+IX. 
+Saurer. 
+1000. 
+15. 
+nan. 
+750. 
+99800. 
+nan. 
+AMX 50 Foch. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+27650. 
+nan. 
+AMX 50 Foch bis. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+64000. 
+X. 
+SCR-528 Fr. 
+750. 
+nan. 
+80. 
+54000. 
+VI. 
+SCR 508. 
+400. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=AMX50_Foch
+| A progressive update of the AC Mle 46 and 48, the 50 Foch continues to follow the 'all-or-nothing' trend by focusing all its effective armor and firepower into a narrow frontal arc. F37 AMX50 Foch  It has thicker frontal armor than the AC 48, and is also rid of the useless anti-aircraft turret that the AC 48 is cursed with. F37 AMX50 Foch  The aim time of the 120 mm gun is also much improved with a somewhat higher rate of fire. F37 AMX50 Foch  Unfortunately, it still shares many of the same weaknesses that the AC 48 had, and the 120 mm gun is underwhelming at Tier 9, especially since many heavy tanks at that tier get similar guns. F37 AMX50 Foch  In general, the Foch has suffered from power-creep at the higher tiers, to the point where it can be considered the worst Tier 9 tank destroyer in the game. F37 AMX50 Foch 
+
+|Gallery=
+
+|InTheGame_pros=
+* 4-shot autoloader with excellent burst damage
+* Good accuracy, decent gun handling for a tank destroyer
+* Well angled and reasonably thick frontal armor
+* High top speed and engine power, good acceleration
+* Painless stock grind
+
+|InTheGame_cons=
+* Large, thin roof plate, very vulnerable to artillery penetrations
+* Very prominent and poorly armored frontal weakspots 
+* Low reverse speed and fairly subpar hull traverse speed
+* Limited gun depression and horizontal gun arc
+* No alpha damage and penetration improvements over its predecessor
+
+|InTheGame_performance=
+
+The Foch is heavily dependent on being able to snipe from medium to long distances or flanking unsuspecting enemies. F37 AMX50 Foch  It is an extremely difficult tank to play at close ranges due to its length, middling traverse speed, and prominent weakspots that negate its otherwise excellent armor: the ever-present rangefinder and turret on top of the French tank destroyers. F37 AMX50 Foch  These must be exposed whenever the Foch has to open fire at an enemy, and the only real thing a player can do to counter this is to wiggle the tank and hope for a lucky miss or ricochet. F37 AMX50 Foch  For similar reasons, fighting on hilly terrain is highly not recommended in the Foch unless there is no other option. F37 AMX50 Foch  The low HP pool does not help in this respect either. F37 AMX50 Foch  The absolutely horrible armor on the sides, rear, and top make it very vulnerable to flanking attacks and artillery hits are devastating to the Foch. F37 AMX50 Foch 
+
+The firepower of the Foch is by far its greatest weakness, the 120 mm SA 46 being the only gun option. F37 AMX50 Foch  While a very powerful gun at Tier 8 on the AC 48, the gun is very weak for a tank destroyer at Tier 9. F37 AMX50 Foch  It has by far the lowest damage per shell of any Tier 9 tank destroyer gun, tied only with the Tortoise. F37 AMX50 Foch  However, while the Tortoise has a phenomenal rate-of-fire to compensate for this (among the best damage-per-minute values of any tank in the game), the Foch has no such consolation. F37 AMX50 Foch  With barely over half the shell damage of the T30 or Object 704, the Foch must expose itself to repeatedly shoot an enemy. F37 AMX50 Foch  The disappointing damage output means it needs to land at least two shots from a clip to justify the trade, when opponents can fire and (should) retreat to avoid those follow-ups. F37 AMX50 Foch  The terrible gun dispersion values make it absolutely hopeless at snapshotting enemies, although the aim time is significantly better than on the AC 48. F37 AMX50 Foch  The penetration is acceptable enough under most circumstances, but can be frustrating when combined with the Foch's horrible dispersion values. F37 AMX50 Foch  
+
+That said, the Foch does boast good speed and acceleration, which does allow it to reach aggressive forward positions or keep up with medium tanks, if one prefers to live dangerously. F37 AMX50 Foch  However, it has only slightly better hull traverse than the Object 704, and if a fast medium or light tank gets on the side or behind a Foch, it is game over. F37 AMX50 Foch  It absolutely requires support to cover its flanks if played aggressively. F37 AMX50 Foch 
+
+When allowed to play as a medium/long range sniper, the Foch can also perform decently, as it becomes much harder to hit the weakspots and the armor becomes more effective. F37 AMX50 Foch  The gun is also quite accurate once fully aimed, and it can hit fairly reliably at long distances. F37 AMX50 Foch  It also has decent camouflage values and view range, making it harder to spot. F37 AMX50 Foch  In this respect, it plays similarly to the SU-122-54, which has a far greater damage output and agility, while the Foch has much better frontal armor and a more accurate gun at long ranges. F37 AMX50 Foch 
+
+Overall, the Foch is a difficult tank destroyer to play aggressively, and can be a frustrating experience, especially to a less experienced player. F37 AMX50 Foch  But, then again, if you have made it this far up the French tank destroyer tree, you should not be surprised by this, right?
+
+|InTheGame_research=
+* The top radio is shared among a multitude of French tanks, including the [[AMX AC Mle. F37 AMX50 Foch  48]], and can be installed immediately
+* Research the engine
+* Research the tracks
+
+|InTheGame_equipment=
+
+Binocular Telescope, Camo Net, GLD, Vents
+
+|History=
+[[image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH. F37 AMX50 Foch jpg|thumb|200px|left|Canon Automoteur AMX 50 Foch]]After the war the French Army possessed no modern tanks with a heavy armament. F37 AMX50 Foch  The ARL 44 was being developed, but this vehicle, though to be armed with a powerful 90 mm gun, could hardly be called modern, as its suspension system was obsolete. F37 AMX50 Foch  Therefore already in March 1945 the French industry had been invited to design a more satisfactory vehicle. F37 AMX50 Foch  The same year the AMX company (Atelier de Construction d'Issy-les-Moulineaux) presented its projet 141, a project to build the so-called M 4 prototype, armed with a 90 mm Schneider gun. F37 AMX50 Foch 
+
+The M 4 closely resembled the German King Tiger in general form, though the turret was to be made of welded sections; but to limit the weight to a desired thirty metric tonnes the proportions were rather smaller and the armor had a maximum of just thirty millimeters. F37 AMX50 Foch  Like the later German tanks of the war it had, in this case eight, overlapping road wheels. F37 AMX50 Foch  Part of the project was to study whether a modern torsion bar suspension should be used or the height lowered by ten centimeters through a fitting of leaf or coil springs. F37 AMX50 Foch 
+
+Two prototypes of the M 4 were ordered. F37 AMX50 Foch  The Army soon indicated that a protection level of thirty millimeters was unacceptably low. F37 AMX50 Foch  In response armor was increased. F37 AMX50 Foch  To save weight it was decided to install a novel oscillating turret, designed by FAMH. F37 AMX50 Foch  Nevertheless, when the first prototype, now named the AMX 50 after its intended weight class, was delivered in 1949, it weighed 53. F37 AMX50 Foch 7 metric tonnes. F37 AMX50 Foch  In the winter of 1950 instead of the 90 mm, a 100 mm gun was fitted, designed by the Arsenal de Tarbes. F37 AMX50 Foch  The second prototype with a slightly different turret, but also with a 100 mm gun, was ready soon after. F37 AMX50 Foch  The prototypes had a length, with gun, of 10. F37 AMX50 Foch 43, a width of 3. F37 AMX50 Foch 40 and a height of 3. F37 AMX50 Foch 41 meters. F37 AMX50 Foch  It was intended to fit a 1200 hp engine to attain a speed much superior to all existing medium tank types. F37 AMX50 Foch  The Maybach HL 295 (a redesigned German gas engine in 1945 captured at Friedrichshafen by Engineer-General Joseph Molinié) and a Saurer diesel engine were tested. F37 AMX50 Foch  Both failed to deliver the required output and maximum speed was in fact no higher than 51 km/h. F37 AMX50 Foch  The prototypes were tested between 1950 and 1952. F37 AMX50 Foch 
+[[image:Amx50foch037rz. F37 AMX50 Foch jpg|thumb|200px|right| AMX 50 Foch]]
+Based on the M 4 chassis in 1950, AMX presented a prototype of a heavy tank destroyer in the form of a 120 mm self-propelled gun, the Canon Automoteur AMX 50 Foch, named after Marshal Ferdinand Foch. F37 AMX50 Foch  It was intended to give long range fire support to the medium/heavy AMX 50 100 mm model. F37 AMX50 Foch  The design had a lot of similarities with German Jagdpanther tank destroyer. F37 AMX50 Foch  It had a long bareled 120 mm gun with a muzzle break attached to a well sloped and heavily armored flat profile vehicle. F37 AMX50 Foch  Remotely controlled anti-aircraft machinegun was placed on the right side of the roof, while commander’s cupola with the range finder was pushed to the left. F37 AMX50 Foch  
+
+Unlike previous post war concepts like the Mle. F37 AMX50 Foch  1948, several AMX 50 TDs were built, the first in 1950. F37 AMX50 Foch  Field tests were promising, and army started to prepare to adopt AMX 50 Foch in small numbers. F37 AMX50 Foch  When AMX engineers managed to install a 120 mm gun into an oscillating turret of the AMX 50 120 tank, Foch immediately become obsolete and all further development and production were stopped. F37 AMX50 Foch 
+
+|HistAcc=
+The Foch was never designed to hold an autoloader. F37 AMX50 Foch  The historical version with the single-shot gun does not exist in World of Tanks. F37 AMX50 Foch 
+
+|HistoricalGallery=
+image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH. F37 AMX50 Foch jpg
+image:1950_CANON_AUTOMOTEUR_AMX_50_FOCH_1. F37 AMX50 Foch jpg
+image:Amx50foch058ln. F37 AMX50 Foch jpg
+image:Amx50foch037rz. F37 AMX50 Foch jpg
+File:AMX_50_Foch_blueprint. F37 AMX50 Foch jpg{{!}}AMX 50 Foch armor layout
+File:AMX_50_Foch_blueprint_1. F37 AMX50 Foch jpg{{!}}The Foch's ammunition storage
+File:AMX_50_Foch_blueprint_2. F37 AMX50 Foch jpg{{!}}AMX 50 Foch interior blueprint
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+|Sidebar_Camostop=14. F37 AMX50 Foch 0
+|Sidebar_Camomove=8. F37 AMX50 Foch 6
+|Sidebar_Camofire=4. F37 AMX50 Foch 0
+|Sidebar_Passhard=1. F37 AMX50 Foch 247
+|Sidebar_Passmed=1. F37 AMX50 Foch 342
+|Sidebar_Passsoft=2. F37 AMX50 Foch 301
+|Sidebar_DispTurret=0. F37 AMX50 Foch 192
+|Sidebar_DispRecoil=3. F37 AMX50 Foch 836
+|Sidebar_DispAccel=0. F37 AMX50 Foch 192
+|Sidebar_DispTurning=0. F37 AMX50 Foch 192
+}}

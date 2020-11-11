@@ -1,0 +1,228 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery. 
+933,000 Cost. 
+650650 HP Hit Points. 
+10.75/1110.75/14 t Weight Limit. 
+190215 hp Engine Power. 
+60/20 km/h Speed Limit. 
+3032 deg/s Traverse. 
+17.6720 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+15/10/10 mm Hull Armor. 
+AP/HEAT/HE AP/HEAT/HE Shells. 
+280/4000/195 320/4000/195 Shell Cost. 
+240/240/320240/240/320 HP Damage. 
+155/230/45180/230/45 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 9.1 s 50% Crew: 11.27 s 75% Crew: 9.84 s 100% Crew: 8.73 s Rammer: 7.86 s Vents: 8.54 s Both: 7.68 s Both and BiA: 7.52 s Both and Max Crew %: 7.21 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 9.7 s 50% Crew: 12.02 s 75% Crew: 10.49 s 100% Crew: 9.3 s Rammer: 8.37 s Vents: 9.1 s Both: 8.19 s Both and BiA: 8.01 s Both and Max Crew %: 7.68 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1581.6 50% Crew: 1276.8 75% Crew: 1461.6 100% Crew: 1648.8 100% Crew Vents: 1684.8 Rammer: 1831.2 Both: 1874.4 Both and BiA: 1915.2 Both and Max Crew %: 1996.8 Advantageous Damage Per Minute First-shot DPM: 1821.6 50% Crew: 1516.8 75% Crew: 1701.6 100% Crew: 1888.8 100% Crew Rammer: 2071.2 Vents: 1924.8 Both: 2114.4 Both and BiA: 2155.2 Both and Max Crew %: 2236.8 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1581.6 50% Crew: 1276.8 75% Crew: 1461.6 100% Crew: 1648.8 100% Crew Vents: 1684.8 Rammer: 1831.2 Both: 1874.4 Both and BiA: 1915.2 Both and Max Crew %: 1996.8 Advantageous Damage Per Minute First-shot DPM: 1821.6 50% Crew: 1516.8 75% Crew: 1701.6 100% Crew: 1888.8 100% Crew Rammer: 2071.2 Vents: 1924.8 Both: 2114.4 Both and BiA: 2155.2 Both and Max Crew %: 2236.8 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2108.8 50% Crew: 1702.4 75% Crew: 1948.8 100% Crew: 2198.4 100% Crew Vents: 2246.4 Rammer: 2441.6 Both: 2499.2 Both and BiA: 2553.6 Both and Max Crew %: 2662.4 Advantageous Damage Per Minute First-shot DPM: 2428.8 50% Crew: 2022.4 75% Crew: 2268.8 100% Crew: 2518.4 100% Crew Rammer: 2761.6 Vents: 2566.4 Both: 2819.2 Both and BiA: 2873.6 Both and Max Crew %: 2982.4 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1485.6 50% Crew: 1200 75% Crew: 1372.8 100% Crew: 1550.4 100% Crew Vents: 1586.4 Rammer: 1723.2 Both: 1761.6 Both and BiA: 1800 Both and Max Crew %: 1879.2 Advantageous Damage Per Minute First-shot DPM: 1725.6 50% Crew: 1440 75% Crew: 1612.8 100% Crew: 1790.4 100% Crew Rammer: 1963.2 Vents: 1826.4 Both: 2001.6 Both and BiA: 2040 Both and Max Crew %: 2119.2 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1485.6 50% Crew: 1200 75% Crew: 1372.8 100% Crew: 1550.4 100% Crew Vents: 1586.4 Rammer: 1723.2 Both: 1761.6 Both and BiA: 1800 Both and Max Crew %: 1879.2 Advantageous Damage Per Minute First-shot DPM: 1725.6 50% Crew: 1440 75% Crew: 1612.8 100% Crew: 1790.4 100% Crew Rammer: 1963.2 Vents: 1826.4 Both: 2001.6 Both and BiA: 2040 Both and Max Crew %: 2119.2 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1980.8 50% Crew: 1600 75% Crew: 1830.4 100% Crew: 2067.2 100% Crew Vents: 2115.2 Rammer: 2297.6 Both: 2348.8 Both and BiA: 2400 Both and Max Crew %: 2505.6 Advantageous Damage Per Minute First-shot DPM: 2300.8 50% Crew: 1920 75% Crew: 2150.4 100% Crew: 2387.2 100% Crew Rammer: 2617.6 Vents: 2435.2 Both: 2668.8 Both and BiA: 2720 Both and Max Crew %: 2825.6 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew m ▲ With 50% Crew: 0.421 m With 75% Crew: 0.368 m With 100% Crew: 0.326 m With BiA: 0.319 m With BiA and Vents: 0.312 m Maximum possible: 0.299 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment Aim time. 
+2424 deg/s Gun Traverse Speed. 
+30° Gun Arc. 
+-10°/+12°-10°/+12° Elevation Arc. 
+4040 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 357.5 m With 75% Crew: 406.3 m With 100% Crew: 455 m With 100% Signal Boost: 546 m When affected by 100% Relaying: 500.5 m Maximum possible: 654.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 483.2 m With 75% Crew: 549.2 m With 100% Crew: 615 m With 100% Signal Boost: 738 m When affected by 100% Relaying: 676.5 m Maximum possible: 884.9 m For more details, see Skills or Equipment Signal Range. 
+VI. 
+9 cm Bofors L/43. 
+155/230/45. 
+240/240/320. 
+6.59. 
+0.36. 
+2.1. 
+nan. 
+600. 
+72000. 
+VII. 
+9 cm Bofors L/53. 
+180/230/45. 
+240/240/320. 
+6.19. 
+0.34. 
+1.9. 
+nan. 
+815. 
+84000. 
+V. 
+Volvo TD 70 A. 
+190. 
+15. 
+nan. 
+660. 
+12100. 
+V. 
+GM 6V 53. 
+215. 
+15. 
+nan. 
+700. 
+15300. 
+V. 
+Ikv 65 Alt II. 
+11. 
+30. 
+0. 
+nan. 
+3000. 
+8800. 
+VI. 
+Ikv 65 Alt III. 
+14. 
+32. 
+0. 
+nan. 
+3000. 
+15100. 
+VII. 
+Ra 100. 
+455. 
+nan. 
+14. 
+23500. 
+VIII. 
+Ra 105. 
+525. 
+nan. 
+8. 
+24800. 
+IX. 
+Ra 146. 
+615. 
+nan. 
+12. 
+33600. 
+Light Tanks. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Medium Tanks. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Heavy Tanks. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Tank Destroyers. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • VIIIStrv S1 FL • IXStrv 103-0 • XStrv 103B. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • VIIIStrv S1 FL • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank= 
+|The Ikv 65 still retains the "Glass cannon" traits from its predecessor ; It has quite great mobility and has small size that provides great camouflage rating, but also doesn't have armor protection. S08 Ikv 65 Alt 2  This TD abandons the traits from the early Ikv project that classed it as an Infantry support SPG in real life, with powerful derp shot, but with awful gun handling. S08 Ikv 65 Alt 2  Instead, Ikv 65 offers much better gun handling and excellent penetration, in exchange for much lower alpha damage. S08 Ikv 65 Alt 2  That makes it the true sniper in its tier. S08 Ikv 65 Alt 2 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+- Very high top speed and acceleration due to low weight
+
+- Satisfactory penetration and damage, especially at top tier
+
+- Excellent turning. S08 Ikv 65 Alt 2  Can spin quickly directly after moving
+
+- Maintains its trait of plentiful gun depression
+
+- Exceptional camouflage ratings
+
+- Reverse speed allows the tank to hide as soon as it is spotted
+
+- Very playable stock, with good mobility and a gun that has decent penetration
+
+|InTheGame_cons= 
+
+- By far the lowest DPM of any Tier 6 tank destroyer, Jagdpanzer IV has almost 1k more (70%!)
+
+- Absolutely no armor, most gun's HE shells can rip it to pieces; easily oneshotted by howitzers and can be a prized target to SPGs
+
+- Reasonably tight gun arc
+
+- Gun's accuracy demands some aim time
+
+- Long reload for a gun with this damage
+
+- Mediocre momentum; often swings when braking at high speed, combined with tight gun arc makes it unsuitable for snapshots
+
+- Tends to getting flipped a lot when running over some small rocks due to instability issues
+
+- Engine gets hit a lot
+
+- Limited gun elevation when on a downward slope
+
+|InTheGame_performance= 
+This tank is a great sniper, and was built to be. S08 Ikv 65 Alt 2  Take advantage of your good gun depression and high pen to snipe away at tanks from far away. S08 Ikv 65 Alt 2  If things get too hairy, you can relocate and run away. S08 Ikv 65 Alt 2  With your top speed, you can also act as a ninja TD in some cases, and sometimes be able to flank enemy tank destroyers! Some reliable tactics are to use the excellent reverse speed of 20kmh and your reasonably small profile to kite enemies around terrain such as rocks and undulations to make up for your terrible DPM. S08 Ikv 65 Alt 2  Use this to out trade opponents with higher DPM than you and remain reasonably healthy for late game. S08 Ikv 65 Alt 2  Another technique is to train camo crew and abuse concealment like that of a light tank. S08 Ikv 65 Alt 2  The mobility allows it to comfortably go up to a bush, proc. S08 Ikv 65 Alt 2  binoculars, pull back and shoot your enemy. S08 Ikv 65 Alt 2 
+
+|InTheGame_research= 
+- Only the Ra 146 radio carries over from the Ikv 103<br/>
+- Choice of researching the top gun for better gun handling or the engine. S08 Ikv 65 Alt 2  Upgraded tracks are required for the gun. S08 Ikv 65 Alt 2 <br/>
+- Finish any remaining modules<br/>
+
+|InTheGame_equipment=
+Tank gun rammer, Camouflage net, Binocular Telescope, Vents
+
+|InTheGame_Equipment_Builds=
+
+|Gallery=
+
+|External_Reviews= 
+
+|History= 
+
+After the Ikv 103, it would be until the mid-60s before the Ikv concept was brought up again, but this time with an emphasis on being able to fight tanks and other AFV’s. S08 Ikv 65 Alt 2  In total three different companies were asked to submit their designs for the new Ikv, which they called Ikv 65. S08 Ikv 65 Alt 2  First there was Landsverk, who had produced the other Ikv’s. S08 Ikv 65 Alt 2  Then there was Hägglunds, who had just started producing their armoured personell carrier design for the Swedish army and finally there was Bofors, who was also developing the S-tank. S08 Ikv 65 Alt 2  Of all these companies, Landsverk was the most experienced, having produced virtually every Swedish tank design from the 1930s to the 1950s. S08 Ikv 65 Alt 2  Landsverk had however fallen on hard times lately after losing the contract for the army’s new APC to Hägglunds, but it was decided to make a last ditch effort to keep the military part of the company going and five different designs were submitted for the new Ikv project. S08 Ikv 65 Alt 2  The first proposal was essentially a rebuilt Ikv 103 with a bigger superstructure and bigger engine. S08 Ikv 65 Alt 2  The main armament, shared between all the proposals, was a Bofors 90mm L/54 low pressure gun, developed from the Pvpj1110 recoilless rifle. S08 Ikv 65 Alt 2  There was however a number of versions of this gun considered (although not directly by Landsverk). S08 Ikv 65 Alt 2 
+
+Ikv 65 proposal 1
+
+[[File:Ikv_65_proposal_1. S08 Ikv 65 Alt 2 jpg]]
+
+The other Ikv 65 proposals used their own original suspension and did not vary that much from each other, except for the final design, which was to be based of the Pbv 302 APC chassis and was to have a fully traversable turret
+
+Ikv 65 proposal 2
+
+[[File:Ikv_65_proposal_2. S08 Ikv 65 Alt 2 jpg]]
+
+Ikv 65 proposal 3
+
+[[File:Ikv_65_proposal_3. S08 Ikv 65 Alt 2 jpg]]
+
+Ikv 65 proposal 4
+
+[[File:Ikv_65_proposal_4. S08 Ikv 65 Alt 2 jpg]]
+
+Ikv 65 proposal 5
+
+[[File:Ikv_65_proposal_5. S08 Ikv 65 Alt 2 jpg]]
+
+Despite the Landsverk design being the one preferred by the Army, it was ultimately decided to go with the Hägglunds design due to the greater interchangeability of parts between the new Ikv and the Hägglunds-designed and built Pbv 302 APC. S08 Ikv 65 Alt 2  Eventually, this led to the production Ikv 91 in 1975, but that is a story for another part. S08 Ikv 65 Alt 2  After losing the contract for the Ikv 91, Landsverk did shut down its military design section and focused on the production of civilian excavators. S08 Ikv 65 Alt 2  After that, it wasn’t long until the remaining part of the company was sold off to Volvo BM and by the mid-70s, Landsverk was shut down for good. S08 Ikv 65 Alt 2 
+
+[[File:Scale_model_of_Ikv_65_alt_II. S08 Ikv 65 Alt 2 jpg]]
+
+This was Landsverk’s most detailed one and the one they favored. S08 Ikv 65 Alt 2  A very detailed scale model was built, but since a competitor’s design was chosen instead, the design otherwise remained on paper. S08 Ikv 65 Alt 2 
+
+|HistoricalGallery= 
+File:Scale_model_of_Ikv_65_alt_II. S08 Ikv 65 Alt 2 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. S08 Ikv 65 Alt 2 wot-news. S08 Ikv 65 Alt 2 com/2014/11/22/swedish-tanks-part-xx-ikv-103-ikv-65/
+
+}}

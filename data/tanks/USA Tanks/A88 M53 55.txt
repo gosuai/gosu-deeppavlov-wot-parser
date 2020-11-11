@@ -1,0 +1,207 @@
+3,550,000 Cost. 
+450Expression error: Unrecognized word "unable". HP Hit Points. 
+44.61/44.7Expression error: Unexpected < operator./Expression error: Unrecognized word "unable". t Weight Limit. 
+770Unable to match configuration for query: engine:a88_m53_55::top|power hp Engine Power. 
+56.3/14 km/h Speed Limit. 
+22Unable to match configuration for query: chassis:a88_m53_55::top|traversespeed deg/s Traverse. 
+17.26Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+25.4/12.7/12.7 mm Hull Armor. 
+Shells. 
+0/0/0 0/0/0 Shell Cost. 
+700/700/Unable to match configuration for query: gun:a88_m53_55::top|damage1/Unable to match configuration for query: gun:a88_m53_55::top|damage2/Unable to match configuration for query: gun:a88_m53_55::top|damage3 HP Damage. 
+39/39/Unable to match configuration for query: gun:a88_m53_55::top|penetration1/Unable to match configuration for query: gun:a88_m53_55::top|penetration2/Unable to match configuration for query: gun:a88_m53_55::top|penetration3 mm Penetration. 
+Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:a88_m53_55::stock|burstcount rounds Magazine Size: Unable to match configuration for query: gun:a88_m53_55::stock|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:a88_m53_55::stock|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information.Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:a88_m53_55::top|burstcount rounds Magazine Size: Unable to match configuration for query: gun:a88_m53_55::top|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:a88_m53_55::top|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information. Rate of Fire. 
+Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:a88_m53_55::stock|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:a88_m53_55::stock|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:a88_m53_55::stock|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information.Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:a88_m53_55::top|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:a88_m53_55::top|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:a88_m53_55::top|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. Damage Per Minute. 
+Expression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see CrewExpression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Crew Accuracy. 
+Expression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or EquipmentExpression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or Equipment Aim time. 
+10Unable to match configuration for query: turret:a88_m53_55::top|turrettraverse deg/s Gun Traverse Speed. 
+60° Gun Arc. 
+-5°/+65°-Unable to match configuration for query: gun:a88_m53_55::top|depression°/+Unable to match configuration for query: gun:a88_m53_55::top|elevation° Elevation Arc. 
+Unable to match configuration for query: gun:a88_m53_55::stock|maxammoUnable to match configuration for query: gun:a88_m53_55::top|maxammo rounds Ammo Capacity. 
+Expression error: Unrecognized word "unable".Expression error: Unrecognized word "unable". % Chance of Fire. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment Signal Range. 
+nan. 
+155 mm Gun M46. 
+39/39. 
+700/700. 
+2.14. 
+0.63. 
+4.5. 
+nan. 
+nan. 
+125000. 
+nan. 
+8-inch Howitzer M47. 
+52/52. 
+1050/1050. 
+1.43. 
+0.75. 
+5.2. 
+nan. 
+nan. 
+240000. 
+nan. 
+Continental AV-1790-7B. 
+nan. 
+0. 
+nan. 
+nan. 
+100000. 
+nan. 
+SOFAM 12 GS. 
+nan. 
+0. 
+nan. 
+nan. 
+59000. 
+nan. 
+T97/T108. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+31000. 
+nan. 
+M53/M55. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+64000. 
+nan. 
+AN/PRC-10. 
+nan. 
+nan. 
+nan. 
+22000. 
+nan. 
+AN/PRC-25. 
+nan. 
+nan. 
+nan. 
+54000. 
+Light Tanks. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+Medium Tanks. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+Heavy Tanks. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+Tank Destroyers. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+Self-Propelled Artillery. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=M53_55
+|The M53/M55 is an unique vehicle in the American SPG branch. A88 M53 55  The most noticeable features are the turret and the mobility. A88 M53 55 
+The turret has an impressive gun arc of 60°, which helps aiming without moving the vehicle itself. A88 M53 55  The mobility is very good, having a high top speed and a nice power to weight ratio. A88 M53 55  This gives the M53/M55 the mobility to relocate, flee from danger or bring support where needed. A88 M53 55 
+Futhermore, the gun has a nice mixture of accuracy, reload, and alpha damage. A88 M53 55  Also the gun has a good gun depression and elevation in comparison to the other SPG's. A88 M53 55  The main downsides of the M53/M55 is that it's quite large, which makes it easy to hit and having a bad camouflage. A88 M53 55 
+Another downside is when coming from the M40/M43, is that the radioman is replaced by a second gunner, resulting in breaking the Brothers in Arms perk. A88 M53 55  
+
+|InTheGame_pros=
+* Gun range: stock: 1400 m, top: 1290 m. A88 M53 55  
+* Very wide firing arc; gun is mounted on a "pseudo-turret" much like the GW Panther. A88 M53 55 
+* Very good speed, acceleration, and traverse, inferior only to French artillery. A88 M53 55 
+* Good mix of accuracy, reload, and alpha, along with high shell arc on the upgraded gun. A88 M53 55 
+* Upgraded gun weighs less than the stock gun, meaning researching the suspension is not required to mount it. A88 M53 55 
+* One of the few artillery pieces in the game to be able to mount Ventilation. A88 M53 55 
+
+
+|InTheGame_cons=
+* Poor alpha damage with the stock gun. A88 M53 55  It's only competitive against tier 8 and below. A88 M53 55 
+* Large profile and horrific camouflage. A88 M53 55 
+* Different Crew setup than the rest of the line (radioman replaced for a second gunner). A88 M53 55 
+
+|InTheGame_performance=
+Initially, moving from the M40/M43 to the M53/M55 is very disappointing, as you have to re-research the 203mm howitzer, so stock you are a faster-reloading, more mobile M12. A88 M53 55   When fully upgraded, however, the M53/55 becomes a highly mobile, hard hitting artillery piece that is able to greatly influence the game. A88 M53 55   It has enough mobility to outrun some slower mediums and is able to easily re-position in order to fire on targets that are safe from other positions. A88 M53 55  Due to it's outstanding all-around performance, the M53/55 sees use in Clan Wars over the T92, which was rendered obsolete by the Conqueror Gun Carriage. A88 M53 55 
+
+With the SPG rebalance, the stock gun is a viable alternative to the 203mm. A88 M53 55  While it features lower alpha damage and pen, the DPM is the same, and the improved rate of fire, aim time, and accuracy may help you keep targets tracked and stunned for longer, allowing your teammates to finish them off. A88 M53 55 
+
+|InTheGame_research=
+* The AN/PRC-25 radio is the only module to carry over from the M44. A88 M53 55 
+* First, research the 8-inch Howitzer M47, as it is lighter than the stock gun. A88 M53 55 
+* Next, research the Suspension. A88 M53 55 
+* Finally, research the Continental AV-1790-7B Engine. A88 M53 55 
+
+|InTheGame_equipment=
+GLD, Improved Ventilation Class 2, Artillery Shell Rammer
+
+|Gallery=
+file:M53 M55 scr 1. A88 M53 55 jpg
+file:M53 M55 scr 2. A88 M53 55 jpg
+file:M53 M55 scr 3. A88 M53 55 jpg
+
+|History=
+[[image:M-55_8-inch_Self-Propelled_Howitzer_(right)_with_the_M53_155mm_Self-Propelled_Gun. A88 M53 55 . A88 M53 55 jpg|thumb|200px|left|M-55 8-inch Self-Propelled Howitzer (right) with the M53 155mm Self-Propelled Gun]]
+The M55 was an American fully enclosed and armored self-propelled artillery based on the M53 155 mm assault gun. A88 M53 55  It had a 203. A88 M53 55 2 mm howitzer which could traverse 30° left or right, carrying only 10 rounds of ammunition. A88 M53 55  The gun had a maximum range of 16,916 meters (10. A88 M53 55 51 miles) with a rate of fire of one round every two minutes. A88 M53 55  The M55 armor was light, 25 mm maximum, but sufficient to protect the crew from indirect artillery hits or small arms fire. A88 M53 55 
+
+==Development history==
+
+M53 & M55 self-propelled howitzers were quite unique vehicles. A88 M53 55  While borrowing the chassis, hull and automotive components of the M46/M47 Patton tanks, its internal arrangement was reversed to accommodate a rear-set fully-enclosed turret emplacement. A88 M53 55  The engine and transmission were now fitted to the front of the hull (as opposed to the rear) with the driver being relocated to the front-left of the turret (as in the M53). A88 M53 55  The track-and-wheel system involved seven double-tired road wheels per side along with the drive sprocket which was mounted at the front of the hull. A88 M53 55  One notable feature of the running gear was its lack of a track idler at the rear which gave the track link system of the M55 a very identifiable quality. A88 M53 55  Three track return rollers guided the upper track sections. A88 M53 55  The gunner crew operated under the protection of an enclosed armored structure which provided security against small arms fire or artillery spray as the steel armor protection was 25mm at its thickest. A88 M53 55  The complete crew numbered six and included the driver, vehicle commander, gunner and at least two loaders. A88 M53 55  The primary design characteristic of the M55 was its boxy turret emplacement, which was a turret in name only. A88 M53 55  Traverse was limited to 30-degrees to the left or right and little else, requiring the vehicle to be itself turned in the direction of fire more often than not. A88 M53 55  The 203mm M47 howitzer was of good strategic value, able to lob all manner of shells at the enemy position up to 17,000 meters. A88 M53 55 [[image:M55_howitzer,_rear_view. A88 M53 55 JPG|thumb|200px|right|M55_howitzer,_rear_view. A88 M53 55  Note the stabilising dozer]] However, due to the large projectiles, the rate-of-fire was limited to just one round per two minutes and stowage aboard the vehicle meant that only 10 rounds could be carried - thusly limiting its tactical value (the M53 managed 20 x 155mm shells). A88 M53 55  Defense was through a Browning . A88 M53 55 50 caliber M2HB anti-aircraft/anti-infantry heavy machine gun mounted on a pintle at the commander's cupola. A88 M53 55 
+
+
+Power for the M55 vehicle was served through a Continental AV-1790-5B 12-cylinder gasoline-fueled engine outputting at 810 horsepower. A88 M53 55  This was mated to an Allison CD-850-4 transmission system that featured two forward and one reverse gears. A88 M53 55  The vehicle, therefore, could manage up to 30 miles per hour on ideal surfaces and featured an operational range out to 160 miles. A88 M53 55  As improvements were brought into the Patton tank lines, the M53 and M53 vehicles adopted some of these measures including the AV-1790-7B engines and CD-850-4B transmissions. A88 M53 55  Similarly, the original stick steering control arrangement later gave way to a conventional steering wheel design. A88 M53 55  Some M55s were utilized operational during the American involvement in the Vietnam War (1955-1975) though they were eventually removed from inventory within time. A88 M53 55  The M53 and M55 shared some commonality of parts themselves, able to utilized the same ammunition racks and M86 gun mounts which made for some logistical friendliness. A88 M53 55  Beyond its use in the United States military, the Belgian Army became the only other notable operator of the M55 vehicle. A88 M53 55  The last M55 was retired from active service (with the Belgian Army) in the 1970s. A88 M53 55 
+
+{{VideoYT|Nhla8AHZewo}}
+|HistoricalGallery=
+image:M55E1_8-inch_Howitzer_Motor_Carriage,_Aberdeen_Proving_Ground,. A88 M53 55 jpg{{!}}M55E1 8-inch Howitzer Motor Carriage, Aberdeen Proving Ground
+image:M55_inch_Self-Propelled_Howitzer. A88 M53 55 jpg{{!}}M55 inch Self-Propelled Howitzer
+image:M55_howitzer,_rear_view. A88 M53 55 JPG{{!}}M55 howitzer rear view
+image:M55_Howither_on_display_at_Aberdeen_Proving_Grounds. A88 M53 55 jpg{{!}}M55 Howither on display at Aberdeen Proving Grounds
+image:M55_8-inch_SP_Howitzer,_Vietnam. A88 M53 55 _The_name_painted_on_the_barrel_appears_to_be_BIGFOOT. A88 M53 55 jpg{{!}}M55 8-inch SP Howitzer, Vietnam. A88 M53 55  The name painted on the barrel appears to be BIGFOOT
+image:M-55_8-inch_Self-Propelled_Howitzer_(right)_with_the_M53_155mm_Self-Propelled_Gun. A88 M53 55 . A88 M53 55 jpg{{!}}M-55 8-inch Self-Propelled Howitzer (right) with the M53 155mm Self-Propelled Gun
+image:M53_155mm_self-propelled_Howitzer,_Elgin_AFB,_FL,_1979. A88 M53 55 . A88 M53 55 jpg{{!}}M53 155mm self-propelled Howitzer, Elgin AFB, FL, 1979
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+https://www. A88 M53 55 globalsecurity. A88 M53 55 org/military/systems/ground/m55-8. A88 M53 55 htm
+
+https://en. A88 M53 55 wikipedia. A88 M53 55 org/wiki/M55_Self_Propelled_Howitzer
+
+https://www. A88 M53 55 battletanks. A88 M53 55 com/m55. A88 M53 55 htm
+
+https://www. A88 M53 55 militaryfactory. A88 M53 55 com/armor/detail. A88 M53 55 asp?armor_id=619
+
+
+|Sidebar_Camostop=6. A88 M53 55 3
+|Sidebar_Camomove=3. A88 M53 55 1
+|Sidebar_Camofire=0. A88 M53 55 5
+|Sidebar_Passhard=1. A88 M53 55 151
+|Sidebar_Passmed=1. A88 M53 55 342
+|Sidebar_Passsoft=2. A88 M53 55 205
+|Sidebar_DispTurret=0. A88 M53 55 633
+|Sidebar_DispRecoil=5. A88 M53 55 753
+|Sidebar_DispAccel=0. A88 M53 55 364
+|Sidebar_DispTurning=0. A88 M53 55 364
+}}
+
+
+[[Category:USA Tanks]]

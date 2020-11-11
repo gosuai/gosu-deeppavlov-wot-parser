@@ -1,0 +1,288 @@
+2,568,500 Cost. 
+14501500 HP Hit Points. 
+48.68/50.5648.62/53.9 t Weight Limit. 
+650700 hp Engine Power. 
+38/15 km/h Speed Limit. 
+2730 deg/s Traverse. 
+13.3514.4 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+110/90/60 mm Hull Armor. 
+175/120/100249/172/100 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+1025/4800/608 1025/4800/608 Shell Cost. 
+390/390/530390/390/530 HP Damage. 
+175/217/61175/217/61 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 14.7 s 50% Crew: 18.21 s 75% Crew: 15.9 s 100% Crew: 14.09 s Rammer: 12.68 s Vents: 13.78 s Both: 12.4 s Both and BiA: 12.13 s Both and Max Crew %: 11.63 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 12.3 s 50% Crew: 15.24 s 75% Crew: 13.3 s 100% Crew: 11.79 s Rammer: 10.61 s Vents: 11.53 s Both: 10.38 s Both and BiA: 10.15 s Both and Max Crew %: 9.73 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 1591.2 50% Crew: 1283.1 75% Crew: 1470.3 100% Crew: 1661.4 100% Crew Vents: 1700.4 Rammer: 1844.7 Both: 1887.6 Both and BiA: 1930.5 Both and Max Crew %: 2012.4 Advantageous Damage Per Minute First-shot DPM: 1981.2 50% Crew: 1673.1 75% Crew: 1860.3 100% Crew: 2051.4 100% Crew Rammer: 2234.7 Vents: 2090.4 Both: 2277.6 Both and BiA: 2320.5 Both and Max Crew %: 2402.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 1591.2 50% Crew: 1283.1 75% Crew: 1470.3 100% Crew: 1661.4 100% Crew Vents: 1700.4 Rammer: 1844.7 Both: 1887.6 Both and BiA: 1930.5 Both and Max Crew %: 2012.4 Advantageous Damage Per Minute First-shot DPM: 1981.2 50% Crew: 1673.1 75% Crew: 1860.3 100% Crew: 2051.4 100% Crew Rammer: 2234.7 Vents: 2090.4 Both: 2277.6 Both and BiA: 2320.5 Both and Max Crew %: 2402.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2162.4 50% Crew: 1743.7 75% Crew: 1998.1 100% Crew: 2257.8 100% Crew Vents: 2310.8 Rammer: 2506.9 Both: 2565.2 Both and BiA: 2623.5 Both and Max Crew %: 2734.8 Advantageous Damage Per Minute First-shot DPM: 2692.4 50% Crew: 2273.7 75% Crew: 2528.1 100% Crew: 2787.8 100% Crew Rammer: 3036.9 Vents: 2840.8 Both: 3095.2 Both and BiA: 3153.5 Both and Max Crew %: 3264.8 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 1903.2 50% Crew: 1536.6 75% Crew: 1758.9 100% Crew: 1985.1 100% Crew Vents: 2028 Rammer: 2207.4 Both: 2254.2 Both and BiA: 2304.9 Both and Max Crew %: 2406.3 Advantageous Damage Per Minute First-shot DPM: 2293.2 50% Crew: 1926.6 75% Crew: 2148.9 100% Crew: 2375.1 100% Crew Rammer: 2597.4 Vents: 2418 Both: 2644.2 Both and BiA: 2694.9 Both and Max Crew %: 2796.3 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: 1903.2 50% Crew: 1536.6 75% Crew: 1758.9 100% Crew: 1985.1 100% Crew Vents: 2028 Rammer: 2207.4 Both: 2254.2 Both and BiA: 2304.9 Both and Max Crew %: 2406.3 Advantageous Damage Per Minute First-shot DPM: 2293.2 50% Crew: 1926.6 75% Crew: 2148.9 100% Crew: 2375.1 100% Crew Rammer: 2597.4 Vents: 2418 Both: 2644.2 Both and BiA: 2694.9 Both and Max Crew %: 2796.3 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2586.4 50% Crew: 2088.2 75% Crew: 2390.3 100% Crew: 2697.7 100% Crew Vents: 2756 Rammer: 2999.8 Both: 3063.4 Both and BiA: 3132.3 Both and Max Crew %: 3270.1 Advantageous Damage Per Minute First-shot DPM: 3116.4 50% Crew: 2618.2 75% Crew: 2920.3 100% Crew: 3227.7 100% Crew Rammer: 3529.8 Vents: 3286 Both: 3593.4 Both and BiA: 3662.3 Both and Max Crew %: 3800.1 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.57 m With 75% Crew: 0.498 m With 100% Crew: 0.441 m With BiA: 0.431 m With BiA and Vents: 0.422 m Maximum possible: 0.404 m For more details, see Crew m ▲ With 50% Crew: 0.57 m With 75% Crew: 0.498 m With 100% Crew: 0.441 m With BiA: 0.431 m With BiA and Vents: 0.422 m Maximum possible: 0.404 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 4.212 s With 75% Crew: 3.678 s With 100% Crew: 3.26 s With GLD: 2.964 s With BiA: 3.188 s With BiA and Vents: 3.119 s With both and GLD: 2.835 s Maximum possible: 2.718 s For more details, see Crew or Equipment s ▲ With 50% Crew: 4.212 s With 75% Crew: 3.678 s With 100% Crew: 3.26 s With GLD: 2.964 s With BiA: 3.188 s With BiA and Vents: 3.119 s With both and GLD: 2.835 s Maximum possible: 2.718 s For more details, see Crew or Equipment Aim time. 
+2826 deg/s Turret Traverse. 
+360° Gun Arc. 
+-5°/+23°-5°/+23° Elevation Arc. 
+2828 rounds Ammo Capacity. 
+1512 % Chance of Fire. 
+m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 345.7 m With 75% Crew: 392.9 m With 100% Crew: 440 m With 100% Signal Boost: 528 m When affected by 100% Relaying: 484 m Maximum possible: 633.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.6 m With 75% Crew: 651.8 m With 100% Crew: 730 m With 100% Signal Boost: 876 m When affected by 100% Relaying: 803 m Maximum possible: 1050.4 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+100 mm D10T. 
+175/235/50. 
+250/250/330. 
+6.82. 
+0.42. 
+2.9. 
+nan. 
+2257.0. 
+78180. 
+VII. 
+122 mm D-2-5T. 
+175/217/61. 
+390/390/530. 
+4.08. 
+0.46. 
+3.4. 
+nan. 
+2600.0. 
+84980. 
+VIII. 
+122 mm D-25T. 
+175/217/61. 
+390/390/530. 
+4.88. 
+0.46. 
+3.4. 
+nan. 
+2590.0. 
+125140. 
+nan. 
+122 mm BL-9. 
+225/265/61. 
+390/390/530. 
+4.51. 
+0.4. 
+3.4. 
+nan. 
+nan. 
+178500. 
+VIII. 
+Kirovets-1. 
+175/120/100. 
+28. 
+330. 
+nan. 
+11200. 
+30000. 
+VIII. 
+IS-3. 
+249/172/100. 
+26. 
+350. 
+nan. 
+11500. 
+31500. 
+VIII. 
+V-11. 
+650. 
+15. 
+nan. 
+750. 
+55270. 
+IX. 
+V-2-54IS. 
+700. 
+12. 
+nan. 
+700. 
+79290. 
+VII. 
+IS-3. 
+50.56. 
+27. 
+B/2. 
+nan. 
+10000. 
+17780. 
+VIII. 
+IS-3M. 
+53.9. 
+30. 
+B/2. 
+nan. 
+10000. 
+31450. 
+VII. 
+10RK. 
+440. 
+nan. 
+100. 
+18600. 
+IX. 
+12RT. 
+625. 
+nan. 
+110. 
+33600. 
+X. 
+R-113. 
+730. 
+nan. 
+80. 
+52200. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+{{TankData|Tank=
+|The IS-3 has more agility and speed than the [[Germany|German]] Pz. R19 IS-3 Kpfw. R19 IS-3  [[Tiger II]], and finds itself at home engaging in close-quarters combat. R19 IS-3  While the frontal hull armor is not as thick as its German counterpart, it more than makes up for as it is sloped and the tank is agile enough to use it effectively. R19 IS-3  The front of its upgraded turret is also very well armored and has small weak points, making it difficult to penetrate. R19 IS-3  However, it cannot use this to hull down in common locations because the tank has a low profile and lacks gun depression. R19 IS-3  Instead, use rises in the ground to engineer yourself extra gun depression, or hull down behind the wrecks of enemy tanks. R19 IS-3  Another technique the IS-3 excels at is reverse sidescraping; the act of showing its side armor at an extreme angle by parking its back up against hard cover; as the front-mounted turret limits exposure from doing so. R19 IS-3  However, due to the low profile of the tank, the turret roof or engine deck can often be penetrated in this position. R19 IS-3  In addition, the IS-3 cannot use classic sidescraping techniques due to its pike nose negating the sloping of the frontal armour and forward mounted turret; doing so only exposes the already thin frontal hull at a flatter angle. R19 IS-3  Despite this, the IS-3 is a devastating tank up front when it is equipped with its top gun, boasting solid alpha damage and high penetration. R19 IS-3 
+
+|Gallery=
+image:IS3-a. R19 IS-3 jpg{{!}}Front right
+image:IS3-b. R19 IS-3 jpg{{!}}Front left
+image:IS3-c. R19 IS-3 jpg{{!}}Rear right
+image:IS3-d. R19 IS-3 jpg{{!}}Rear left
+image:IS3-1. R19 IS-3 jpg{{!}}IS3, map Erlenberg
+image:IS3-1a. R19 IS-3 jpg{{!}}IS3, map Mines
+
+|InTheGame_pros=
+* Very tough frontal turret armor. R19 IS-3  Excellent spaced & internally angled side armor, great at reverse sidescraping
+* Good mobility & low profile for a heavy tank. R19 IS-3  Pike frontal armor can give surprising bounces
+* Excellent top gun - high alpha damage with good penetration, gun handling and accuracy
+* Tracks on the front hull count as 20mm of armor, bringing effective armor in certain areas up from ~190 to ~230
+* Low profile means that face hugging and side hugging Japanese and German heavies can prevent them from hitting you
+
+|InTheGame_cons=
+* Noticeably poor view range. R19 IS-3 
+* Big lower plate that can be penetrated by many other tier 8 heavys. R19 IS-3 
+*Weakspot above the gun that has only 30-50mm of armor
+*Ammoracked almost frequently
+
+
+
+|InTheGame_performance=
+Low profile, sloped armor, mobility and alpha damage make this tank very useful in all situations, particularly in urban and close-range combat. R19 IS-3  At this tier the once-fearsome 122 mm D-25T bounces off enemy armor more frequently, so try to get side shots when you can until you can research the BL-9. R19 IS-3  The upgraded BL-9 gun wreaks havoc on tier 9 tanks and below, boasting very high alpha and penetration for its class but lacking in the fire rate department. R19 IS-3  The Gun Laying Drive and Vertical Stabilizer are reasonably effective, although the usefulness of these are eclipsed by that of the Gun Rammer and Vents. R19 IS-3  Due to the horrible accuracy and aim time of the IS-3, taking more than the occasional potshot beyond 300m is not recommended. R19 IS-3  However, the excellent on-the-move gun handling allows it to snap shots without aiming them at close range. R19 IS-3  Angled properly, the IS-3's armor will consistently bounce shots from other tier 8's and below, especially from the front. R19 IS-3  Whilst the front plate is only ~190mm thick in effectiveness, it requires no angling at all, allowing you to charge enemies down to deny them effective shots at you. R19 IS-3  Be careful at close range, however, as the center turret roof panel is extremely prone to being overmatched, especially against taller tanks, which most heavy tanks you face are. R19 IS-3 
+
+Its playstyle is well-suited to aggressive force leading and peek-a-booming when at top tier. R19 IS-3  The IS-3 will find itself at home on urban [[Maps|maps]] and other maps that allow it to take cover and move to get close to a target. R19 IS-3  A semi-hull-down position works well at mid-range, covering the somewhat vulnerable frontal armor and forcing shots to be taken on the extremely hard-to-penetrate turret. R19 IS-3  One thing of note is that unless the IS-3 is angled upward, the lower plate is generally just as strong as, if not stronger than the rest of the frontal hull, preventing it from being used as a weakspot. R19 IS-3  Thanks to its spaced side armor, it often takes non-damaging shots on the sides, but the tracks tend to get damaged often. R19 IS-3  Once the 122 mm BL-9 is unlocked, the IS-3 displays truly fearsome power and is among the kings of tier 8 tanks, able to threaten even tier 10's. R19 IS-3 
+
+It cannot be stressed enough how glorious of a gun the BL-9 is to those used to having only 175mm of penetration. R19 IS-3  With its 225mm of penetration, the IS-3's top gun one of the highest penetration guns among non-premium tier 8 heavies, eclipsing competitors such as the 110, the O-Ho and T32. R19 IS-3  Although it is not nearly as accurate as most guns, the IS-3's top gun is still accurate enough to land shots into somewhat small weak spots at closer range, such as the cupola of the [[AMX M4 mle. R19 IS-3  49]]. R19 IS-3  However, due to low profile, the cupola of the [[T29]], [[T34]], [[T30]], and even the [[M103]] and [[Conqueror]] is quite often impossible to hit. R19 IS-3  Just don't try out firing most enemies, as they will likely have a better rate of fire than you. R19 IS-3  With the BL-9, it is even possible to pen the side of most tanks in game, such as the [[E-100|E100's]] turret, though the premier steel walls of the game such as the E100 and [[Tank:E-75|E75]] from the front still prove to be very frustrating opponents. R19 IS-3 
+
+Aiming at flimsy weakspots, as with most heavy tanks, can amplify the effectiveness of the IS-3. R19 IS-3  Using this method, it is not too difficult at all for you to beat out a multitude of Tier 9 tanks, or skilled players in tier 7s or even tier 8s, as they will not expect you to pummel their weak spots rather than shooting for possibly hidden locations where you know you will pen; this is especially effective against T29s and T34s if they are using plenty of cover or are hiding behind dead tanks. R19 IS-3 
+
+Enforce your supremacy when at top tier, especially if the opposing team has no IS-3 of their own. R19 IS-3  With your alpha damage do not be afraid to knock out lower tier medium or light tanks that could prove to be a nuisance first as long as they are within your "brawling ring". R19 IS-3  Otherwise focus on eliminating other heavies. R19 IS-3 
+
+When not at top tier, as with the IS, it becomes more rewarding to be "plucky", or clever, especially in T10 games, as if you join your fellow T10 heavies you will be out-alpha'd and creamed by higher tier enemy tanks, especially tanks like the E100 and E75 on flat terrain if you are unable to flank fast enough. R19 IS-3  But it can become extremely rewarding for you if you are able to get behind a higher tier tank and potentially cripple them. R19 IS-3 
+
+However, unlike in the IS, you have a ridiculously strong turret, particularly from the front. R19 IS-3  It is so strong in fact that it should be no surprise that even premium rounds from a [[Maus]] or even the much more lethal [[Tank:E-100|E100]] will just bounce right off your turret like it is nothing. R19 IS-3  If you have allies with a line of fire on such tanks and have a good position in which you can bounce such shots off of your turret, do not keep your pride from letting your allies knock these tanks out while they are distracted with trying to assert their power upon your tank. R19 IS-3 
+
+The IS-3, strangely however, has weaker points on its pike nose which skilled players who are aware of them can easily exploit, this makes playing against such players (of which there are many) a slightly poor proposition for the IS-3, as virtually anything with 175mm of penetration or more can easily punch through these weak spots. R19 IS-3  Try to expose them as infrequently as you can, or if you have to expose them, angle them in a way shells will easily bounce off if enemies are not careful with their aim. R19 IS-3 
+
+Contrary to popular belief, the little hole on the front of the turret is ''not'' a weak-spot, the tracks are very good at eating shots, and the sides and corners have spaced armor, thus making them areas where you can fire at but almost certainly do no damage whatsoever. R19 IS-3  However, the tracks will get damaged to most side shots, since experienced players know that shooting through the tracks is the best wat to penetrate the side of the IS-3. R19 IS-3  Also, in coming shells that hit the angled side behind the spaced armor often ricochets towards the tracks, making them more suspectible to taking damage. R19 IS-3 
+
+
+|InTheGame_research=
+* The V-2-54IS engine, the 12RT radio, and the 122 mm D-25T gun carry over from the IS and can be installed immediately, putting the IS-3 in a great starting position, research wise. R19 IS-3  
+* If you prefer survivability, you can start by researching the upgraded turret. R19 IS-3  The extra meters of view range, additional 50 hit points and greatly increased armor and sloping can make a difference. R19 IS-3  However, do not that this increase in survivability only grants you bonus cursing time due to the woeful inadequacy of the stock gun. R19 IS-3  
+* Alternatively, the fearsome BL-9 next will boost firepower drastically, turning this tank from an opportunist to a grade A brawler. R19 IS-3  This upgrade provides some much needed penetration, as the 175/217 offered by both D25T guns and the 175/235 from the D10T just do not cut it. R19 IS-3  Additionally, the BL-9 improves the reticule bloom and overall accuracy of the tank greatly. R19 IS-3  
+* For better terrain resistances and traverse, one can research the upgraded suspension before the top gun or turret, but the added weight capacity isn't necessary. R19 IS-3 
+
+
+
+'''Crew Training:'''
+
+With retraining:
+
+First go for the full repair crew, since you are a brawler and close combat tank you get tracked often. R19 IS-3  You don't want to be permatracked in the engagement. R19 IS-3  Once you reached your full first skill, drop the commanders repair for sixth sense and safe stowage for the loader. R19 IS-3  Than for the second skill, pick repairs for the commander and loader, snap shot for the gunner and off road driving for the driver. R19 IS-3  After reaching the second skill. R19 IS-3  Drop all for: Brother In Arms (BIA) first skill, second skills: Commander sixth sense and loader safe stowage, gunner and driver repairs. R19 IS-3  Train the third skill the same as you did with the second skill. R19 IS-3  After reaching three skills you can go with your commander for jack of all trades, gunner Deadeye, driver controlled impact for ramming, and the loader the Intuition. R19 IS-3  
+
+
+Without retraining:
+
+First go for sixth sense on the commander, safe stowage on the loader and repairs on the other two crew members. R19 IS-3  After that you pick all 4 crew members BIA. R19 IS-3  For the third skill, the commander trains repairs (or jack of all trades, depends on your choice), gunner smooth ride, the driver off-road driving and the loader repairs. R19 IS-3  
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Improved Ventilation, GLD
+
+|External_Reviews= 
+{{VideoYT|Wu9jhEJBVFs}}
+{{#ev:youtube|-DCXDb1izG8}}
+
+|History=
+Designed in 1944, with 29 vehicles produced by the end of WWII and 2,282 by mid-1946. R19 IS-3  
+
+The Iosef Stalin 3, also known as the Joseph Stalin 3 had improved armor layout, and a hemispherical cast turret (resembling an overturned "soup bowl") which became the hallmark of post-war Soviet tanks. R19 IS-3  While this low, hemispherical turret may have made the IS-3 better protected, it also imposed severe penalties inside the tank by significantly diminishing the working headroom, especially for the loader (Soviet tanks in general are characterized by uncomfortably small interior space compared to Western tanks). R19 IS-3  The low turret also limited the maximum depression of the main gun, since the gun breech had little room inside the turret to pivot on its vertical axis. R19 IS-3  As a result, the IS-3 was less able to take advantage of hull-down positions as Western tanks. R19 IS-3  The IS-3's pointed prow earned it the nickname Shchuka (Pike) by its crews. R19 IS-3  It weighed slightly less than the IS-2 and stood 30 cm lower. R19 IS-3 
+
+== Firepower ==
+
+The 122mm A19 main gun was an established field gun as a towed howitzer and not only offering a capable armour piercing capacity at short ranges, it offered a superior bunker bashing capability thanks to the High Explosive rounds it fired. R19 IS-3  The 122m A19 had been around since the 1930’s and had an established manufacturing infrastructure behind it, which also supported the decision to adopt it as the main gun. R19 IS-3  Also known as the D25-T, it used Separate Loading ammunition, which limited the amount of shells carried to 28. R19 IS-3  The HE round or Armour piercing round was loaded in to the breach and then the combustible charge was loaded after, at which point the breach was closed and the gun fired. R19 IS-3  Two 7. R19 IS-3 62mm and one 12. R19 IS-3 7mm MG’s were used as secondary armaments. R19 IS-3  
+
+The D25-T had an unfortunate tendency to explode, and its gun tube had a relatively short life. R19 IS-3  During trials on the A19's muzzle brake, the tube exploded, seriously injuring Marshall Kliment Voroshilov in the process; this led to protests against further development of the A-19, but Joseph Stalin intervened and insisted the A-19 be fielded regardless. R19 IS-3  The 122/40 D25-T also had a short tube life; approximately 200 rounds could be fired out of the main gun before the gun barrel wore out. R19 IS-3  
+
+Despite these problems, the IS-3's main gun possessed an impressive amount of firepower. R19 IS-3  The D25-T could throw a 122mm APBC round 2000m and potentially penetrate up to 129mm of RHA steel. R19 IS-3  At 500m, the A-19's BR-471B APBC could penetrate up to 157mm. R19 IS-3 
+
+== Service History ==
+
+The IS-3 came too late to see action in World War II. R19 IS-3  Though some older sources claim that the tank saw action at the end of the war in Europe, there are no official reports to confirm this. R19 IS-3  It is now generally accepted that the tank saw no action against the Germans, although one regiment may have been deployed against the Japanese in Manchuria. R19 IS-3 
+
+In post-war conflicts, the IS-3 saw combat with the Soviet Army during the 1956 invasion of Hungary, and the Prague Spring in 1968. R19 IS-3 
+
+Starting in 1960, the IS-3 was slightly modernized as the IS-3M, in a manner similar to the IS-2M. R19 IS-3  The Egyptian Army acquired about 100 IS-3M tanks in all from the Soviet Union. R19 IS-3  During the Six Day War, a single regiment of IS-3M tanks was stationed with the 7th Infantry Division at Rafah; the 125th Tank Brigade of the 6th Mechanized Division at Kuntilla was also equipped with about 60 IS-3M tanks. R19 IS-3 
+ 
+Israeli infantry and paratrooper units had considerable difficulty with the IS-3M when it was encountered due to its thick armour, which shrugged off hits from normal infantry anti-tank weapons such as the Bazooka. R19 IS-3  Even the 90 mm AP shell fired by the main gun of the Israeli Defense Force (IDF) M48 Patton tanks could not penetrate the frontal armour of the IS-3s at normal battle ranges. R19 IS-3  However, due to the IS-3's much thinner flank armor, Israeli Patton and Centurion Tanks had little trouble penetrating the sides of the IS-3 tanks. R19 IS-3  Captured tanks were subsequently used by the Israeli army as static artillery pieces. R19 IS-3  
+
+|HistoricalGallery=
+image:IS-3 1. R19 IS-3 jpeg{{!}}IS-3 1
+image:IS-3 2. R19 IS-3 jpg{{!}}IS-3s somewhere in Budapest
+image:IS-3 3. R19 IS-3 jpg{{!}}IS-3 3
+
+|HistAcc=
+Like many Soviet tanks in game, the IS-3 has increased gun depression. R19 IS-3  In reality it had -3° instead of -5°. R19 IS-3 
+* The 122 mm BL-9 gun was only fitted on the Object 243 (ISU-122-1). R19 IS-3  Its configuration on the IS-3 is fake. R19 IS-3 
+* The IS-3's engine is considerably more powerful than in reality, with 700 hp compared to the historical 600. R19 IS-3 
+
+|Ref_references=
+
+
+|Ref_sources=
+1. R19 IS-3  -[https://www. R19 IS-3 tanknutdave. R19 IS-3 com/component/content/article/765 Tank Nut Dave - The Russian IS-3 Heavy Tank]
+
+|Ref_links=
+
+
+|Sidebar_Camostop=7. R19 IS-3 1
+|Sidebar_Camomove=3. R19 IS-3 7
+|Sidebar_Camofire=1. R19 IS-3 4
+|Sidebar_Passhard=0. R19 IS-3 959
+|Sidebar_Passmed=1. R19 IS-3 342
+|Sidebar_Passsoft=2. R19 IS-3 014
+|Sidebar_DispTurret=0. R19 IS-3 077
+|Sidebar_DispRecoil=2. R19 IS-3 877
+|Sidebar_DispAccel=0. R19 IS-3 201
+|Sidebar_DispTurning=0. R19 IS-3 201
+}}
+
+[[Category:USSR Tanks]]

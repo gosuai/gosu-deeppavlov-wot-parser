@@ -1,0 +1,188 @@
+1,400,000 Cost. 
+350350 HP Hit Points. 
+50.22/5249.46/52.5 t Weight Limit. 
+500500 hp Engine Power. 
+30/8 km/h Speed Limit. 
+1820 deg/s Traverse. 
+9.9610.11 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+60/60/60 mm Hull Armor. 
+HE/HE HE/HE Shells. 
+1120/5200 1910/8000 Shell Cost. 
+700/700/1050/1050/ HP Damage. 
+38/38/52/52/ mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 25 s 50% Crew: 30.97 s 75% Crew: 27.04 s 100% Crew: 23.97 s Rammer: 21.57 s Vents: 23.44 s Both: 21.1 s Both and BiA: 20.64 s Both and Max Crew %: 19.78 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 52.3 s 50% Crew: 64.79 s 75% Crew: 56.57 s 100% Crew: 50.15 s Rammer: 45.14 s Vents: 49.04 s Both: 44.14 s Both and BiA: 43.18 s Both and Max Crew %: 41.39 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (700 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1680 50% Crew: 1358 75% Crew: 1554 100% Crew: 1750 100% Crew Vents: 1792 Rammer: 1946 Both: 1988 Both and BiA: 2030 Both and Max Crew %: 2121 Advantageous Damage Per Minute First-shot DPM: 2380 50% Crew: 2058 75% Crew: 2254 100% Crew: 2450 100% Crew Rammer: 2646 Vents: 2492 Both: 2688 Both and BiA: 2730 Both and Max Crew %: 2821 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (700 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1680 50% Crew: 1358 75% Crew: 1554 100% Crew: 1750 100% Crew Vents: 1792 Rammer: 1946 Both: 1988 Both and BiA: 2030 Both and Max Crew %: 2121 Advantageous Damage Per Minute First-shot DPM: 2380 50% Crew: 2058 75% Crew: 2254 100% Crew: 2450 100% Crew Rammer: 2646 Vents: 2492 Both: 2688 Both and BiA: 2730 Both and Max Crew %: 2821 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (1050 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1207.5 50% Crew: 976.5 75% Crew: 1113 100% Crew: 1260 100% Crew Vents: 1291.5 Rammer: 1396.5 Both: 1428 Both and BiA: 1459.5 Both and Max Crew %: 1522.5 Advantageous Damage Per Minute First-shot DPM: 2257.5 50% Crew: 2026.5 75% Crew: 2163 100% Crew: 2310 100% Crew Rammer: 2446.5 Vents: 2341.5 Both: 2478 Both and BiA: 2509.5 Both and Max Crew %: 2572.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (1050 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1207.5 50% Crew: 976.5 75% Crew: 1113 100% Crew: 1260 100% Crew Vents: 1291.5 Rammer: 1396.5 Both: 1428 Both and BiA: 1459.5 Both and Max Crew %: 1522.5 Advantageous Damage Per Minute First-shot DPM: 2257.5 50% Crew: 2026.5 75% Crew: 2163 100% Crew: 2310 100% Crew Rammer: 2446.5 Vents: 2341.5 Both: 2478 Both and BiA: 2509.5 Both and Max Crew %: 2572.5 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.855 m With 75% Crew: 0.746 m With 100% Crew: 0.662 m With BiA: 0.647 m With BiA and Vents: 0.633 m Maximum possible: 0.607 m For more details, see Crew m ▲ With 50% Crew: 1.028 m With 75% Crew: 0.898 m With 100% Crew: 0.796 m With BiA: 0.778 m With BiA and Vents: 0.761 m Maximum possible: 0.73 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 6.689 s With 75% Crew: 5.841 s With 100% Crew: 5.178 s With GLD: 4.707 s With BiA: 5.064 s With BiA and Vents: 4.954 s With both and GLD: 4.503 s Maximum possible: 4.317 s For more details, see Crew or Equipment s ▲ With 50% Crew: 7.804 s With 75% Crew: 6.814 s With 100% Crew: 6.041 s With GLD: 5.492 s With BiA: 5.908 s With BiA and Vents: 5.779 s With both and GLD: 5.254 s Maximum possible: 5.036 s For more details, see Crew or Equipment Aim time. 
+1212 deg/s Gun Traverse Speed. 
+8° Gun Arc. 
+-2°/+58°-2°/+58° Elevation Arc. 
+3012 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 216.1 m With 75% Crew: 245.6 m With 100% Crew: 275 m With Recon and Situational Awareness: 288.9 m With Coated Optics: 302.5 m With Binocular Telescope: 343.75 m Maximum possible: 393.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 216.1 m With 75% Crew: 245.6 m With 100% Crew: 275 m With Recon and Situational Awareness: 288.9 m With Coated Optics: 302.5 m With Binocular Telescope: 343.75 m Maximum possible: 393.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With 100% Signal Boost: 432 m When affected by 100% Relaying: 396 m Maximum possible: 518 m For more details, see Skills or Equipment m ▲ With 50% Crew: 491.1 m With 75% Crew: 558.1 m With 100% Crew: 625 m With 100% Signal Boost: 750 m When affected by 100% Relaying: 687.5 m Maximum possible: 899.3 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+152 mm BR-2. 
+38/38. 
+700/700. 
+2.4. 
+0.69. 
+5.4. 
+nan. 
+5720. 
+92000. 
+IX. 
+203 mm B-4. 
+52/52. 
+1050/1050. 
+1.15. 
+0.83. 
+6.3. 
+nan. 
+5200. 
+235000. 
+VI. 
+V-2K. 
+500.0. 
+15. 
+nan. 
+750.0. 
+23050. 
+nan. 
+V-2-10. 
+nan. 
+0. 
+nan. 
+nan. 
+29000. 
+nan. 
+V-16. 
+nan. 
+0. 
+nan. 
+nan. 
+36500. 
+VI. 
+S-51. 
+52.0. 
+18. 
+0. 
+nan. 
+12500. 
+14600. 
+VII. 
+S-51 Bis. 
+52.5. 
+20. 
+0. 
+nan. 
+12500. 
+19800. 
+V. 
+10R. 
+360. 
+nan. 
+100. 
+3660. 
+IX. 
+12RT. 
+625. 
+nan. 
+110. 
+33600. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=S-51
+|Often nicknamed by the players as "The Unicorn" for its impressively long barrel when held upwards when aiming, right out of the box it has the [[SU-14-1]]'s upgraded gun. R15 S-51   It's rather slow when you first get it and performance will be sluggish, but once upgraded its mobility kicks in. R15 S-51   Most players agree that the S-51 is superior to the SU-14-1 for these reasons -- its mobility (especially when relocating to avoid becoming a counter-battery target), its agility in running from danger, and faster traverse speeds in switching between targets. R15 S-51   It also has a smaller profile than the SU-14, which helps it with camouflage. R15 S-51 
+
+|Gallery=
+image:S51 1. R15 S-51 jpg{{!}}S-51 front left view
+image:S51 2. R15 S-51 jpg{{!}}S-51 front right view
+image:S51 3. R15 S-51 jpg{{!}}S-51 back left view
+image:S51 4. R15 S-51 jpg{{!}}S-51 back right view
+image:S51-1. R15 S-51 jpg{{!}}S-51, map Malinovka
+
+|InTheGame_pros=
+* Highest damage in tier with 203mm gun (tied with the SU-14-1)
+* 203mm gun has high vertical shell arc
+* Relatively mobile for artillery; can relocate easily
+* Stock gun has fast reload and good DPM; it is preferred choice of many players
+
+|InTheGame_cons=
+* Very narrow gun traverse
+* Very long reload time with top gun
+* Very limited ammo capacity with top gun
+* Very slow aim time and very low accuracy with top gun
+* Entirely different play-style than the preceding KV-2, requiring SPG practice on other lines to be competent
+
+|InTheGame_performance=
+Along with its counterpart the SU-14-1 the S-51 carries a massive-for-its-tier 203mm gun, but it pays dearly for that power. R15 S-51   Like the G. R15 S-51 W. R15 S-51  Tiger (p) and SU-14-1 it has high damage for its tier (and is often overkill against tanks below its tier), but at the cost of low accuracy, long reload, and low mobility. R15 S-51   Therefore many people prefer the stock 152mm gun for its much faster reload, higher accuracy, and better DPM. R15 S-51   The ammo count is low -- only 12 rounds. R15 S-51   Bad accuracy and long aim time (which are both considerably worse on the top gun) and -- worst of all -- very narrow gun traverse, means that you must pre-aim targets well in advance and choose your shots carefully, as you won't get many of them. R15 S-51 
+
+|InTheGame_research=
+* The vehicle can hold the best gun, radio and engine in stock form, so you don't have to get the suspension
+* IF you want the 203 mm gun on this vehicle, you can research it first
+* Get the radio as it extends the radio range
+* Next, get the suspension; it gives you better turning speed and maneuverability and it's relatively cheap to research
+* Finally, get the engine
+* Even if you don't wish to use the 203mm gun, you should still research it. R15 S-51  You will need it on the [[SU-14-2]]
+
+|InTheGame_equipment=
+Large-Caliber Artillery-Shell Rammer, Camouflage Net, Enhanced Gun Laying Drive
+
+|History=
+On end of 1943, the GAU began the re-designing of mobile heavy duty self-propelled artillery systems. R15 S-51  Ten years earlier, it was supposed to arm a platform with the 203-mm howitzer model 1931, with production planned to resume at the factory "Bolshevik" in 1944. R15 S-51  If it succeeded, WPRA would get a mobile devastating weapon. R15 S-51  By order of the Commissar of weapons Ustinov in November 1943, a competition to develop self-propelled guns was announced, which received the semi-official title of "Knight". R15 S-51 
+
+Within weeks, some preliminary drafts were presented from plant № 100 NKTP, CB Uralmash, and TsAKB. R15 S-51  The first of them, created under the leadership of J. R15 S-51  J. R15 S-51  Kotin, was a self-propelled gun carriage with trailer that, in some ways, resembled the French GPF 194, but with a more powerful gun. R15 S-51 
+Draft CB UZTM had two options; a 203-mm howitzer B-4 on the chassis of the KV-1S (modernized draft SAC U-19) or two 152-mm howitzers on two SU-122 chassis. R15 S-51  Before using its gun, it was supposed to connect both chassis; preparation to firing was about 30-40 minutes, versus 20 minutes with the Kotin design. R15 S-51 
+It is clear that the development of plant number 100 and UZTM won't give adequate fire support due to its technological complexity. R15 S-51  In order to build a single prototype, only TsAKB submitted a draft SAU under the symbol "S-51". R15 S-51  The chassis of the KV-1S was considered for the base of the S-51, but it was quickly discovered that the length of the support-surface was insufficient and needed adjustment: a modified version with 7 or 8 rollers. R15 S-51  However, NKTP was reluctant to change its production because the amount of modifications required was relatively large, and the number of issued ACS was unlikely to be exceed several tens of units. R15 S-51  To this end, it was decided to establish a howitzer on the chassis of an unaltered KV-1S anyways, which was not the best solution. R15 S-51  The chassis did not undergo any major change, except for the engine. R15 S-51  The tank turret was dismantled, and a 203-mm howitzer B-4 was mounted on the open gun-carriage. R15 S-51  Because the weight of the 203 mm howitzer was slightly heavier than the weight of a fully-loaded turret, the full combat-load weight was almost 50 tons. R15 S-51  Thus, it was not expected to have good mobility. R15 S-51 
+
+The first prototype of the S-51 entered  factory tests in February 1944, conducted under the reduced program. R15 S-51  However, interest in high powered artillery was so great that it was still not finished was transferred to ANIOP. R15 S-51  Here, all of the major disadvantages of the S-51 were revealed. R15 S-51  Because of the high line-of-fire when firing, the self-propelled chassis was strongly swayed by inertia and would move to a lateral displacement. R15 S-51  The elevation angle was relatively small, and the recoil was so strong that the crew could not hold on their seats. R15 S-51  The severe recoil, large size and weight of its projectiles, and the extreme discomfort for the crew would require the installation of a rammer/loader. R15 S-51  In addition, the chassis of the KV-1S proved it was clearly not a good platform on which to install guns of this calibre. R15 S-51  After comparing all the data obtained in the COD, it was felt that the S-51 still be sent to production, but to no success. R15 S-51  First of all, the issue of using KV-1S chassis was resolved in December 1942: the required amount of modifications for heavy self-propelled guns was only possible with the serious alteration of serial machines. R15 S-51  Another important reason was the lack of the B-4 howitzer, which was not in production-scale numbers. R15 S-51 
+
+In return, engineers and design bureaus TsAKB plant number 100 had developed a version of an SPG on the chassis of a heavy tank, with the installation of a 152-mm howitzer BL-2. R15 S-51  A prototype self-propelled guns, named S-59, was made in early 1944 on May-June, and underwent range tests. R15 S-51  There is some discrepancy in the data on the type of equipment. R15 S-51  According to factory records, S-59 received the chassis and body from the IP-85, but according to a report on the tests, the self-propelled gun had the "improved chassis of the heavy KV tank ". R15 S-51  However, when firing a full charge, the S-59 began to have problems similar to that of the S-51, so mass production of the unit was not raised. R15 S-51  As a result, this direction in the development of ACS fire-power ended. R15 S-51 
+
+Nevertheless, the projects of heavy self-propelled guns continued to appear until the end of the war. R15 S-51  For example, on July 29 1944, head of the Leningrad branch TsAKB Igor Ivanov presented the "technical adjustment of the IEC preliminary draft of ACS", which was supposed to use the chassis of paired T-34 tanks and the 210 mm gun BR-17 or 208 mm howitzer BL-18 . R15 S-51  Based on a draft presented a year earlier of the proposed CB UZTM, this ACS differed by a more simple design. R15 S-51  This development by TsAKB aroused some interest in the leadership of the People's Commissariat of Arms, but the timing of the project was not realistic; a prototype self-propelled gun was required to be submitted not later than 30 September of that year, and thus failed at the challenge of Leningrad. R15 S-51 
+
+|HistoricalGallery=
+image:S51 pic1. R15 S-51 jpg{{!}}S51 prototype
+image:S51 pic2. R15 S-51 jpg{{!}}S51 prototype
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://www. R15 S-51 aviarmor. R15 S-51 net/TWW2/tanks/ussr/s51. R15 S-51 htm
+* https://tankarchives. R15 S-51 blogspot. R15 S-51 com/2017/03/s-51. R15 S-51 html
+* https://yuripasholok. R15 S-51 livejournal. R15 S-51 com/3061335. R15 S-51 html
+
+}}

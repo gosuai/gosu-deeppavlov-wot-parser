@@ -1,0 +1,264 @@
+1,395,000 Cost. 
+12001350 HP Hit Points. 
+52.15/5346.98/0 t Weight Limit. 
+575850 hp Engine Power. 
+35/12 km/h Speed Limit. 
+2222 deg/s Traverse. 
+11.0318.09 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+90/40/40 mm Hull Armor. 
+110/30/30100/70/40 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+255/4800/255 255/4800/255 Shell Cost. 
+240/240/320240/240/320 HP Damage. 
+135/175/45212/259/45 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 7.6 s 50% Crew: 9.41 s 75% Crew: 8.22 s 100% Crew: 7.29 s Rammer: 6.56 s Vents: 7.13 s Both: 6.42 s Both and BiA: 6.28 s Both and Max Crew %: 6.02 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 8.6 s 50% Crew: 10.65 s 75% Crew: 9.3 s 100% Crew: 8.25 s Rammer: 7.43 s Vents: 8.07 s Both: 7.26 s Both and BiA: 7.1 s Both and Max Crew %: 6.81 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1893.6 50% Crew: 1528.8 75% Crew: 1749.6 100% Crew: 1975.2 100% Crew Vents: 2020.8 Rammer: 2193.6 Both: 2244 Both and BiA: 2294.4 Both and Max Crew %: 2392.8 Advantageous Damage Per Minute First-shot DPM: 2133.6 50% Crew: 1768.8 75% Crew: 1989.6 100% Crew: 2215.2 100% Crew Rammer: 2433.6 Vents: 2260.8 Both: 2484 Both and BiA: 2534.4 Both and Max Crew %: 2632.8 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1893.6 50% Crew: 1528.8 75% Crew: 1749.6 100% Crew: 1975.2 100% Crew Vents: 2020.8 Rammer: 2193.6 Both: 2244 Both and BiA: 2294.4 Both and Max Crew %: 2392.8 Advantageous Damage Per Minute First-shot DPM: 2133.6 50% Crew: 1768.8 75% Crew: 1989.6 100% Crew: 2215.2 100% Crew Rammer: 2433.6 Vents: 2260.8 Both: 2484 Both and BiA: 2534.4 Both and Max Crew %: 2632.8 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2524.8 50% Crew: 2038.4 75% Crew: 2332.8 100% Crew: 2633.6 100% Crew Vents: 2694.4 Rammer: 2924.8 Both: 2992 Both and BiA: 3059.2 Both and Max Crew %: 3190.4 Advantageous Damage Per Minute First-shot DPM: 2844.8 50% Crew: 2358.4 75% Crew: 2652.8 100% Crew: 2953.6 100% Crew Rammer: 3244.8 Vents: 3014.4 Both: 3312 Both and BiA: 3379.2 Both and Max Crew %: 3510.4 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1675.2 50% Crew: 1351.2 75% Crew: 1548 100% Crew: 1747.2 100% Crew Vents: 1785.6 Rammer: 1941.6 Both: 1984.8 Both and BiA: 2028 Both and Max Crew %: 2116.8 Advantageous Damage Per Minute First-shot DPM: 1915.2 50% Crew: 1591.2 75% Crew: 1788 100% Crew: 1987.2 100% Crew Rammer: 2181.6 Vents: 2025.6 Both: 2224.8 Both and BiA: 2268 Both and Max Crew %: 2356.8 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (240 Damage):  Theoretical Damage Per Minute Nominal DPM: 1675.2 50% Crew: 1351.2 75% Crew: 1548 100% Crew: 1747.2 100% Crew Vents: 1785.6 Rammer: 1941.6 Both: 1984.8 Both and BiA: 2028 Both and Max Crew %: 2116.8 Advantageous Damage Per Minute First-shot DPM: 1915.2 50% Crew: 1591.2 75% Crew: 1788 100% Crew: 1987.2 100% Crew Rammer: 2181.6 Vents: 2025.6 Both: 2224.8 Both and BiA: 2268 Both and Max Crew %: 2356.8 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (320 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2233.6 50% Crew: 1801.6 75% Crew: 2064 100% Crew: 2329.6 100% Crew Vents: 2380.8 Rammer: 2588.8 Both: 2646.4 Both and BiA: 2704 Both and Max Crew %: 2822.4 Advantageous Damage Per Minute First-shot DPM: 2553.6 50% Crew: 2121.6 75% Crew: 2384 100% Crew: 2649.6 100% Crew Rammer: 2908.8 Vents: 2700.8 Both: 2966.4 Both and BiA: 3024 Both and Max Crew %: 3142.4 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew m ▲ With 50% Crew: 0.446 m With 75% Crew: 0.389 m With 100% Crew: 0.345 m With BiA: 0.338 m With BiA and Vents: 0.33 m Maximum possible: 0.317 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment Aim time. 
+3230 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+14°-10°/+12° Elevation Arc. 
+9074 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 259.3 m With 75% Crew: 294.7 m With 100% Crew: 330 m With Recon and Situational Awareness: 346.7 m With Coated Optics: 363 m With Binocular Telescope: 412.5 m Maximum possible: 472.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.9 m With 75% Crew: 369.8 m With 100% Crew: 417.2 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 600.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 605.4 m With 75% Crew: 693.4 m With 100% Crew: 782.2 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1125.9 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+90 mm DCA 30. 
+135/175/45. 
+240/240/320. 
+8.22. 
+0.4. 
+2.3. 
+nan. 
+2050. 
+64000. 
+VII. 
+105 mm Canon 13TR. 
+175/223/54. 
+300/330/360. 
+6.25. 
+0.41. 
+2.7. 
+nan. 
+2400. 
+94350. 
+VII. 
+90 mm F3. 
+170/248/45. 
+240/240/320. 
+7.5. 
+0.38. 
+2.3. 
+nan. 
+2200. 
+87000. 
+VIII. 
+90 mm DCA 45. 
+212/259/45. 
+240/240/320. 
+6.98. 
+0.36. 
+2.5. 
+nan. 
+2750. 
+121250. 
+VI. 
+ARL 44. 
+110/30/30. 
+32. 
+330. 
+nan. 
+4000. 
+14520. 
+VII. 
+AMX M4 mle. 45. 
+100/70/40. 
+30. 
+360. 
+nan. 
+6400. 
+20500. 
+VI. 
+Maybach HL 230. 
+575. 
+20. 
+nan. 
+700. 
+26000. 
+VIII. 
+Maybach HL 230 P45F. 
+750. 
+20. 
+nan. 
+750. 
+55000. 
+IX. 
+Maybach HL 295. 
+850. 
+20. 
+nan. 
+750. 
+78000. 
+nan. 
+AMX M4 mle. 45. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+9550. 
+nan. 
+AMX M4 mle. 45 bis. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+18500. 
+X. 
+SCR-528 Fr. 
+750. 
+nan. 
+80. 
+54000. 
+VI. 
+SCR 508. 
+400. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+{{TankData|Tank=
+|The AMX M4 45 can be considered an evolution of its predecessor play-style. F07 AMX M4 1945  It uses the same guns as the [[ARL 44]], which are less outstanding for its tier, but with improved rate of fire, accuracy, and aim time. F07 AMX M4 1945  Although the M4 45 sports better track protection, its overall armor is weaker than the ARL 44's, and very poor for its tier. F07 AMX M4 1945  However, it receives fairly good mobility for a heavy tank in exchange, and is fairly effective in a supporting role, setting the pattern for future French heavy tanks. F07 AMX M4 1945 
+
+|Gallery=
+image:AMX_M4_(1945)_001. F07 AMX M4 1945 jpg{{!}}AMX M4 (1945) 001
+image:AMX_M4_(1945)_002. F07 AMX M4 1945 jpg{{!}}AMX M4 (1945) 002
+image:AMX_M4_(1945)_003. F07 AMX M4 1945 jpg{{!}}AMX M4 (1945) 003
+image:AMX_M4_(1945)_004. F07 AMX M4 1945 jpg{{!}}AMX M4 (1945) 004
+
+|InTheGame_pros=
+* Great choice of guns, excellent AP/APCR penetration with the 90 mm DCA 45 and good DPM with 105mm. F07 AMX M4 1945 
+* Great but annoying gun depression (10 degrees only on the front 160 degree arc, none on the sides and rear). F07 AMX M4 1945 
+* Turret cheeks and hull upper glacis are well-angled and bouncy because people tend to not aim for weaker areas. F07 AMX M4 1945 
+* Good acceleration for a heavy tank with high HP ratio, 90mm now has good aim time for the penetration. F07 AMX M4 1945 
+* Easy stock grind; all guns carry over from ARL 44, 105mm is a decent brawling choice with the AP penetration buff. F07 AMX M4 1945 
+
+|InTheGame_cons=
+* Large weak spots on frontal armor, along with side and rear armor vulnerable to overmatch by 120mm+ shells. F07 AMX M4 1945 
+* Average alpha, low RoF, and terrible DPM, with the DCA 45 leads to not so great firepower. F07 AMX M4 1945 
+* Large silhouette, bad camoflague rating and low 35km/hr top speed makes using the limited firepower hard. F07 AMX M4 1945 
+* Stupidly big and slow speed for the paper armor it has (except for the turret). F07 AMX M4 1945 
+* Prone to module and crew damage, especially the gun, ammo rack and loader, even when taking fire from the front. F07 AMX M4 1945 
+
+|InTheGame_performance=
+The M4 45 plays similarly to its peer, the [[Pz. F07 AMX M4 1945 Kpfw. F07 AMX M4 1945  VI Tiger]]. F07 AMX M4 1945  Compared to the Tiger, it receives slightly better frontal armor, better gun depression, and a better power-to-weight ratio in exchange for much worse side and rear armor, worse guns, generally poorer soft statistics like  terrain resistance and gun dispersion, and a much lower health pool. F07 AMX M4 1945  Therefore, it is very important to avoid taking fire at all times and to a greater extent, avoid being spotted. F07 AMX M4 1945  The AMX M4 45 must try to deal as much damage as possible with its tricky guns by abusing its mobility to stay competitive on the battlefield. F07 AMX M4 1945  Furthermore, getting used to poor armor and assuming a supporting sniper role will help very much in preparing players for the [[AMX 50 100]] and the similar vehicles that follow it. F07 AMX M4 1945  
+
+The 90 mm DCA 45, 90 mm F3, and 105 mm Canon 13TR were previously also available on the ARL 44, and on the M4 1945 receive generally better characteristics. F07 AMX M4 1945  However, they are generally worse than guns on other tier 7 heavy tanks. F07 AMX M4 1945  The 90 mm DCA 45 has low DPM, 90 mm F3 is all round worse than DCA 45 other than its acceptable DPM, 105 mm 13TR has nice alpha and decent DPM, along with now sufficient 175 Armor Piercing penetration (formerly 165) but requires APCR to be effective against most heavies at tier 8. F07 AMX M4 1945  Since tougher opposition is faced by the M4 45, APCR will be needed with the latter two guns. F07 AMX M4 1945  The DCA 45's outstanding penetration is generally sufficient with AP, even at Tier 7. F07 AMX M4 1945  The 105mm is also a solid choice if you plan on running full gold with it, in which the M4 45' transforms to an IS with higher penetration and better accuracy. F07 AMX M4 1945  This does get really expensive and will burn a big hole in your wallet, though, and the 105mm still takes a while to aim. F07 AMX M4 1945 
+
+With its powerful engine, the M4 45 is fairly mobile for a heavy tank, although the poor top speed and reverse speed is really disappointing, especially with its poor armour. F07 AMX M4 1945  The turret is somewhat stronger than the ARL 44's, but the hull is significantly weaker. F07 AMX M4 1945  Artillery is very dangerous for the M4 45 due to low armour thickness. F07 AMX M4 1945  Although the good gun depression and decent acceleration go a long way towards helping limit its exposure in combat, the low speed limit means finding and keeping yourself in arty'proof spots important. F07 AMX M4 1945 
+
+As of the update that introduced Italian Tanks, the AMX M4 45 is somewhat better of a vehicle. F07 AMX M4 1945  The gun handling is universally better, and the 90mm DCA 45 and 105mm 13 TR have received buffs in addition. F07 AMX M4 1945  The aim time on both cannons is better; 2. F07 AMX M4 1945 9 -> 2. F07 AMX M4 1945 5 aim time on the 90mm, and 2. F07 AMX M4 1945 9 -> 2. F07 AMX M4 1945 7 aim time on the 105mm. F07 AMX M4 1945  The 105mm additionally received 10 more penetration on the AP shell: 165 -> 175. F07 AMX M4 1945  This means a little less APCR is required on it. F07 AMX M4 1945  However, the 90mm is still the better cannon to use, as although it has mediocre DPM, the fully aimed accuracy is far better (0. F07 AMX M4 1945 36 compared to 105mm 0. F07 AMX M4 1945 41, though with 100% crew it is 0. F07 AMX M4 1945 35 compared to 0. F07 AMX M4 1945 39) and has very good standard penetration (212 compared to 175). F07 AMX M4 1945  Additionally, the 90mm has higher shell velocity (1,000/1,250/1,00) compared to the 105mm's (850/1,063/850). F07 AMX M4 1945  The AMX M4 45 cannot afford to be close to enemies regardless of gun choice, so the 105mm is mostly a novelty gun, and  requires a lot of APCR to work at higher tiers, whereas the 90mm can usually aim for weakpoints or load an almost overkill 259 APCR penetration. F07 AMX M4 1945 
+|InTheGame_research=
+*As stock, you should be able to equip the first engine upgrade, the radio, the 90mm F3 and/or the 105 mm Canon 13TR, as they were available on the ARL 44. F07 AMX M4 1945 
+*a) Research the suspension. F07 AMX M4 1945 
+*b) Skip researching the suspension and equip Enhanced Springs. F07 AMX M4 1945 
+*Research and equip the turret. F07 AMX M4 1945 
+*Research or just mount the 90mm DCA 45 or keep the 105mm 13TR with better alpha but worse stats (if previously researched from the ARL 44). F07 AMX M4 1945 
+*Research the engine(s). F07 AMX M4 1945 
+*Finally, research the radio if you hadn't previously done so. F07 AMX M4 1945 
+*Go from there. F07 AMX M4 1945 
+ 
+|InTheGame_equipment=Large-Caliber Tank Gun Rammer,GLD,Improved Ventilation Class 3, Camouflage net, Binocular telescope, Enhanced Leaf Springs 3 Class
+
+
+|History=
+After the end of WWII, French tank design was significantly influenced by their German colleagues. F07 AMX M4 1945  Their achievements are very well reflected in the design of the French AMX M4 heavy tank, the predecessor to the AMX 50. F07 AMX M4 1945  Even though the tank never reached production, it left its mark on tank building history. F07 AMX M4 1945  Here's how it all began. F07 AMX M4 1945 
+
+Despite the occupation of France, French tank designers did not stop for even a minute. F07 AMX M4 1945  Work continued in strictest secrecy on both new tanks and modernizations of existing ones. F07 AMX M4 1945  Most progress came from Ateliers de construction de Rueil (ARL) from Rueil-Malmaison, west of Paris. F07 AMX M4 1945  In addition to an array of pre-war tanks, they also designed the SARL (Somua-ARL) 42 tank in 1942. F07 AMX M4 1945  In November of 1944, ARL began designing a heavy tank with experience of the SARL 42 and B1 ter tanks in mind. F07 AMX M4 1945  The designs of German tanks, especially the Tiger II, was also kept in mind. F07 AMX M4 1945  The first ARL 44 prototype was built in 1946. F07 AMX M4 1945 
+
+The French military knew that this vehicle was only a temporary measure. F07 AMX M4 1945  Rapid developments in the field of armoured warfare rendered the ARL 44 obsolete even during its design phase. F07 AMX M4 1945  The suspension and design of the hull were more suitable for the early 1930s, maybe even mid 1920s. F07 AMX M4 1945  Neither 120 mm of front armour nor the Maybach HL. F07 AMX M4 1945 230 engine could bridge the gap. F07 AMX M4 1945  The military decided to keep the project open, but a competition for a new 50-ton medium tank began on July 31st, 1945. F07 AMX M4 1945  ARL did not participate, as work on the ARL 44 was in progress. F07 AMX M4 1945 
+
+According to archive data, the following companies participated: Forges et Chantiers de la Méditerranée (FCM), Ateliers de construction d'Issy-les-Moulineaux (AMX), Lorriane, Somua, and. F07 AMX M4 1945 . F07 AMX M4 1945 . F07 AMX M4 1945  Renault. F07 AMX M4 1945  The last entrant is the most curious, especially since AMX was essentially the tank branch of Renault, nationalized in 1936. F07 AMX M4 1945  Aside from the fact that Renault participated in this contest, no information survives to this day; work did not even reach the project stage. F07 AMX M4 1945  FCM was also unlucky, and its 50 ton tank remained on paper. F07 AMX M4 1945  After more than 5 years of work, Lorraine and Somua produced prototypes of their projects (Lorraine 40t and Somua SM). F07 AMX M4 1945  Work got as far as designing and producing prototypes of SPGs on the Lorraine 40t chassis. F07 AMX M4 1945 
+
+AMX was the luckiest. F07 AMX M4 1945  This company from suburban Paris worked on its 50 ton tank for almost 15 years, the project was changed several times, and SPGs were designed and built on its chassis. F07 AMX M4 1945  The tank never made it to mass production, but deserves a spot in history. F07 AMX M4 1945 
+
+The characteristics of the AMX tank were similar to those of the ARL 44. F07 AMX M4 1945  The vehicle, indexed Char A. F07 AMX M4 1945 M. F07 AMX M4 1945 X. F07 AMX M4 1945  45, was also referred to as NOM 141 (project 141). F07 AMX M4 1945  It was supposed to have 120 mm of front armour (50 mm LFP), 50-60 mm thick sides, 110 mm of front turret armour, and 30 mm thick turret sides. F07 AMX M4 1945  Like the ARL 44, the cast turret designed by DEFA (Direction des Études et Fabrications d’Armement, later reformed to GIAT, renamed Nexter in 1989) would house a 90 mm 65 caliber long Schneider gun with a coaxial 7. F07 AMX M4 1945 5 mm MAC Mle. F07 AMX M4 1945  1931 machinegun. F07 AMX M4 1945  Another machinegun was placed in a ball mount in the front of the hull. F07 AMX M4 1945  The 47 ton tank would be put in motion by a German Maybach HL. F07 AMX M4 1945 230 engine. F07 AMX M4 1945  The tank looked like a Tiger II from the outside, but the French refused to place the transmission in the front. F07 AMX M4 1945  The transmission and drive wheels were in the rear from the very beginning of the project. F07 AMX M4 1945 
+
+The first draft of the AMX 45 project is dated August 1945. F07 AMX M4 1945  By the end of the month, the project was radically altered for the first time. F07 AMX M4 1945  The new characteristics drove up the mass by 3 tons, to a total of 50 tons. F07 AMX M4 1945  The Maybach HL. F07 AMX M4 1945 230 was no longer satisfactory, as 700 hp was considered too little for such a heavy vehicle. F07 AMX M4 1945  High effective horsepower was considered very important, based on experience from WWII. F07 AMX M4 1945  Starting with blueprint 01041 dated August 28th, 1945, the tank obtained a 1000 hp MP. F07 AMX M4 1945 65 Sauer engine. F07 AMX M4 1945  The AMX 45 index disappeared, replaced by a new one: Char Moyen 50t M4 (50 ton medium tank M4). F07 AMX M4 1945  The name "AMX M4" stuck for five years, during which the project changed almost completely. F07 AMX M4 1945 
+
+The Swiss engine didn't last long. F07 AMX M4 1945  It was not available in metal, and the engine is no less an important component of the tank than its gun. F07 AMX M4 1945  Not surprisingly, the Germans replaced the Swiss in this regard. F07 AMX M4 1945  Maybach ended up under French influence after the war, and mutually beneficial cooperation followed. F07 AMX M4 1945  Also, many German engineers, including Porsche, ended up involved with French tank design, willingly or otherwise. F07 AMX M4 1945 
+
+If ARL 44 was the combination of existing components, the AMX M4 was a combination of all German late-war ideas. F07 AMX M4 1945  The E-50 and E-75 that are so beloved by fans of alternate history left their mark here. F07 AMX M4 1945  Recall that the E-50 was meant to have a rear transmission, and the Maybach HL. F07 AMX M4 1945 234, proposed as the power plant for the E-50 and E-75, evolved into the new AMX M4 engine. F07 AMX M4 1945  The HL. F07 AMX M4 1945 295, blueprints for which are dated September 1945, was an enlarged HL. F07 AMX M4 1945 234, giving 1000 hp at 2800 RPM. F07 AMX M4 1945  This was not just a proposal, it was really built in metal. F07 AMX M4 1945  Maybach engines also powered the Lorraine 40t and Somua SM tanks. F07 AMX M4 1945  As for the AMX M4, the HL. F07 AMX M4 1945 295 first appeared in its design towards the end of November of 1945. F07 AMX M4 1945 
+
+By then, the AMX M4 began another metamorphosis. F07 AMX M4 1945  The turret was unchanged, but the hull and its interior changed drastically. F07 AMX M4 1945  The front plate was thinned out to 90 mm, the sides to 40 mm, but the slope of the UFP was increased from 42 to 55 degrees. F07 AMX M4 1945  The hull became more reminiscent of the Tiger II, but with the turret further forward. F07 AMX M4 1945  This introduced many problems with the hatches for the driver and hull gunner. F07 AMX M4 1945  It was decided to make them smaller and put them in the corners of the roof. F07 AMX M4 1945  The driver received an observation device similar to the one on the Panther Ausf. F07 AMX M4 1945  D and Ausf. F07 AMX M4 1945  A. F07 AMX M4 1945 
+
+The AMX M4 kept changing in the winter of 1945-1946. F07 AMX M4 1945  One of the changes moved the crew around in the turret. F07 AMX M4 1945  Initially, the commander's cupola, essentially a copy from the pre-war AMX Tracteur C, was to the right of the tank. F07 AMX M4 1945  In December of 1945, it, like the Tiger II cupola, was moved to the left, increasing the resemblance of the two tanks. F07 AMX M4 1945 
+
+The changes to the hull, or rather the suspension, were more interesting. F07 AMX M4 1945  Designers realized that torsion bars are a very non-French solution, real French tanks use bogeys. F07 AMX M4 1945  They were presented as an alternative to the torsion bars. F07 AMX M4 1945  Not one, but two alternate designs were made. F07 AMX M4 1945 
+
+The first variant was a re-imagining of the work of Surin, used on CKD tanks. F07 AMX M4 1945  While Surin used large wheels, the wheels here were much smaller than the ones in the torsion bar variant. F07 AMX M4 1945  Leaf springs were used, a bold move considering the mass of the tank. F07 AMX M4 1945  Since there were seven wheels per side, the front wheel received its own spring. F07 AMX M4 1945  Return rollers had to be added, four per side. F07 AMX M4 1945  The idler was also changed, and its tightening mechanism was very reminiscent of the good old Char B. F07 AMX M4 1945 
+
+The other bogey design used the same idler. F07 AMX M4 1945  This variant had five return rollers, and the first and last were smaller than the rest. F07 AMX M4 1945  The number of road wheels grew to eight, so no individual suspensions were needed. F07 AMX M4 1945  Clearly there were some engineers that worked on tanks in the 1930s, as the suspension was taken straight from the Renault R35 and other light tanks of that era. F07 AMX M4 1945  Paired springs were used instead of rubber elastic elements; this design was a lot more progressive. F07 AMX M4 1945 
+
+Both bogey designs were rejected. F07 AMX M4 1945  Yes, torsion bars have their difficulties, and yes, Kniepkamp's suspension has its problems, but compared to what AMX engineers came up with, it was the height of perfection. F07 AMX M4 1945  Not only was the bogey suspension inappropriate for such a heavy tank, it turned out much more complicated. F07 AMX M4 1945  It is hard to imagine what kind of curses French tankers would utter if they encountered this design in production. F07 AMX M4 1945  The alternative idea failed. F07 AMX M4 1945 
+
+By early 1946, the new Char M4 was finalized. F07 AMX M4 1945  It was an interesting fighting vehicle, similar to the Centurion Mk. F07 AMX M4 1945 3 in characteristics. F07 AMX M4 1945  This tank, officially designated as medium, weighed 50. F07 AMX M4 1945 8 tons, but managed to surpass the French design only in the thickness of turret and side armour. F07 AMX M4 1945  The Centurion had less effective hp/ton, and was more than half a meter longer. F07 AMX M4 1945  The guns of the two tanks were similar. F07 AMX M4 1945  The American M46 Patton also had similar characteristics. F07 AMX M4 1945  With an 810 hp engine at 44 tons, it came close to the French tank in mobility. F07 AMX M4 1945  Aside from the sides, the armour of the two tanks was similar. F07 AMX M4 1945  The American tank was taller than its competitors, and also longer than the French tank. F07 AMX M4 1945  The product of Ateliers de construction d'Issy-les-Moulineaux was a rather ordinary tank, very much in line with the international idea of a medium tank at the time. F07 AMX M4 1945 
+
+The AMX M4 ingame depicts the originally-proposed M 4 tank. F07 AMX M4 1945  No prototypes under the original M 4 specification were ever produced. F07 AMX M4 1945 
+
+|HistAcc=
+*The AMX M4 program only ever considered mounting the 90mm Canon de 90 mm SA mle. F07 AMX M4 1945  1945, or short, the 90mm SA45. F07 AMX M4 1945  This gun is what is called the 90mm DCA 45 in game, although this name is erroneous. F07 AMX M4 1945 
+*Although the 90mm F3 was never considered for the tank, it's missing its historical HEAT round with 320 mm of penetration. F07 AMX M4 1945  This was the standard ammunition of the 90 mm F3 gun and there was no AP or APCR ammunition developed for this gun. F07 AMX M4 1945 
+
+|HistoricalGallery=
+image:AMX_M4_(1945)_Plans_Side_Exterior. F07 AMX M4 1945 jpg{{!}}AMX M4(1945)
+image:AMX_M4_(1945)_Plans_Full. F07 AMX M4 1945 png{{!}}AMX M4(1945)
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://www. F07 AMX M4 1945 chars-francais. F07 AMX M4 1945 net/new/index. F07 AMX M4 1945 php?option=com_content&task=view&id=20&Itemid=41 '''<i>1945 CHAR AMX M4 at chars-francais. F07 AMX M4 1945 net</i>'''] Photos, specs, and brief history in French. F07 AMX M4 1945 
+* https://tankarchives. F07 AMX M4 1945 blogspot. F07 AMX M4 1945 ca/2016/01/third-reich-serving-fourth-republic. F07 AMX M4 1945 html
+* https://warspot. F07 AMX M4 1945 ru/4299-narabotki-tretiego-reyha-dlya-chetvyortoy-respubliki Original article in Russian, has more pictures
+
+}}
+
+[[Category:French Tanks]]

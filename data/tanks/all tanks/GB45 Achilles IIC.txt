@@ -1,0 +1,224 @@
+930,000 Cost. 
+680576 HP Hit Points. 
+29.57/29.8217.42/0 t Weight Limit. 
+410410 hp Engine Power. 
+48/13 km/h Speed Limit. 
+3232 deg/s Traverse. 
+13.8723.54 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+38.1/19.1/19.1 mm Hull Armor. 
+57.2/25.4/25.4// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+110/110/175110/110/175 HP Damage. 
+101/117/38101/117/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 3.2 s 50% Crew: 3.96 s 75% Crew: 3.46 s 100% Crew: 3.07 s Rammer: 2.76 s Vents: 3 s Both: 2.7 s Both and BiA: 2.64 s Both and Max Crew %: 2.53 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 3.2 s 50% Crew: 3.96 s 75% Crew: 3.46 s 100% Crew: 3.07 s Rammer: 2.76 s Vents: 3 s Both: 2.7 s Both and BiA: 2.64 s Both and Max Crew %: 2.53 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.409 m With 75% Crew: 0.357 m With 100% Crew: 0.316 m With BiA: 0.309 m With BiA and Vents: 0.303 m Maximum possible: 0.29 m For more details, see Crew m ▲ With 50% Crew: 0.409 m With 75% Crew: 0.357 m With 100% Crew: 0.316 m With BiA: 0.309 m With BiA and Vents: 0.303 m Maximum possible: 0.29 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment Aim time. 
+1414 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+30°-10°/+30° Elevation Arc. 
+5454 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.9 m With 75% Crew: 369.8 m With 100% Crew: 417.2 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 600.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 444 m With 75% Crew: 508.5 m With 100% Crew: 573.6 m With 100% Signal Boost: 660 m When affected by 100% Relaying: 605 m Maximum possible: 825.7 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+OQF 17-pdr AT Gun Mk. VII. 
+171/239/38. 
+150/150/175. 
+13.64. 
+0.32. 
+1.9. 
+nan. 
+nan. 
+65000. 
+nan. 
+3-inch AT Gun M7. 
+101/117/38. 
+110/110/175. 
+18.75. 
+0.33. 
+2.3. 
+nan. 
+nan. 
+33500. 
+nan. 
+OQF 17-pdr AT Gun Mk. V. 
+143/171/38. 
+150/150/175. 
+12.5. 
+0.35. 
+2.1. 
+nan. 
+nan. 
+56000. 
+nan. 
+Achilles V Type. 
+//. 
+14. 
+370. 
+nan. 
+nan. 
+9000. 
+nan. 
+Achilles Duck Bill. 
+//. 
+16. 
+370. 
+nan. 
+nan. 
+16100. 
+V. 
+General Motors 6046. 
+410.0. 
+15. 
+nan. 
+2318.0. 
+13500. 
+nan. 
+Ford GAA. 
+nan. 
+0. 
+nan. 
+nan. 
+13910. 
+nan. 
+Achilles I. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+8400. 
+nan. 
+Achilles IIC. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+16500. 
+VII. 
+WS No. 19 Mk. II. 
+450. 
+nan. 
+40. 
+21000. 
+VI. 
+WS No. 19 Mk. I. 
+400. 
+nan. 
+40. 
+15000. 
+VIII. 
+WS No. 19 Mk. III. 
+550. 
+nan. 
+40. 
+22000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIFV4202 FL • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIKV-4 KTTS • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • VIIIWZ-120-1G FT FL • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • VIIIStrv S1 FL • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=
+|
+
+|Gallery=
+
+File:Achilles scr 1. GB45 Achilles IIC jpg
+File:Achilles scr 2. GB45 Achilles IIC jpg
+File:Achilles scr 3. GB45 Achilles IIC jpg
+
+
+|InTheGame_pros=
+*Good DPM, penetration, and shell velocity
+*Superb accuracy
+*Decent mobility
+*Good view range
+
+
+|InTheGame_cons=
+*Slow turret traverse
+*Low alpha damage
+*Poor gun depression with the top gun despite the open turret
+*Thin armor and large target
+*Stock grind is awful
+
+|InTheGame_performance=
+The Achilles plays similarly to an uptiered M10 Wolverine. GB45 Achilles IIC  Absolutely dreadful when stock, you will have problems penetrating even certain medium tanks, let alone heavy tanks - the good gun depression does not help much, either. GB45 Achilles IIC  Unless your opponent's team is full of lightly armoured tanks, you will struggle to make any impact in a match - use your mobility and view range to take a more passive scouting role, and pounce on injured tanks to finish them off or take opportunistic shots when possible. GB45 Achilles IIC 
+
+However, with the 17-pounder you have a fighting chance to penetrate all but the heaviest tier 8 tanks, despite the inferior gun depression. GB45 Achilles IIC  Although it has high DPM, the low alpha means that you will have to expose your tank for long periods of time to get the gun working. GB45 Achilles IIC  Because of its horrible armor, most hits you receive will penetrate you, and artillery is especially deadly. GB45 Achilles IIC   With an accuracy of 0. GB45 Achilles IIC 33 and an aim time of 1. GB45 Achilles IIC 9 sec, the gun is good at delivering damage at range, which will reduce your chances of being hit, allowing you to make use of your DPM. GB45 Achilles IIC 
+
+|InTheGame_research=
+*Cross-branch research: the '''OQF 17-pdr AT Gun Mk. GB45 Achilles IIC  VII''' carries over from the AT 8 (or the Archer), but the upgraded turret is required to mount it. GB45 Achilles IIC  The '''Ford GAA''' engine carries over from the AT 7. GB45 Achilles IIC 
+* The '''WS No. GB45 Achilles IIC  19 Mk. GB45 Achilles IIC  III''' radio carries over from the AT 2 and should be installed immediately. GB45 Achilles IIC 
+* First, research the '''OQF 17-pdr AT Gun Mk. GB45 Achilles IIC  V''' for a much-needed penetration boost. GB45 Achilles IIC 
+* Next, research the '''Ford GAA''' engine for a massive boost to mobility. GB45 Achilles IIC 
+* Then, research the '''Achilles Duck Bill''' turret and the '''OQF 17-pdr AT Gun Mk. GB45 Achilles IIC  VII'''. GB45 Achilles IIC 
+* Finally, research the '''Achilles IIC''' suspension. GB45 Achilles IIC 
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews=
+
+|History=
+Among the multitude of military vehicles supplied to Britain by the United States in World War 2 were around 1,600 M10 tank destroyers, including mid-production M10 I and late-production M10 II variants. GB45 Achilles IIC  They could be told apart by the shape of the counterweight on the turret rear: wedge-shaped on the I, and enlarged on the II. GB45 Achilles IIC  Unfortunately, initial encounters with heavyweight German opponents like the Tiger I and Panther showed shortcomings in the power of the 3-inch (76. GB45 Achilles IIC 2 mm) gun; with a counter-invasion of Europe looming, it was decided to fit the M10 with the British 17 pounder gun instead. GB45 Achilles IIC  The refitting process began in Spring 1944 and the majority of the roughly 1,000 converted were M10 IIs. GB45 Achilles IIC  These were renamed M10 IIC, with the C signifying the 17 pounder. GB45 Achilles IIC  Fitting the gun required a counterweight behind its muzzle brake, and the ammunition storage area was altered to take the bigger shells. GB45 Achilles IIC 
+<br>
+With the power to tear through Tiger I and Panther front armor from 1km, the M10 IIC quickly earned the trust of anti-tank units such as those of the 21st Army Group, and also on the Italian front. GB45 Achilles IIC  One prominent example of its ability was provided by the M10 IIC Battery of the 62nd Anti-Tank Regiment, which shook off a counter from Panthers and Panzer IVs to destroy 13 German tanks in fighting around Caen in the aftermath of the July 1944 Normandy landings. GB45 Achilles IIC  The M10 IIC was also deployed by Canadian and Polish units, and served into the 1950s. GB45 Achilles IIC 
+{{VideoYT|oudWxid-Dms}}{{VideoYT|ZaFkFcYcMvw}}
+
+|HistAcc=
+SCC No. GB45 Achilles IIC  15 Olive Drab paint scheme is missing. GB45 Achilles IIC  This was the base colour on all British AFVs in Europe from April 1944. GB45 Achilles IIC 
+* Allied star recognition marking is missing. GB45 Achilles IIC  This option exists in World of Tanks, but is restricted to only tier 8-10 vehicles. GB45 Achilles IIC 
+* The white-red-white Royal Armoured Corps recognition mark (or flash) was only used until mid-1942. GB45 Achilles IIC  Flashes painted on Achilles were red-white-red. GB45 Achilles IIC 
+* Uses the same 3-inch M7 gun as the French [[Tank:F112_M10_RBFM|M10 RBFM]], yet the penetration and damage values are inconsistent. GB45 Achilles IIC 
+* The Achilles has the same General Motors 6046 diesel engine as the [[M10 Wolverine]]. GB45 Achilles IIC  However, their horsepower and weight values are inconsistent. GB45 Achilles IIC  The British equivalent of the engine actually has the historical values. GB45 Achilles IIC 
+* 410 hp represents the diesel engine's gross horsepower. GB45 Achilles IIC  Net horsepower is 375 hp. GB45 Achilles IIC 
+* Actual gun depression is -10 degrees. GB45 Achilles IIC  The -5 degrees come from a removable stop that could be placed on the vehicle. GB45 Achilles IIC 
+
+|HistoricalGallery=
+3 inch Self Propelled. GB45 Achilles IIC jpg{{!}}British M10 on Sword Beach on 6 June 1944
+3 inch Self Propelled (2). GB45 Achilles IIC jpg{{!}}British M10 Wolverine providing indirect fire support in Italy on 12 August 1944
+17pdr SP Achilles. GB45 Achilles IIC jpg{{!}}17pdr SP Achilles firing at pillboxes on the German frontier on 12 October 1944
+17pdr SP Achilles (2). GB45 Achilles IIC jpg{{!}}Achilles tank destroyer in Holland on 12 October 1944
+17pdr SP Achilles (3). GB45 Achilles IIC jpg{{!}}German crews inspecting a knocked out Achilles in Normandy on 21 June 1944
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

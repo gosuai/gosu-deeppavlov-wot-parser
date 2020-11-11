@@ -1,0 +1,235 @@
+130,000 Cost. 
+400320 HP Hit Points. 
+21.94/2417.64/0 t Weight Limit. 
+320440 hp Engine Power. 
+40/10 km/h Speed Limit. 
+3232 deg/s Traverse. 
+14.5924.94 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+50/30/30 mm Hull Armor. 
+AP/HEAT/HE AP/HEAT/HE Shells. 
+30/2000/38 120/4000/128 Shell Cost. 
+110/110/175110/110/175 HP Damage. 
+43/87/3843/87/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 3.9 s 50% Crew: 4.83 s 75% Crew: 4.22 s 100% Crew: 3.74 s Rammer: 3.37 s Vents: 3.66 s Both: 3.29 s Both and BiA: 3.22 s Both and Max Crew %: 3.09 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 3.9 s 50% Crew: 4.83 s 75% Crew: 4.22 s 100% Crew: 3.74 s Rammer: 3.37 s Vents: 3.66 s Both: 3.29 s Both and BiA: 3.22 s Both and Max Crew %: 3.09 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1650 50% Crew: 1332.1 75% Crew: 1525.7 100% Crew: 1720.4 100% Crew Vents: 1758.9 Rammer: 1911.8 Both: 1954.7 Both and BiA: 1997.6 Both and Max Crew %: 2084.5 Advantageous Damage Per Minute First-shot DPM: 1760 50% Crew: 1442.1 75% Crew: 1635.7 100% Crew: 1830.4 100% Crew Rammer: 2021.8 Vents: 1868.9 Both: 2064.7 Both and BiA: 2107.6 Both and Max Crew %: 2194.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1650 50% Crew: 1332.1 75% Crew: 1525.7 100% Crew: 1720.4 100% Crew Vents: 1758.9 Rammer: 1911.8 Both: 1954.7 Both and BiA: 1997.6 Both and Max Crew %: 2084.5 Advantageous Damage Per Minute First-shot DPM: 1760 50% Crew: 1442.1 75% Crew: 1635.7 100% Crew: 1830.4 100% Crew Rammer: 2021.8 Vents: 1868.9 Both: 2064.7 Both and BiA: 2107.6 Both and Max Crew %: 2194.5 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2625 50% Crew: 2119.25 75% Crew: 2427.25 100% Crew: 2737 100% Crew Vents: 2798.25 Rammer: 3041.5 Both: 3109.75 Both and BiA: 3178 Both and Max Crew %: 3316.25 Advantageous Damage Per Minute First-shot DPM: 2800 50% Crew: 2294.25 75% Crew: 2602.25 100% Crew: 2912 100% Crew Rammer: 3216.5 Vents: 2973.25 Both: 3284.75 Both and BiA: 3353 Both and Max Crew %: 3491.25 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 916.3 50% Crew: 739.2 75% Crew: 847 100% Crew: 955.9 100% Crew Vents: 977.9 Rammer: 1062.6 Both: 1085.7 Both and BiA: 1109.9 Both and Max Crew %: 1158.3 Advantageous Damage Per Minute First-shot DPM: 1026.3 50% Crew: 849.2 75% Crew: 957 100% Crew: 1065.9 100% Crew Rammer: 1172.6 Vents: 1087.9 Both: 1195.7 Both and BiA: 1219.9 Both and Max Crew %: 1268.3 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 916.3 50% Crew: 739.2 75% Crew: 847 100% Crew: 955.9 100% Crew Vents: 977.9 Rammer: 1062.6 Both: 1085.7 Both and BiA: 1109.9 Both and Max Crew %: 1158.3 Advantageous Damage Per Minute First-shot DPM: 1026.3 50% Crew: 849.2 75% Crew: 957 100% Crew: 1065.9 100% Crew Rammer: 1172.6 Vents: 1087.9 Both: 1195.7 Both and BiA: 1219.9 Both and Max Crew %: 1268.3 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1457.75 50% Crew: 1176 75% Crew: 1347.5 100% Crew: 1520.75 100% Crew Vents: 1555.75 Rammer: 1690.5 Both: 1727.25 Both and BiA: 1765.75 Both and Max Crew %: 1842.75 Advantageous Damage Per Minute First-shot DPM: 1632.75 50% Crew: 1351 75% Crew: 1522.5 100% Crew: 1695.75 100% Crew Rammer: 1865.5 Vents: 1730.75 Both: 1902.25 Both and BiA: 1940.75 Both and Max Crew %: 2017.75 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.681 m With 75% Crew: 0.595 m With 100% Crew: 0.527 m With BiA: 0.516 m With BiA and Vents: 0.505 m Maximum possible: 0.484 m For more details, see Crew m ▲ With 50% Crew: 0.681 m With 75% Crew: 0.595 m With 100% Crew: 0.527 m With BiA: 0.516 m With BiA and Vents: 0.505 m Maximum possible: 0.484 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment Aim time. 
+4444 deg/s Gun Traverse Speed. 
+24° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+6565 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With Recon and Situational Awareness: 325.7 m With Coated Optics: 341 m With Binocular Telescope: 387.5 m Maximum possible: 443.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With Recon and Situational Awareness: 325.7 m With Coated Optics: 341 m With Binocular Telescope: 387.5 m Maximum possible: 443.8 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 446.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 326.1 m With 75% Crew: 370.6 m With 100% Crew: 415 m With 100% Signal Boost: 498 m When affected by 100% Relaying: 456.5 m Maximum possible: 597.2 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+7,5 cm Kanone L/24. 
+43/87/38. 
+110/110/175. 
+15.38. 
+0.55. 
+1.7. 
+nan. 
+780. 
+10450. 
+IV. 
+7,5 cm Stu.K. 40 L/43. 
+103/139/38. 
+110/110/175. 
+15.38. 
+0.39. 
+1.8. 
+nan. 
+1437. 
+25000. 
+V. 
+7,5 cm Pak 39 L/48. 
+110/158/38. 
+110/110/175. 
+15.38. 
+0.36. 
+1.7. 
+nan. 
+1520. 
+27380. 
+V. 
+10,5 cm Stu.H. 42 L/28. 
+64/104/53. 
+350/350/410. 
+6.67. 
+0.55. 
+2.0. 
+nan. 
+2100. 
+28000. 
+IV. 
+Maybach HL 108 TR. 
+320. 
+20. 
+nan. 
+450. 
+9460. 
+IV. 
+Maybach HL 120 TR. 
+350. 
+20. 
+nan. 
+510. 
+10430. 
+IV. 
+Maybach HL 120 TRM. 
+440. 
+20. 
+nan. 
+510. 
+19900. 
+nan. 
+StuG III Ausf. B. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+1800. 
+nan. 
+StuG III Ausf. E. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+4740. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT3 HMC • IIIT56 GMC • IVM8A1 • IVT40 • VM10 Wolverine • VT67 • VIT78 • VIM18 Hellcat • VIM36 Jackson • VIIM56 Scorpion • VIIT28 Concept • VIISuper Hellcat • VIIT25/2 • VIIT25 AT • VIIITS-5 • VIIIT28 • VIIIT28 Prototype • IXT30 • IXT95 • XT110E3 • XT110E4. 
+UK. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Germany. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+France. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+USSR. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+China. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • IXWZ-111G FT • XWZ-113G FT. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=G101_StuG_III
+|
+
+|Gallery=
+
+File:StuG III Ausf. G101 StuG III  B scr 1. G101 StuG III jpg
+File:StuG III Ausf. G101 StuG III  B scr 2. G101 StuG III jpg{{!}}StuG III Ausf. G101 StuG III  B с 7,5 cm Pak 39 L/48
+File:StuG III Ausf. G101 StuG III  B scr 3. G101 StuG III jpg{{!}}StuG III Ausf. G101 StuG III  B с 10,5 cm Stu. G101 StuG III H. G101 StuG III  42 L/28
+File:StuG III Ausf. G101 StuG III  B scr 4. G101 StuG III jpg
+
+
+|InTheGame_pros=
+* Excellent maneauverability and acceleration
+* Powerful 105mm howitzer with good damage potential and decent handling, remains competitive even in tier 6 matches
+* Low profile with good camouflage rating, also has 310m view range(though not terrific), far better than the Hetzer's 260m
+* 50mm thick frontal armor for its tier, can still be effective against autocannons or some tier 3 guns
+* Many modules compatible with the Stug III
+
+|InTheGame_cons=
+* Poor-Average gun depression
+* Although it's the same gun as on the Hetzer, many soft stats of the 10. G101 StuG III 5 cm (RoF, accuracy and aim time) are inferior
+* If coming from the Marder 38t, the stock grind will be horrific
+* Gun traverse arc is not as good as the Marder 38t
+* Low HP for a tier 4 TD
+
+
+|InTheGame_performance=
+The StuG III Ausf. G101 StuG III B looks and plays a lot like its tier 5 older brother, the StuG III Ausf. G101 StuG III G. G101 StuG III  Using the tanks high speed and maneuverability, you should generally stay away from enemies and damage them from afar with your weak armor and good mobility. G101 StuG III  Unlike the Ausf. G101 StuG III G, the Ausf. G101 StuG III B has two viable gun choices - the 10. G101 StuG III 5 cm howitzer, or the long-barreled 75 mm. G101 StuG III  The 75 mm lets it play as a traditional sniper with its great accuracy and good penetration, while the 105 will one-shot most tanks your tier and below, similar to the Hetzer. G101 StuG III 
+
+|InTheGame_research=
+Upon a fresh purchase, one will sadly find out that no module carries over from the Marder III. G101 StuG III 
+The priority should be getting the 7. G101 StuG III 5 L/43, since the stock gun is simply laughable even in tier 4 matches. G101 StuG III 
+With proper firepower, one should then research the engines: these are reasonably cheap and compatible for many Pz. G101 StuG III  III and Pz. G101 StuG III  IV chassis vehicles. G101 StuG III 
+Then, research the tracks to unlock its full maneauverability;
+Finish by researching the top guns, and the radio. G101 StuG III 
+
+
+
+|InTheGame_equipment=Vents, Tank Gun Rammer, Binocular Telescope, Camouflage Net
+
+|History= |History=
+[[image:StuG_III_Ausf F-8 (Sd. G101 StuG III Kfz 142-1). G101 StuG III jpg|thumb|200px|right|StuG III Ausf. G101 StuG III  F/8 (Sd. G101 StuG III Kfz. G101 StuG III 142/1) at Belgrade Military Museum, Serbia]]
+The Sturmgeschütz III (StuG III) assault gun was Germany's most produced armored fighting vehicle during World War II. G101 StuG III  It was built on the chassis of the proven Panzer III tank. G101 StuG III  Initially intended as a mobile, armored light gun for infantry support, the StuG was continually modified and widely employed as a tank-destroyer. G101 StuG III 
+
+== Development ==
+
+The Sturmgeschütz III originated from German experiences in World War I, when it was discovered that during the offensives on the western front, the infantry lacked the means to effectively engage fortifications. G101 StuG III  The artillery of the time was heavy and not mobile enough to keep up with the advancing infantry to destroy bunkers, pillboxes, and other minor obstacles with direct-fire. G101 StuG III  Although the problem was well-known in the German army, it was General Erich von Manstein, who is considered the father of the Sturmartillerie, that saw the solution. G101 StuG III  The initial proposal was from (then) Colonel Erich von Manstein, and submitted to General Ludwig Beck in 1935, suggesting that Sturmartillerie ("assault artillery") units should be used in a direct-fire support role for infantry divisions. G101 StuG III  On June 15, 1936, Daimler-Benz AG received an order to develop an armored infantry-support vehicle capable of mounting a 75 mm (2. G101 StuG III 95 in) artillery piece. G101 StuG III  The gun mount's fixed, fully-integrated casemate superstructure was to allow a limited traverse of a minimum of 25° and provided overhead protection for the crew. G101 StuG III  The height of the vehicle was not to exceed that of the average man. G101 StuG III 
+Daimler-Benz AG used the chassis and running gear of its recently designed Pz. G101 StuG III Kpfw. G101 StuG III  III medium tank as a basis for the new vehicle. G101 StuG III  Prototype manufacture was passed over to Alkett, which produced five examples in 1937 of the experimental 0-series StuG based upon the Pz. G101 StuG III Kpfw. G101 StuG III  III Ausf. G101 StuG III  B. G101 StuG III  These prototypes featured a mild-steel superstructure and Krupp’s short-barreled 75 mm StuK 37 L/24 cannon. G101 StuG III  This model was known as the Sturmgeschütz Ausführung A. G101 StuG III 
+
+[[image:StuG_III_Aus_A. G101 StuG III jpg|thumb|200px|left|Side drawing of a Assault Gun III, Variant A]]
+[[image:StuG_III_Ausf_G. G101 StuG III jpg|thumb|200px|left|Side drawing of a Assault Gun III, Variant G (December 1942)]]
+While the StuG III was considered self-propelled artillery, it was not initially clear which arm of the Wehrmacht would handle the new weapon. G101 StuG III  The Panzer arm, who was the natural user of tracked fighting vehicles, had no resources to spare for the formation of StuG units, and neither did the infantry branch. G101 StuG III  It was agreed, after a discussion, it would best be employed as part of the artillery arm. G101 StuG III 
+
+The StuGs were organized into battalions (later renamed "brigades" for disinformation purposes) and followed their own specific doctrine. G101 StuG III  Infantry support using direct-fire was its intended role. G101 StuG III  Later, there was also a strong emphasis on destroying enemy armor whenever encountered. G101 StuG III 
+As the StuG III was designed to fill an infantry close support combat role, early models were fitted with a low-velocity 75 mm StuK 37 L/24 gun to destroy soft-skin targets and fortifications. G101 StuG III  After the Germans encountered the Soviet KV-1 and T-34 tanks, the StuG III was equipped with a high-velocity 75 mm StuK 40 L/43 main gun (Spring 1942) and later, the 75 mm StuK 40 L/48 (Autumn 1942) anti-tank gun. G101 StuG III  These versions were known as the Sturmgeschütz 40 Ausführung F, Ausf. G101 StuG III  F/8, and Ausf. G101 StuG III  G. G101 StuG III 
+When the StuG IV entered production in late 1943 and early 1944, the "III" was added to the name to separate it from the Panzer IV-based assault guns. G101 StuG III  All previous and following models were thereafter known as Sturmgeschütz III. G101 StuG III 
+
+Beginning with the StuG III Ausf. G101 StuG III  G, a 7. G101 StuG III 92 mm MG34 could be mounted on a shield on top of the superstructure for added anti-infantry protection from December 1942. G101 StuG III  Some of the F/8 models were retrofitted with a shield as well. G101 StuG III  Many of the later StuG III Ausf. G101 StuG III  G models were equipped with an additional coaxial 7. G101 StuG III 92 mm MG34. G101 StuG III 
+The vehicles of the Sturmgeschütz series were cheaper and faster to build than contemporary German tanks; at 82,500 RM, a StuG III Ausf G was cheaper than a Panzer III Ausf. G101 StuG III  M, which cost 103,163 RM. G101 StuG III  This was due to the omission of the turret, which greatly simplified manufacture and allowed the chassis to carry a larger gun than it could otherwise. G101 StuG III  By the end of the war, 10,619 StuG IIIs and StuH 42s had been built. G101 StuG III 
+
+== Operational history ==
+[[image:StuG_III_Destroyed_Normandy. G101 StuG III jpg|thumb|200px|right|A StuG III destroyed in Normandy, 1944. G101 StuG III  This vehicle likely suffered a catastrophic internal explosion. G101 StuG III ]]
+Overall, Sturmgeschütz-series assault guns proved very successful and served on all fronts as assault guns and tank-destroyers. G101 StuG III  Although Tigers and Panthers have earned a greater notoriety, assault guns collectively destroyed more tanks. G101 StuG III  Because of their low silhouette, StuG IIIs were easy to camouflage and a difficult target. G101 StuG III  Sturmgeschütz crews were considered to be the elite of the artillery units. G101 StuG III  Sturmgeschütz units held a very impressive record of tank kills: some 20,000 enemy tanks by the spring of 1944. G101 StuG III  As of April 10, 1945, there were 1,053 StuG IIIs and 277 StuH 42s in service. G101 StuG III  Approximately 9,500 StuG IIIs of various types were produced until March 1945 by Alkett and a small number by MIAG. G101 StuG III 
+
+In terms of the resources expended in their construction, the StuG assault guns were extremely cost-effective compared to the heavier German tanks, though in the anti-tank role, it was best used defensively, as the lack of a traversable turret would be a severe disadvantage in the assault role. G101 StuG III  As the German military situation deteriorated later in the war, more and more StuG guns were constructed in comparison to tanks: an effort to replace losses and bolster defences against the encroaching Allied forces. G101 StuG III 
+
+In 1944, the Finnish Army received 59 StuG III Ausf. G101 StuG III  Gs from Germany (30 Stu 40 Ausf. G101 StuG III G and 29 StuG III Ausf. G101 StuG III  G) and used them against the Soviet Union. G101 StuG III  These destroyed at least 87 enemy tanks for a loss of only 8 StuGs[2] (some of these were destroyed by their crews to avoid capture). G101 StuG III  After the war, they were the main combat vehicles of the Finnish Army until the early 1960s. G101 StuG III  These StuGs gained the nickname "Sturmi" which can be found in some plastic kit models. G101 StuG III 
+
+[[image:StuG_III_Israel. G101 StuG III jpg|thumb|200px|right|Sturmgeschütz III Ausf G, captured from the Syrian Army, in Yad la-Shiryon Museum, Israel. G101 StuG III ]]
+100 StuG III Ausf. G101 StuG III  G were delivered to Romania in the autumn of 1943. G101 StuG III  They were officially known as TAs (or TAs T3 to avoid confusion with TAs T4) in the army inventory. G101 StuG III  By February 1945, 13 units were still in use with the 2nd Armored Regiment. G101 StuG III  None of this initial batch survived the end of the war. G101 StuG III  31 TAs were on the army inventory in November 1947. G101 StuG III  Most of them were probably StuG III Ausf. G101 StuG III  Gs and a small number of Panzer IV/70 (V)s, known as TAs T4s. G101 StuG III  These TAs were supplied by the Red Army or were damaged units repaired by the Romanian Army. G101 StuG III  All German equipment was scrapped in 1954 due to the Army's decision to use Soviet armor. G101 StuG III 
+StuG IIIs were also exported to other nations such as Bulgaria, Hungary, Italy, and Spain. G101 StuG III 
+
+Many German Sturmgeschütz IIIs were captured by Yugoslav Partisans. G101 StuG III  After the war, they were used by the Yugoslav Peoples Army until the 1950s. G101 StuG III 
+After the Second World War, the Soviet Union donated some of their captured German vehicles to Syria, which continued to use them, along with other war surplus AFVs (like long-barreled Panzer IVs and T-34/85s), during the fifties and up until the The War over Water against Israel in the mid 60s. G101 StuG III  By the time of the Six Days War, all of them had been either destroyed, stripped for spare parts, or interred on the Golan Heights as static pillboxes. G101 StuG III 
+
+|HistAcc=
+The StuG III's engine is considerably more powerful than in reality, with 440 hp compared to the historical 300. G101 StuG III 
+
+|HistoricalGallery=
+image:StuG III Ausf B. G101 StuG III jpg{{!}}StuG III Ausf. G101 StuG III  B
+image:StuG III 2. G101 StuG III jpg{{!}}StuG III Ausf. G101 StuG III  F
+image:StuG III 1. G101 StuG III jpg{{!}}German Troops on the StuG III Ausf. G101 StuG III  F
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://en. G101 StuG III wikipedia. G101 StuG III org/wiki/Sturmgesch%C3%BCtz_III
+}}

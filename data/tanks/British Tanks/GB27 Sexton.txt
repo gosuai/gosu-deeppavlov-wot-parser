@@ -1,0 +1,197 @@
+49,000 Cost. 
+250250 HP Hit Points. 
+25.77/25.925.66/28 t Weight Limit. 
+400460 hp Engine Power. 
+40.2/10 km/h Speed Limit. 
+1820 deg/s Traverse. 
+15.5217.93 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+50.8/38.1/38.1 mm Hull Armor. 
+HE Shells. 
+0/0 83/0 Shell Cost. 
+260//260// HP Damage. 
+21//21// mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 11 s 50% Crew: 13.63 s 75% Crew: 11.9 s 100% Crew: 10.55 s Rammer: 9.5 s Vents: 10.32 s Both: 9.29 s Both and BiA: 9.08 s Both and Max Crew %: 8.71 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 11 s 50% Crew: 13.63 s 75% Crew: 11.9 s 100% Crew: 10.55 s Rammer: 9.5 s Vents: 10.32 s Both: 9.29 s Both and BiA: 9.08 s Both and Max Crew %: 8.71 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (260 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (260 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 982.8 50% Crew: 793 75% Crew: 907.4 100% Crew: 1024.4 100% Crew Vents: 1047.8 Rammer: 1138.8 Both: 1164.8 Both and BiA: 1190.8 Both and Max Crew %: 1240.2 Advantageous Damage Per Minute First-shot DPM: 1242.8 50% Crew: 1053 75% Crew: 1167.4 100% Crew: 1284.4 100% Crew Rammer: 1398.8 Vents: 1307.8 Both: 1424.8 Both and BiA: 1450.8 Both and Max Crew %: 1500.2 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.966 m With 75% Crew: 0.844 m With 100% Crew: 0.748 m With BiA: 0.731 m With BiA and Vents: 0.716 m Maximum possible: 0.686 m For more details, see Crew m ▲ With 50% Crew: 0.966 m With 75% Crew: 0.844 m With 100% Crew: 0.748 m With BiA: 0.731 m With BiA and Vents: 0.716 m Maximum possible: 0.686 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 6.813 s With 75% Crew: 5.949 s With 100% Crew: 5.274 s With GLD: 4.794 s With BiA: 5.157 s With BiA and Vents: 5.045 s With both and GLD: 4.587 s Maximum possible: 4.396 s For more details, see Crew or Equipment s ▲ With 50% Crew: 6.813 s With 75% Crew: 5.949 s With 100% Crew: 5.274 s With GLD: 4.794 s With BiA: 5.157 s With BiA and Vents: 5.045 s With both and GLD: 4.587 s Maximum possible: 4.396 s For more details, see Crew or Equipment Aim time. 
+1616 deg/s Gun Traverse Speed. 
+40° Gun Arc. 
+-5°/+38°-5°/+38° Elevation Arc. 
+195195 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 204.3 m With 75% Crew: 232.2 m With 100% Crew: 260 m With Recon and Situational Awareness: 273.2 m With Coated Optics: 286 m With Binocular Telescope: 325 m Maximum possible: 372.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 204.3 m With 75% Crew: 232.2 m With 100% Crew: 260 m With Recon and Situational Awareness: 273.2 m With Coated Optics: 286 m With Binocular Telescope: 325 m Maximum possible: 372.2 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 322.9 m With 75% Crew: 369.8 m With 100% Crew: 417.2 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 600.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 444 m With 75% Crew: 508.5 m With 100% Crew: 573.6 m With 100% Signal Boost: 660 m When affected by 100% Relaying: 605 m Maximum possible: 825.7 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+Q.F. 25-Pr. Gun/How.. 
+22. 
+280. 
+5.0. 
+0.76. 
+5.5. 
+nan. 
+510.0. 
+28500. 
+nan. 
+Q.F. 18-Pr.. 
+21. 
+260. 
+5.45. 
+0.78. 
+5.5. 
+nan. 
+nan. 
+10500. 
+IV. 
+Wright Continental R-975C1. 
+400. 
+20. 
+nan. 
+516. 
+11580. 
+V. 
+Wright Continental R-975C4. 
+460. 
+20. 
+nan. 
+550. 
+13900. 
+II. 
+Sexton. 
+25.9. 
+18. 
+0. 
+nan. 
+11000. 
+600. 
+III. 
+Sexton II. 
+28.0. 
+20. 
+0. 
+nan. 
+11000. 
+1900. 
+VII. 
+WS No. 19 Mk. II. 
+450. 
+nan. 
+40. 
+21000. 
+VI. 
+WS No. 19 Mk. I. 
+400. 
+nan. 
+40. 
+15000. 
+VIII. 
+WS No. 19 Mk. III. 
+550. 
+nan. 
+40. 
+22000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=GB27_Sexton
+|
+
+|Gallery=
+
+|InTheGame_pros=
+* Gun range: stock: 850 m, top: 1050 m 
+* Excellent RoF
+* Good gun sweep
+* Good straight-line speed
+* Decent accuracy
+* Good gun depression for self-defence
+* Huge ammo capacity
+* Performs well as a TD due to good accuracy 
+|InTheGame_cons=
+* Low Alpha damage
+* Worst penetration of all Tier III SPGs
+* Slow track traverse - it is awful
+* Low shell arc
+* Somewhat large target
+* Frontal armor values only apply to a part of the hull: superstructure is only 19mm
+
+
+|InTheGame_performance=
+The Sexton II is similar in performance to the [[M7 Priest]] ,although while the Priest has a slower firing, more inaccurate gun with huge damage, the Sexton II has a fast-firing gun with underwhelming damage and penetration. GB27 Sexton  Despite this, it's not a bad SPG, as the high rate of fire, decent accuracy and huge ammo capacity enable you to dish out shells in a steady rate. GB27 Sexton  The mobility is very similar to the Priest with good straight-line speed and lots of horsepower, although any kind of attempted turning will slow you down greatly. GB27 Sexton  The traverse rate is poor, but once you get up to speed you can outrun many would-be assailants. GB27 Sexton  The decent armor and health allow you to survive a little longer than some other SPGs against enemy fire, but are still nothing to rely upon, as you will go up in flames if anything with decent damage output comes your way. GB27 Sexton  Against autocannon-toting scouts, however, your good gun depression coupled with the decent durability of your armor will allow you to take potshots at them from point-blank range if one gets too close for comfort. GB27 Sexton  However, don't expect to survive anyone who fires at your superstructure, as it can be penetrated even by the weakest High-Explosive shells. GB27 Sexton   Your traverse rate is poor, however, so any scout that gets close enough will have no trouble literally running circles around you, and the low damage and penetration mean that the scout doesn't necessarily die if you hit it. GB27 Sexton  You may have to move up to 100-200 meters from your deployment point on large maps due to the unexceptional shell range, at least if attempting to fire from corner to corner. GB27 Sexton 
+
+Mine has a bumper sticker "I would rather be in the M7 Priest"
+
+|InTheGame_research=
+* Nothing carries over from the Loyd Gun Carriage. GB27 Sexton 
+* First, research the Q. GB27 Sexton F. GB27 Sexton  25-Pr. GB27 Sexton  Gun/How. GB27 Sexton 
+* Next, research the Wright Continental R-975C4 Engine. GB27 Sexton 
+* Research the WS No. GB27 Sexton  19 Mk. GB27 Sexton  II Radio, followed by the WS No. GB27 Sexton  19 Mk. GB27 Sexton  III Radio. GB27 Sexton 
+* Finally, research the Sexton II Suspension. GB27 Sexton 
+
+|InTheGame_equipment=Medium-Caliber Artillery Shell Rammer,GLD
+
+|History=[[image:Workers_assembling_a_Sexton_self-propelled_gun_at_the_Montreal_Locomotive_Works,_Montr%C3%A9al,_Qu%C3%A9bec,_Canada,_August_1944. GB27 Sexton . GB27 Sexton jpg|thumb|200px|left|Workers assembling a Sexton self-propelled gun at the Montreal Locomotive Works, Montréal, Québec, Canada, August 1944. GB27 Sexton ]]
+The 25pdr SP, tracked, Sexton was a self-propelled artillery vehicle of World War II, based on an American tank hull design, built by Canada for the British Army, and associated Commonwealth forces, and some of the other Allies. GB27 Sexton  It was developed to give the British Army a mobile artillery gun using their Ordnance QF 25 ponder gun-howitzer. GB27 Sexton  From 1943 it replaced the US built M7 Priest (US 105 mm guns on a M3 Lee tank chassis); these had replaced the British Bishop (25 pdr on Valentine tank chassis) which had been improvised in 1942. GB27 Sexton 
+
+==Development history==
+
+In 1942, the US supplied enough M7 Priest self-propelled howitzers to equip a number of British Army artillery units in fighting in North Africa. GB27 Sexton  The British found the Priest to be an excellent weapon, which gave artillery the same mobility as tank units. GB27 Sexton  However, the Priest used the American 105 mm howitzer rather than the British equivalent, the QF 25 ponder gun-howitzer. GB27 Sexton  Having to supply different ammunition for a few units complicated supply for the British Army. GB27 Sexton  The US attempted to fit a 25 ponder to the M7 Priest - producing the T51 in mid 1942 - but the program suffered delays including the destruction of the gun mount on the prototype during the first live-firing exercises. GB27 Sexton  US resources were not available for a vehicle solely for British use so Britain turned to Canada. GB27 Sexton  The Canadian Army Engineering Design Branch through the Canadian government's Department of Munitions and Supply were asked to build a vehicle similar to the M7 on the Ram tank chassis. GB27 Sexton  The Ram tank was a Canadian tank design that used the chassis of the American Medium Tank M3 as did the Priest. GB27 Sexton  The Ram had been sidelined by a decision to standardize on the Sherman tank for British and Canadian units. GB27 Sexton  A prototype was completed on 23 June 1942. GB27 Sexton  Following trials in Canada, the Canadian government ordered 124 vehicles in three batches. GB27 Sexton  The prototype was shipped to the United Kingdom in early 1943, where it underwent further trials; the vehicle was found to be highly satisfactory and was given the designation "Sexton" (after the religious custodian) in May 1943. GB27 Sexton  The British government ordered 300 Sextons in the summer of 1943; however, these Sextons were to be built on Grizzly tank hulls (Canadian-built M4A1 Sherman tanks) instead of Ram tank hulls. GB27 Sexton  The Ram-based Sexton was designated as the Sexton Mark I and the Grizzly-based Sexton was designated the Sexton Mark II. GB27 Sexton  British orders for the Sexton II eventually totaled 2,026 vehicles. GB27 Sexton 
+
+Unlike the Ram, which was inferior operationally to the Sherman and never saw combat as a gun tank, the Sexton was successful. GB27 Sexton  Between 1943 and 1945, the Montreal Locomotive Works manufactured a total of 2,150 Sextons for the use of both Canadian and British forces. GB27 Sexton  The vehicle entered service in September 1943. GB27 Sexton  The vehicles were first used in combat in Italy by the British Eighth Army. GB27 Sexton  Later Sextons took part in the invasion of France and subsequent Battle of Normandy and the campaign in north-western Europe. GB27 Sexton  During the D-day landings a number of Sextons were ordered to fire from their landing craft as they approached the beaches although the fire did not prove to be very accurate. GB27 Sexton  In spite of its confused origins, the Sexton was a combination of proven parts and proved to be a successful design and remained in British service until 1956. GB27 Sexton  In oppose to Germany, which often used its self-propelled guns (assault guns) in a front line direct fire role, Britain and Canada only used the Sexton for indirect supporting fire. GB27 Sexton  They kept the Sextons well back from the front line and used forward observers to direct overwhelming fire on a target. GB27 Sexton 
+
+|HistAcc=
+The QF 18-pdr was only fitted to the Birch Gun. GB27 Sexton  Its configuration on the Sexton is fake. GB27 Sexton 
+* The Birch Gun predates the Sexton by 20 years. GB27 Sexton  In World of Tanks, however, the Birch Gun is the successor to the Sexton. GB27 Sexton 
+* The Sexton replaced the problematic Bishop in service. GB27 Sexton  In World of Tanks, however, the Bishop is two tiers higher than the Sexton. GB27 Sexton 
+* Allied recognition star is missing. GB27 Sexton 
+
+|HistoricalGallery=
+image:Two_Sexton_SP_armed_with_a_25pdr_being_built_in_a_Canadian_factory. GB27 Sexton . GB27 Sexton jpg{{!}} Two Sexton SP armed with a 25pdr being built in a Canadian factory. GB27 Sexton 
+image:Workers_assembling_a_Sexton_self-propelled_gun_at_the_Montreal_Locomotive_Works,_Montr%C3%A9al,_Qu%C3%A9bec,_Canada,_August_1944. GB27 Sexton . GB27 Sexton jpg{{!}} Workers assembling a Sexton self-propelled gun at the Montreal Locomotive Works, Montréal, Québec, Canada, August 1944. GB27 Sexton 
+image:Sexton_SP%27s_and_Sherman_tanks_being_built_side_by_side_in_a_Canadian_factory. GB27 Sexton _All_Sherman_tanks_are_single_cast_hulls. GB27 Sexton . GB27 Sexton jpg{{!}} Sexton SP's and Sherman tanks being built side by side in a Canadian factory. GB27 Sexton  All Sherman tanks are single cast hulls
+image:Sexton_SP_of_7th_Armoured_Desert_Rats_-_Europe_1944. GB27 Sexton jpg{{!}} Sexton SP of 7th Armoured Desert Rats - Europe 1944
+image:Sexton_SP_-_Nijmegen. GB27 Sexton jpg{{!}} Sexton SPG - Nijmegen
+image:Final_touches_on_Sexton_SP_at_the_final_stage_of_production. GB27 Sexton jpg{{!}}Final touches on Sexton SP at the final stage of production
+image:Canadian_Sexton_SP_on_the_marsh. GB27 Sexton jpg{{!}} Canadian Sexton SP on the marsh
+image:Canadian_Ordnance_QF_25_pounder_SP_%C2%ABSexton%C2%BB_in_the_morning_mist_on_the_field_near_the_French_city_of_Ifs,_Calvados_region_1944. GB27 Sexton . GB27 Sexton jpg{{!}} Canadian Ordnance QF 25 pounder SP «Sexton» in the morning mist on the field near the French city of Ifs, Calvados region 1944
+image:British_Sexton_SPG. GB27 Sexton jpg{{!}} British Sexton SPG
+image:A_Sexton_SP_being_tested_by_factory_works_before_being_sent_to_into_combat. GB27 Sexton _Hence_the_no_markings_or_0. GB27 Sexton 50cal_machine_gun_attachment. GB27 Sexton jpg{{!}} A Sexton SP being tested by factory works before being sent to into combat. GB27 Sexton  Hence the no markings or 0. GB27 Sexton 50cal machine gun attachment
+image:A_Sexton_SP_and_a_variation_of_a_M3_or_M5_halftrack. GB27 Sexton jpg{{!}}A Sexton SP and a variation of a M3 or M5 halftrack
+image:A_column_of_Sexton_SP%27s_on_their_way_to_the_front-lines. GB27 Sexton . GB27 Sexton jpg{{!}} A column of Sexton SP's on their way to the front-lines
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

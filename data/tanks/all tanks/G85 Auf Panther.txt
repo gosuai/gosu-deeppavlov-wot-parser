@@ -1,0 +1,183 @@
+1,360,000 Cost. 
+850Expression error: Unrecognized word "unable". HP Hit Points. 
+38.13/40Expression error: Unexpected < operator./Expression error: Unrecognized word "unable". t Weight Limit. 
+900Unable to match configuration for query: engine:g85_auf_panther::top|power hp Engine Power. 
+60/22 km/h Speed Limit. 
+36Unable to match configuration for query: chassis:g85_auf_panther::top|traversespeed deg/s Traverse. 
+23.6Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+85/50/40 mm Hull Armor. 
+50/30/30Unable to match configuration for query: turret:g85_auf_panther::top|armorturretfront/Unable to match configuration for query: turret:g85_auf_panther::top|armorturretside/Unable to match configuration for query: turret:g85_auf_panther::top|armorturretback mm Turret Armor. 
+Shells. 
+0/0/0 0/0/0 Shell Cost. 
+70/70/90Unable to match configuration for query: gun:g85_auf_panther::top|damage1/Unable to match configuration for query: gun:g85_auf_panther::top|damage2/Unable to match configuration for query: gun:g85_auf_panther::top|damage3 HP Damage. 
+67/130/25Unable to match configuration for query: gun:g85_auf_panther::top|penetration1/Unable to match configuration for query: gun:g85_auf_panther::top|penetration2/Unable to match configuration for query: gun:g85_auf_panther::top|penetration3 mm Penetration. 
+Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:g85_auf_panther::stock|burstcount rounds Magazine Size: Unable to match configuration for query: gun:g85_auf_panther::stock|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:g85_auf_panther::stock|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information.Expression error: Unrecognized word "unable". r/m ▲ Magazine-fed Gun Burst Length: Unable to match configuration for query: gun:g85_auf_panther::top|burstcount rounds Magazine Size: Unable to match configuration for query: gun:g85_auf_panther::top|clipcount roundExpression error: Unrecognized word "unable". Cycle Time: Expression error: Unexpected < operator. s Magazine Reload Times Nominal: Unable to match configuration for query: gun:g85_auf_panther::top|reloadtime s 50% Crew: Expression error: Unexpected < operator. s 75% Crew: Expression error: Unexpected < operator. s 100% Crew: Expression error: Unexpected < operator. s With Vents: Expression error: Unexpected < operator. s With Vents and BiA: Expression error: Unexpected < operator. s Click here for more information. Rate of Fire. 
+Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:g85_auf_panther::stock|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:g85_auf_panther::stock|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:g85_auf_panther::stock|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information.Expression error: Unrecognized word "unable". ▲ Magazine-fed Gun Using Shell Type 1 (Unable to match configuration for query: gun:g85_auf_panther::top|damage1 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (Unable to match configuration for query: gun:g85_auf_panther::top|damage2 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (Unable to match configuration for query: gun:g85_auf_panther::top|damage3 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unrecognized word "unable". 50% Crew: Expression error: Unrecognized word "unable". 75% Crew: Expression error: Unrecognized word "unable". 100% Crew: Expression error: Unrecognized word "unable". With Vents: Expression error: Unrecognized word "unable". With Vents and BiA: Expression error: Unrecognized word "unable". Click here for more information. Damage Per Minute. 
+Expression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see CrewExpression error: Unrecognized word "unable". m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With BiA: Expression error: Unexpected < operator. m With BiA and Vents: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Crew Accuracy. 
+Expression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or EquipmentExpression error: Unrecognized word "unable". s ▲ With 50% Crew: Expression error: Unexpected < operator. s With 75% Crew: Expression error: Unexpected < operator. s With 100% Crew: Expression error: Unexpected < operator. s With GLD: Expression error: Unexpected < operator. s With BiA: Expression error: Unexpected < operator. s With BiA and Vents: Expression error: Unexpected < operator. s With both and GLD: Expression error: Unexpected < operator. s Maximum possible: Expression error: Unexpected < operator. s For more details, see Crew or Equipment Aim time. 
+Unable to match configuration for query: turret:g85_auf_panther::stock|turrettraverseUnable to match configuration for query: turret:g85_auf_panther::top|turrettraverse deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-Unable to match configuration for query: gun:g85_auf_panther::top|depression°/+Unable to match configuration for query: gun:g85_auf_panther::top|elevation° Elevation Arc. 
+Unable to match configuration for query: gun:g85_auf_panther::stock|maxammoUnable to match configuration for query: gun:g85_auf_panther::top|maxammo rounds Ammo Capacity. 
+Expression error: Unrecognized word "unable".Expression error: Unrecognized word "unable". % Chance of Fire. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With Recon and Situational Awareness: Expression error: Unexpected < operator. m With Coated Optics: Expression error: Unexpected < operator. m With Binocular Telescope: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment m ▲ With 50% Crew: Expression error: Unexpected < operator. m With 75% Crew: Expression error: Unexpected < operator. m With 100% Crew: Expression error: Unexpected < operator. m With 100% Signal Boost: Expression error: Unexpected < operator. m When affected by 100% Relaying: Expression error: Unexpected < operator. m Maximum possible: Expression error: Unexpected < operator. m For more details, see Skills or Equipment Signal Range. 
+nan. 
+5 cm Kw.K. 39 L/60. 
+67/130/25. 
+70/70/90. 
+26.09. 
+0.39. 
+1.7. 
+nan. 
+nan. 
+13970. 
+nan. 
+VK 16.02 Leopard. 
+//. 
+44. 
+380. 
+nan. 
+nan. 
+9380. 
+nan. 
+Engine_Auf_Panther. 
+nan. 
+0. 
+nan. 
+nan. 
+88000. 
+nan. 
+Aufkl. Panther. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+15000. 
+nan. 
+Radio_Auf_Panther. 
+nan. 
+nan. 
+nan. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{removedTank}}
+{{TankData|Tank=Aufklärungspanzer Panther
+|Also known as "Awful Panther". G85 Auf Panther  The Aufklärungspanzer Panther was replaced by [[Tank:G113 SP I C |Spähpanzer SP I C. G85 Auf Panther ]] in patch 0. G85 Auf Panther 9. G85 Auf Panther 9 due to the fact that it had completely different playstyle than the rest of the line. G85 Auf Panther  However, WG are currently reworking this vehicle and planned to be released as Tier 8 premium light tank. G85 Auf Panther 
+
+|InTheGame_pros=
+- Fast acceleration and respectful top speed (despite size) allows for fast relocation to offer support where needed. G85 Auf Panther 
+ 
+- Good penetration (with great prem round) for a tier 7 scout. G85 Auf Panther 
+
+- Good aim time, high shell velocity and amazing accuracy. G85 Auf Panther  A blistering ROF (faster than 3 seconds reload with good crew and a rammer) means DPM is high as well. G85 Auf Panther 
+
+- Good Radio and good view range. G85 Auf Panther 
+
+- Retains camo bonus while moving. G85 Auf Panther 
+
+- Can mount 10. G85 Auf Panther 5cm howitzer if preferred. G85 Auf Panther 
+
+- Thick hull armor for a light tank (Panther hull). G85 Auf Panther  Front plate if angled can bounce guns with up to 160mm of pen. G85 Auf Panther  Side armor of 50mm avoids triple overmatch from <150mm caliber rounds. G85 Auf Panther  
+
+- Good for ramming lighter vehicles due to its weight. G85 Auf Panther 
+
+|InTheGame_cons=
+- Low alpha damage. G85 Auf Panther 
+
+- High cost of premium shells. G85 Auf Panther 
+
+- Frontally mounted transmission. G85 Auf Panther 
+
+- Can be ammo racked from frontal shots. G85 Auf Panther 
+
+- Very large silhouette, especially for a light tank. G85 Auf Panther 
+
+- Poor gun depression. G85 Auf Panther 
+
+- Atrocious stock grind due to weak gun. G85 Auf Panther  (Stock, the only way to consistently deal damage is ramming). G85 Auf Panther 
+
+|InTheGame_performance=
+The Aufklärungspanzer Panther comes after the VK 28. G85 Auf Panther 01 and requires a completely different playstyle. G85 Auf Panther   Think of the Auf P as a Passive Scout/Sniper/Flanker and you will get an idea of how to play it effectively in most fights. G85 Auf Panther 
+
+In early game your main goal is to spot the enemy or fire from safe distance. G85 Auf Panther  Take into account that the camo is not the best for a light (or even some mediums). G85 Auf Panther  When firing from distance, aim for weakpoints or use APCR for harder targets. G85 Auf Panther  Wait till a side/rear shot presents itself to take on tougher tanks. G85 Auf Panther  
+
+In late game your main role is flanking, creating local superiority by turning enemy guns or decimating them with superior damage per minute and solid pen. G85 Auf Panther  When not focused, the Auf P is a very dangerous tank that will silently (low alpha) take away large chunks of health. G85 Auf Panther  
+
+Keep in mind that you can ram and come out on top in many situations. G85 Auf Panther  This can be very effective, especially versus enemy light tanks. G85 Auf Panther  Just keep in mind that on average, ramming heavies is not a great idea. G85 Auf Panther  
+
+The key points are that you have a large profile and below average camo for a scout and that while you fire fast, your damage per shot (alpha) remains low. G85 Auf Panther   
+
+|InTheGame_research=
+* Free XP the upgraded suspension and turret straight off the bat if possible. G85 Auf Panther  You can mount the FuG12 with the stock tracks as well. G85 Auf Panther 
+
+* If the VK36. G85 Auf Panther 01 has been researched and the Waffe unlocked, mount it on the Aufklärungspanzer as soon as you have upgraded the suspension and turret. G85 Auf Panther  The Wafffe is the best gun for it and turns the Aufklärungspanzer into a formidable tank. G85 Auf Panther   It has an amazing muzzle velocity and penetration, 157mm with standard AP ammo and 221 mm with APCR, allowing you to damage almost every tank on the batlefield. G85 Auf Panther   
+
+* If you have researched the 30. G85 Auf Panther 01D and 30. G85 Auf Panther 02D, or you have pursued the Medium and Casemate TD lines via the Panther and JagdPanther, respectively, you should have unlocked the second engine for the A. G85 Auf Panther Panther. G85 Auf Panther  Mount it as soon as you can and you'll go from being a slightly faster Panther to almost as fast as an E-50. G85 Auf Panther  Unlock the top engine for 900hp at under 40 tonnes (22. G85 Auf Panther 5hp/t). G85 Auf Panther 
+
+====Suggested crew skills====
+* Commander: Sixth Sense, Camouflage, BIA (if you have gold, train camo first, then switch to Sixth Sense and train camo again)
+* Gunner: Camouflage, Designated Taraget, BIA
+* Driver: Camouflage, Off Road Driving, BIA
+* Loader: Camouflage, Safe Stowage, BIA
+* Radioman: Camouflage, Situational Awareness, BIA
+
+|InTheGame_equipment=
+Medium-Caliber Tank Gun Rammer, Vertical Stabilizer Mk 1, Coated Optics
+
+|History=
+[[image:Aufklärungspanzer_Panther_front_left. G85 Auf Panther jpg|thumb|200px|left|Aufklärungspanzer Panther]]
+In 1942 Aufklärungspanzer Panther design was in debate between Hitler (who as always wanted a heavier, better armored design) and the Heer. G85 Auf Panther  After a rather lengthy debate, Hitler was finally persuaded to approve the lighter 21. G85 Auf Panther 9 ton design, while using many existing Panther components to ease production. G85 Auf Panther   Jumping on that, Speer said that the characteristics of the tank were so similar to the Panther that the latter could be used instead. G85 Auf Panther  This resulted in a somewhat lightened Panther that used the much smaller Leopard turret  (related to the wheeled Puma design) and the soon to be inadequate 5cm K. G85 Auf Panther W. G85 Auf Panther K 39. G85 Auf Panther  Apparently the small matter of tank size did not seem to bother him. G85 Auf Panther  Following on that idea, competition arose, leading Rheinmetall to offer its own interpretation on the design about a month later, an artillery observation vehicle with similar specification called the Panzerbeobachtungswagen Panther. G85 Auf Panther  Despite the bulkier design, it used the same 5cm cannon in a dummy barrel resembling the 7. G85 Auf Panther 5cm L/70, all in all being an equivalent design to M. G85 Auf Panther A. G85 Auf Panther N. G85 Auf Panther 's recon tank. G85 Auf Panther  Soon enough, battlefield realities made both designs obsolete when it was apparent that the 5cm cannon was inadequate for its task unless shooting expensive tungsten ammunition and Panther testing itself showed the base chassis was far from being mature, leading to a quiet termination. G85 Auf Panther 
+
+Ironically, Panther's chronically weak final drive and suspension would likely have been far more useful in a tank of about half the weight, which would end up being cheaper by using standardized components (an idea that would soon resurface with later Panther design and the paper E-series) and its armament could still have had a chance to either be refocused in a different role (20 and 30mm autocannons were still very useful against infantry and soft skinned vehicles) or recycled into a prime candidate for the 7. G85 Auf Panther 5cm PAK 50 gun project, which was an excellent way to transform 5cm cannons into low velocity 7. G85 Auf Panther 5cm howitzers using the 75mm L/24 ammo, useful both as HE round and decent against tanks with its HEAT warhead. G85 Auf Panther  Despite several other recon tank projects in 1943-44, in the end the old Skoda 38(t) had to soldier on in the light tank role, while the wheeled sdkfz 234 Puma with a similar turret design showed the usefulness of a well armed and flexible recon vehicle. G85 Auf Panther 
+
+|HistoricalGallery=
+File:Apanther1. G85 Auf Panther jpg
+
+|HistAcc=
+While the Aufklärungspanzer Panther project did exist in some form, there are no known records showing that it was to be mounted with the VK 28. G85 Auf Panther 01 Ausf. G85 Auf Panther  C turret, or any other armament other than the 5 cm Kw. G85 Auf Panther K. G85 Auf Panther  39 L/60. G85 Auf Panther 
+
+|Ref_references=
+
+|Ref_sources=
+* H. G85 Auf Panther L. G85 Auf Panther Doyle, T. G85 Auf Panther Jentz – Panther Variants 1942-1945
+
+|Ref_links=
+* https://ftr-wot. G85 Auf Panther blogspot. G85 Auf Panther com/2013/02/aufklarungspanzer-panther-tier-7-lt. G85 Auf Panther html
+* https://worldoftanks. G85 Auf Panther ru/encyclopedia/vehicles/germany/auf_panther/
+* https://zxhistory. G85 Auf Panther blogspot. G85 Auf Panther com/2013/03/aufklarungspanzer-panther-industrialist. G85 Auf Panther html
+
+}}

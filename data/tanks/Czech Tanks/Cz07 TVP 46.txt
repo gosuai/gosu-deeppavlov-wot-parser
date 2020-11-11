@@ -1,0 +1,330 @@
+2,410,000 Cost. 
+13501450 HP Hit Points. 
+33/3436.17/41.5 t Weight Limit. 
+600700 hp Engine Power. 
+50/20 km/h Speed Limit. 
+4044 deg/s Traverse. 
+18.1819.35 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+65/40/30 mm Hull Armor. 
+65/40/4065/40/40 mm Turret Armor. 
+AP/HEAT/HE AP/APCR/HE Shells. 
+200/4800/160 560/4800/420 Shell Cost. 
+220/220/270320/320/420 HP Damage. 
+145/200/44188/235/53 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 6.2 s 50% Crew: 7.68 s 75% Crew: 6.71 s 100% Crew: 5.94 s Rammer: 5.35 s Vents: 5.81 s Both: 5.23 s Both and BiA: 5.11 s Both and Max Crew %: 4.9 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 11 s 50% Crew: 13.63 s 75% Crew: 11.9 s 100% Crew: 10.55 s Rammer: 9.5 s Vents: 10.32 s Both: 9.29 s Both and BiA: 9.08 s Both and Max Crew %: 8.71 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (220 Damage):  Theoretical Damage Per Minute Nominal DPM: 2129.6 50% Crew: 1718.2 75% Crew: 1969 100% Crew: 2222 100% Crew Vents: 2272.6 Rammer: 2468.4 Both: 2525.6 Both and BiA: 2580.6 Both and Max Crew %: 2692.8 Advantageous Damage Per Minute First-shot DPM: 2349.6 50% Crew: 1938.2 75% Crew: 2189 100% Crew: 2442 100% Crew Rammer: 2688.4 Vents: 2492.6 Both: 2745.6 Both and BiA: 2800.6 Both and Max Crew %: 2912.8 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (220 Damage):  Theoretical Damage Per Minute Nominal DPM: 2129.6 50% Crew: 1718.2 75% Crew: 1969 100% Crew: 2222 100% Crew Vents: 2272.6 Rammer: 2468.4 Both: 2525.6 Both and BiA: 2580.6 Both and Max Crew %: 2692.8 Advantageous Damage Per Minute First-shot DPM: 2349.6 50% Crew: 1938.2 75% Crew: 2189 100% Crew: 2442 100% Crew Rammer: 2688.4 Vents: 2492.6 Both: 2745.6 Both and BiA: 2800.6 Both and Max Crew %: 2912.8 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (270 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2613.6 50% Crew: 2108.7 75% Crew: 2416.5 100% Crew: 2727 100% Crew Vents: 2789.1 Rammer: 3029.4 Both: 3099.6 Both and BiA: 3167.1 Both and Max Crew %: 3304.8 Advantageous Damage Per Minute First-shot DPM: 2883.6 50% Crew: 2378.7 75% Crew: 2686.5 100% Crew: 2997 100% Crew Rammer: 3299.4 Vents: 3059.1 Both: 3369.6 Both and BiA: 3437.1 Both and Max Crew %: 3574.8 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: 1744 50% Crew: 1408 75% Crew: 1612.8 100% Crew: 1817.6 100% Crew Vents: 1859.2 Rammer: 2019.2 Both: 2064 Both and BiA: 2112 Both and Max Crew %: 2201.6 Advantageous Damage Per Minute First-shot DPM: 2064 50% Crew: 1728 75% Crew: 1932.8 100% Crew: 2137.6 100% Crew Rammer: 2339.2 Vents: 2179.2 Both: 2384 Both and BiA: 2432 Both and Max Crew %: 2521.6 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (320 Damage):  Theoretical Damage Per Minute Nominal DPM: 1744 50% Crew: 1408 75% Crew: 1612.8 100% Crew: 1817.6 100% Crew Vents: 1859.2 Rammer: 2019.2 Both: 2064 Both and BiA: 2112 Both and Max Crew %: 2201.6 Advantageous Damage Per Minute First-shot DPM: 2064 50% Crew: 1728 75% Crew: 1932.8 100% Crew: 2137.6 100% Crew Rammer: 2339.2 Vents: 2179.2 Both: 2384 Both and BiA: 2432 Both and Max Crew %: 2521.6 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (420 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2289 50% Crew: 1848 75% Crew: 2116.8 100% Crew: 2385.6 100% Crew Vents: 2440.2 Rammer: 2650.2 Both: 2709 Both and BiA: 2772 Both and Max Crew %: 2889.6 Advantageous Damage Per Minute First-shot DPM: 2709 50% Crew: 2268 75% Crew: 2536.8 100% Crew: 2805.6 100% Crew Rammer: 3070.2 Vents: 2860.2 Both: 3129 Both and BiA: 3192 Both and Max Crew %: 3309.6 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.458 m With 75% Crew: 0.4 m With 100% Crew: 0.355 m With BiA: 0.347 m With BiA and Vents: 0.339 m Maximum possible: 0.325 m For more details, see Crew m ▲ With 50% Crew: 0.496 m With 75% Crew: 0.433 m With 100% Crew: 0.384 m With BiA: 0.375 m With BiA and Vents: 0.367 m Maximum possible: 0.352 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.973 s With 75% Crew: 2.596 s With 100% Crew: 2.301 s With GLD: 2.092 s With BiA: 2.25 s With BiA and Vents: 2.202 s With both and GLD: 2.001 s Maximum possible: 1.918 s For more details, see Crew or Equipment Aim time. 
+3842 deg/s Turret Traverse. 
+360° Gun Arc. 
+-12°/+30°-6°/+20° Elevation Arc. 
+8074 rounds Ammo Capacity. 
+1515 % Chance of Fire. 
+m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 335 m With 75% Crew: 383.7 m With 100% Crew: 432.8 m With 100% Signal Boost: 498 m When affected by 100% Relaying: 456.5 m Maximum possible: 623 m For more details, see Skills or Equipment m ▲ With 50% Crew: 686.2 m With 75% Crew: 785.8 m With 100% Crew: 886.5 m With 100% Signal Boost: 1020 m When affected by 100% Relaying: 935 m Maximum possible: 1276 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+100 mm vz. 44S. 
+175/250/50. 
+250/250/330. 
+7.5. 
+0.38. 
+2.4. 
+nan. 
+2257. 
+79200. 
+VII. 
+8,8 cm vz. 37N. 
+145/200/44. 
+220/220/270. 
+10.34. 
+0.37. 
+2.3. 
+nan. 
+1650. 
+66000. 
+VIII. 
+8,8 cm vz. 41N. 
+194/237/44. 
+240/240/295. 
+8.57. 
+0.37. 
+2.0. 
+nan. 
+2700. 
+105800. 
+VIII. 
+10,5 cm vz. 39N. 
+188/235/53. 
+320/320/420. 
+5.45. 
+0.4. 
+2.4. 
+nan. 
+3600. 
+114300. 
+VII. 
+TVP VTU Koncept. 
+65/40/40. 
+38. 
+370. 
+nan. 
+4700. 
+18000. 
+VIII. 
+T 40. 
+65/40/40. 
+42. 
+380. 
+nan. 
+6200. 
+31800. 
+VII. 
+Škoda 16 cylinder diesel (600). 
+600. 
+15. 
+nan. 
+1400. 
+33000. 
+VII. 
+Škoda 16 cylinder diesel (660). 
+660. 
+15. 
+nan. 
+1400. 
+37600. 
+VIII. 
+Škoda 16 ADH 140. 
+700. 
+15. 
+nan. 
+1400. 
+52000. 
+VII. 
+TVP VTU Koncept. 
+34.0. 
+40. 
+0. 
+nan. 
+11730. 
+18000. 
+VIII. 
+T 40. 
+41.5. 
+44. 
+0. 
+nan. 
+11730. 
+33500. 
+VI. 
+Radiostanice Fu 7. 
+415. 
+nan. 
+70. 
+8160. 
+X. 
+Radiostanice RM-31T. 
+850. 
+nan. 
+62. 
+57500. 
+Light Tanks. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Medium Tanks. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Heavy Tanks. 
+nan. 
+Tank Destroyers. 
+nan. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank= 
+
+| 
+
+|Gallery=
+
+File:TVP VTU Koncept scr 1. Cz07 TVP 46 jpg
+File:TVP VTU Koncept scr 2. Cz07 TVP 46 jpg
+File:TVP VTU Koncept scr 3. Cz07 TVP 46 jpg
+
+
+|InTheGame_pros= 
+* Good alpha damage with the 105mm gun
+* Very good acceleration, good mobility
+* Large hitpoint pool
+* One of the best DPM among all 88-90mm guns, with the top 88mm gun. Cz07 TVP 46 
+
+|InTheGame_cons= 
+* Poor penetration 
+* Bad gun depression 
+* Large, poorly armored and low camouflage values
+* Frequent module damage and crew injury
+* Horrible stock grind
+
+|InTheGame_performance= 
+
+The TVP VTU is essentially an improved Škoda T 40 without premium economy bonuses, two tiers higher. Cz07 TVP 46 
+It is a fast tank with a large profile. Cz07 TVP 46  You get to chose either a 8. Cz07 TVP 46 8 cm gun with high DPM or a 10. Cz07 TVP 46 5 cm with a higher alpha. Cz07 TVP 46  The 8. Cz07 TVP 46 8 cm gun is superior in every respect except for alpha damage. Cz07 TVP 46  The guns fire low velocity shells and make it hard to fire at long range. Cz07 TVP 46  In order to hit the target with more consistency, you should avoid firing before the reticle is fully aimed. Cz07 TVP 46 
+
+The TVP VTU has everything it needs to be a good tank except one crucial thing : the ability to survive a hit. Cz07 TVP 46 
+The tank has a very thin armor, which wouldn't be such an issue if the modules weren't so fragile. Cz07 TVP 46  While driving this tank, you can expect a module to break or a crew injury on every hit. Cz07 TVP 46  Since the tank is very tall and boxy, it is also very hard to hide in cover. Cz07 TVP 46 
+While driving this tank, you should stay as far as you can from the front line, but close enough so that your gun firing arc doesn't become too much of an issue. Cz07 TVP 46 
+
+The Czech tier VIII grind is very painful, but the IX and X are definitely worth it. Cz07 TVP 46   
+
+|InTheGame_research= 
+
+* The 100mm vz 44S gun and top radio carry over from the T-34/100 and can be installed immediately
+* Research the suspensions
+* Research the 8. Cz07 TVP 46 8cm gun next, it's the overall best gun for this tank
+* Research the turret
+* The engines can be saved for last as the stock engine already has a very good hp/t 
+* The 10,5cm gun only offers higher alpha damage, and should be ignored unless one wants to elite the tank
+
+|InTheGame_equipment=
+Coated Optics, Improved Ventilation Class 2,Medium-Caliber Tank Gun Rammer, Enhanced Gun Laying Drive,Vertical Stabilizer, "Wet" Ammo Rack Class 1
+
+|InTheGame_Equipment_Builds=
+The stock turret has better gun depression than the upgrade. Cz07 TVP 46 
+
+Vertical Stabilizer and Gun Rammer are a must. Cz07 TVP 46 
+Coated optics for aggressive playstyle, Binocular Telescope for passive playstyle. Cz07 TVP 46  
+Crew skills should focus on enhanced mobility, as well as view range and accuracy for long range fighting. Cz07 TVP 46  
+Save-stowage on the loader is mandatory. Cz07 TVP 46  This tank, like many Czech tanks, tends to take ammo rack damage every time it is hit. Cz07 TVP 46 
+
+|External_Reviews= 
+
+|History= 
+
+The development of post-war Czechoslovak tanks started very soon – by the end of 1945, where VTÚ (Vojenský Technický Ústav – Military Technical Institute) filed a report to MNO (Ministry of National Defense) and to the local Red Army committee on the state of current tanks and other armored vehicles development. Cz07 TVP 46  This led to series of proposals I will deal with later, culminating with the TVP project (Tank Všeobecného Použití – Tank for General Use). Cz07 TVP 46  TVP was heavily influenced by both Soviet (cast turret) and German development (gun mount, welded turret version, mantlet) and drew from the best of both worlds. Cz07 TVP 46 
+
+'''1945-1946 specifications and first Škoda proposal'''
+
+Based on the above mentioned report, on 17. Cz07 TVP 46 10. Cz07 TVP 46 1945, the 1st Department of Army HQ submitted its ideas about the new medium tank to VTU. Cz07 TVP 46  The requirements included:
+
+* 30-33 ton weight
+* 5 man crew
+* 8,5 to 10,5 cm gun with 80 shells and with a coaxial Vz. Cz07 TVP 46 37 or BESA heavy machinegun, with another MG of the same type used as bow machinegun (3600 rounds for both MG’s)
+* armor plates – RHA plates of following thicknesses: 65mm, 40mm, 30mm and 20mm
+* 450mm clearance
+* ground pressure of 0,5kg/cm3
+* a diesel engine
+* road speed of 50 km/h
+
+Interesting fact is that the vehicle design itself was to be selected only after selecting the gun itself (the tank was supposed to be “built around the gun”), based on comparison trials of all the guns available. Cz07 TVP 46  In December 1945 to February 1946 (Dubánek here mixes the dates, an obvious typo – I fixed it), the VTU representatives considered the 88mm German AA gun (the AA role is specifically mentioned, but it’s possible the author has the KwK 43 L/71 in mind – in post-war Czechoslovakia, the PaK 43 and 41/43 were adopted due to the lack of native or Soviet AT guns as PTK vz. Cz07 TVP 46 43 (protitankový kanon – AT gun, vz. Cz07 TVP 46 43 – 1943 pattern) with shell velocity of 1000 m/s or a 105mm gun (900 m/s) to be viable, as during tests, both were able to penetrate 100mm of armor at 3000 meters (60 deg – means 30 deg using German angle methodology, at that point Czechoslovak army was using the German trial methods, unlike the pre-war ones, that were very obscure). Cz07 TVP 46 
+
+
+Second department of III. Cz07 TVP 46 section of VTU introduced on 1. Cz07 TVP 46 3. Cz07 TVP 46 1946 their preliminary project of a medium tank with a model of 1:50 scale, called the TVP (Tank Všeobecného Použití):
+[[image:TVP_koncept. Cz07 TVP 46 jpg]]
+
+
+It was a classic Czechoslovak tank school concept. Cz07 TVP 46  The hull shape resembled the one of LT-38 and it still had leaf springs. Cz07 TVP 46  The mantlet shape was influenced by German tanks, the driver and radioman hatches were actually inspired by British designs. Cz07 TVP 46  The Soviet inspiration was in the electrical propulsion of the turret rotator. Cz07 TVP 46  This first version also had a hull flamethrower, linked to the bow machinegun (Vz. Cz07 TVP 46 37 or BESA). Cz07 TVP 46  It was considered to implement an automatic loading mechanism by Škoda (37mm, 47mm and 57mm versions existed), but at that point it was decided semi-automatic breech would be sufficient. Cz07 TVP 46  The coaxial machinegun was to be linked to the gun within the gun mount in order to save space in the turret. Cz07 TVP 46  Commander’s copula was recommended to be made fully traversable with 5 episcopes attached to the traversing ceiling, along with commander’s binoculars or artillery binocular sights and was to be equipped with holes for emeregency signal flags. Cz07 TVP 46  The turret was also proposed to be equipped with a roof-mounted grenade launcher/mortar for close defense (5-20 meters). Cz07 TVP 46 
+
+The bow machinegun (and the flamer) were capable of -10 to +25 elevation thanks to the mount, similiar to the LT-38 tank. Cz07 TVP 46  The flamethrower was to be fuelled by a 100 liter napalm tank (not technically napalm, Czechoslovaks developed their own flamethrower fuel of excellent properties, might get into that if necessery) – this tank would prolong the hull only by cca 25 cm. Cz07 TVP 46  The vehicle was to be equipped with a smoking device and by additional side armor (“Schurzen style” – another German lesson) consisting of steel mesh, fixed at 20 cm from the main hull. Cz07 TVP 46  This mesh armor was trialed as early as 1945. Cz07 TVP 46 
+
+The mobility was to be ensured by an unspecified diesel air-cooled engine, providing the vehicle with power-to-weight ratio of 20 horsepower/ton (interestingly, the ratio was specified, not engine type or horsepower, given the fact the tank was proposed to weight 33 tons, the engine would have to have 660 horsepower). Cz07 TVP 46  Ground pressure was not to exceed 0,5 kg/cm3. Cz07 TVP 46  The design counted on leaf springs for suspension, which was clearly a weakness the designers realized. Cz07 TVP 46  The commander of VTU, Col. Cz07 TVP 46  Ing. Cz07 TVP 46  Josef Trejbal proposed at least two prototypes to be built by each of the design competitiors (realistically, only Škoda and Praga were available). Cz07 TVP 46  Each of the prototypes was to be built without the gun first. Cz07 TVP 46 
+
+Škoda reacted on these VTU demands first with its proposal from 8. Cz07 TVP 46 12. Cz07 TVP 46 1946 (archive drawing designation Am 39-P), which was considered to be the “factory” version of the theoretical VTU TVP design. Cz07 TVP 46  Between 1947 and 1948, the conditions of the project were being “chiseled”, including the final version of army demands (that were always in the flux). Cz07 TVP 46  There is very little known about the TVP project from this era. Cz07 TVP 46  Czech historian Oto Holub (Československé tanky a tankisté, 1980) claims that in 1948, Škoda was working on a “medium TVP tank” weighing 16 tons with a 75mm gun, powered by a Škoda 147,2kW (197hp) engine with Praga Wilson transmission and 3-man crew, but it is widely believed (Dubánek et. Cz07 TVP 46  al. Cz07 TVP 46 ) that Holub simply mixed up the Škoda T-17 light tank project with TVP. Cz07 TVP 46  Holub also mentions a “heavy” version of TVP tank (which most likely would be the TVP we are talking about) of following parameters: 30 tons, 75mm frontal armor (40mm sides), armed with a (German) 105mm gun (900 m/s), powered by an unspecified Škoda 454 kW engine (609 hp), Praga Wilson transmission and 50km/h maximum speed. Cz07 TVP 46 
+
+[[File:T-50_(Škoda_model)_(late_1946). Cz07 TVP 46 jpg]]
+
+As for the guns used for this early project, two are mentioned. Cz07 TVP 46  First is the 105mm gun (apparently of German origin) with 900 m/s velocity, which would correspond to the German 105mm FlaK 38/39 (881 m/s) of which 200 or so were made and some where most certainly left on Czech territory after the war was over. Cz07 TVP 46  The Czechoslovak army officially adopted the type into service after the war with the designation of 105 mm PLK vz. Cz07 TVP 46 39N (PLK = Protiletadlový Kanon, AA gun – vz. Cz07 TVP 46 39 = vzor 1939, 1939 pattern and N = německý, “German”), on 1. Cz07 TVP 46 2. Cz07 TVP 46 1949 the army had 24 of them in service, on 1. Cz07 TVP 46 4. Cz07 TVP 46 1960, 16 were still in service officially. Cz07 TVP 46 
+
+The gun had following characteristics, according to US Catalog of Enemy Ordnance:
+
+* Caliber: 105mm
+* Barrel length: L/52,8
+* Shell velocity of HE shell: 880 m/s
+* Shell velocity of AP shell: 860 m/s
+* Weight of HE shell: 26 kg
+* Weight of AP shell: 26,1 kg
+* Capable of firing an APC shell of following penetration:
+
+* 165,1 mm at 1000 yards (914 meters)
+* 152,4 mm at 1500 yards (1371,6 meters)
+* 142,2 mm at 2000 yards (1828,8 meters)
+
+"Further research into this type of shell is possible. Cz07 TVP 46 "
+
+Another gun mentioned by M. Cz07 TVP 46 Dubánek was the 75mm A26 autoloaded gun with a drum loading mechanism, trialed in Czechoslovakia on a Tiger I testbed tank in 1947. Cz07 TVP 46  There is some sort of mix-up regarding what this gun actually is. Cz07 TVP 46  It is clear that there were both the A18 and A26 Škoda projects in existence, but I. Cz07 TVP 46 Pejčoch (obrněná technika) mentions the A18 75mm gun (for Škoda T-25) trialed on the Tiger in 1947 – with a drum autoloader too. Cz07 TVP 46  For the T-17 light tank project, Dubánek mentions the 75mm A18. Cz07 TVP 46  Dubánek himself admits (page 170) that the times were turbulent and many documents simply “got it wrong”. Cz07 TVP 46  Given the fact that in 1945 according to all sources the 75mm caliber gun was considered insufficient (and thus was not developed further after 1945), I am inclined to believe that in this case, the A26 and A18 on Tiger are one and the same gun. Cz07 TVP 46  In such a case, the gun would have following parameters:
+
+'''A18/26'''
+* Caliber: 75mm
+* Barrel length: L/55 (4310 mm)
+* Shell type: probably specific Czechoslovak test shell (“vzor 1943″)
+* Shell velocity: 900 m/s
+* Shell weight: 6kg
+* Penetration: 90mm (60 degrees) at 1000m
+* Factory rate of fire: 15 rounds per minute (Dubánek however mentions 40 rounds per minute for the A26 variant, trialed on the Tiger)
+* Gun weight, including autoloader: 1600kg
+
+The penetration at 1000 meters is the only real data we have on its penetration. Cz07 TVP 46  90mm at 60 degrees (almost certain to be 60 degrees, as Czechoslovak army used German methodology during the war) means cca 104mm at 90 degrees. Cz07 TVP 46  Based on PaK 40 L/48 and PaK 42 L/70 examples, the loss of penetration between 100m and 1000m is roughly 20 percent, which would give us solid penetration of 130mm at 100m. Cz07 TVP 46  The capacity of the autoloading mechanism is however not known to any of the Czech sources. Cz07 TVP 46  Given the fact that proposed tier 6 T-25 would use this gun too, it gives us a nice continuation possibility. Cz07 TVP 46 
+
+If needed, three more guns could be considered. Cz07 TVP 46  All three were paper designs from 18. Cz07 TVP 46 3. Cz07 TVP 46 1947 – these three Škoda proposals were: 76,2mm L/49 (6,58kg shell, 840 m/s), 76,2mm L/66,5 (6,58kg shell, 1000 m/s) and 88mm L/66 (10,2kg shell, 1000 m/s). Cz07 TVP 46  The 88mm project was scrapped on 10. Cz07 TVP 46 6. Cz07 TVP 46 1947 (76,2mm caliber was decided to be sufficient) and the development of the other two led to the development of the A19 AT gun (76,2mm L/70, 6,4kg Soviet AP shell in a longer casing, 915 m/s velocity). Cz07 TVP 46  The A19 gun was subsequently improved to L/72, muzzle velocity was increased to 925 m/s, Dubánek mentions the use of a (Soviet) 76,2mm subcaliber shell. Cz07 TVP 46  A prototype was made (firing trials were successful) and the development continued until 1951, when the gun was rebored to 85mm (or, rather, Vz. Cz07 TVP 46 44S (S-53) 85mm gun barrel was used), resulting in the creation of 85mm Vz. Cz07 TVP 46  52 cannon, but that’s already irrelevant. Cz07 TVP 46  The original A19 prototype exists physically in Lešany tank museum. Cz07 TVP 46 
+
+By 1948, (now nationalized) Škoda was ordered to actually deal with the project, since the chassis was proposed to be used for several SPG and TD project (this was ordered by the DKS (artillery committee – a panel of ministry of defense and Škoda artillery experts) on a meeting, held from 18. Cz07 TVP 46 11. Cz07 TVP 46 1948 to 20. Cz07 TVP 46 11. Cz07 TVP 46 1948. Cz07 TVP 46 
+
+Summary:
+
+* Crew: 5
+
+'''Dimensions (VTU proposal):'''
+
+* Length: 6560mm (8978mm with barrel)
+* Width: 3280mm
+* Height: 2043mm (2367mm with copula)
+* Clearance: 537mm
+
+'''Škoda proposal:'''
+
+* Length: 6429mm (8980mm with barrel)
+* Width: 3265mm
+* Height: 2041mm (2347mm with copula)
+* Clearance: 510mm
+
+* Armor: 65mm (75mm for Škoda) frontal upper plate and front turret plate, 40mm sides, 30mm rear, 20mm roof and bottom
+* Gun: see above (75mm A18, 105mm FlaK 38/39, 76,2mm A19, two 76,2 and one 88 proposals)
+* Maximum speed: 50 km/h
+* Engine: unspecified – 600 or 609hp diesel
+* Transmission: Praga-Wilson
+* Suspension: leaf springs
+* Ground pressure: 0,5kg/cm3
+
+|HistoricalGallery= 
+image:TVP_koncept. Cz07 TVP 46 jpg{{!}}The initial TVP idea, developed in 1946. Cz07 TVP 46  The in-game TVP VTU Koncept uses the hull from this design, as well as its stock turret. Cz07 TVP 46 
+File:T-50_(Škoda_model)_(late_1946). Cz07 TVP 46 jpg{{!}}The T-50 Škoda model, developed in late 1946. Cz07 TVP 46  The in-game TVP VTU Koncept uses the turret from this design. Cz07 TVP 46 
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ritastatusreport. Cz07 TVP 46 blogspot. Cz07 TVP 46 com/2015/09/cz-tree-part-8-tvp-vtu-koncept. Cz07 TVP 46 html
+* https://ftr-wot. Cz07 TVP 46 blogspot. Cz07 TVP 46 cz/2013/01/czechoslovak-tree-part-4-medium-tanks. Cz07 TVP 46 html
+* https://ftr. Cz07 TVP 46 wot-news. Cz07 TVP 46 com/2013/12/19/research-tvp/
+* https://en. Cz07 TVP 46 wikipedia. Cz07 TVP 46 org/wiki/Tanks_of_Czechoslovakia
+
+}}

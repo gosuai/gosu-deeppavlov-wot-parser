@@ -1,0 +1,213 @@
+6,500 Cost. 
+14001120 HP Hit Points. 
+41.59/44.7522.54/0 t Weight Limit. 
+650650 hp Engine Power. 
+50/20 km/h Speed Limit. 
+4040 deg/s Traverse. 
+15.63Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+50.8/50.8/31.8 mm Hull Armor. 
+200/90/90// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+230/230/280230/230/280 HP Damage. 
+226/258/42226/258/42 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 8 s 50% Crew: 9.91 s 75% Crew: 8.65 s 100% Crew: 7.67 s Rammer: 6.9 s Vents: 7.5 s Both: 6.75 s Both and BiA: 6.6 s Both and Max Crew %: 6.33 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 8 s 50% Crew: 9.91 s 75% Crew: 8.65 s 100% Crew: 7.67 s Rammer: 6.9 s Vents: 7.5 s Both: 6.75 s Both and BiA: 6.6 s Both and Max Crew %: 6.33 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (230 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (230 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (280 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (230 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (230 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (280 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.409 m With 75% Crew: 0.357 m With 100% Crew: 0.316 m With BiA: 0.309 m With BiA and Vents: 0.303 m Maximum possible: 0.29 m For more details, see Crew m ▲ With 50% Crew: 0.409 m With 75% Crew: 0.357 m With 100% Crew: 0.316 m With BiA: 0.309 m With BiA and Vents: 0.303 m Maximum possible: 0.29 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+3636 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+20°-10°/+20° Elevation Arc. 
+5050 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 306.4 m With 75% Crew: 348.2 m With 100% Crew: 390 m With Recon and Situational Awareness: 409.7 m With Coated Optics: 429 m With Binocular Telescope: 487.5 m Maximum possible: 558.3 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+OQF 20-pdr Gun Type B Barrel. 
+226/258/42. 
+230/230/280. 
+7.5. 
+0.33. 
+2.3. 
+nan. 
+nan. 
+180000. 
+nan. 
+FV4202. 
+//. 
+36. 
+390. 
+nan. 
+nan. 
+30000. 
+nan. 
+Rolls-Royce Meteorite 202B. 
+nan. 
+0. 
+nan. 
+nan. 
+35000. 
+nan. 
+FV4202. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+30000. 
+X. 
+SR C45. 
+750. 
+nan. 
+40. 
+54000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT71 CMCD P • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIT42 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • IXConcept 1B • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA43 BP prototype • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52 LIS. 
+{{TankData|Tank= 
+|
+Prior to the patch 9. GB70 N FV4202 105 12 the FV4202 was a [[UK|British]] tier X [[medium Tanks|medium tank]], and then has been removed from tier X to become a tier VIII [[premium tank]], while its tier X medium place has been filled by the [[Centurion Action X]]. GB70 N FV4202 105 
+
+|Gallery= 
+FV4202 (P) scr 1. GB70 N FV4202 105 jpg
+FV4202 (P) scr 2. GB70 N FV4202 105 jpg
+FV4202 (P) scr 3. GB70 N FV4202 105 jpg
+
+|InTheGame_pros= 
+*Excellent penetration (on par with the [[Centurion Mk. GB70 N FV4202 105  I]])
+*Great gun depression
+*Superb accuracy
+*The turret forehead achieves auto-bounce angle when engaging enemies from above
+*Great terrain resistances (0. GB70 N FV4202 105 38/0. GB70 N FV4202 105 48/0. GB70 N FV4202 105 96)
+
+|InTheGame_cons= 
+*Thin albeit well angled hull armor (can achieve auto-bounce when angled)
+*Turret armor is unreliable even against tier 6 tanks
+*Poor alpha damage, mediocre rate of fire, bad gun handling
+*Expensive Standard Shells (680 Per Shot)especially compared to other 90mm guns
+*Limited Shell Capacity (50 Rounds) often resulting on you being forced to use reserved APCR rounds in good games. GB70 N FV4202 105 
+
+|InTheGame_performance= 
+The FV4202 is great as a second line sniper, with its high penetration and great accuracy. GB70 N FV4202 105  You can peak over ridges with its great gun depression and often come out better. GB70 N FV4202 105  If you are using the tank's gun depression and only exposing the turret, incoming shots may occasionally ricochet off the forehead due to the steep angle of engagement. GB70 N FV4202 105  It plays like the [[Centurion Mk. GB70 N FV4202 105  I]] but with some differences. GB70 N FV4202 105 
+
+The "cheeks" on the turret will be your downside if you stay still as they are only 85 mm thick and not well sloped. GB70 N FV4202 105  Constantly move back and forth over the ridge to prevent your "cheeks" to be exposed for too long and if the enemy miss or hit the upper turret plate you can punish. GB70 N FV4202 105  Always try to battle in hilly terrain; never flat as your armor won't protect you. GB70 N FV4202 105  Very often and you will receive damage if any gun is pointed towards you if on level ground. GB70 N FV4202 105 
+
+With patch 9. GB70 N FV4202 105 17, it gave the FV4202 an acceptable speed buff of 40 km/h and profitability, and 9. GB70 N FV4202 105 17. GB70 N FV4202 105 1 gave it a good speed of 50 km/h, and patch 9. GB70 N FV4202 105 20. GB70 N FV4202 105 1 increased the engine power from 510 to 650. GB70 N FV4202 105  Unlike the [[Centurion Mk. GB70 N FV4202 105  I]]; which has a stronger engine and hp/t of 16. GB70 N FV4202 105 81 (Fully upgrade, no equipment), the hp/t for the FV4202 is 12. GB70 N FV4202 105 34 (which has since been buffed to about ~15. GB70 N FV4202 105 63 hp/t as of Update 9. GB70 N FV4202 105 20. GB70 N FV4202 105 1). GB70 N FV4202 105  However the FV4202 has the best ground resistances of any Tier VIII mediums (. GB70 N FV4202 105 38/. GB70 N FV4202 105 48/. GB70 N FV4202 105 96) followed close by the [[Panzer 58 Mutz]] and [[T-44-100 (R)]], so while it has a weak engine it has good acceleration and swamp terrain won't affect you as much. GB70 N FV4202 105  So if you managed to find a good spot where you can set up and snipe enemies from afar with your accurate gun, you can make a profit. GB70 N FV4202 105  Always support your team in either Wolf packs or Heavy pushes, aim for the weak spots and drive wheels, it will print credits. GB70 N FV4202 105 
+
+Overall the FV4202 is good crew trainer tank for the Centurions from Tier VIII to Tier X and can be rewarding experience if you keep in mind your weaknesses and strengths. GB70 N FV4202 105 
+
+After the release of Centurion 5/1 and other tier 8 premium tanks, the FV4202 is in desperate need of a buff. GB70 N FV4202 105 
+
+|InTheGame_research= 
+No researched required as it is a premium tank. GB70 N FV4202 105 
+
+|InTheGame_equipment= Tank Gun Rammer, Vertical Stabilizer, Vents, GLD
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+Towards the mid-1950s, tank designers saw that the current generation of tanks is at an end. GB70 N FV4202 105  Something new and revolutionary had to be done. GB70 N FV4202 105  The 1950s, specifically the latter half, became a time of new creative ideas in the tank design world. GB70 N FV4202 105 
+
+The birthplace of tanks was no exception. GB70 N FV4202 105  The Centurion, the peak of the achievements of British engineers during WWII, was nearing its decline. GB70 N FV4202 105  Three roads were open: one was the creation of a while new tank, another was a deep modernization, the third was an evolutionary step. GB70 N FV4202 105  The third path was seen as the least promising, but it was the one that was chosen. GB70 N FV4202 105  The 105 mm L7 gun's appearance extended the Centurion's life for decades. GB70 N FV4202 105  Even the prototype built in 1945 was still serving somewhere. GB70 N FV4202 105  The result of this modernization was the Centurion Action X that appeared in 1955. GB70 N FV4202 105  The Centurion Mk. GB70 N FV4202 105 7 hull was equipped with a new turret, but the project did not progress past experiments. GB70 N FV4202 105 
+
+As for the creation of a new tank, the first step in this direction was taken in 1956. GB70 N FV4202 105  A tank nicknamed "40 ton Centurion" entered trials. GB70 N FV4202 105  This was an unofficial nickname, of course, the tank's real index was FV4202. GB70 N FV4202 105  Compared with the competitor Medium Gun Tank FV4201, it seemed like a step back. GB70 N FV4202 105  The "predecessor" had an IS-3-like pike with a central position for the driver, and a whole new turret. GB70 N FV4202 105  The FV4202, the vehicle chosen to be built in metal, was a much more conservative evolution of the ideas in the Centurion and Centurion Action X. GB70 N FV4202 105 
+
+The hull was a development of the Centurion, but ended up somewhat lower. GB70 N FV4202 105  Thanks to this, the overall height of the FV4202 was 2. GB70 N FV4202 105 75 meters, a whole quarter of a meter less than the Centurion. GB70 N FV4202 105  The lower hull was used to increase the slant of the upper front plate. GB70 N FV4202 105  The hull was also half a meter shorter, reducing the amount of road wheels to five per side. GB70 N FV4202 105  Thanks to these operations, the mass of the tank decreased from 51 to 40 tons. GB70 N FV4202 105 
+
+The turret was a development of the Action X. GB70 N FV4202 105  The front resembled its predecessor, but had some novelties, like the "beard" underneath the gun mount. GB70 N FV4202 105  The roof also had many common elements. GB70 N FV4202 105  The rear was noticeably different. GB70 N FV4202 105  A late model 20-pounder gun was used. GB70 N FV4202 105  By this time, it got rid of the massive muzzle brake and obtained a fume extractor. GB70 N FV4202 105  Externally, this gun looks similar to the 105 mm L7, which leads to confusion. GB70 N FV4202 105 
+
+Three FV4202s were built. GB70 N FV4202 105  Trials continued for several years, but the tank wasn't given a chance. GB70 N FV4202 105  The evolutionary development of the Centurion was declined and, instead, the FV4201 concept was developed further. GB70 N FV4202 105  By September of 1959, the P1 prototype entered trials, leading to the Chieftain tank family. GB70 N FV4202 105 
+
+One of the FV4202 prototypes was sent to the scrapyard. GB70 N FV4202 105  Another was converted to an ARV, which can be seen in the REME Museum of Technology. GB70 N FV4202 105  The third vehicle ended up in Bovington. GB70 N FV4202 105  Time and a harsh climate did their thing, and the vehicle currently requires a very thorough restoration. GB70 N FV4202 105  Several years ago, the Vehicle Conservation Center was built, which now houses several vehicles that used to be outside, including the FV4202. GB70 N FV4202 105  There is hope that, someday, skilled hands will find their way to this tank, which was a significant, if not well known, point in tank development. GB70 N FV4202 105  Who knows that British tanks would look like if the British would adopt a vehicle that was much smaller than the Centurion, yet equal in protection and firepower. GB70 N FV4202 105 
+
+The tank did not survive to this day in a good shape. GB70 N FV4202 105  The armour skirts, similar to those on the Centurion, are gone, as are much of the fenders. GB70 N FV4202 105  Instead of its own tracks, the tank wears those from late Centurion models. GB70 N FV4202 105  A lot of the stowed equipment is gone, including the headlights and tools. GB70 N FV4202 105  Nevertheless, this is much better than a scrapped tank, but the restoration crews have their work cut out for them. GB70 N FV4202 105 
+
+Despite many similarities, the FV4202's hull differs from that of the Centurion. GB70 N FV4202 105  Most notably, the hull is lower to the ground, allowing the front armour to be placed at a sharper angle. GB70 N FV4202 105  With the same armour thickness, the tank is much better protected than the Centurion, although 80 mm of armour in the late 1950s was not enough, even with this slope. GB70 N FV4202 105 
+
+Like the Centurion, the FV4202's driver is positioned to the right of the tank's axis. GB70 N FV4202 105  The reduction in size did not do wonders for the comfort level, but recall that the Chieftain's driver is practically lying down. GB70 N FV4202 105  Here, the workspace is still more or less acceptable. GB70 N FV4202 105  Unlike the Centurion's two piece hatch, the FV4202's driver hatch lifts and rotates to the side. GB70 N FV4202 105  This is a much more convenient solution. GB70 N FV4202 105 
+
+The suspension migrated from the Centurion Mk. GB70 N FV4202 105 5 with nearly no changes. GB70 N FV4202 105  Of course, "nearly" has a number of nuances. GB70 N FV4202 105  First, the amount of road wheels was reduced to 5. GB70 N FV4202 105  Second, the width of the track links decreased. GB70 N FV4202 105  The tank lost its original tracks, so the second difference is currently gone. GB70 N FV4202 105 
+
+The FV4202 used Horstmann's suspension, which, in various forms, was used on British tanks since 1922. GB70 N FV4202 105  This design was last used on the Chieftain. GB70 N FV4202 105  Despite this rather conservative design, this suspension was satisfactory. GB70 N FV4202 105  However, the issue of removing the bogey in combat conditions was a difficult one. GB70 N FV4202 105 
+
+The rear is similar to the Centurion. GB70 N FV4202 105  Nothing is revolutionary here, just a standard vertical plate. GB70 N FV4202 105  To the left, one can see a field telephone that has been ravaged by vandals, a typical feature on post-war British tanks. GB70 N FV4202 105 
+
+The engine compartment roof is also similar to the Centurion's. GB70 N FV4202 105  One of its features is a multi-part design. GB70 N FV4202 105  This is a very convenient system, even a person without great physical strength can open up the engine compartment on their own. GB70 N FV4202 105  The Americans used a similar system on the Pershing and the Patton, and the Swiss used it on the Panzer 61. GB70 N FV4202 105 
+
+The bottom of British tanks is the pinnacle of minimalism. GB70 N FV4202 105  No hatches here, only a few service openings. GB70 N FV4202 105  If the tank was knocked out, the crew would have to leave under enemy fire. GB70 N FV4202 105 
+
+The turret of the FV4202 has much in common with the Centurion Action X, especially the front. GB70 N FV4202 105  However, there are a series of differences. GB70 N FV4202 105  For example, a "beard" under the gun mantlet, protecting the turret from jamming. GB70 N FV4202 105 
+
+The main armament of the FV4202 is a late model 20-pounder gun. GB70 N FV4202 105  It lacks a muzzle brake, but has a fume extractor to extract gases after firing a shell. GB70 N FV4202 105  From far away, this gun looks like the L7, but close up one can see that the fume extractor shape is different. GB70 N FV4202 105 
+
+|HistoricalGallery= 
+FV4202 (P) foto 1. GB70 N FV4202 105 jpg
+FV4202 (P) foto 2. GB70 N FV4202 105 jpg
+FV4202 (P) foto 3. GB70 N FV4202 105 jpg
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://ftr. GB70 N FV4202 105 wot-news. GB70 N FV4202 105 com/2014/07/30/british-tanks-final-decision/
+* https://tankarchives. GB70 N FV4202 105 blogspot. GB70 N FV4202 105 com/2016/02/centurions-younger-brother. GB70 N FV4202 105 html
+* https://warspot. GB70 N FV4202 105 ru/4198-mladshiy-brat-tsenturiona
+* https://warspot. GB70 N FV4202 105 ru/4200-posledniy-iz-fv-4202-42-fotografii
+
+}}

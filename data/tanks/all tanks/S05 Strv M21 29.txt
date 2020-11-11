@@ -1,0 +1,207 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery. 
+0 Cost. 
+280280 HP Hit Points. 
+9/108.82/10 t Weight Limit. 
+5555 hp Engine Power. 
+25/14 km/h Speed Limit. 
+3535 deg/s Traverse. 
+6.116.24 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+14/14/14 mm Hull Armor. 
+14/14/1414/14/14 mm Turret Armor. 
+AP//HE AP//HE Shells. 
+0/800/7 2/400/2 Shell Cost. 
+40/40/4512/12/16 HP Damage. 
+33/44/1827/38/10 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.6 s 50% Crew: 3.22 s 75% Crew: 2.81 s 100% Crew: 2.49 s Rammer: 2.24 s Vents: 2.44 s Both: 2.19 s Both and BiA: 2.14 s Both and Max Crew %: 2.06 s See Crew, Consumables, or Equipment for more information. r/m ▲ Magazine-fed Gun Burst Length: 2 rounds Magazine Size: 10 rounds Cycle Time: 0.3 s Magazine Reload Times Nominal: 8 s 50% Crew: 9.91 s 75% Crew: 8.65 s 100% Crew: 7.67 s With Vents: 7.5 s With Vents and BiA: 7.34 s Click here for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 923.2 50% Crew: 745.2 75% Crew: 853.6 100% Crew: 962.8 100% Crew Vents: 984.4 Rammer: 1069.6 Both: 1094 Both and BiA: 1118 Both and Max Crew %: 1166.4 Advantageous Damage Per Minute First-shot DPM: 963.2 50% Crew: 785.2 75% Crew: 893.6 100% Crew: 1002.8 100% Crew Rammer: 1109.6 Vents: 1024.4 Both: 1134 Both and BiA: 1158 Both and Max Crew %: 1206.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (40 Damage):  Theoretical Damage Per Minute Nominal DPM: 923.2 50% Crew: 745.2 75% Crew: 853.6 100% Crew: 962.8 100% Crew Vents: 984.4 Rammer: 1069.6 Both: 1094 Both and BiA: 1118 Both and Max Crew %: 1166.4 Advantageous Damage Per Minute First-shot DPM: 963.2 50% Crew: 785.2 75% Crew: 893.6 100% Crew: 1002.8 100% Crew Rammer: 1109.6 Vents: 1024.4 Both: 1134 Both and BiA: 1158 Both and Max Crew %: 1206.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (45 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1038.6 50% Crew: 838.35 75% Crew: 960.3 100% Crew: 1083.15 100% Crew Vents: 1107.45 Rammer: 1203.3 Both: 1230.75 Both and BiA: 1257.75 Both and Max Crew %: 1312.2 Advantageous Damage Per Minute First-shot DPM: 1083.6 50% Crew: 883.35 75% Crew: 1005.3 100% Crew: 1128.15 100% Crew Rammer: 1248.3 Vents: 1152.45 Both: 1275.75 Both and BiA: 1302.75 Both and Max Crew %: 1357.2 See here, here, or here for more information.▲ Magazine-fed Gun Using Shell Type 1 (12 Damage): Theoretical Damage Per Minute Nominal: 104.76 50% Crew: 86.76 75% Crew: 97.8 100% Crew: 108.6 With Vents: 106.8 With Vents and BiA: 108.84 Advantageous Damage Per Minute Loaded-mag DPM: 208.92 50% Crew: 193.56 75% Crew: 203.04 100% Crew: 212.16 With Vents: 210.6 With Vents and BiA: 212.28 Click here for more information. ▼ Magazine-fed Gun Using Shell Type 2 (12 Damage): Theoretical Damage Per Minute Nominal: 104.76 50% Crew: 86.76 75% Crew: 97.8 100% Crew: 108.6 With Vents: 106.8 With Vents and BiA: 108.84 Advantageous Damage Per Minute Loaded-mag DPM: 208.92 50% Crew: 193.56 75% Crew: 203.04 100% Crew: 212.16 With Vents: 210.6 With Vents and BiA: 212.28 Click here for more information. ▲ Magazine-fed Gun Using Shell Type 3 (16 Damage): With wholly penetrating hits Theoretical Damage Per Minute Nominal: 139.68 50% Crew: 115.68 75% Crew: 130.4 100% Crew: 144.8 With Vents: 142.4 With Vents and BiA: 145.12 Advantageous Damage Per Minute Loaded-mag DPM: 278.56 50% Crew: 258.08 75% Crew: 270.72 100% Crew: 282.88 With Vents: 280.8 With Vents and BiA: 283.04 Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.56 m With 75% Crew: 0.493 m With 100% Crew: 0.44 m With BiA: 0.43 m With BiA and Vents: 0.422 m Maximum possible: 0.404 m For more details, see Crew m ▲ With 50% Crew: 0.636 m With 75% Crew: 0.56 m With 100% Crew: 0.5 m With BiA: 0.489 m With BiA and Vents: 0.479 m Maximum possible: 0.46 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.418 s With 75% Crew: 2.128 s With 100% Crew: 1.9 s With GLD: 1.727 s With BiA: 1.857 s With BiA and Vents: 1.822 s With both and GLD: 1.656 s Maximum possible: 1.588 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.182 s With 75% Crew: 2.8 s With 100% Crew: 2.5 s With GLD: 2.273 s With BiA: 2.443 s With BiA and Vents: 2.397 s With both and GLD: 2.179 s Maximum possible: 2.089 s For more details, see Crew or Equipment Aim time. 
+2828 deg/s Turret Traverse. 
+360° Gun Arc. 
+-10°/+15°-10°/+15° Elevation Arc. 
+2301110 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 227.8 m With 75% Crew: 259 m With 100% Crew: 290 m With Recon and Situational Awareness: 304.7 m With Coated Optics: 319 m With Binocular Telescope: 362.5 m Maximum possible: 415.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 227.8 m With 75% Crew: 259 m With 100% Crew: 290 m With Recon and Situational Awareness: 304.7 m With Coated Optics: 319 m With Binocular Telescope: 362.5 m Maximum possible: 415.2 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 213.9 m With 75% Crew: 245 m With 100% Crew: 276.4 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 397.8 m For more details, see Skills or Equipment m ▲ With 50% Crew: 213.9 m With 75% Crew: 245 m With 100% Crew: 276.4 m With 100% Signal Boost: 318 m When affected by 100% Relaying: 291.5 m Maximum possible: 397.8 m For more details, see Skills or Equipment Signal Range. 
+II. 
+20 mm akan m/Madsen. 
+27/38/10. 
+12/12/16. 
+56.07. 
+0.5. 
+2.5. 
+nan. 
+53. 
+1940. 
+I. 
+37 mm kan m/Škoda. 
+33/44/18. 
+40/40/45. 
+23.08. 
+0.44. 
+1.9. 
+nan. 
+38. 
+0. 
+I. 
+Strv fm/21. 
+14/14/14. 
+28. 
+290. 
+nan. 
+500. 
+0. 
+I. 
+Daimler-Benz m/1910. 
+55. 
+20. 
+nan. 
+400. 
+0. 
+I. 
+Strv fm/21. 
+10. 
+35. 
+B/2. 
+nan. 
+2500. 
+0. 
+II. 
+1 W Sv. 
+265. 
+nan. 
+34. 
+0. 
+Light Tanks. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Medium Tanks. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Heavy Tanks. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Tank Destroyers. 
+IIPvlvv fm/42 • IIIIkv 72 • IVSav m/43 • VIkv 103 • VIIkv 65 Alt II • VIIIkv 90 Typ B • VIIIUDES 03 • VIIIStrv S1 • IXStrv 103-0 • XStrv 103B. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank= 
+
+| 
+
+|Gallery= 
+
+|InTheGame_pros= 
+* Higher than average view range and signal range (for Tier 1)
+* Good reverse speed (for Tier 1)
+* High HP
+
+|InTheGame_cons= 
+* Rear mounted turret combined with long profile
+* Poor concealment
+* Average armour thickness
+* Poor gun elevation and depression
+
+|InTheGame_performance= 
+In the authors opinion, not recommended as the first tank to play in a player's first game after the tutorial missions. S05 Strv M21 29   The Strv fm/21 presents a long profile as you round buildings leaving it vulnerable to tracking and other module damage. S05 Strv M21 29   The turret is rear mounted, like most tier 1 tanks and the armour plate at rear of the tank is steep. S05 Strv M21 29   If you are the lead tank in urban maps, presenting the rear of the tank to the enemy may be an effective use of the tank as the reverse speed is the highest of tier 1 tanks. S05 Strv M21 29   The armour is 14mm all round on both the hull and turret. S05 Strv M21 29 
+
+Based on the stats it may be better to use the stock tier 1 gun over the researched tier 2 gun. S05 Strv M21 29 
+
+Crew: While this tank is crewed with a radio operator, other Swedish tanks at the lower tiers the commander operates the radio. S05 Strv M21 29 
+
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Camouflage Net will help with concealment while stationary. S05 Strv M21 29  
+
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History= 
+
+
+Sweden, due to its geographical location, has for a long time been able to stay out of European conflicts. S05 Strv M21 29  But in the time of World War One, it became clear that Sweden could not rely on just its position, but it also would need a modern army. S05 Strv M21 29  During this time, Sweden had close relations with Germany and in 1918, Swedish military attaché in Berlin was shown a knocked out British Mk IV tank. S05 Strv M21 29  This would plant the seed of Swedish interest in tanks and as early as one year later, in 1919, attempts were made to purchase the British Whippet light tank. S05 Strv M21 29  Due to the lack of money and enthusiasm from the army however, this led nowhere. S05 Strv M21 29  Instead, negotiations were taken up with the Germans two years later, in 1921. S05 Strv M21 29  Sweden was offered to secretly buy 10 German tanks, that had been produced, but never used because of the end of the war. S05 Strv M21 29 
+
+
+Here, the Swedish delegation is shown the Mk. S05 Strv M21 29 IV tank
+
+[[File:Swedish_Delegation_and_Mk_IV_Tank. S05 Strv M21 29 jpg]]
+
+These tanks were the “Leichter Kampfwagen II” light tanks, meant for easy mass production. S05 Strv M21 29  The design borrowed heavily from British Whippet and French FT-17. S05 Strv M21 29  The tank was based on a car chassis from Daimler, it had front mounted engine and rear mounted superstructure, armed with a cannon. S05 Strv M21 29  Sweden was however not satisfied with the design and ordered several modifications to be made. S05 Strv M21 29  Amongst the changes were the addition of fully traversable turret, as well as changes to the frontal hull. S05 Strv M21 29  In late August 1921, the parts for the vehicles were imported from Germany as “tractors” and “boiler plates” to circumvent the Versailles treaty. S05 Strv M21 29  Assembly began as soon as the parts were available and in 1922, all the vehicles were ready. S05 Strv M21 29 
+
+LKII
+
+[[File:LK_II_Tank. S05 Strv M21 29 jpg]]
+
+
+This new tank was designated Pansarvagn försöksmodell/1922, but this was soon changed to Strv fm/21. S05 Strv M21 29  The new tank was the first armored vehicle in Sweden. S05 Strv M21 29  It had an unusual layout with the engine in the front and the turret in the rear, it weighed 9 tons and was armed with an 8mm machinegun, it was powered by the Benz 1910 55hp engine. S05 Strv M21 29 
+
+After some rudimentary one month tests in 1922, the tanks were put in storage. S05 Strv M21 29  It was not until Autumn 1923 that five of the most reliable tanks would see action again. S05 Strv M21 29  They were shipped across the country to a military exercise in Skåne, where they took part in a simulated attack. S05 Strv M21 29  Here, the tanks were used in the support of Swedish infantry and because so few people knew of their existence, the exercise was a huge success. S05 Strv M21 29  During late 1923 and 1924, the tanks were disassembled for the hardening of their armour plates, which took place at the navy shipbuilding yard in Stockholm. S05 Strv M21 29 
+
+Strv fm/21 on military exercise
+
+[[File:Strv_fm_21_on_military_exercise. S05 Strv M21 29 jpg]]
+
+From 1924 to 1927, the tanks took part in series of tests and experiments. S05 Strv M21 29  Among these was the experimental fitting of a radio receiver on tank number 5 and radio transmitters on tanks 10 and 6. S05 Strv M21 29  In 1923, Sweden had also purchased one surplus FT-17, that had been used in the war and was in bad condition. S05 Strv M21 29  The vehicle was soon scrapped, but its 37mm gun remained and was tested on one of the Strv m/21. S05 Strv M21 29  The gun would eventually end up on an armored car in 1926. S05 Strv M21 29  During this time, there were also several interesting tests with camouflage. S05 Strv M21 29  Originally the tank had been painted in field gray, but now, 2 variants of winter camouflage were tested and during summer, the tank was covered with a three color green, brown and yellow pattern with black lines in-between, shared with the Pbil fm/26 armored car. S05 Strv M21 29  As the testing continued, the lack of spare parts started to become a problem and even though some of the replacement suspension parts were now being produced, tanks number 1, 3, 4, 8 and 9 still had to be stripped for parts. S05 Strv M21 29  It was not until 1927 the parts needed to keep all the tanks in running condition were delivered. S05 Strv M21 29 
+
+Strv fm/21 in winter camoflauge
+
+[[File:Strv_fm_21_in_winter_camoflauge. S05 Strv M21 29 jpg]]
+
+Soon it became clear that the Strv m/21 was growing increasingly obsolete and in 1928, a project was started to develop the new Swedish tank. S05 Strv M21 29  This resulted in the purchase of a Renault NC-27, which was deemed unsuitable for Swedish conditions. S05 Strv M21 29  Today, this is the only NC-27 remaining in the world and it can be seen at the Arsenalen museum. S05 Strv M21 29  Instead of purchasing the French tank, it was decided to upgrade the Strv fm/21. S05 Strv M21 29  In 1929, the schematics for a slightly improved fm/21 called Strv m/21-29 were ready. S05 Strv M21 29  Changes were made to the engine, which was replaced by a Swedish Scania-Vabis 1544 85hp engine, and the tank recieved electric lighting. S05 Strv M21 29  Two of these tanks were ordered and in 1930, they were finished. S05 Strv M21 29  During the same time, one of the Strv fm/21 was being tested with a 37mm Škoda infantry gun, but the tests were unsuccessful. S05 Strv M21 29  Between 1931 and 1934, three more Strv fm/21 were modernized to Strv m/21-29 by the Landsverk company as training vehicles, until new tanks could be delivered. S05 Strv M21 29  It was not until 1938 that the Strv m/21-29 was retired from service with the purchase of the Czech ČKD AH-IV tankette. S05 Strv M21 29 
+
+Strv fm/21 being rebuilt to Strv m/21-29 at Landsverk in 1934
+
+[[File:Strv_fm_21_being_rebuilt_to_Strv_m_21-29_at_Landsverk_in_1934. S05 Strv M21 29 jpg]]
+
+Strv fm/28, the Swedish Renault NC-27
+
+[[File:Strv_fm_28,_the_Swedish_Renault_NC-27. S05 Strv M21 29 jpg]]
+
+Today, three examples of the Strv m/21-29 remain – one in the Munster museum, and the final two are in the Strängnäs/Arsenalen museum, one of these is under restoration to driveable condition. S05 Strv M21 29 
+
+|HistoricalGallery= 
+File:MBT m 21. S05 Strv M21 29 jpg{{!}}A Swedish m/21 tank. S05 Strv M21 29 
+File:Strv_fm_21. S05 Strv M21 29 jpg{{!}}The Strv fm/21
+File:Preserved_strv_fm_21. S05 Strv M21 29 jpg
+File:Strv_m_21_29_at_munster_museum. S05 Strv M21 29 jpg{{!}}Prserved Strv m/21-29 at Munster Museum
+
+|HistAcc=
+Its maximum speed of real life vehicle is only 16 KM/H. S05 Strv M21 29  But for making this vehicle not underpowered from its very low speed in same tier, Wargaming decided to increased this vehicle speed to 25 KM/H which is on par with most of tier 1. S05 Strv M21 29 
+
+|Ref_references=
+
+|Ref_sources=
+* PANSAR issue 2 year 1978
+* Svenskt Pansar by Rickard O. S05 Strv M21 29  Lindström & Carl-Gustaf Svantesson
+
+|Ref_links=
+* https://ointres. S05 Strv M21 29 se/pansar. S05 Strv M21 29 htm
+* https://tanks. S05 Strv M21 29 mod16. S05 Strv M21 29 org/2014/01/09/a-brief-history-of-swedish-tanking-as-of-february-1943/
+* https://ftr. S05 Strv M21 29 wot-news. S05 Strv M21 29 com/2014/03/07/swedish-tanks-part-i-strv-m21-29/
+
+
+}}

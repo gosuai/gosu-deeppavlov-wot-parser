@@ -1,0 +1,184 @@
+6,100,000 Cost. 
+20501640 HP Hit Points. 
+62.31/6735.16/0 t Weight Limit. 
+12001200 hp Engine Power. 
+60/20 km/h Speed Limit. 
+4444 deg/s Traverse. 
+19.26Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+150/80/80 mm Hull Armor. 
+185/80/80// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+390/390/510390/390/510 HP Damage. 
+270/330/60270/330/60 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 9.6 s 50% Crew: 11.89 s 75% Crew: 10.38 s 100% Crew: 9.2 s Rammer: 8.28 s Vents: 9 s Both: 8.1 s Both and BiA: 7.92 s Both and Max Crew %: 7.59 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 9.6 s 50% Crew: 11.89 s 75% Crew: 10.38 s 100% Crew: 9.2 s Rammer: 8.28 s Vents: 9 s Both: 8.1 s Both and BiA: 7.92 s Both and Max Crew %: 7.59 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (510 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (510 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.372 m With 75% Crew: 0.324 m With 100% Crew: 0.288 m With BiA: 0.281 m With BiA and Vents: 0.275 m Maximum possible: 0.264 m For more details, see Crew m ▲ With 50% Crew: 0.372 m With 75% Crew: 0.324 m With 100% Crew: 0.288 m With BiA: 0.281 m With BiA and Vents: 0.275 m Maximum possible: 0.264 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.601 s With 75% Crew: 2.271 s With 100% Crew: 2.014 s With GLD: 1.831 s With BiA: 1.969 s With BiA and Vents: 1.926 s With both and GLD: 1.751 s Maximum possible: 1.679 s For more details, see Crew or Equipment Aim time. 
+3030 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+20°-8°/+20° Elevation Arc. 
+4848 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 581.2 m With 75% Crew: 665.6 m With 100% Crew: 750.9 m With 100% Signal Boost: 864 m When affected by 100% Relaying: 792 m Maximum possible: 1080.9 m For more details, see Skills or Equipment m ▲ With 50% Crew: 581.2 m With 75% Crew: 665.6 m With 100% Crew: 750.9 m With 100% Signal Boost: 864 m When affected by 100% Relaying: 792 m Maximum possible: 1080.9 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+10,5 cm Kw.K. L/52 Ausf. K. 
+270/330/60. 
+390/390/510. 
+6.25. 
+0.3. 
+2.1. 
+nan. 
+nan. 
+225600. 
+nan. 
+E 50 Ausf. M. 
+//. 
+30. 
+400. 
+nan. 
+nan. 
+66000. 
+nan. 
+Maybach HL 235. 
+nan. 
+0. 
+nan. 
+nan. 
+123000. 
+nan. 
+E 50 Ausf. M. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+82500. 
+X. 
+10WSc. 
+720. 
+nan. 
+160. 
+51600. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank=E50_Ausf_M
+|A tier X medium that actually has armor other tier Xs should pay attention to, the E 50 M is a spearhead and sniper tank that is comfortable both staying back and picking off hitpoints at will, or getting into the face of (or simply around) isolated or overconfident opponents. G73 E50 Ausf M  A consummate master of flexibility in battlefield roles, the E 50 M allows the expert player to flow smoothly from one task to another, and thus, allows other tanks to do their supposed jobs properly in order to attain victory. G73 E50 Ausf M  
+
+|Gallery=
+E-50 Ausf M. G73 E50 Ausf M gif{{!}}Wargaming. G73 E50 Ausf M net's impression of the E-50 Ausf. G73 E50 Ausf M  M
+E 50 Ausf M. G73 E50 Ausf M jpg
+
+|InTheGame_pros= 
+- Strong, near pinpoint accuracy only outmatched by the [[Tank:G121_Grille_15_L63|Grille 15]] and [[Leopard 1]], Good accuracy even while it's moving which allows doing snapshots. G73 E50 Ausf M 
+
+- Second highest HP Pool of all MTs in the game (2050). G73 E50 Ausf M  Respectable Radio Range that can be further extended. G73 E50 Ausf M 
+
+- Tough frontal armor and decent amount of side armor that can provide a good amount of ricochets. G73 E50 Ausf M  
+
+- Rear transmission makes it less prone to engine fires from frontal hits. G73 E50 Ausf M 
+
+- Very high top speed, although usually only achievable when going downhill. G73 E50 Ausf M 
+
+- High weight (62 tons) combined with great speed (60KM/H). G73 E50 Ausf M  Makes it Excellent at ramming. G73 E50 Ausf M 
+
+- Good gun depression value of -8 around the tank, and -7 in the rear
+
+|InTheGame_cons= 
+- Poor damage per minute for a medium tank and slow turret traverse makes brawling hard. G73 E50 Ausf M 
+
+- The Largest Medium tank in the game, even larger than some heavy tanks with very poor camouflage rating. G73 E50 Ausf M 
+
+- Poor maneuverability despite high hp/t, feels sluggish and has poor terrain resistances even on hard terrain. G73 E50 Ausf M 
+
+- Vulnerable areas - lower frontal hull and turret face are lacking in protection and ammo rack is very weak. G73 E50 Ausf M 
+
+|InTheGame_performance=
+The E 50 M is an effective German tank but a teensy bit cumbersome compared to its peers. G73 E50 Ausf M  The E 50 M, like all other tier 10 mediums, fires APCR as its default ammo. G73 E50 Ausf M  Aside from price, it keeps all the characteristics of APCR, this is both a good and bad thing. G73 E50 Ausf M  APCR achieves its higher penetration potential in reality because it concentrates all the kinetic energy on a smaller point, and because it leaves the barrel at a much higher velocity. G73 E50 Ausf M  In game it's the same, and perfect for the E 50 M's playstyle. G73 E50 Ausf M  The combination of a fast traveling shell and extremely accurate gun makes hitting moving tanks at extreme ranges practically a walk in the park, and light tanks that get too close can simply be mowed down with lock enabled. G73 E50 Ausf M  
+
+When supporting and sniping from the far rear is not an option, the E 50 M is still quite home at close quarters engagements. G73 E50 Ausf M  The "good" all around armor will prove difficult to overmatch except by the largest of gun calibers, and can therefore be used to bait tanks into being shot at extreme angles. G73 E50 Ausf M  Even smart players might think they can get through, but if done correctly their shells will simply bounce due to sheer angles or autobounce entirely, leaving them open to a quick and accurate counterattack. G73 E50 Ausf M  Having smooth ride and snap shot, in addition to a Vertical stabilizer and vents can make the E 50 M arguably the most accurate medium tank even when moving, giving you a noticeable edge. G73 E50 Ausf M 
+
+However, despite the good armor, the E 50 M is still not completely comfortable at close range. G73 E50 Ausf M  Other lower profile medium tanks can simply hug you and due to E 50 M's iffy gun depression and large size, you will not be able to fire back at them. G73 E50 Ausf M  You can get close, but only about arm's length at best, point blank brawl matches are best to be avoided, tempting though they may be with such a powerful engine. G73 E50 Ausf M  But, it is worthy to note that with a properly trained driver, the E 50 M can be made to turn nearly as fast as the Obj. G73 E50 Ausf M  430 in standard conditions, off road driving can also enhance its agility. G73 E50 Ausf M 
+
+On the down side, the E 50 M's armor profile isn't perfect. G73 E50 Ausf M  The turret and lower front plate are the prominent weak spots. G73 E50 Ausf M 
+The front of the turret has a high armor value, but barely any slope, meaning most guns it comes across can penetrate it. G73 E50 Ausf M 
+And as per the norm of German tanks, the lower front is exposed and relatively weak. G73 E50 Ausf M  It can be expected that almost every time, shots will penetrate the lower front unless the enemy is a light tank or firing high explosive ammo. G73 E50 Ausf M 
+
+In addition, although the E 50 M has very good accuracy and penetration, the damage per minute is sadly the worst in its class. G73 E50 Ausf M  Every other tier 10 medium has better DPM which they can use to pump out damage even faster. G73 E50 Ausf M  However, at range where said tanks might miss a lot, the 50 M still has the upper hand. G73 E50 Ausf M 
+
+One more thing to note, is that while the E 50 M sports mediocre or bad gun depression on the front (-6 degrees), it gets much better towards the side, where it can depress its gun 8 degrees. G73 E50 Ausf M  This takes some getting used to as you need to angle your armor to maximize your gun depression, but it's a very valuable skill to learn as you will learn to both minimize exposure and get the most out of your tank. G73 E50 Ausf M 
+
+In all, the E 50 Ausf. G73 E50 Ausf M  M is an above average medium tank. G73 E50 Ausf M  It's got average speed and average armor, a high penetration gun with laser like accuracy and good aim time and accuracy spread, and a usable amount of health. G73 E50 Ausf M  Up close or afar, you are never really out of this tank's killing zone. G73 E50 Ausf M 
+
+*Note: As of Patch 1. G73 E50 Ausf M 10. G73 E50 Ausf M 1, the E 50 M has been buffed with the frontal turret. G73 E50 Ausf M  Previously, it was ~194 effective, which was horrible for a tier X. G73 E50 Ausf M  It has now been buffed to ~260 effective, making it a lot more reliable, though it is still iffy in the meta of premium shells. G73 E50 Ausf M  This was done as since the slopes are near nonexistent near the mantlet, the thickness was increased from 185 frontally to 250. G73 E50 Ausf M 
+
+|InTheGame_research=
+
+
+|InTheGame_equipment= 
+Vents, Vertical Stabilizer, Tank Gun Rammer, Spall Liner
+
+|External_Reviews=
+{{VideoYT|onD24v-OzeI}}
+|History=
+The Entwicklung series, more commonly known as the E- series, was a late-World War II attempt by Germany to produce a standardized series of tank designs. G73 E50 Ausf M  There were to be standard designs in six different weight classes, from which several specialized variants were to be developed. G73 E50 Ausf M  This was necessitated by the extremely complex tank designs that had resulted in poor production rates and mechanical unreliability. G73 E50 Ausf M 
+
+The E-series designs were simpler, cheaper to produce and more efficient than their predecessors; however, their design involved only modest improvements in armor and firepower over the designs they were intended to replace, such as the [[Hetzer]], Panther G or [[Pz. G73 E50 Ausf M Kpfw. G73 E50 Ausf M  Tiger II|Tiger II]], and as such represent the eclipse of German armored vehicle design by such tanks as the [[M46 Patton|American M46 Patton]], the British Centurion Mk 5/2 and [[T-54|Soviet T-54 tanks]], which would have been the Entwicklung Series' contemporaries and likely opponents. G73 E50 Ausf M 
+
+The E-50 Standardpanzer was intended as a standard medium tank, replacing the [[Pz. G73 E50 Ausf M Kpfw. G73 E50 Ausf M  V Panther|Panther]] and [[Pz. G73 E50 Ausf M Kpfw. G73 E50 Ausf M  VI Tiger|Tiger I]] and the conversions based on these tanks. G73 E50 Ausf M  The E-50 hull was to be longer than the Panther; in fact it was practically identical to the King Tiger in overall dimensions except for the glacis plate layout. G73 E50 Ausf M  Compared to these earlier designs however, the amount of drilling and machining involved in producing these ''standardpanzers'' was reduced drastically, which would have made them quicker, easier and cheaper to produce, as would the proposed conical spring system replacing their predecessors' complex and costly dual torsion bar system. G73 E50 Ausf M  The Ausf. G73 E50 Ausf M  M version of the tank was a redesign of the E-50 project with a rear placement of the transmission. G73 E50 Ausf M  Other significant improvement from the base E-50 version is the thickness of the turret front armor, that has been raised to 185 mm. G73 E50 Ausf M  As indicated by its name, the weight of the E-50 would fall between 50 and 75 tonnes. G73 E50 Ausf M  Its maximum speed was planned as 60 km/h. G73 E50 Ausf M  Only blueprints were made; no production models were produced. G73 E50 Ausf M 
+
+|HistoricalGallery=N/A
+
+|HistAcc=
+While there was a proposal for the E-50 with rear transmission, there are no known records of its concept design. G73 E50 Ausf M  No indications of its armor, armament or performance characteristics exist. G73 E50 Ausf M 
+
+|Ref_references=
+
+|Ref_sources=*https://en. G73 E50 Ausf M wikipedia. G73 E50 Ausf M org/wiki/Entwicklung_series
+
+
+|Ref_links=
+
+|Sidebar_Camostop=10. G73 E50 Ausf M 00
+|Sidebar_Camomove=7. G73 E50 Ausf M 70
+|Sidebar_Camofire=2. G73 E50 Ausf M 30
+|Sidebar_Passhard=1. G73 E50 Ausf M 055
+|Sidebar_Passmed=1. G73 E50 Ausf M 247
+|Sidebar_Passsoft=2. G73 E50 Ausf M 205
+|Sidebar_DispTurret=0. G73 E50 Ausf M 077
+|Sidebar_DispRecoil=2. G73 E50 Ausf M 877
+|Sidebar_DispAccel=0. G73 E50 Ausf M 134
+|Sidebar_DispTurning=0. G73 E50 Ausf M 134
+}}

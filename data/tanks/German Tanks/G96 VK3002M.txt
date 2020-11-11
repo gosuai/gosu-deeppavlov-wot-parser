@@ -1,0 +1,212 @@
+915,000 Cost. 
+890752 HP Hit Points. 
+39.93/4117.84/0 t Weight Limit. 
+580580 hp Engine Power. 
+55/20 km/h Speed Limit. 
+2828 deg/s Traverse. 
+14.53Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+85/40/40 mm Hull Armor. 
+80/45/45// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+70/2800/38 109/2800/98 Shell Cost. 
+110/110/175110/110/175 HP Damage. 
+110/158/38110/158/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 4 s 50% Crew: 4.96 s 75% Crew: 4.33 s 100% Crew: 3.84 s Rammer: 3.46 s Vents: 3.76 s Both: 3.38 s Both and BiA: 3.31 s Both and Max Crew %: 3.17 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 4 s 50% Crew: 4.96 s 75% Crew: 4.33 s 100% Crew: 3.84 s Rammer: 3.46 s Vents: 3.76 s Both: 3.38 s Both and BiA: 3.31 s Both and Max Crew %: 3.17 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1540 50% Crew: 1243 75% Crew: 1423.4 100% Crew: 1606 100% Crew Vents: 1642.3 Rammer: 1784.2 Both: 1824.9 Both and BiA: 1865.6 Both and Max Crew %: 1945.9 Advantageous Damage Per Minute First-shot DPM: 1650 50% Crew: 1353 75% Crew: 1533.4 100% Crew: 1716 100% Crew Rammer: 1894.2 Vents: 1752.3 Both: 1934.9 Both and BiA: 1975.6 Both and Max Crew %: 2055.9 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1540 50% Crew: 1243 75% Crew: 1423.4 100% Crew: 1606 100% Crew Vents: 1642.3 Rammer: 1784.2 Both: 1824.9 Both and BiA: 1865.6 Both and Max Crew %: 1945.9 Advantageous Damage Per Minute First-shot DPM: 1650 50% Crew: 1353 75% Crew: 1533.4 100% Crew: 1716 100% Crew Rammer: 1894.2 Vents: 1752.3 Both: 1934.9 Both and BiA: 1975.6 Both and Max Crew %: 2055.9 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2450 50% Crew: 1977.5 75% Crew: 2264.5 100% Crew: 2555 100% Crew Vents: 2612.75 Rammer: 2838.5 Both: 2903.25 Both and BiA: 2968 Both and Max Crew %: 3095.75 Advantageous Damage Per Minute First-shot DPM: 2625 50% Crew: 2152.5 75% Crew: 2439.5 100% Crew: 2730 100% Crew Rammer: 3013.5 Vents: 2787.75 Both: 3078.25 Both and BiA: 3143 Both and Max Crew %: 3270.75 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1444.3 50% Crew: 1166 75% Crew: 1335.4 100% Crew: 1505.9 100% Crew Vents: 1540 Rammer: 1673.1 Both: 1710.5 Both and BiA: 1749 Both and Max Crew %: 1824.9 Advantageous Damage Per Minute First-shot DPM: 1554.3 50% Crew: 1276 75% Crew: 1445.4 100% Crew: 1615.9 100% Crew Rammer: 1783.1 Vents: 1650 Both: 1820.5 Both and BiA: 1859 Both and Max Crew %: 1934.9 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1444.3 50% Crew: 1166 75% Crew: 1335.4 100% Crew: 1505.9 100% Crew Vents: 1540 Rammer: 1673.1 Both: 1710.5 Both and BiA: 1749 Both and Max Crew %: 1824.9 Advantageous Damage Per Minute First-shot DPM: 1554.3 50% Crew: 1276 75% Crew: 1445.4 100% Crew: 1615.9 100% Crew Rammer: 1783.1 Vents: 1650 Both: 1820.5 Both and BiA: 1859 Both and Max Crew %: 1934.9 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2297.75 50% Crew: 1855 75% Crew: 2124.5 100% Crew: 2395.75 100% Crew Vents: 2450 Rammer: 2661.75 Both: 2721.25 Both and BiA: 2782.5 Both and Max Crew %: 2903.25 Advantageous Damage Per Minute First-shot DPM: 2472.75 50% Crew: 2030 75% Crew: 2299.5 100% Crew: 2570.75 100% Crew Rammer: 2836.75 Vents: 2625 Both: 2896.25 Both and BiA: 2957.5 Both and Max Crew %: 3078.25 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+3030 deg/s Turret Traverse. 
+360° Gun Arc. 
+-7°/+18°-7°/+18° Elevation Arc. 
+145145 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 250.2 m With 75% Crew: 286.6 m With 100% Crew: 323.3 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 465.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+V. 
+7,5 cm Kw.K. 40 L/48. 
+110/158/38. 
+110/110/175. 
+16.67. 
+0.39. 
+2.3. 
+nan. 
+1520. 
+27380. 
+VI. 
+7,5 cm Kw.K. 42 L/70. 
+150/194/38. 
+135/135/175. 
+14.29. 
+0.35. 
+2.3. 
+nan. 
+1740. 
+53000. 
+nan. 
+VK 30.02 (M). 
+//. 
+30. 
+360. 
+nan. 
+nan. 
+10000. 
+nan. 
+VK 30.02 Ausf. A. 
+//. 
+30. 
+370. 
+nan. 
+nan. 
+17200. 
+nan. 
+Daimler-Benz MB 503. 
+nan. 
+0. 
+nan. 
+nan. 
+28500. 
+nan. 
+Maybach HL 210 TRM P30. 
+nan. 
+0. 
+nan. 
+nan. 
+35500. 
+nan. 
+Maybach HL 230 TRM P30. 
+nan. 
+0. 
+nan. 
+nan. 
+54000. 
+nan. 
+VK 30.02 (M). 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+9100. 
+nan. 
+VK 30.02 Ausf. A. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+15000. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+IX. 
+FuG 12. 
+710. 
+nan. 
+150. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIFV4202 FL • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIM4A1 FL 10 • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIM4A1 Revalorisé FL • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank=VK3002M
+|
+
+|Gallery=
+File:VK 30. G96 VK3002M 02(M) 01. G96 VK3002M png
+
+
+|InTheGame_pros=
+*Very strong gun mantlet
+*Accurate top gun with high DPM and good penetration values
+*Large hitpoints pool
+*Powerful top engine which gives good mobility to tank
+*Large ammo capacity of 79 rounds. G96 VK3002M 
+
+|InTheGame_cons=
+*Weak side armour
+*Frontal gearbox means that hits on the lower glacis might damage the engine. G96 VK3002M 
+*Large ammorack that tends to get damaged easily
+*Somewhat large profile makes finding a good hiding spot or avoiding fire harder than other mediums
+*Expensive repair costs meaning it is possible to lose money in a bad match. G96 VK3002M 
+
+|InTheGame_performance=
+This tank is a sniper and flanker hybrid. G96 VK3002M   The armor while bouncy, is not thick enough to block the majority of tier VI weaponry. G96 VK3002M   Brawling should be avoided when possible due to fairly low alpha damage and low armor. G96 VK3002M   Hulldown is effective. G96 VK3002M   The turret while not being the smallest target has a very high tendency to bounce shots at long ranges, and the L/70 will make short work of most tanks. G96 VK3002M   Angling is not very effective due to the paper thin 40mm side armor, but can be used against small caliber guns to increase the chances of a bounce. G96 VK3002M   Also due to the fairly large profile, one has to take extra time to make sure the bush they are sitting in (if abusing camo skill and nets) is big enough to hide the entire tank. G96 VK3002M   It is also very hard to avoid enemy fire, since the tank is somewhat large for a medium (comparable to a small heavy), meaning that the only ways to take fire is in a hull down (moderately bouncy turret), or when angled properly with the lower plate preferably hidden (assuming the gun is a low end tier V or most tier IV guns, as anything with more then 130mm of penetration will go through the tank regardless of angle unless it gets a lucky bounce)
+
+The top gun is quite potent and capable of penetrating most tier VI and some VII tanks frontally. G96 VK3002M   Alpha damage is lacking but the gun offers fairly high DPM with the top turret. G96 VK3002M   Sniping is very good with this tank as the L/70 has the accuracy to hit weakspots up to a range of about 300m and has enough penetration as to allow penetrations to the front of most tanks. G96 VK3002M   
+
+Overall this tank is quite similar to the pre 8. G96 VK3002M 8 [[VK 30. G96 VK3002M 01 (H)|VK 30. G96 VK3002M 01 (H)]], with good maneuverability, much better hull armor, slightly worse turret armor, having access to the same guns, sans the 8. G96 VK3002M 8cm KwK 36 L/56, and overall allowing the use of similar tactics. G96 VK3002M   Anyone who enjoyed the VK 30. G96 VK3002M 01(H) will most likely enjoy this tank. G96 VK3002M  It should also be noted that this tank plays quite similarly to a historically accurate version of its child and successor, the Panther I, though the Panther historically was used more for sniping, and of course weighed more. G96 VK3002M   
+
+Still, take into consideration that the tank is designed for sniping or long range attacks. G96 VK3002M   While close up flanking may be a viable tactic, it makes more sense to start out taking long range shots at exposed enemies, letting your team soak up damage. G96 VK3002M   
+
+
+|InTheGame_research=
+The top gun should already be researched from the VK 30. G96 VK3002M 01(H), so mount it immediately. G96 VK3002M 
+
+The priority in this tank is to max out the engine and suspension due to it being much more mobile then the next tank in line, the Panther. G96 VK3002M 
+
+Finally get the upgraded turret for a slight boost in both armor and rate of fire. G96 VK3002M 
+
+
+|InTheGame_equipment= GLD, Medium-caliber tank gun rammer, vents, Coated Optics
+
+
+|History= The Panther was a direct response to the Soviet T-34 and KV-1 tanks. G96 VK3002M  First encountered on 23 June 1941,[4] the T-34 outclassed the existing models of the Panzer III and IV. G96 VK3002M [5] At the insistence of General Heinz Guderian, a special Panzerkommision was dispatched to the Eastern Front to assess the T-34. G96 VK3002M [6] Among the features of the Soviet tank considered most significant were the sloping armor, which gave much improved shot deflection and also increased the effective armor thickness against penetration, the wide track, which improved mobility over soft ground, and the 76. G96 VK3002M 2 mm gun, which had good armor penetration and fired an effective high explosive round. G96 VK3002M  Daimler-Benz (DB) and Maschinenfabrik Augsburg-Nürnberg AG (MAN) were given the task of designing a new 30- to 35-ton tank, designated VK30. G96 VK3002M 02, by April 1942 (apparently in time to be shown to Hitler for his birthday). G96 VK3002M 
+
+The DB design resembled the T-34 in hull and turret form. G96 VK3002M  DB's proposal used a leaf spring suspension, in contrast to the T-34s coil spring suspension. G96 VK3002M  The leaf spring suspension lay outside of the hull. G96 VK3002M  Subsequently, the hull was more narrow, offering a smaller turret ring. G96 VK3002M  Thus, the DB turret was necessarily smaller than that of the MAN design. G96 VK3002M  The main advantages of the leaf springs over a torsion bar suspension were lower hull silhouette and a simpler shock damping design. G96 VK3002M  Like the T-34, the DB design had a rear drive sprocket and a forward situated turret, but unlike the T-34, the DB design had the preferred three-man turret crew: commander, gunner, and loader. G96 VK3002M  As the planned L/70 75 mm gun was much larger than the T-34's, mounting it in the Daimler-Benz turret was difficult. G96 VK3002M  Plans to address the space limitations by reducing the turret crew to two men were considered, but were eventually discarded as experience had shown this to be a less effective arrangement. G96 VK3002M 
+
+The MAN design embodied more conventional German thinking with the transmission and drive sprocket in the front and a centrally mounted turret. G96 VK3002M  It had a gasoline engine and eight torsion-bar suspension axles per side. G96 VK3002M  Because of the torsion bar suspension and the drive shaft running under the turret basket, the MAN Panther was higher and had a wider hull than the DB design. G96 VK3002M  The Henschel firm's design concepts for their Tiger I tank's suspension/drive components, using its characteristic Schachtellaufwerk-format large, overlapping, interleaved road wheels with a "slack-track" using no return rollers for the upper run of track were repeated with the MAN design for the Panther. G96 VK3002M  These large, rubber-rimmed steel wheels added to the protection of the hull from a lateral penetrating shot. G96 VK3002M 
+
+The two designs were reviewed over a period from January through March 1942. G96 VK3002M  Reichminister Todt, and later, his replacement Albert Speer, both recommended the DB design to Hitler because of its several advantages over the initial MAN design. G96 VK3002M  However, at the final submission, MAN improved their design, having learned from the DB proposal, and a review by a special commission appointed by Hitler in May 1942 ended up selecting the MAN design. G96 VK3002M  Hitler approved this decision after reviewing it overnight. G96 VK3002M  One of the principal reasons given for this decision was that the MAN design used an existing turret designed by Rheinmetall-Borsig, while the DB design would have required a brand new turret to be designed and produced, substantially delaying the commencement of production. G96 VK3002M 
+
+
+|HistoricalGallery=
+File:Vk3002man. G96 VK3002M jpg
+File:Vk3002man. G96 VK3002M png
+
+|Ref_references= Jentz, Thomas (1995). G96 VK3002M  Germany's Panther Tank. G96 VK3002M  Atglen: Schiffer Pub. G96 VK3002M  ISBN 0-88740-812-5. G96 VK3002M 
+
+
+|Ref_sources= https://en. G96 VK3002M wikipedia. G96 VK3002M org/wiki/Panther_tank
+
+
+|Ref_links=
+
+}}

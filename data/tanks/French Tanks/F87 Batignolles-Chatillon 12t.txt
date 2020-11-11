@@ -1,0 +1,228 @@
+nan. 
+nan. 
+This article requires additional modification. The design and/or content of this article do not conform to wiki standards. Missing Content: Gallery. 
+2,370,000 Cost. 
+1000800 HP Hit Points. 
+12.02/12.54.13/0 t Weight Limit. 
+320320 hp Engine Power. 
+68/23 km/h Speed Limit. 
+4040 deg/s Traverse. 
+26.62Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+40/20/20 mm Hull Armor. 
+25/25/25// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+170/170/260170/170/260 HP Damage. 
+144/182/38144/182/38 mm Penetration. 
+r/m ▲ Autoloaded Gun Burst Length: 1 round Magazine Size: 4 rounds Cycle Time: 2 s Magazine Reload Times Nominal: 24 s 50% Crew: 30.55 s 75% Crew: 26.88 s 100% Crew: 24 s With Vents: 23.45 s With Vents and BiA: 23.01 s Click here for more information. r/m ▲ Autoloaded Gun Burst Length: 1 round Magazine Size: 4 rounds Cycle Time: 2 s Magazine Reload Times Nominal: 24 s 50% Crew: 30.55 s 75% Crew: 26.88 s 100% Crew: 24 s With Vents: 23.45 s With Vents and BiA: 23.01 s Click here for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Autoloaded Gun Using Shell Type 1 (170 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▼ Autoloaded Gun Using Shell Type 2 (170 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▲ Autoloaded Gun Using Shell Type 3 (260 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information.Expression error: Unexpected < operator. ▲ Autoloaded Gun Using Shell Type 1 (170 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▼ Autoloaded Gun Using Shell Type 2 (170 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. ▲ Autoloaded Gun Using Shell Type 3 (260 Damage): Theoretical Damage Per Minute Nominal: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Advantageous Damage Per Minute Loaded-mag DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. With Vents: Expression error: Unexpected < operator. With Vents and BiA: Expression error: Unexpected < operator. Click here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+4646 deg/s Turret Traverse. 
+360° Gun Arc. 
+-6°/+13°-6°/+13° Elevation Arc. 
+4444 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With 100% Signal Boost: 480 m When affected by 100% Relaying: 440 m Maximum possible: 575.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+Canon de 75 mm Vo 920 m/s. 
+144/182/38. 
+170/170/260. 
+8.0. 
+0.38. 
+2.3. 
+nan. 
+nan. 
+72000. 
+nan. 
+Canon de 75 mm Vo 1000 m/s. 
+170/210/38. 
+170/170/260. 
+9.23. 
+0.38. 
+2.3. 
+nan. 
+nan. 
+102000. 
+nan. 
+FL 10 Type C. 
+//. 
+46. 
+380. 
+nan. 
+nan. 
+30000. 
+nan. 
+Mathis 210. 
+nan. 
+0. 
+nan. 
+nan. 
+36000. 
+nan. 
+Mathis 300. 
+nan. 
+0. 
+nan. 
+nan. 
+44500. 
+nan. 
+Batignolles-Châtillon 12 t. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+19000. 
+nan. 
+Batignolles-Châtillon 12 t bis. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+29000. 
+X. 
+SCR-528 Fr. 
+750. 
+nan. 
+80. 
+54000. 
+VI. 
+SCR 508. 
+400. 
+nan. 
+100. 
+21600. 
+Light Tanks. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+Medium Tanks. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+Heavy Tanks. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+Tank Destroyers. 
+IIRenault FT AC • IIIFCM 36 Pak 40 • IIIRenault UE 57 • IVSomua SAu 40 • VM10 RBFM • VS35 CA • VIARL V39 • VIIAMX AC mle. 46 • VIIIAMX AC mle. 48 • VIIIAMX Canon d'assaut 105 • IXAMX 50 Foch • XAMX 50 Foch (155) • XAMX 50 Foch B. 
+Self-Propelled Artillery. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank= Bat. F87 Batignolles-Chatillon 12t -Châtillon 12 t
+|The only tank in French LT line that's not AMX series, this tank doesn't share its equipment with other French tanks so you have to research everything from scratch. F87 Batignolles-Chatillon 12t  However, its play style is the same as most of the AMX LT series. F87 Batignolles-Chatillon 12t  Abbreviated in-game as "B-C 12 t". F87 Batignolles-Chatillon 12t 
+
+|Gallery= 
+
+|InTheGame_pros= 
+
+* Unlocks 2 vehicles: [[AMX 13 90]] and the [[Bat. F87 Batignolles-Chatillon 12t -Châtillon 25 t AP]]. F87 Batignolles-Chatillon 12t 
+* Excellent mobility; great at flanking and penetration is good for the flanking capabilities
+* Decent accuracy, gun handling and aiming time
+* Reasonable ammo capacity compared to others autoloading French LTs 
+* Exceptional camouflage, best in class for its tier
+
+|InTheGame_cons= 
+
+* Lengthy drum reload for its rather limited burst damage, poor DPM
+* Doesn't share modules with other French tanks, except for the radio
+* Low survivability: poor armor, frequent engine damage/fire, low HP pool
+
+
+|InTheGame_performance= 
+
+The BatChat 12t features a fast-firing, low burst autoloader on a highly mobile chassis with effective camouflage and workable gun handling. F87 Batignolles-Chatillon 12t  This creates a platform which is good for passive scouting, flanking and firing from ambush. F87 Batignolles-Chatillon 12t  Engagements should not occur from long range, as the gun is unreliable enough that you can miss entire clips due to poor aim, and the damage output is too mediocre to punish exposed enemies. F87 Batignolles-Chatillon 12t  Instead, the player should keep at a distance where they can spot the enemy without being spotted in return (~300-400m) and fire from cover. F87 Batignolles-Chatillon 12t  When distracted or low health targets present themselves, the BatChat 12t makes for an effective flanker and assassin. F87 Batignolles-Chatillon 12t  However, it should not be used in a brawl. F87 Batignolles-Chatillon 12t  The tank is arguably one of the worst tier 8 light tanks, being inferior in almost every aspect (firepower, armour, mobility) in exchange for an autoloader, smaller profile and better camo. F87 Batignolles-Chatillon 12t 
+
+Thanks to the incredible camouflage values of this tank, it saw extensive use as the tier 8 of choice in the 7/68 format battles of the WGL Grand Finals. F87 Batignolles-Chatillon 12t  
+
+|InTheGame_research= 
+
+|InTheGame_equipment=Vertical Stabilizer, Coated Optics, Camouflage Net, Binocular Telescope, Vents
+
+|InTheGame_Equipment_Builds=
+The two defining aspects of the BC12t are its autoloader and its exceptional camouflage and builds should focus on optimizing these two aspects. F87 Batignolles-Chatillon 12t  
+All crew should be trained with camouflage and the commander should have 6th sense in order to optimize for the passive scouting role. F87 Batignolles-Chatillon 12t  
+Further improvements for the scouting role would include recon on the commander. F87 Batignolles-Chatillon 12t  
+For the gunner, either snapshot or dead-eye are good choices. F87 Batignolles-Chatillon 12t  The driver should learn smooth ride to give the BSC12t at least a chance to hit targets while moving. F87 Batignolles-Chatillon 12t 
+
+The BatChat can mount common equipment pieces such as vertical stabilizers, optics and vents. F87 Batignolles-Chatillon 12t  However, a camo net should be considered as it boosts the camo when stationary to up to 50%. F87 Batignolles-Chatillon 12t  
+
+|External_Reviews= 
+{{#ev:youtube|ixQf8UUoteE}}
+
+|History= 
+The Bat. F87 Batignolles-Chatillon 12t -Châtillon 12t, or the Char 12 Tonnes Batignolles-Châtillon, was a prototype French light tank. F87 Batignolles-Chatillon 12t 
+
+
+==Post-War Light Tank Requirements==
+After World War 2, the French military was in dire need of new tanks. F87 Batignolles-Chatillon 12t  As such, on September 1946 a draft was issued by the Direction des études et fabrications d'armement (DEFA) for a new light tank to fulfill anti-tank and reconnaissance roles. F87 Batignolles-Chatillon 12t  This draft dictated that the tank must have:
+
+* strong firepower
+* a weight of less than or equal to 12 tons in order to be transported by air
+* good mobility
+* a long operational range
+
+Further requirements came in later. F87 Batignolles-Chatillon 12t  In January 1947, it was decided that the new tank must be able to accommodate many different types of weapons, and soon after the decision to use an oscillating turret was made - specifically, the FL-4 turret made by the Fives-Lille company with a high-velocity 75mm gun. F87 Batignolles-Chatillon 12t  By the end of 1945, the requirement that the tank must be air transportable was dropped. F87 Batignolles-Chatillon 12t 
+
+==The Char 12 Tonnes Batignolles-Châtillon==
+By April 1947, four companies entered the competition to design France's future light tank: AMX, Renault, FCM, and Batignolles-Châtillon. F87 Batignolles-Chatillon 12t  The latter's prototype became known as the Char 12 Tonnes Batignolles-Châtillon, or Bat-Chat 12t. F87 Batignolles-Chatillon 12t  This tank had the following characteristics: 
+
+* Length: 4. F87 Batignolles-Chatillon 12t 31 meters
+* Width: 2. F87 Batignolles-Chatillon 12t 4 meters
+* Height: 2. F87 Batignolles-Chatillon 12t 17 meters
+* Ground clearance: 0. F87 Batignolles-Chatillon 12t 315 meters
+* Track Width: 0. F87 Batignolles-Chatillon 12t 37 meters
+* Crew: 3 members
+* Armament: 75mm cannon with 1000 meters/second muzzle velocity and 40 shells
+* Motor: Mathis 7-Cylinder 8 GZ 00 with 210 horsepower
+* Maximum speed: 73 kilometers/hour
+* Operational Range: 240 kilometers
+* Slope-climbing ability: 70 degrees
+
+One should note that these statistics are either planned or tested a dummy turret. F87 Batignolles-Chatillon 12t  There are no known images of the Bat-Chat 12t with a proper turret, and it is unknown if the prototype was ever fitted with one. F87 Batignolles-Chatillon 12t 
+
+==Cancellation==
+The AMX prototypes won the competition with 5 prototypes built by December 1949, and entered service in 1952 as the AMX-13. F87 Batignolles-Chatillon 12t  In contrast, Batignolles-Châtillon's tank was not ready to be shown until June 1950. F87 Batignolles-Chatillon 12t  With the AMX prototype having been declared the winner, all development on and experiments with the Bat-Chat 12t ceased by September 1951. F87 Batignolles-Chatillon 12t 
+
+|HistoricalGallery= 
+File:Bat-Chat_12T_prototype. F87 Batignolles-Chatillon 12t jpg{{!}}Only known image of the Bat-Chat 12T prototype. F87 Batignolles-Chatillon 12t 
+File:BC12t_history. F87 Batignolles-Chatillon 12t jpg
+File:https://image. F87 Batignolles-Chatillon 12t noelshack. F87 Batignolles-Chatillon 12t com/fichiers/2017/14/1491742598-imgp8451. F87 Batignolles-Chatillon 12t jpg
+File:Bat12t_01. F87 Batignolles-Chatillon 12t jpg {{!}}The Bat-Chat 12t blueprint with FL4 turret. F87 Batignolles-Chatillon 12t 
+File:Bat12t_02. F87 Batignolles-Chatillon 12t jpg
+File:Bat12t_03. F87 Batignolles-Chatillon 12t jpg
+
+|HistAcc=
+* The in-game Bat-Chat 12t looks bigger than the dimensions on the blueprints. F87 Batignolles-Chatillon 12t 
+* The Bat-Chat's gun, the Canon de 75 mm Vo 1000 m/s, was an earlier version of the 75 mm SA50 used by the AMX 13. F87 Batignolles-Chatillon 12t  Despite that, the SA50 vastly underperforms compared to its prototype version. F87 Batignolles-Chatillon 12t 
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+* https://fr. F87 Batignolles-Chatillon 12t wikipedia. F87 Batignolles-Chatillon 12t org/wiki/AMX-13
+* https://ritastatusreport. F87 Batignolles-Chatillon 12t live/2017/01/23/supertest-wz-132-hkw-12-bat-chatillon-12t/ {{!}}Anonymous comment noting when the Bat-Chat 12t was revealed as well as the discrepancies regarding the tank's top gun
+* https://www. F87 Batignolles-Chatillon 12t chars-francais. F87 Batignolles-Chatillon 12t net/2015/index. F87 Batignolles-Chatillon 12t php/2-archives/engins/2642-1947-batignolles-12t
+
+}}

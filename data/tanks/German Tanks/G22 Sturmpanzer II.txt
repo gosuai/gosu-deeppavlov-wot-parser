@@ -1,0 +1,187 @@
+156,000 Cost. 
+290290 HP Hit Points. 
+15.9/1615.2/18.1 t Weight Limit. 
+155155 hp Engine Power. 
+45/10 km/h Speed Limit. 
+2022 deg/s Traverse. 
+9.75Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+30/14.5/14.5 mm Hull Armor. 
+HE HE Shells. 
+280/0 280/0 Shell Cost. 
+400//400// HP Damage. 
+35//35// mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 17.4 s 50% Crew: 21.55 s 75% Crew: 18.82 s 100% Crew: 16.68 s Rammer: 15.01 s Vents: 16.31 s Both: 14.68 s Both and BiA: 14.36 s Both and Max Crew %: 13.77 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 17.4 s 50% Crew: 21.55 s 75% Crew: 18.82 s 100% Crew: 16.68 s Rammer: 15.01 s Vents: 16.31 s Both: 14.68 s Both and BiA: 14.36 s Both and Max Crew %: 13.77 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (400 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1380 50% Crew: 1112 75% Crew: 1276 100% Crew: 1440 100% Crew Vents: 1472 Rammer: 1600 Both: 1636 Both and BiA: 1672 Both and Max Crew %: 1744 Advantageous Damage Per Minute First-shot DPM: 1780 50% Crew: 1512 75% Crew: 1676 100% Crew: 1840 100% Crew Rammer: 2000 Vents: 1872 Both: 2036 Both and BiA: 2072 Both and Max Crew %: 2144 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (400 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1380 50% Crew: 1112 75% Crew: 1276 100% Crew: 1440 100% Crew Vents: 1472 Rammer: 1600 Both: 1636 Both and BiA: 1672 Both and Max Crew %: 1744 Advantageous Damage Per Minute First-shot DPM: 1780 50% Crew: 1512 75% Crew: 1676 100% Crew: 1840 100% Crew Rammer: 2000 Vents: 1872 Both: 2036 Both and BiA: 2072 Both and Max Crew %: 2144 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 1.041 m With 75% Crew: 0.909 m With 100% Crew: 0.805 m With BiA: 0.788 m With BiA and Vents: 0.771 m Maximum possible: 0.739 m For more details, see Crew m ▲ With 50% Crew: 1.041 m With 75% Crew: 0.909 m With 100% Crew: 0.805 m With BiA: 0.788 m With BiA and Vents: 0.771 m Maximum possible: 0.739 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 8.052 s With 75% Crew: 7.031 s With 100% Crew: 6.232 s With GLD: 5.666 s With BiA: 6.095 s With BiA and Vents: 5.963 s With both and GLD: 5.421 s Maximum possible: 5.196 s For more details, see Crew or Equipment s ▲ With 50% Crew: 8.052 s With 75% Crew: 7.031 s With 100% Crew: 6.232 s With GLD: 5.666 s With BiA: 6.095 s With BiA and Vents: 5.963 s With both and GLD: 5.421 s Maximum possible: 5.196 s For more details, see Crew or Equipment Aim time. 
+1616 deg/s Gun Traverse Speed. 
+14° Gun Arc. 
+-4°/+75°-4°/+75° Elevation Arc. 
+5555 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 200.4 m With 75% Crew: 227.7 m With 100% Crew: 255 m With Recon and Situational Awareness: 267.9 m With Coated Optics: 280.5 m With Binocular Telescope: 318.75 m Maximum possible: 365.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 200.4 m With 75% Crew: 227.7 m With 100% Crew: 255 m With Recon and Situational Awareness: 267.9 m With Coated Optics: 280.5 m With Binocular Telescope: 318.75 m Maximum possible: 365.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 243.6 m With 75% Crew: 276.8 m With 100% Crew: 310 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 446.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 550 m With 75% Crew: 625.1 m With 100% Crew: 700 m With 100% Signal Boost: 840 m When affected by 100% Relaying: 770 m Maximum possible: 1007.3 m For more details, see Skills or Equipment Signal Range. 
+III. 
+15 cm s.I.G. 33 L/11. 
+35. 
+400. 
+3.45. 
+0.84. 
+6.5. 
+nan. 
+760. 
+8880. 
+nan. 
+Büssing NAG L8V/GS 36. 
+nan. 
+0. 
+nan. 
+nan. 
+4220. 
+nan. 
+Büssing NAG L8V/GS 39. 
+nan. 
+0. 
+nan. 
+nan. 
+8800. 
+III. 
+15 cm s.I.G. 33B Sfl.. 
+16.0. 
+20. 
+0. 
+nan. 
+7000. 
+1260. 
+IV. 
+15 cm s.I.G. 33B Sfl. verstärkteketten. 
+18.1. 
+22. 
+0. 
+nan. 
+7000. 
+3560. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VIII. 
+Fu.Spr.Ger. "a". 
+700. 
+nan. 
+150. 
+27000. 
+VII. 
+FuG Spr. 1. 
+455. 
+nan. 
+150. 
+21600. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank=
+|It uses the same gun as the [[Sturmpanzer I Bison]], although it has more than twice as many shells and a better rate of fire. G22 Sturmpanzer II   Despite looking significantly different from the Sturmpanzer I Bison, the Sturmpanzer II has many of the same statistics. G22 Sturmpanzer II   The extremely narrow horizontal arc and unimpressive range make it necessary to move this vehicle frequently, which can be annoying due to the long aim time and risk of being spotted. G22 Sturmpanzer II   However these balance the vehicle, as the gun is extremely powerful -- capable of doing very large amounts of damage to even some Tier VI enemies. G22 Sturmpanzer II 
+
+|Gallery=
+image:Sturmpanzer II front view 1. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II front left view
+image:Sturmpanzer II front view 2. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II front right view
+image:Sturmpanzer II back view 1. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II back left view
+image:Sturmpanzer II back view 2. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II back right view
+
+|InTheGame_pros=
+* Large splash radius for its tier 
+* High damage and penetration 
+* High shell trajectory 
+* Decent accuracy, at least at the ranges you'll probably have to be firing from. G22 Sturmpanzer II 
+
+|InTheGame_cons=
+* Poor acceleration and top speed
+* Narrow gun arc
+* Poor aim time
+* Slow shell speed 
+* Short range (600 m)
+
+|InTheGame_performance=
+When fully upgraded this SPG can reach a decent speed to reach its firing position much more quickly than the Bison, though its traverse speed is a major handicap. G22 Sturmpanzer II   Its traverse speed and slow reload time also make it extremely vulnerable in close quarters fights, making support or excellent positioning essential. G22 Sturmpanzer II   
+
+With highly trained crew members and a [[Equipment#Performance|medium-caliber artillery shell rammer]] this SPG can get a much faster reload rate than without. G22 Sturmpanzer II   The crew training also significantly decreases the aim time. G22 Sturmpanzer II   When combined with the great damage and penetration of the more expensive 450-damage HE ammunition, with a 30 round carry capacity, this SPG can be a very dangerous foe and can often do more damage than any other SPG on the battlefield. G22 Sturmpanzer II    
+
+When facing high speed tanks it is recommended one takes a very large lead on the target. G22 Sturmpanzer II   Ideally, this SPG should not even attempt to hit these targets, as hitting the right location at the right time is very difficult when having to frequently turn the vehicle. G22 Sturmpanzer II 
+
+When facing lower speed tanks that are moving it is recommended to center the tank facing the targets and then lock the tracks, otherwise very minor aim adjustments will often result in very large aiming penalties. G22 Sturmpanzer II 
+
+Of note is that the ammunition is highly effective against the sides of the [[KV-1S]], with reliable 400-damage hits. G22 Sturmpanzer II 
+
+(Although Additional Grousers are available for this vehicle the additional one ton of weight on its meager engine slows it down more than the Additional Grousers help, making their purchase for this tank pointless. G22 Sturmpanzer II  )
+
+|InTheGame_research=
+* First, research the Büssing NAG L8V/GS 39 engine
+* Next, research the upgraded suspension
+* Lastly, research the FuG Spr. G22 Sturmpanzer II  A radio
+
+|InTheGame_equipment=
+Artillery Shell Rammer, Camouflage Net
+
+|History=
+[[image:Sturmpanzer_II_pic1. G22 Sturmpanzer II jpg|thumb|200px|right|Sturmpanzer II in North Africa]]
+[[image:Sturmpanzer_II_pic2. G22 Sturmpanzer II jpg|thumb|200px|left|Sturmpanzer II preparing for deployment]]
+Even before the Sturmpanzer I entered service, plans were made to develop an improved version based on the PzKpfw II's chassis and components. G22 Sturmpanzer II  Panzerkampfwagen II became obsolete in 1941, but the large number produced made it a perfect base for conversions. G22 Sturmpanzer II  The first improvised prototype was tested at Kummersdorf on June 13th of 1940. G22 Sturmpanzer II  In October of 1940, Alkett completed the first prototype based on Panzerkampfwagen II Ausf B's chassis, but did not provide adequate space for the large gun as well as its inability to absorb the recoil. G22 Sturmpanzer II 
+
+On February 18th of 1941, it was decided to built Sturmpanzer II on modified and turretless chassis/hulls of Panzerkampfwagen IIs. G22 Sturmpanzer II  In July/August of 1941, the first Sturmpanzer II Bison (lenghtened version) was produced. G22 Sturmpanzer II  By January of 1942, a total of twelve (versuchserie - trial series) were produced by Alkett; 7 were produced in 1941 and 5 in 1942. G22 Sturmpanzer II  
+
+The chassis was slightly widened (by 32cm) and lenghtened (by 60cm) in order to make room for the gun, and an additional sixth roadwheel was added. G22 Sturmpanzer II  For a vehicle being based on the Panzerkampfwagen II , it had few components in common with the base tank variant. G22 Sturmpanzer II  It was powered by a Bussing-NAG engine instead of the usual Maybach. G22 Sturmpanzer II  Unlike the Wespe, there were no protecting sides along the entire length of the superstructure. G22 Sturmpanzer II  A 150mm sIG 33 L/11. G22 Sturmpanzer II 4 heavy infantry gun was mounted in the shield that extended straight across the full width of the superstructure. G22 Sturmpanzer II  The gun had a range of 4700 meters and could be elevated vertically by 75 degress. G22 Sturmpanzer II  The main armament could be used as a heavy infantry gun or as a heavy mortar, depending on the elevation and initial speed of the projectile. G22 Sturmpanzer II  Sturmpanzer II was operated by the crew of 4 (commander, two gunners, and driver) and it weighed approximately 16 tons. G22 Sturmpanzer II  Its performance was poor as its weak engine overheated and the vehicle had poor maneuverability. G22 Sturmpanzer II  
+
+All vehicles were grouped into the 707th and 708th sIG Kp (Sfl. G22 Sturmpanzer II ) heavy infantry gun companies and were shipped to Libya, North Africa, from February to April of 1942. G22 Sturmpanzer II  They proved prone to constant mechanical breakdowns, and only a few were operational by using other ones as sources for spare parts. G22 Sturmpanzer II  Eight were lost by December 2nd of 1942, while six others served with DAK - Deutsches Afrika Korps until the spring of 1943, when last of them was eliminated (abandoned). G22 Sturmpanzer II  
+
+It is reported that the British captured six abandoned and dismantled Sturmpanzer IIs in one of Germany's workshops. G22 Sturmpanzer II  It is also reported that a single Sturmpanzer II was pressed in service by the Egyptian Army and saw combat once again in the war with Israel in 1948. G22 Sturmpanzer II  Based on experiences with the Sturmpanzer II, the more practical and successful Wespe was developed and produced. G22 Sturmpanzer II 
+
+|HistoricalGallery=
+image:Sturmpanzer II pic1. G22 Sturmpanzer II jpg‎{{!}}Sturmpanzer II Bison in North Africa
+image:Sturmpanzer II pic2. G22 Sturmpanzer II jpg‎{{!}}Another Sturmpanzer II Bison in North Africa
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://www. G22 Sturmpanzer II achtungpanzer. G22 Sturmpanzer II com/sig33. G22 Sturmpanzer II htm#sig33
+* https://www. G22 Sturmpanzer II wwiivehicles. G22 Sturmpanzer II com/germany/vehicle/self-propelled/sig-33-self-propelled-gun. G22 Sturmpanzer II asp
+
+}}
+
+[[Category:German Tanks]]

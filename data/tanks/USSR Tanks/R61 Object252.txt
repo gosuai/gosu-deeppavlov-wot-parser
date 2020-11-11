@@ -1,0 +1,221 @@
+11,800 Cost. 
+15501240 HP Hit Points. 
+51.5/59.924.38/0 t Weight Limit. 
+700700 hp Engine Power. 
+35/14 km/h Speed Limit. 
+2626 deg/s Traverse. 
+13.59Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+110/100/60 mm Hull Armor. 
+150/150/100// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+390/390/530390/390/530 HP Damage. 
+186/225/61186/225/61 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 11.7 s 50% Crew: 14.49 s 75% Crew: 12.66 s 100% Crew: 11.22 s Rammer: 10.1 s Vents: 10.97 s Both: 9.88 s Both and BiA: 9.66 s Both and Max Crew %: 9.26 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 11.7 s 50% Crew: 14.49 s 75% Crew: 12.66 s 100% Crew: 11.22 s Rammer: 10.1 s Vents: 10.97 s Both: 9.88 s Both and BiA: 9.66 s Both and Max Crew %: 9.26 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (390 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (530 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.545 m With 75% Crew: 0.476 m With 100% Crew: 0.422 m With BiA: 0.413 m With BiA and Vents: 0.404 m Maximum possible: 0.387 m For more details, see Crew m ▲ With 50% Crew: 0.545 m With 75% Crew: 0.476 m With 100% Crew: 0.422 m With BiA: 0.413 m With BiA and Vents: 0.404 m Maximum possible: 0.387 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.469 s With 75% Crew: 3.029 s With 100% Crew: 2.685 s With GLD: 2.441 s With BiA: 2.626 s With BiA and Vents: 2.569 s With both and GLD: 2.335 s Maximum possible: 2.238 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.469 s With 75% Crew: 3.029 s With 100% Crew: 2.685 s With GLD: 2.441 s With BiA: 2.626 s With BiA and Vents: 2.569 s With both and GLD: 2.335 s Maximum possible: 2.238 s For more details, see Crew or Equipment Aim time. 
+2424 deg/s Turret Traverse. 
+360° Gun Arc. 
+-6°/+20°-6°/+20° Elevation Arc. 
+3737 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment m ▲ With 50% Crew: 275 m With 75% Crew: 312.5 m With 100% Crew: 350 m With Recon and Situational Awareness: 367.7 m With Coated Optics: 385 m With Binocular Telescope: 437.5 m Maximum possible: 501.1 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 573.6 m With 75% Crew: 651.8 m With 100% Crew: 730 m With 100% Signal Boost: 876 m When affected by 100% Relaying: 803 m Maximum possible: 1050.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.6 m With 75% Crew: 651.8 m With 100% Crew: 730 m With 100% Signal Boost: 876 m When affected by 100% Relaying: 803 m Maximum possible: 1050.4 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+122 mm D-30. 
+186/225/61. 
+390/390/530. 
+5.13. 
+0.44. 
+2.8. 
+nan. 
+nan. 
+135140. 
+nan. 
+IS-6. 
+//. 
+24. 
+350. 
+nan. 
+nan. 
+33680. 
+nan. 
+V-12 A. 
+nan. 
+0. 
+nan. 
+nan. 
+84000. 
+nan. 
+IS-6. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+27920. 
+X. 
+10RKM. 
+730. 
+nan. 
+100. 
+52200. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIT-44-122 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85A • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+USA. 
+IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIMTLS-1G14 • VM4 Improved • VM4A2E4 Sherman • VRam II • VT14 • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIT78 • VIIM56 Scorpion • VIIT28 Concept • VIIT26E3 Eagle 7 • VIIKing Tiger (Captured) • VIISuper Hellcat • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIITS-5 • VIIIM54 Renegade • VIIITL-1 LPC • VIIIT77 • VIIIM46 Patton KR • VIIIT92 • VIIIM6A2E1 • VIIIT26E4 SuperPershing • VIIIT34 • VIIIT34 B • VIIIT95E2 • IXAE Phase I • XM60 • XT95E6. 
+UK. 
+IILight Mk. VIC • IIISexton I • IVAC 1 Sentinel • VValiant • VExcelsior • VMatilda Black Prince • VIA46 • VIAC 4 Experimental • VITOG II* • VICromwell B • VISherman VC Firefly • VIExcalibur • VIIFV201 (A45) • VIIAT 15A • VIIIFV1066 Senlac • VIIIFV4202 • VIIIChieftain/T95 • VIIICaernarvon Action X • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • VIIITurtle Mk. I • XFV215b • XFV215b (183) • XT95/FV4201 Chieftain. 
+Germany. 
+IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIIGroßtraktor - Krupp • III43 M. Toldi III • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. S35 739 (f) • IIIPz.Kpfw. T 15 • IVPz.Kpfw. B2 740 (f) • VStuG IV • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. T 25 • VIDicker Max • VITiger 131 • VIPz.Kpfw. IV Schmalturm • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIVK 45.03 • VIIPanther/M10 • VIIIPanther mit 8,8 cm L/71 • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIHWK 30 • VIIIVK 75.01 (K) • VIIIM48A2 Räumpanzer • VIIIE 75 TS • VIII8,8 cm Pak 43 Jagdtiger • VIIILöwe • IXT 55A • IXKampfpanzer 50 t • XVK 72.01 (K). 
+France. 
+IIAM 39 Gendron-Somua • IIAMR 35 • IIIFCM 36 Pak 40 • VM10 RBFM • V105 leFH18B2 • VIBretagne Panther • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIISomua SM • VIIIAMX Canon d'assaut 105 • VIIIELC EVEN 90 • VIIIFCM 50 t • IXChar Futur 4 • XAMX 50 Foch (155). 
+USSR. 
+IIT-45 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-29 • IIIT-116 • IIISU-76I • IIIT-127 • IVA-32 • IVT-28E with F-30 • IVValentine II • VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VMatilda IV • VT-34 shielded • VSU-85I • VIKV-2 (R) • VIT-34-85M • VIObject 244 • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-50-2 • VISU-100Y • VIIISU-122S • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIISU-122-44 • VIIT-44-122 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIISU-130 • VIIIT-54 first prototype • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIT-103 • VIIISTG • VIIISTG Guard • VIIILT-432 • VIIISU-130PM • VIIIObject 703 Version II • VIIIISU-152K • IXObject 777 Version II • XObject 907 • XObject 260 • XT-22 medium • XObject 279 early. 
+China. 
+VIType 64 • VIIType 62 • VIIIType 59 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIIIT-34-3 • VIII112 • VIII59-Patton • VIIIWZ-120-1G FT • VIIIM41D • VIIIType 59 G • X121B. 
+Japan. 
+IIType 97 Te-Ke • VType 3 Chi-Nu Kai • VIHeavy Tank No. VI • VIIISTA-2. 
+Czechoslovakia. 
+VIŠkoda T 40 • VIIIŠkoda T 27. 
+Sweden. 
+IIL-60 • VIStrv m/42-57 Alt A.2 • VIIIStrv S1 • VIIIStrv 81 • VIIIPrimo Victoria • VIIIEMIL 1951 • VIIILansen C. 
+Italy. 
+VIIIProgetto M35 mod. 46. 
+Poland. 
+IITKS z n.k.m. 20 mm • VIPudel • VIT-34-85 Rudy • VIII50TP prototyp • VIIICS-52. 
+{{TankData|Tank=Object252
+|The IS-6 replaced the [[KV-5]] as the Soviet Tier 8 premium heavy tank available through the in-game store from patch 0. R61 Object252 7. R61 Object252 3. R61 Object252  It is also currently available from the gift shop as a bundle with a garage slot all year-round. R61 Object252  It is the 2nd (defender) cheapest of the Tier 8 premium heavy tanks. R61 Object252  It has good armour and decent mobility, but an inaccurate gun with fairly low penetration. R61 Object252  
+Once one of the most common premium tanks in the game, the IS-6 has suffered heavily from powercreep as well as the new matchmaking. R61 Object252  Even its main advantage, the preferential match making, has been largely nullified by the fact that it will see mostly tier 9 matches, for which it is poorly suited due to its low penetration. R61 Object252 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Very good DPM and alpha enables aggressive and fun gameplay
+* Highly angled all around armor with good effectiveness, especially if angled properly
+* Decent mobility for the armor that it carries
+* No obvious frontal weakspots - the driver's hatch is actually thicker than the upper plate
+* Preferential matchmaking (tier 9 max, no tier 10 battles)
+
+|InTheGame_cons=
+* Relatively low ammunition capacity
+* Poor penetration and shell speed on both AP and APCR shells
+* Bad accuracy and hull movement dispersion values
+* Poor viewrange, easily outspotted 
+
+
+|InTheGame_performance=
+Most Soviet heavy tank players who went to the IS line should feel right at home with the IS-6. R61 Object252  In many ways, the IS-6 is essentially an [[IS]] that has been moved up to Tier 8, but still meets the same opponents. R61 Object252  
+
+The '''122 mm D-30''' is for all intents and purposes the natural evolution of the IS's top gun, the 122 mm D-25T (and in fact, the D-30 was historically a modified version of the D-25T). R61 Object252  It has marginally improved penetration (186 mm), marginally improved accuracy (0. R61 Object252 44 m), and shorter aim time (2. R61 Object252 8 s), none of which are appreciable for its tier. R61 Object252  Using the gun at ranges above 100 m requires a lot of patience in allowing the gun to fully aim in, and even then the gun can and will miss. R61 Object252  It works best at medium to close ranges. R61 Object252  The rate-of-fire and alpha damage are quite good, however, and at shorter ranges the IS-6 can use its superior damage output to its advantage, especially against the [[Löwe]] and [[T34]]. R61 Object252  An Enhanced Gun Laying Drive ''and'' a Vertical Stabilizer are highly recommended. R61 Object252  The limited ammunition capacity of only 37 rounds coupled with the high rate-of-fire and necessity of splitting between all 3 kinds of ammo means that running short of ammunition is a very real possibility, and shots should be taken with care. R61 Object252 
+
+The IS-6 is relatively well-protected when compared to other tier 8 premiums. R61 Object252  Unlike the KV-5, which depends on raw armour thickness and a high number of HP to in order to absorb hits, the IS-6 relies on its very well-sloped armour to bounce incoming enemy fire. R61 Object252  Additionally, the IS-6 lacks the distinct weak spots that the KV-5 has. R61 Object252  While not nearly as impenetrable as the T34 or IS-3's frontal turret, the IS-6 is still reasonably well-protected. R61 Object252  Angling and sidescraping will really boost the IS-6's survivability, especially since the side armour is just as thick as the front and is either sloped or covered with some form of spaced armor. R61 Object252  The rear of the turret and hull are significantly weaker than the other sides, however, and one should be very careful about enemy tanks getting behind the IS-6. R61 Object252  When angling the IS-6, one must be careful not to expose the hull "shoulder plates" too much, as too much angling of the front plate will at the same time straighten out one of the "shoulders", making it easier to penetrate. R61 Object252 
+
+More than most any other Tier 8 premium heavy tank (with the distinct exception of the very mobile [[FCM 50 t]]) the IS-6 is better at reacting to the changes of a dynamic battlefield. R61 Object252  The good mobility of this tank, combined with it's other features gives it the flexibility that many other Tier 8 premium heavy tanks lack. R61 Object252  All of this combines to allow the IS-6 to get in close, where it can make good use of it's high alpha, moderately accurate gun. R61 Object252 
+
+As a Tier 8 premium tank, the IS-6 is good at earning credits. R61 Object252  However, the expensive ammunition, particularly when shooting APCR, will quite noticeably cut into its profits. R61 Object252  
+
+In the game's files and in official matchmaking charts, the IS-6 is known by its ''Ob'yekt'' (Object) designation: Object 252. R61 Object252 
+
+=='''Crew Skills'''==
+As a premium tank, it is generally not recommended that a dedicated crew be run on the IS-6. R61 Object252  Instead, one should use an existing Soviet heavy tank crew. R61 Object252  If none exists, however, then the following options are probably the most viable. R61 Object252 
+
+* '''Repair''' as the first skill for all the crew members is a solid choice, allowing broken tracks or other damaged modules to be brought to operational condition as quickly as possible. R61 Object252  Repair kits can thus be saved for more important modules like the gun or ammunition rack. R61 Object252 
+* A more specialized set of first skills would be '''Repair''' (Commander and Loader), '''Snap Shot''' (Gunner), and '''Smooth Ride''' (Driver). R61 Object252  The loader only has perks available, which are not useful until they have reached 100%. R61 Object252  '''Repair''' is the most viable option for the loader, which may later be swapped out for his perks. R61 Object252  The combination of Snap Shot and Smooth Ride act like a Vertical Stabilizer, reducing the accuracy penalties while moving in a straight line or turning the turret. R61 Object252  When combined with an actual Vertical Stabilizer, this can make a significant difference, especially given the IS-6's terrible dispersion and aim time. R61 Object252  '''Mentor''' may also be used instead of Repair if the emphasis is on getting the other crew members' skills up faster. R61 Object252  Smooth Ride may be substituted with '''Off-Road Driving''' for improved overall mobility or '''Clutch Braking''', which is always useful on any heavy tank for the increased hull traverse, allowing them to counter circling tanks better. R61 Object252 
+* Upon reaching 100% on the first skills, dropping the commander's skill for '''Sixth Sense''' is highly advised, as it is one of the most important perks in the game. R61 Object252  It is especially valuable in matches with artillery, since in a heavy tank being spotted usually means an artillery round is on its way towards you. R61 Object252  The loader's skill may be dropped in favor of '''Safe Stowage'''. R61 Object252 
+* '''Brothers-in-Arms''' is a good perk to have on any tank, but requires all crew members to have it at 100% before it works. R61 Object252  The bonus to crew skills is particularly noticeable when combined with Improved Ventilation. R61 Object252  It improves nearly every aspect of the tank's performance, but is generally better saved for later in favor of more important skills and perks like Repair and Sixth Sense. R61 Object252 
+
+|InTheGame_research=
+As a premium tank, the IS-6 has no upgrades. R61 Object252  
+
+|InTheGame_equipment=
+Vertical Stabilizer, Large-caliber tank gun rammer, GLD, Vents, Toolbox
+
+|History=
+Following the Battle of Kursk in the summer of 1943, the Soviets were able to acquire a few examples of the new generation of German tanks, most notably the ''[[Tiger|PzKpfw VI Tiger]]'' heavy tank (known as the "''T-6H Tiger''" to the Soviets) and the ''Panzerjäger Tiger (P)'' tank destroyer, better known as the ''[[Ferdinand]]'' (designated the "''T-6P Ferdinand''" by the Soviets). R61 Object252  After studying these vehicles, the OGK NKTP (''Otdel Glavnogo Konstruktora Narodniy Kommissariat Tankovoy Promishlennosti'' - Main Design Department of the People's Commissariat of Tank Production) developed a keen interest in some of their new features, particularly the neutral steering capabilities of the ''Tiger'' and the electrical transmission of the ''Ferdinand''. R61 Object252  Due to the more advanced German designs, The Soviets decided to break the barrier by beginning construction of a new series of tanks, commonly known as the "IS" (Iosif Stalin) Series. R61 Object252  After releasing a newer engine to fit inside the IS-6 prototype. R61 Object252  OGK NKTP provided these state of the art engines. R61 Object252  They were found to make driving the tanks a lot easier, and the OGK NKTP began considering the possible incorporation of these features into Soviet tanks. R61 Object252 
+
+Between the 13th and 17th of November 1943, the OGK NKTP, along with the VAMM (''Voennaya Akademiya Mekhanizatsii i Motorizatsii'' - Military Academy of Mechanisation and Motorisation) and the NATI (''Nauchniy AvtoTraktorniy Institut'' - Automobile and Tractor Research Institute), began work on further increasing the [[IS|IS-2]] heavy tank's firepower and protection by developing a heavy assault tank. R61 Object252  The project was originally intended to produce a tank with a rear-mounted superstructure and an electromechanical transmission similar to that of the ''Ferdinand'', and was led by Deputy Chief of the GBTU (''Glavnoye Bronyetankovoye Upravleniye'' - Main Tank Directorate) I. R61 Object252  Lebedev. R61 Object252  Early the next month, the design bureau of the Experimental Plant No. R61 Object252  100 in Chelyabinsk, under the leadership of Zhosef Kotin, designer of the KV and IS heavy tanks, began work on a new heavy tank project. R61 Object252  Eventually, two designs for the '''IS-6''' were submitted, both in the "classical" tank configuration. R61 Object252 
+
+On 8 June 1944, the NKTP ordered the Experimental Plant No. R61 Object252  100, along with the ''Uralmashzavod'' (Ural Machine Plant) to begin design and construction of the two IS-6 designs as the ''Ob'yekt 252'' and ''Ob'yekt 253'' respectively. R61 Object252  Preliminary design work had already been completed by the Experimental Plant No. R61 Object252  100 under A. R61 Object252  Yermolayev, and most of the remaining design work would be the responsibility of Uralmashzavod, as the ChKZ (''Chelyabinsk Kirov Zavod'' - Chelyabinks Kirov Plant), with which the Experimental Plant No. R61 Object252  100 was associated, was also preoccupied with the production of existing tank designs, as well as with work on the ''Ob'yekt 701'' heavy tank (the prototype of the [[IS-4]]). R61 Object252  The Experimental Plant No. R61 Object252  100 would be responsible for construction of the prototypes, while the Uralmashzavod would be responsible for assembly and testing of the prototypes. R61 Object252 
+
+Strictly speaking, there were two different tanks which received the same designation IS-6: the ''Ob'yekt 252'' and the ''Ob'yekt 253''. R61 Object252  The IS-6 featured ingame is the ''Ob'yekt 252''. R61 Object252  It was manufactured in October 1944, and can be easily distinguished from the ''Ob'yekt 253'' by the large-diameter road wheels and lack of track support rollers. R61 Object252  The suspension had previously been tested on the IS-3 experimental heavy tank (''Ob'yekt 244'', not to be confused with the other IS-3, the ''[[IS-3|Ob'yekt 703]]''). R61 Object252  It was armed with the 122 mm D-30, an improved version of the 122 mm D-25T (not to be confused with the later 122 mm 2A18 howitzer, which also had the name of D-30). R61 Object252  The D-30 was equipped with a shell rammer for increased rate-of-fire, and also had a compressed gas system to purge the barrel of gun fumes after firing. R61 Object252  It was fitted with a 700 hp V-12U diesel engine and a conventional mechanical transmission, while the ''Ob'yekt 253'' was fitted with the new electro-mechanical transmission. R61 Object252  The ''Ob'yekt 252'' underwent factory testing from 8 to 27 November 1944 before being sent, along with the ''Ob'yekt 253'', for further testing at the NIIBT (Nauchno-Ispitatyelniy Institut BronyeTekhnika - Research and Testing Institute for Armoured Vehicles) testing grounds in Kubinka. R61 Object252 
+
+Comparative testing with the ''Ob'yekt 701'' showed that both IS-6 prototypes were broadly equivalent to it in firepower and mobility, but were inferior in armour protection. R61 Object252  Neither IS-6 design was eventually selected for production; the ''Ob'yekt 252'', with its mechanical transmission, was found to offer no significant advantages over existing heavy tanks, while the ''Ob'yekt 253'''s electrical transmission was found to be too bulky, too unreliable, and required too much space for the cooling units. R61 Object252  The increased weight of the electrical transmission also reduced the vehicle's maneuverability, eliminating any advantages in handling the electrical transmission would have provided. R61 Object252  Further development of both IS-6 designs was thus halted. R61 Object252 
+
+|HistoricalGallery=
+
+image:Iosif Stalin 6 1. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 252'') tank during maintenance
+image:Iosif Stalin 6 2. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 253'') tank parked in the factory depot
+image:Iosif Stalin 6 3. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 253'') rear view
+image:Iosif Stalin 6 4. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 252'') tank during army trials
+image:IS-6. R61 Object252 jpg{{!}}IS-6 (''Ob'yekt 252'') tank during army trials
+
+|HistAcc= 
+*d-30 gun was an improvement of d-25t but in the game the stats are the same. R61 Object252   HEAT and HE were only able to be fired from artillery version of d-30. R61 Object252 
+*Like many soviet tanks in game the IS-6 has increased gun depression. R61 Object252  In reality it had -3° instead of -6°
+*Its armour was unhistorically increased in patch 1. R61 Object252 2, most notibly the turret front from 150->190 and the upper glacis from 100->110 (mm)
+
+|Ref_references=
+
+* [https://www. R61 Object252 youtube. R61 Object252 com/watch?v=2Q_XhQ_ONvM '''Youtube''' ] RBS video review
+
+|Ref_sources=
+
+|External_Reviews= 
+
+|Ref_links=
+
+* [https://en. R61 Object252 wikipedia. R61 Object252 org/wiki/Iosif_Stalin_tank '''Iosef Stalin (IS) Series Heavy Tanks IS-1, IS-2, IS-3, IS-4, IS-6, IS-7'''] at wikipedia. R61 Object252 
+
+* [https://ru. R61 Object252 wikipedia. R61 Object252 org/wiki/%D0%98%D0%A1-6] '''Russian Wikipedia article on the IS-6 (in Russian)'''
+
+* [https://pro-tank. R61 Object252 ru/brone-sssr/336-tank-is6] '''(in Russian)'''
+
+* [https://www. R61 Object252 tankinfo. R61 Object252 ru/Country/SSSR/2/heavi/IS/IS-6_ob_252. R61 Object252 php] '''(in Russian)'''
+
+|Sidebar_Camostop=7. R61 Object252 1
+|Sidebar_Camomove=3. R61 Object252 7
+|Sidebar_Camofire=1. R61 Object252 4
+|Sidebar_Passhard=1. R61 Object252 151
+|Sidebar_Passmed=1. R61 Object252 438
+|Sidebar_Passsoft=2. R61 Object252 205
+|Sidebar_DispTurret=0. R61 Object252 115
+|Sidebar_DispRecoil=3. R61 Object252 836
+|Sidebar_DispAccel=0. R61 Object252 221
+|Sidebar_DispTurning=0. R61 Object252 221
+}}
+
+[[Category:USSR Tanks]]

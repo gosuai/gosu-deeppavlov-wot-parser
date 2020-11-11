@@ -1,0 +1,201 @@
+3,600,000 Cost. 
+500400 HP Hit Points. 
+59.43/6026.58/0 t Weight Limit. 
+650650 hp Engine Power. 
+45/10 km/h Speed Limit. 
+1414 deg/s Traverse. 
+10.94Expression error: Unexpected < operator. hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+30/16/16 mm Hull Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+850/850/850/850/ HP Damage. 
+44/44/44/44/ mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 31 s 50% Crew: 38.4 s 75% Crew: 33.53 s 100% Crew: 29.72 s Rammer: 26.75 s Vents: 29.07 s Both: 26.16 s Both and BiA: 25.59 s Both and Max Crew %: 24.53 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 31 s 50% Crew: 38.4 s 75% Crew: 33.53 s 100% Crew: 29.72 s Rammer: 26.75 s Vents: 29.07 s Both: 26.16 s Both and BiA: 25.59 s Both and Max Crew %: 24.53 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (850 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (850 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (850 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (850 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.805 m With 75% Crew: 0.703 m With 100% Crew: 0.623 m With BiA: 0.61 m With BiA and Vents: 0.596 m Maximum possible: 0.572 m For more details, see Crew m ▲ With 50% Crew: 0.805 m With 75% Crew: 0.703 m With 100% Crew: 0.623 m With BiA: 0.61 m With BiA and Vents: 0.596 m Maximum possible: 0.572 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 5.946 s With 75% Crew: 5.192 s With 100% Crew: 4.602 s With GLD: 4.184 s With BiA: 4.501 s With BiA and Vents: 4.403 s With both and GLD: 4.003 s Maximum possible: 3.837 s For more details, see Crew or Equipment s ▲ With 50% Crew: 5.946 s With 75% Crew: 5.192 s With 100% Crew: 4.602 s With GLD: 4.184 s With BiA: 4.501 s With BiA and Vents: 4.403 s With both and GLD: 4.003 s Maximum possible: 3.837 s For more details, see Crew or Equipment Aim time. 
+1212 deg/s Gun Traverse Speed. 
+10° Gun Arc. 
+-2°/+48°-2°/+48° Elevation Arc. 
+2121 rounds Ammo Capacity. 
+Expression error: Unexpected * operator.Expression error: Unexpected * operator. % Chance of Fire. 
+m ▲ With 50% Crew: 231.8 m With 75% Crew: 263.4 m With 100% Crew: 295 m With Recon and Situational Awareness: 309.9 m With Coated Optics: 324.5 m With Binocular Telescope: 368.75 m Maximum possible: 422.3 m For more details, see Skills or Equipment m ▲ With 50% Crew: 231.8 m With 75% Crew: 263.4 m With 100% Crew: 295 m With Recon and Situational Awareness: 309.9 m With Coated Optics: 324.5 m With Binocular Telescope: 368.75 m Maximum possible: 422.3 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 250.2 m With 75% Crew: 286.6 m With 100% Crew: 323.3 m With 100% Signal Boost: 372 m When affected by 100% Relaying: 341 m Maximum possible: 465.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+17 cm Kanone 72. 
+44/44. 
+850/850. 
+1.94. 
+0.65. 
+4.8. 
+nan. 
+nan. 
+140000. 
+nan. 
+21 cm Mörser 18/1. 
+53/53. 
+1100/1100. 
+1.43. 
+0.77. 
+5.2. 
+nan. 
+nan. 
+245000. 
+nan. 
+Maybach HL 210 TRM P45. 
+nan. 
+0. 
+nan. 
+nan. 
+35500. 
+nan. 
+Maybach HL 230 TRM P45. 
+nan. 
+0. 
+nan. 
+nan. 
+54000. 
+nan. 
+G.W. Tiger. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+32000. 
+nan. 
+G.W. Tiger verstärkteketten. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+60800. 
+III. 
+FuG 5. 
+310. 
+nan. 
+50. 
+630. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+IX. 
+FuG 12. 
+710. 
+nan. 
+150. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+IIT1 HMC • IIIT18 HMC • IIIM7 Priest • IVT82 HMC • IVM37 • VM41 HMC • VIM44 • VIIM12 • VIIIM40/M43 • IXM53/M55 • XT92 HMC. 
+UK. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+Germany. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+France. 
+IIRenault FT 75 BS • IIILorraine 39L AM • IVAMX 105 AM mle. 47 • VAMX 13 105 AM mle. 50 • V105 leFH18B2 • VIAMX 13 F3 AM • VIILorraine 155 mle. 50 • VIIILorraine 155 mle. 51 • IXBat.-Châtillon 155 55 • XBat.-Châtillon 155 58. 
+USSR. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+China. 
+nan. 
+Japan. 
+nan. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+nan. 
+Italy. 
+nan. 
+Poland. 
+nan. 
+{{TankData|Tank= G. G45 G Tiger W. G45 G Tiger  Tiger
+|With its largest gun, this massive artillery hits for roughly 1,100 damage, but fires at only 1. G45 G Tiger 49 rounds/min. G45 G Tiger  Due to its large damage output, the GW Tiger is one of the most feared artillery on the field. G45 G Tiger  Following the tradition of the other German artillery, the GW Tiger is fairly mobile (although noticeably less so than the [[Hummel]] or [[G. G45 G Tiger W. G45 G Tiger  Panther]]) for its size and is capable of speeds of up to 45 km/h. G45 G Tiger  
+
+|Gallery=
+image:GWTiger. G45 G Tiger png{{!}}GW Tiger firing at the enemy position
+image:GW tiger front view 1. G45 G Tiger jpg‎{{!}}GW Tiger front left view
+image:GW tiger front view 2. G45 G Tiger jpg‎{{!}}GW Tiger front right view
+image:GW tiger back view 1. G45 G Tiger jpg‎{{!}}GW Tiger back left view
+image:GW tiger back view 2. G45 G Tiger jpg‎{{!}}GW Tiger back right view
+image:Ingame_GWTiger-1. G45 G Tiger jpg{{!}}GW Tiger, map Port
+image:GW_Tiger-1. G45 G Tiger jpg{{!}}GW Tiger, map Erlenberg
+image:GWTiger-a1. G45 G Tiger jpg{{!}}GW Tiger, map Lakeville
+
+|InTheGame_pros=
+* Same 210mm top gun as its predecessor, but with improved overall stats
+* Large splash radius for HE shells
+* Decent vertical shell arc on upgraded gun
+
+|InTheGame_cons=
+* Long reload
+* Narrow gun traverse arc
+* Low accuracy
+* Mobility is better than its predecessor, though being better than the worst is no praise
+* Its large size makes it difficult to hide, due to a very large silhouette and terrible camo
+
+
+|InTheGame_performance=
+The GW Tiger has the most powerful gun of any tier 9 artillery, but also the worst mobility of them. G45 G Tiger   It can hit anything hard, but has difficulty relocating around the map to get different angles. G45 G Tiger   It has a decent vertical shell arc, but its narrow horizontal gun traverse forces you to traverse the chassis to switch targets often, resetting your aim. G45 G Tiger   It's lack of gun depression along with its low mobility and narrow gun arc hinders its ability in TD mode, limiting it to ambush situations. G45 G Tiger   It is generally considered inferior to the M53/55, which has higher mobility and better horizontal gun arc for only slightly less splash and alpha. G45 G Tiger 
+
+|InTheGame_research=
+* You should immediately mount the top gun, which is lighter than the stock gun and should be researched from the G. G45 G Tiger W. G45 G Tiger  Tiger P. G45 G Tiger 
+* Research the suspension next, then get the upgraded engine. G45 G Tiger 
+* then research the radio. G45 G Tiger 
+
+|InTheGame_equipment=Tank Gun Rammer, GLD, Camouflage Net, Large Spall Liner
+
+
+|History=
+On the 6th of May 1942, Krupp presented the first proposals for an armored self-propelled carriage (gepanzerte Selbstfahrlafette) using the Tiger I’s components for mounting either a 17cm Kannone K72 (Sf) L/50 or a 21cm Mörser 18/1 L/31. G45 G Tiger  The program was later amended in November 1942 to use Tiger II components because by that time the Tiger II was rapidly being designed and finalized and in the planning stages for serial production in 1943. G45 G Tiger  It was to be able to mount the 17cm K72(Sf) L/50 gun and designated Grille 17. G45 G Tiger  The 17cm K72(Sf) L/50 gun had a range of 28 to 29. G45 G Tiger 6km. G45 G Tiger  The Grille 21, armed with 21cm Mortar 18/1 L/31 was to be produced alongside the Grille 17 and it had a range of 16. G45 G Tiger 7km. G45 G Tiger  As an further alternative, the Grille 30 proposed in January 1945, would have been armed with the Skoda 30. G45 G Tiger 5cm GrW L/16   mortar firing fin-stabilized HE shells out to a maximum distance of 10km. G45 G Tiger  Additionally, there was the project Grille 42, also proposed in January 1945, which was also under development and was to be armed with the 42cm GrW mortar, also designed by Skoda, firing fin-stabilized HE shells out to a maximum distance of 10km. G45 G Tiger  Both the 30. G45 G Tiger 5cm and 42cm guns were test fired after the war by the Soviets. G45 G Tiger  
+
+
+In 1943/44, Krupp started production of the prototype, while full-scale production was to start in mid-1945 at a rate of 2 per month. G45 G Tiger  The prototype was still incomplete at the end of the war. G45 G Tiger 
+
+Grille 17/21/30/42 had its armament mounted on the rail platform inside the hull. G45 G Tiger  There were originally plans to have the guns dis-mountable but these plans were dropped in 1944 due to their complex nature and all of the GW Tigers were to be completed as normal SPGs. G45 G Tiger  Each variant was also armed with two 7. G45 G Tiger 92mm machine guns(source?). G45 G Tiger  It would be operated by the crew of eight (Driver, Commander, Gunner, Radio Operator, and four Loaders). G45 G Tiger  Powered by the Maybach HL230P30, the Grille would be able to travel at a maximum speed of 45 km/h with a range of 250km on the road and 150km cross country. G45 G Tiger  Fuel capacity was to be 1000 liters. G45 G Tiger  
+
+The Grille was 13 meters long (with gun), 3. G45 G Tiger 27 meters wide, and 3. G45 G Tiger 15 meters high. G45 G Tiger  Its armor protection ranged from 16mm Armor Plate(side) to 30mm Carbon Steel(front). G45 G Tiger  The Grille 17 weighed 58,000 kg, but only carried 5 rounds of ammunition. G45 G Tiger  The Grille 21 weighed 52,700 kg and carried only 3 rounds of ammunition. G45 G Tiger  One prototype with a 17cm gun dismounted and resting nearby was almost completed in May of 1945, and was captured by British troops at Haustenbeck near Paderborn. G45 G Tiger 
+
+|HistoricalGallery=
+image:GWTigerinside. G45 G Tiger jpg‎{{!}}Inside of GW Tiger
+image:GWtiger1. G45 G Tiger jpg‎
+image:GWTiger2. G45 G Tiger jpg‎
+image:GWtiger3. G45 G Tiger jpg‎
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://ftr. G45 G Tiger wot-news. G45 G Tiger com/2013/11/11/gw-tiger-spg/
+
+
+
+|Sidebar_Camostop=5. G45 G Tiger 1
+|Sidebar_Camomove=2. G45 G Tiger 9
+|Sidebar_Camofire=0. G45 G Tiger 5
+|Sidebar_Passhard=1. G45 G Tiger 247
+|Sidebar_Passmed=1. G45 G Tiger 438
+|Sidebar_Passsoft=2. G45 G Tiger 397
+|Sidebar_DispTurret=0. G45 G Tiger 537
+|Sidebar_DispRecoil=5. G45 G Tiger 753
+|Sidebar_DispAccel=0. G45 G Tiger 326
+|Sidebar_DispTurning=0. G45 G Tiger 326
+}}
+
+[[Category:German Tanks]]

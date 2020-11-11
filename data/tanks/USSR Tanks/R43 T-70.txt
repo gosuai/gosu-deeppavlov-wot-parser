@@ -1,0 +1,217 @@
+39,300 Cost. 
+390328 HP Hit Points. 
+9.2/9.55.38/0 t Weight Limit. 
+140170 hp Engine Power. 
+45/18 km/h Speed Limit. 
+4848 deg/s Traverse. 
+15.2231.6 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+35/15/25 mm Hull Armor. 
+35/35/35// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+14/800/14 35/1200/19 Shell Cost. 
+47/47/6247/47/62 HP Damage. 
+51/88/2351/88/23 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.4 s 50% Crew: 3.05 s 75% Crew: 2.69 s 100% Crew: 2.4 s Rammer: 2.16 s Vents: 2.35 s Both: 2.11 s Both and BiA: 2.07 s Both and Max Crew %: 1.99 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.4 s 50% Crew: 3.05 s 75% Crew: 2.69 s 100% Crew: 2.4 s Rammer: 2.16 s Vents: 2.35 s Both: 2.11 s Both and BiA: 2.07 s Both and Max Crew %: 1.99 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (47 Damage):  Theoretical Damage Per Minute Nominal DPM: 1233.75 50% Crew: 969.14 75% Crew: 1101.68 100% Crew: 1233.75 100% Crew Vents: 1262.42 Rammer: 1370.99 Both: 1402.95 Both and BiA: 1429.74 Both and Max Crew %: 1491.31 Advantageous Damage Per Minute First-shot DPM: 1280.75 50% Crew: 1016.14 75% Crew: 1148.68 100% Crew: 1280.75 100% Crew Rammer: 1417.99 Vents: 1309.42 Both: 1449.95 Both and BiA: 1476.74 Both and Max Crew %: 1538.31 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (47 Damage):  Theoretical Damage Per Minute Nominal DPM: 1233.75 50% Crew: 969.14 75% Crew: 1101.68 100% Crew: 1233.75 100% Crew Vents: 1262.42 Rammer: 1370.99 Both: 1402.95 Both and BiA: 1429.74 Both and Max Crew %: 1491.31 Advantageous Damage Per Minute First-shot DPM: 1280.75 50% Crew: 1016.14 75% Crew: 1148.68 100% Crew: 1280.75 100% Crew Rammer: 1417.99 Vents: 1309.42 Both: 1449.95 Both and BiA: 1476.74 Both and Max Crew %: 1538.31 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (62 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1627.5 50% Crew: 1278.44 75% Crew: 1453.28 100% Crew: 1627.5 100% Crew Vents: 1665.32 Rammer: 1808.54 Both: 1850.7 Both and BiA: 1886.04 Both and Max Crew %: 1967.26 Advantageous Damage Per Minute First-shot DPM: 1689.5 50% Crew: 1340.44 75% Crew: 1515.28 100% Crew: 1689.5 100% Crew Rammer: 1870.54 Vents: 1727.32 Both: 1912.7 Both and BiA: 1948.04 Both and Max Crew %: 2029.26 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (47 Damage):  Theoretical Damage Per Minute Nominal DPM: 1233.75 50% Crew: 969.14 75% Crew: 1101.68 100% Crew: 1233.75 100% Crew Vents: 1262.42 Rammer: 1370.99 Both: 1402.95 Both and BiA: 1429.74 Both and Max Crew %: 1491.31 Advantageous Damage Per Minute First-shot DPM: 1280.75 50% Crew: 1016.14 75% Crew: 1148.68 100% Crew: 1280.75 100% Crew Rammer: 1417.99 Vents: 1309.42 Both: 1449.95 Both and BiA: 1476.74 Both and Max Crew %: 1538.31 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (47 Damage):  Theoretical Damage Per Minute Nominal DPM: 1233.75 50% Crew: 969.14 75% Crew: 1101.68 100% Crew: 1233.75 100% Crew Vents: 1262.42 Rammer: 1370.99 Both: 1402.95 Both and BiA: 1429.74 Both and Max Crew %: 1491.31 Advantageous Damage Per Minute First-shot DPM: 1280.75 50% Crew: 1016.14 75% Crew: 1148.68 100% Crew: 1280.75 100% Crew Rammer: 1417.99 Vents: 1309.42 Both: 1449.95 Both and BiA: 1476.74 Both and Max Crew %: 1538.31 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (62 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1627.5 50% Crew: 1278.44 75% Crew: 1453.28 100% Crew: 1627.5 100% Crew Vents: 1665.32 Rammer: 1808.54 Both: 1850.7 Both and BiA: 1886.04 Both and Max Crew %: 1967.26 Advantageous Damage Per Minute First-shot DPM: 1689.5 50% Crew: 1340.44 75% Crew: 1515.28 100% Crew: 1689.5 100% Crew Rammer: 1870.54 Vents: 1727.32 Both: 1912.7 Both and BiA: 1948.04 Both and Max Crew %: 2029.26 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.585 m With 75% Crew: 0.515 m With 100% Crew: 0.46 m With BiA: 0.449 m With BiA and Vents: 0.441 m Maximum possible: 0.423 m For more details, see Crew m ▲ With 50% Crew: 0.585 m With 75% Crew: 0.515 m With 100% Crew: 0.46 m With BiA: 0.449 m With BiA and Vents: 0.441 m Maximum possible: 0.423 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.927 s With 75% Crew: 2.576 s With 100% Crew: 2.3 s With GLD: 2.091 s With BiA: 2.247 s With BiA and Vents: 2.205 s With both and GLD: 2.005 s Maximum possible: 1.922 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.927 s With 75% Crew: 2.576 s With 100% Crew: 2.3 s With GLD: 2.091 s With BiA: 2.247 s With BiA and Vents: 2.205 s With both and GLD: 2.005 s Maximum possible: 1.922 s For more details, see Crew or Equipment Aim time. 
+3636 deg/s Turret Traverse. 
+360° Gun Arc. 
+-6°/+25°-6°/+25° Elevation Arc. 
+180180 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With Recon and Situational Awareness: 315.2 m With Coated Optics: 330 m With Binocular Telescope: 375 m Maximum possible: 429.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 235.7 m With 75% Crew: 267.9 m With 100% Crew: 300 m With Recon and Situational Awareness: 315.2 m With Coated Optics: 330 m With Binocular Telescope: 375 m Maximum possible: 429.5 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 255.3 m With 75% Crew: 290.2 m With 100% Crew: 325 m With 100% Signal Boost: 390 m When affected by 100% Relaying: 357.5 m Maximum possible: 467.7 m For more details, see Skills or Equipment m ▲ With 50% Crew: 412.5 m With 75% Crew: 468.8 m With 100% Crew: 525 m With 100% Signal Boost: 630 m When affected by 100% Relaying: 577.5 m Maximum possible: 755.4 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+45 mm VT-42. 
+75/110/23. 
+55/55/65. 
+24.0. 
+0.37. 
+2.3. 
+nan. 
+312. 
+20540. 
+III. 
+37 mm ZiS-19. 
+58/92/19. 
+40/40/50. 
+26.09. 
+0.39. 
+2.1. 
+nan. 
+200. 
+4250. 
+II. 
+45 mm 20K. 
+51/88/23. 
+47/47/62. 
+26.09. 
+0.46. 
+2.1. 
+nan. 
+250. 
+2530. 
+nan. 
+T-70. 
+//. 
+36. 
+300. 
+nan. 
+nan. 
+920. 
+nan. 
+T-70M. 
+//. 
+40. 
+310. 
+nan. 
+nan. 
+1750. 
+III. 
+GAZ-203. 
+140. 
+20. 
+nan. 
+550. 
+3830. 
+III. 
+M-80. 
+170. 
+20. 
+nan. 
+550. 
+4130. 
+nan. 
+T-70. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+600. 
+nan. 
+T-70 enhanced. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+1730. 
+IV. 
+9R. 
+325. 
+nan. 
+80. 
+1980. 
+VIII. 
+9RM. 
+525. 
+nan. 
+100. 
+24240. 
+Light Tanks. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+Medium Tanks. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+Heavy Tanks. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+Tank Destroyers. 
+IIAT-1 • IIISU-76I • IVSU-85B • IVSU-76M • VSU-85 • VSU-85I • VISU-100 • VISU-100Y • VIIISU-122S • VIISU-152 • VIISU-100M1 • VIISU-122-44 • VIIIISU-152 • VIIIISU-130 • VIIIT-103 • VIIISU-130PM • VIIIISU-152K • VIIISU-101 • IXObject 704 • IXObject 263 • XObject 268 • XObject 268 Version 4. 
+Self-Propelled Artillery. 
+IISU-18 • IIISU-26 • IVSU-5 • VSU-122A • VISU-8 • VIIS-51 • VIISU-14-1 • VIIISU-14-2 • IX212A • XObject 261. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=T-70
+|
+
+|InTheGame_pros=
+* Excellent penetration with top gun
+* Quite fast, like other Soviet light tanks
+* Good hull turn speed
+* Frontal armor tends to be almost immune to automatic cannons at mid distance
+* Low profile
+* Turret mantlet helps bounce many rounds
+
+|InTheGame_cons=
+* Poor gun depression
+* Engine is damaged quite often
+* Paper side armor
+* Critical hit in side usually end with dead commander and/or destroyed track
+* Low number of crew
+* Low acceleration on soft terrain
+
+|InTheGame_performance=
+This tank (especially after obtaining the fearsome VT-42) is rather a frontline support tank. R43 T-70  With your weak side armour you should keep away from fast tanks, which can (and will) flank you. R43 T-70  Remember, with your speed you can flank the enemies position and spread serious damage among them. R43 T-70  But be careful about the gun depression! The ones whom had played before with a tank with  similar gun depression (like IS) shouldn't find themselves in a hard situation, unlike the one whom hadn't played such tank. R43 T-70 
+
+Playing aggressively is beneficial in tier III battles and some tier IV battles, when you can somewhat rely on your armour, especially the well-sloped frontal hull. R43 T-70  Angling it a bit, not revealing a significant portion of your weak side armour improves the ability to withstand hostile fire. R43 T-70  Also, extreme caution should be taken around vehicles equipped with howitzers, as the sides are easily penetrated by HE rounds and even a non-penetrating hit deals dreadful damage. R43 T-70  In tier V battles, the horrible gun depression reduces your abilities to hide and engage the enemies, as you cannot play overly aggressively. R43 T-70  Thus, choosing your sniping or scouting position carefully is of utmost importance. R43 T-70 
+
+Finally, though the armour is very good, at least frontally, relying too heavily on it may have dire consequences. R43 T-70  In order to utilise the good top gun, staying alive should be the priority, as the high penetration gun may prove to be decisive in later stages of the game. R43 T-70 
+
+|InTheGame_research=
+* The '''37 mm ZiS-19''' gun carries over from the T-60. R43 T-70  Its improved accuracy allows you to snipe early on. R43 T-70 
+* Improve the mobility by researching the '''T-70 enhanced''' chassis and the '''M-80''' engine. R43 T-70 
+* Next, go for the improved '''T-70M''' turret to get the '''45 mm VT-42''' top gun. R43 T-70 
+* Last, research the '''9RM''' radio. R43 T-70  This long range radio is used on many Russian tanks in the higher tiers. R43 T-70 
+* If you played the SU-76 tank destroyer, you will find the engine and radio are already unlocked. R43 T-70 
+* The T-46 light tank also unlocks the top gun. R43 T-70 
+* Finally, research the T-80 tank and the SU-76 tank destroyer, if you haven't already. R43 T-70 
+
+|InTheGame_equipment=
+Vents, GLD, Coated Optics, Camouflage Net, Binocular Telescope
+
+|Gallery=
+
+|History=
+The T-70 was a light tank used by the Red Army during World War II, replacing both the T-60 scout tank for reconnaissance and the T-50 light infantry tank for infantry support. R43 T-70  The T-80 light tank was a more advanced version of the T-70 with a two-man turret—it was only produced in very small numbers when light tank production was abandoned. R43 T-70  
+
+==Development history==
+[[image:T-70 in Velikiy Novgorod. R43 T-70 jpg |thumb|200px|left|T-70 in Velikiy Novgorod ]]
+The T-70 was armed with a 45-mm L/46 gun Model 38 with forty-five rounds carried, and a coaxial 7. R43 T-70 62-mm DT machine gun. R43 T-70  The tank was operated by a driver and a commander who loaded and fired the gun. R43 T-70  Armour thickness on the turret front was 60 mm, hull front and sides: 45 mm, rear and turret sides: 35 mm, roof and bottom: 10 mm. R43 T-70 
+By 1942, light tanks were considered inadequate by the Red Army, unable to keep up with the T-34 medium tank and unable to penetrate the armour of most German tanks, but they could be produced by small factories which were unable to handle the large components of medium and heavy tanks. R43 T-70  The T-70 was an attempt to remedy some of the shortcomings of the T-60 scout tank, which had very poor cross-country mobility, thin armour, and an inadequate 20-mm gun. R43 T-70  It also replaced the very short production run of the T-50 light infantry tank, which was more sophisticated, but also much too complicated and expensive to produce. R43 T-70  The T-70 was designed by Nicholas Astrov's design team at Factory No. R43 T-70  38 in Kirov. R43 T-70 
+The first batch of T-70s were built with a GAZ-202 automotive engine on each side of the hull, one driving each track. R43 T-70  This arrangement was seen to be a serious problem, even before the first tanks were issued. R43 T-70  It was quickly redesigned as the T-70M (although it continued to be referred to as just T-70), with the engines in-line on the right side of the tank and a normal transmission and differential. R43 T-70  The conical turret was replaced by one more easily welded out of plate armour, and moved to the left side of the hull. R43 T-70  Curiously, even after the T-70's production line was redesigned, SU-76 self-propelled guns started to be built with the same unsatisfactory unsynchronized two-engine layout, and all of them were later recalled for factory rebuilding as SU-76Ms. R43 T-70 
+T-70s were put into production in March 1942 at Zavod No. R43 T-70  37, and along with T-60 production at GAZ and Zavod No. R43 T-70  38. R43 T-70  They completely replaced T-60 production in September 1942, although that tank remained in use until the end of the war. R43 T-70  Production ended in October 1943, with 8,226 vehicles completed. R43 T-70  In April 1942, the conical turrets on early-production machines were replaced with new welded turrets. R43 T-70  The end of the T-70's production run was built with two 85-hp GAZ-203 engines, a Mark 4 commander's periscope replacing a vision slit, and other improvements. R43 T-70 The T-70 remained in service until 1948. R43 T-70 
+
+==Limitations==
+
+The one-man turret of the Soviet light tanks made co-ordinating a tank platoon nearly impossible, because the commanders were kept busy acquiring targets, loading and firing the main gun and machine gun, and commanding their drivers. R43 T-70  The infantry tank role was already considered obsolete. R43 T-70  The SU-76 self-propelled gun was better suited for infantry support, its 76. R43 T-70 2-mm gun capable of firing a larger high explosive shell. R43 T-70  Industrial resources could be redirected from light tanks to building SU-76s. R43 T-70  In an attempt to compensate, the T-80 light tank was designed, a more robust version of the T-70 with a two-man turret. R43 T-70  But there was enough lend-lease equipment available to fulfill the reconnaissance role of the light tanks, and armoured cars were better suited for light scouting and liaison. R43 T-70  All light tank production was cancelled in October 1943, after only about 120 T-80s were built. R43 T-70  No further light tanks would be built during the war. R43 T-70 
+In November 1943 Red Army tank units were reorganized: light tanks were replaced by the T-34 and new T-34-85, which started production the following month. R43 T-70  Light tanks continued to be used in self-propelled artillery and some other units. R43 T-70  The Soviets did start development work on an amphibious light tank in 1945, resulting in the post-war PT-76, introduced in 1954. R43 T-70 
+
+
+|HistoricalGallery=
+File:T-70 in Velikiy Novgorod. R43 T-70 jpg{{!}}T-70 in Velikiy Novgorod
+File:T-70 Parola Tank Museum Main gun missing in example. R43 T-70 jpg{{!}}T-70 Parola Tank Museum Main gun missing in example
+File:T-70 Parola Tank Museum rear view. R43 T-70 jpg{{!}}T-70 Parola Tank Museum rear view
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+* [https://www. R43 T-70 wwiivehicles. R43 T-70 com/soviet-union/vehicle/light-tank/t-70-light-tank. R43 T-70 asp '''T-70 Light Tank'''] Photos & history. R43 T-70 
+
+}}

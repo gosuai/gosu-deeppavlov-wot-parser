@@ -1,0 +1,230 @@
+6,100,000 Cost. 
+22001760 HP Hit Points. 
+50/5521.61/0 t Weight Limit. 
+750750 hp Engine Power. 
+50/15 km/h Speed Limit. 
+3636 deg/s Traverse. 
+1534.71 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+140/120/60 mm Hull Armor. 
+300/180/60// mm Turret Armor. 
+Shells. 
+0/0 0/0 Shell Cost. 
+490/490/640490/490/640 HP Damage. 
+250/340/65250/340/65 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 11.2 s 50% Crew: 13.87 s 75% Crew: 12.11 s 100% Crew: 10.74 s Rammer: 9.67 s Vents: 10.5 s Both: 9.45 s Both and BiA: 9.25 s Both and Max Crew %: 8.86 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 11.2 s 50% Crew: 13.87 s 75% Crew: 12.11 s 100% Crew: 10.74 s Rammer: 9.67 s Vents: 10.5 s Both: 9.45 s Both and BiA: 9.25 s Both and Max Crew %: 8.86 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (490 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (490 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (640 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information.Expression error: Unexpected < operator. ▲ Standard Gun Using Shell Type 1 (490 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (490 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (640 Damage):  Theoretical Damage Per Minute Nominal DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Vents: Expression error: Unexpected < operator. Rammer: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. Advantageous Damage Per Minute First-shot DPM: Expression error: Unexpected < operator. 50% Crew: Expression error: Unexpected < operator. 75% Crew: Expression error: Unexpected < operator. 100% Crew: Expression error: Unexpected < operator. 100% Crew Rammer: Expression error: Unexpected < operator. Vents: Expression error: Unexpected < operator. Both: Expression error: Unexpected < operator. Both and BiA: Expression error: Unexpected < operator. Both and Max Crew %: Expression error: Unexpected < operator. See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew m ▲ With 50% Crew: 0.483 m With 75% Crew: 0.422 m With 100% Crew: 0.374 m With BiA: 0.366 m With BiA and Vents: 0.358 m Maximum possible: 0.343 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment s ▲ With 50% Crew: 3.097 s With 75% Crew: 2.704 s With 100% Crew: 2.397 s With GLD: 2.179 s With BiA: 2.344 s With BiA and Vents: 2.293 s With both and GLD: 2.085 s Maximum possible: 1.998 s For more details, see Crew or Equipment Aim time. 
+2626 deg/s Turret Traverse. 
+360° Gun Arc. 
+-7°/+23°-7°/+23° Elevation Arc. 
+4040 rounds Ammo Capacity. 
+1212 % Chance of Fire. 
+m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 314.3 m With 75% Crew: 357.2 m With 100% Crew: 400 m With Recon and Situational Awareness: 420.2 m With Coated Optics: 440 m With Binocular Telescope: 500 m Maximum possible: 572.6 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment m ▲ With 50% Crew: 589.3 m With 75% Crew: 669.7 m With 100% Crew: 750 m With 100% Signal Boost: 900 m When affected by 100% Relaying: 825 m Maximum possible: 1079.2 m For more details, see Skills or Equipment Signal Range. 
+nan. 
+130 mm 59-130TA. 
+250/340/65. 
+490/490/640. 
+5.36. 
+0.39. 
+2.5. 
+nan. 
+nan. 
+330000. 
+nan. 
+WZ-111 model 5A. 
+//. 
+26. 
+400. 
+nan. 
+nan. 
+66000. 
+X. 
+V-2-54SC. 
+750. 
+12. 
+nan. 
+1045. 
+25000. 
+nan. 
+WZ-111 model 5A. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+61350. 
+X. 
+A-220B. 
+750. 
+nan. 
+40. 
+54000. 
+Light Tanks. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Medium Tanks. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • IXWZ-120 • X121 • X121B. 
+Heavy Tanks. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • VIII112 FL • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Tank Destroyers. 
+IIT-26G FT • IIIM3G FT • IVSU-76G FT • V60G FT • VIWZ-131G FT • VIIT-34-2G FT • VIIIWZ-111-1G FT • VIIIWZ-120-1G FT • VIIIWZ-120-1G FT FL • IXWZ-111G FT • XWZ-113G FT. 
+Self-Propelled Artillery. 
+nan. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • VIII112 FL • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+{{TankData|Tank= WZ-111 model 5A
+|The Very first Chinese exclusive tank from Chinese server which were added to Live servers as alternate choice of Tier 10 tanks in Chinese HT line. Ch41 WZ 111 5A  Compared to [[Tank:Ch22_113|113]], It offers more reliable protection and better gun handling in exchange with lowered HP, lack of angling ability and worsened accuracy. Ch41 WZ 111 5A 
+
+|Gallery= 
+File:WZ-111 model 5A scr 1. Ch41 WZ 111 5A jpg
+File:WZ-111 model 5A scr 2. Ch41 WZ 111 5A jpg
+File:WZ-111 model 5A scr 3. Ch41 WZ 111 5A jpg
+
+|InTheGame_pros= 
+* Excellent DPM
+* Very strong turret armor and bouncy, pike-nosed frontal hull
+* Good gun depression for a Chinese tank, also good elevation
+* Excellent top speed and mobility for a heavy tank
+* Good viewrange
+
+|InTheGame_cons= 
+* Nose pike becomes very weak when improperly angled
+* Low AP (standard) penetration for its role and tier, barely better than counterpart [[113]]
+* Sluggish turret traverse
+* Low profile, can be shot at from above by taller tank
+* Frequent ammo rack, fuel tank and engine damage
+
+|InTheGame_performance= 
+{{VideoYT|y7Mp8zsUyJA}}
+|InTheGame_research= 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Improved Ventilation, Vertical Stabilizer
+|InTheGame_Equipment_Builds=
+
+|External_Reviews= 
+
+|History=
+''' Summary of Developed WZ-111 project '''
+
+
+Weight: 46t
+
+Main Armament: 122mm Y174
+
+Secondary Armament: 12. Ch41 WZ 111 5A 7mm AA gun & 7. Ch41 WZ 111 5A 62 coaxial machine gun
+
+Ammo capacity: 32 122mm shells
+
+500 12. Ch41 WZ 111 5A 7mm shells
+
+2500 7. Ch41 WZ 111 5A 62mm shells
+
+Engine: an engine based on V-54 design (750hp)
+
+Speed: 50km/h
+
+Hp/t ratio: 16. Ch41 WZ 111 5A 33hp/t (or 12KW/t)
+
+Ground pressure: 75. Ch41 WZ 111 5A 1 Kpa
+
+Length (Gun forward): 10. Ch41 WZ 111 5A 625 m
+
+Width: 3. Ch41 WZ 111 5A 3m
+
+Height: 2. Ch41 WZ 111 5A 497m
+
+
+After Type-59 entered mass production in 1958, the development of light tank and heavy tank became another important mission of Chinese national defense industry. Ch41 WZ 111 5A  The Central Military Committee thought in order the defeat enemy’s heavy tanks:
+
+“We not only need large numbers of light tanks, but also we need to produce some heavy tanks to defeat enemy armoured forces” (我军除了应装备大量的轻型和中型坦克以外，也应配备一定数量的重型坦克，用以对付敌人的坦克兵团或执行其他突击任务)
+
+“Heavy tank plays an important role in tank warfare, the development of heavy tanks should start as soon as possible” (重型坦克是当时装甲装备体系中的重要配套装备，为完善我军装甲装备结构，重型坦克应当尽早着手研制。)
+
+On October 19th,1960，the order to develop the WZ-111 heavy tank was given by the Committee for Science, Technology, and Industry for National Defense (国防科工委). Ch41 WZ 111 5A  The plan was revised by the Committee for Technology of Tanks (装甲兵技术部) on December 24th,1960. Ch41 WZ 111 5A  After that, the development of WZ-111 has begun. Ch41 WZ 111 5A  In March 1963, the plan was revised again by the Committee for Science, Technology, and Industry for National Defense (国防科工委). Ch41 WZ 111 5A  On June 10th 1964, final plans were made by University of Tank Technology(装甲兵工程学院). Ch41 WZ 111 5A  In 1965, one prototype (without turret) was created. Ch41 WZ 111 5A  Later in same year, the prototype of the gun and turret were made, but weren’t tested on the vehicle. Ch41 WZ 111 5A 
+
+After the prototypes were made, the testing of the vehicle was started immediately. Ch41 WZ 111 5A  The test mainly focused on the construction of the chassis and suspension in order to uncover issues of the design that weren’t anticipated by the designing engineers. Ch41 WZ 111 5A 
+
+After the test, the development was going to the next stage, but the research of main battle tank has already begun as well. Ch41 WZ 111 5A  Committee of Science, Technology, and Industry for National Defense thought that the development of new anti-tank weapon (smooth bore guns, APFSDS shells) made heavy tanks no longer important on modern battlefield. Ch41 WZ 111 5A  The development of WZ-111 was discontinued, but it became an important experience for Chinese designers and some elements of the design were used on other tanks later. Ch41 WZ 111 5A 
+
+'''Armament'''
+
+The main gun on WZ-111 is the 122mm gun Y174. Ch41 WZ 111 5A  It is based on a field gun (Type 60?), but it is hard to find any detailed information about this gun. Ch41 WZ 111 5A  But according to the 《ＷＺ１１１重型坦克设计技术任务书》 document, the fire power of the gun should be the same as the Soviet M62 tank gun. Ch41 WZ 111 5A 
+
+In addition, the gun has advanced hydraulic gun stabilizer, an autoloader (链式输弹机) (SS: from the google translation, I think it’s more like a hydraulic rammer, eg. Ch41 WZ 111 5A  not a real casette autoloader), an active illumination night vision observation device with electric rangefinder and an aiming system, that allows to hit the target at 1 kilometer accurately. Ch41 WZ 111 5A 
+
+
+
+'''Mobility'''
+
+Despite the fact the WZ-111 is a heavy tank, the mobility of the tank is still very good. Ch41 WZ 111 5A 
+
+The engine of the tank is a Chinese locally developed supercharged engine based on the Soviet V-54. Ch41 WZ 111 5A  It produces 750 hp, making it the best tank engine in China in early 1960s. Ch41 WZ 111 5A  The hp/t ratio of the tank is higher than that of Type 59 and Type 69, even just slightly lower than the one of Type 88 MBT. Ch41 WZ 111 5A  Later, the engine became the basis of WZ-122 and 68G experimental tank’s 650hp engine. Ch41 WZ 111 5A 
+
+In order to allow the tank to move on bad roads, the suspension of the tank is wide in order to reduce the ground pressure. Ch41 WZ 111 5A  As a result, the ground pressure of WZ-111 is very low, only 75. Ch41 WZ 111 5A 1 Kpa, lower than Type 59’s 79. Ch41 WZ 111 5A 6Kpa and Type 69’s 80. Ch41 WZ 111 5A 2Kpa, nearly same as the ground pressure light tanks usually have. Ch41 WZ 111 5A  As for the size, the WZ-111 isn’t very big, it can easily move in difficult terrain just like a medium tank. Ch41 WZ 111 5A 
+
+WZ-111 is also the first produced Chinese tank using hydraulic vehicle control system. Ch41 WZ 111 5A  The Hydraulic vehicle control system and Air-cooling/waste gas emission system（not sure how to translate the “废气引射冷却装置”）
+
+
+'''Protection'''
+
+I did n’t translate this part because you already know how’s the armor design of the tank. Ch41 WZ 111 5A  The thickness of the frontal lower plate is 130mm, but not well angled and it’s interesting that WZ-111 also has NBC protection and a landmine detector (but it is not very effective according to the author of the Chinese text). Ch41 WZ 111 5A 
+
+'''Conclusion'''
+
+It’s evident that there are differences between the WZ-111 1-4 in WOT and the historical WZ-111 project. Ch41 WZ 111 5A  The historical WZ-111 had a 122mm instead of the 130mm tank gun. Ch41 WZ 111 5A  It had better engine and was slightlyheavier. Ch41 WZ 111 5A  It had an autoloader and better optics as well. Ch41 WZ 111 5A  WZ-111 in WOT might be the tested prototype of WZ-111 produced in 1960s and the proposed further development plan which was designed with a 130mm gun. Ch41 WZ 111 5A 
+
+
+''The early prototype characteristics were as such'':
+
+''WZ-111 testbed (WZ-111重型坦克试验车)''
+
+Weight: about 44t
+
+Engine: 12150L (520hp) – the 750hp engine still had many technical problems when the prototype were built, so it only has a 12150L engine
+
+Speed: 35km/h
+
+Ground pressure: 71. Ch41 WZ 111 5A 9kpa
+
+Armament: the Y174 122mm and turret wasn’t finished when the vehicle was built (later the turret and gun were made and tested but unfortunately, there is no test result nor photos preserved) and since the 122mm Y174’s development progress was slow, a 130mm gun was also planned. Ch41 WZ 111 5A  Or mabe the 122mm Y174 wasn’t as good as PLA expected?
+
+
+
+|HistoricalGallery= 
+image:WZ-111 1. Ch41 WZ 111 5A jpg{{!}}WZ-111 preserved prototype - front view
+image:WZ-111 2. Ch41 WZ 111 5A jpg{{!}}WZ-111 preserved prototype - rear view
+image:WZ-111. Ch41 WZ 111 5A jpg{{!}}WZ-111 technical drawing
+image:Wz111. Ch41 WZ 111 5A jpg{{!}}WZ-111 hydraulic control system and gas emission system. Ch41 WZ 111 5A 
+
+
+
+|Ref_references=
+
+|Ref_sources=
+
+|Ref_links=
+
+}}

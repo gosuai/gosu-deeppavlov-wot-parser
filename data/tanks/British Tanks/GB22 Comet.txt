@@ -1,0 +1,249 @@
+1,350,500 Cost. 
+1050840 HP Hit Points. 
+30.52/3218.43/0 t Weight Limit. 
+600650 hp Engine Power. 
+51.5/18 km/h Speed Limit. 
+3434 deg/s Traverse. 
+19.6635.27 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+76.2/42.9/31.8 mm Hull Armor. 
+76.2/63.5/57.2// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+56/2800/56 150/2800/75 Shell Cost. 
+110/110/175110/110/175 HP Damage. 
+91/144/3891/144/38 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 3 s 50% Crew: 3.72 s 75% Crew: 3.24 s 100% Crew: 2.88 s Rammer: 2.59 s Vents: 2.82 s Both: 2.53 s Both and BiA: 2.48 s Both and Max Crew %: 2.38 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 3 s 50% Crew: 3.72 s 75% Crew: 3.24 s 100% Crew: 2.88 s Rammer: 2.59 s Vents: 2.82 s Both: 2.53 s Both and BiA: 2.48 s Both and Max Crew %: 2.38 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1734.7 50% Crew: 1400.3 75% Crew: 1603.8 100% Crew: 1809.5 100% Crew Vents: 1850.2 Rammer: 2010.8 Both: 2055.9 Both and BiA: 2101 Both and Max Crew %: 2192.3 Advantageous Damage Per Minute First-shot DPM: 1844.7 50% Crew: 1510.3 75% Crew: 1713.8 100% Crew: 1919.5 100% Crew Rammer: 2120.8 Vents: 1960.2 Both: 2165.9 Both and BiA: 2211 Both and Max Crew %: 2302.3 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1734.7 50% Crew: 1400.3 75% Crew: 1603.8 100% Crew: 1809.5 100% Crew Vents: 1850.2 Rammer: 2010.8 Both: 2055.9 Both and BiA: 2101 Both and Max Crew %: 2192.3 Advantageous Damage Per Minute First-shot DPM: 1844.7 50% Crew: 1510.3 75% Crew: 1713.8 100% Crew: 1919.5 100% Crew Rammer: 2120.8 Vents: 1960.2 Both: 2165.9 Both and BiA: 2211 Both and Max Crew %: 2302.3 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2759.75 50% Crew: 2227.75 75% Crew: 2551.5 100% Crew: 2878.75 100% Crew Vents: 2943.5 Rammer: 3199 Both: 3270.75 Both and BiA: 3342.5 Both and Max Crew %: 3487.75 Advantageous Damage Per Minute First-shot DPM: 2934.75 50% Crew: 2402.75 75% Crew: 2726.5 100% Crew: 3053.75 100% Crew Rammer: 3374 Vents: 3118.5 Both: 3445.75 Both and BiA: 3517.5 Both and Max Crew %: 3662.75 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1560.9 50% Crew: 1259.5 75% Crew: 1443.2 100% Crew: 1628 100% Crew Vents: 1664.3 Rammer: 1808.4 Both: 1849.1 Both and BiA: 1890.9 Both and Max Crew %: 1972.3 Advantageous Damage Per Minute First-shot DPM: 1670.9 50% Crew: 1369.5 75% Crew: 1553.2 100% Crew: 1738 100% Crew Rammer: 1918.4 Vents: 1774.3 Both: 1959.1 Both and BiA: 2000.9 Both and Max Crew %: 2082.3 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (110 Damage):  Theoretical Damage Per Minute Nominal DPM: 1560.9 50% Crew: 1259.5 75% Crew: 1443.2 100% Crew: 1628 100% Crew Vents: 1664.3 Rammer: 1808.4 Both: 1849.1 Both and BiA: 1890.9 Both and Max Crew %: 1972.3 Advantageous Damage Per Minute First-shot DPM: 1670.9 50% Crew: 1369.5 75% Crew: 1553.2 100% Crew: 1738 100% Crew Rammer: 1918.4 Vents: 1774.3 Both: 1959.1 Both and BiA: 2000.9 Both and Max Crew %: 2082.3 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (175 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2483.25 50% Crew: 2003.75 75% Crew: 2296 100% Crew: 2590 100% Crew Vents: 2647.75 Rammer: 2877 Both: 2941.75 Both and BiA: 3008.25 Both and Max Crew %: 3137.75 Advantageous Damage Per Minute First-shot DPM: 2658.25 50% Crew: 2178.75 75% Crew: 2471 100% Crew: 2765 100% Crew Rammer: 3052 Vents: 2822.75 Both: 3116.75 Both and BiA: 3183.25 Both and Max Crew %: 3312.75 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.508 m With 75% Crew: 0.443 m With 100% Crew: 0.393 m With BiA: 0.384 m With BiA and Vents: 0.376 m Maximum possible: 0.361 m For more details, see Crew m ▲ With 50% Crew: 0.508 m With 75% Crew: 0.443 m With 100% Crew: 0.393 m With BiA: 0.384 m With BiA and Vents: 0.376 m Maximum possible: 0.361 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.354 s With 75% Crew: 2.055 s With 100% Crew: 1.822 s With GLD: 1.656 s With BiA: 1.782 s With BiA and Vents: 1.743 s With both and GLD: 1.584 s Maximum possible: 1.519 s For more details, see Crew or Equipment Aim time. 
+4848 deg/s Turret Traverse. 
+360° Gun Arc. 
+-13°/+20°-13°/+20° Elevation Arc. 
+7575 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 363.3 m With 75% Crew: 416 m With 100% Crew: 469.3 m With 100% Signal Boost: 540 m When affected by 100% Relaying: 495 m Maximum possible: 675.5 m For more details, see Skills or Equipment m ▲ With 50% Crew: 565.1 m With 75% Crew: 647.2 m With 100% Crew: 730.1 m With 100% Signal Boost: 840 m When affected by 100% Relaying: 770 m Maximum possible: 1050.8 m For more details, see Skills or Equipment Signal Range. 
+V. 
+3.7-inch Howitzer. 
+47/110/38. 
+370/280/175. 
+8.57. 
+0.51. 
+2.3. 
+nan. 
+393. 
+35000. 
+V. 
+75 mm Gun Mk. V. 
+91/144/38. 
+110/110/175. 
+20.0. 
+0.39. 
+1.5. 
+nan. 
+500. 
+45000. 
+VII. 
+OQF 77 mm Gun Mk. II. 
+148/208/38. 
+140/140/190. 
+15.38. 
+0.34. 
+2.3. 
+nan. 
+681. 
+63000. 
+VI. 
+75 mm Vickers HV. 
+145/202/38. 
+135/135/175. 
+15.38. 
+0.34. 
+2.3. 
+nan. 
+591. 
+50000. 
+nan. 
+Cromwell Mk. IV. 
+//. 
+48. 
+360. 
+nan. 
+nan. 
+12840. 
+nan. 
+Comet Mk. I. 
+//. 
+46. 
+380. 
+nan. 
+nan. 
+20000. 
+V. 
+Rolls-Royce Meteor. 
+600. 
+20. 
+nan. 
+744. 
+14000. 
+V. 
+Rolls-Royce Meteor Mk. IVB. 
+650. 
+20. 
+nan. 
+744. 
+16000. 
+nan. 
+A34. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+11690. 
+nan. 
+A34A. 
+0. 
+nan. 
+B/2. 
+nan. 
+nan. 
+18000. 
+VII. 
+WS No. 19 Mk. II. 
+450. 
+nan. 
+40. 
+21000. 
+VIII. 
+WS No. 22. 
+700. 
+nan. 
+40. 
+25000. 
+VIII. 
+WS No. 19 Mk. III. 
+550. 
+nan. 
+40. 
+22000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IIT2 Medium Tank • IIIM2 Medium Tank • IVT6 Medium • IVM3 Lee • VM4 Improved • VM4A2E4 Sherman • VM4A1 Sherman • VRam II • VIM4A3E8 Fury • VIM4A3E8 Thunderbolt VII • VIM4A3E8 Sherman • VIM4A3E2 Sherman Jumbo • VIIT26E3 Eagle 7 • VIIT20 • VIIT23E3 • VIIIT25 Pilot Number 1 • VIIITL-1 LPC • VIIIT42 • VIIIM46 Patton KR • VIIIM26 Pershing • VIIIT26E4 SuperPershing • VIIIT69 • VIIIT95E2 • IXM46 Patton • XM48A5 Patton • XM60 • XT95E6. 
+UK. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Germany. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+France. 
+IIID2 • IIISomua S35 • IVSARL 42 • VRenault G1 • VIBretagne Panther • VIIIBat.-Châtillon Bourrasque • VIIILorraine 40 t • VIIIAMX Chasseur de chars • VIIIM4A1 Revalorisé • IXAMX 30 1er prototype • IXChar Futur 4 • IXBat.-Châtillon 25 t AP • XBat.-Châtillon 25 t • XAMX 30 B. 
+USSR. 
+IIIT-29 • IVA-32 • IVT-28E with F-30 • IVT-28 • VMatilda IV • VT-34 shielded • VT-34 • VIA-43 • VIT-34-85M • VIT-34-85 Rudy • VILoza's M4-A2 Sherman • VIT-34-85 • VIIA-44 • VIIKV-13 • VIIT-43 • VIIIObject 416 • VIIIT-54 first prototype • VIIIT-44-100 (B) • VIIIT-44-100 (K) • VIIIT-44-100 (R) • VIIIT-44-100 (U) • VIIISTG • VIIISTG Guard • VIIIT-44 • IXObject 430 Version II • IXObject 430 • IXT-54 • XObject 140 • XObject 907 • XT-22 medium • XK-91 • XObject 430U • XT-62A. 
+China. 
+VType T-34 • VIType 58 • VIIT-34-1 • VIIIType 59 • VIIIT-34-2 • VIIIT-34-3 • VIII59-Patton • VIIIType 59 G • IXWZ-120 • X121 • X121B. 
+Japan. 
+IIChi-Ni • IIType 89 I-Go/Chi-Ro • IVType 1 Chi-He • VType 3 Chi-Nu • VType 3 Chi-Nu Kai • VIType 4 Chi-To • VIIType 5 Chi-Ri • VIIISTA-1 • VIIISTA-2 • IXType 61 • XSTB-1. 
+Czechoslovakia. 
+IVST vz. 39 • VŠkoda T 24 • VIŠkoda T 40 • VIŠkoda T 25 • VIIKonštrukta T-34/100 • VIIITVP VTU Koncept • VIIIŠkoda T 27 • IXŠkoda T 50 • XTVP T 50/51. 
+Sweden. 
+IVLago • VStrv m/42 • VIStrv m/42-57 Alt A.2 • VIStrv 74 • VIILeo • VIIIStrv 81 • VIIIPrimo Victoria • VIIILansen C • VIIIUDES 14 Alt 5 • IXUDES 16 • XUDES 15/16. 
+Italy. 
+IIM14/41 • IIIM15/42 • IVP26/40 • VP.43 • VIP.43 bis • VIIP.43 ter • VIIIProgetto M35 mod. 46 • VIIIP.44 Pantera • IXPrototipo Standard B • XProgetto M40 mod. 65. 
+Poland. 
+V25TP KSUST II • VDS PZInż • VIPudel • VI40TP Habicha • VIT-34-85 Rudy • VIB.U.G.I. • VIICS-44 • VIIICS-52 LIS • VIIICS-53 • IXCS-59 • XCS-63. 
+{{TankData|Tank=GB22_Comet
+|The Comet is a tank well suited for flanking, as its armor is neither good nor bad for its class; it won't survive brawls for long periods of time. GB22 Comet  It sports a couple of advantages over the Cromwell, such as a gun mantlet and lowered profile on the upgraded turret. GB22 Comet  However, it gets an "almost" inadequate top gun, barely an upgrade over the 75mm HV. GB22 Comet  What is more, in the footsteps of its predecessor, its handling and speed are somewhat slower, being barely better than those of the [[Pz. GB22 Comet Kpfw. GB22 Comet  V Panther|Panther]] and not quite as good as those of the [[T20]]. GB22 Comet  Clever use of flanking tactics and gun depression are necessary to successfully play this tank. GB22 Comet 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Fast rate of fire and good accuracy
+* Excellent gun depression
+* Good top speed and excellent acceleration
+* Good viewrange
+* Can equip a vertical stabilizer
+
+|InTheGame_cons=
+* Very weak armor, only the gun mantlet can absorb some hits
+* Low alpha damage, penetration and shell velocity
+* Very poor stock gun handling for a medium tank
+* Fairly sluggish hull traverse speed
+* Ammo capacity is somewhat low for the tank's rate of fire
+
+|InTheGame_performance=
+The Comet has a nearly similar playing technique to the Cromwell, although it is not as nimble. GB22 Comet  It is a mobile medium tank with nearly decent traverse and a good ratio of horsepower per Ton which allow you to reach high speeds to assist allies. GB22 Comet  With the new turret with better view range, excellent gun depression, and ability to mount a vertical stabilizer the Comet takes and adapts the good features from the M4A3E8 and the Cromwell into a single tank. GB22 Comet  However, the gun itself is mediocre for its tier; with only 148mm of penetration, it is outclassed by most other mediums. GB22 Comet  The OQF 77mm should be used in flanking manoeuvres against heavily armored opponents. GB22 Comet  This is where the Comet's manoeuvrability, size and speed come in, allowing it to get to enemy flanks easily. GB22 Comet  Once in position, its DPM will tear through all but the most durable targets. GB22 Comet  
+
+Stock, the Comet starts off better than the other Tier 7 mediums, and your upgraded turret allows you to use gun depression tactics with impunity, much like the better American tanks, thanks to your gun mantlet and low profile. GB22 Comet  It doesn't get much in the way of upgrades though, and ends up significantly weaker in armament for its tier than e. GB22 Comet g. GB22 Comet  the Panther. GB22 Comet  Still, it is maneuverable, and appears to have fairly good camouflage characteristics. GB22 Comet  This tank also excels at supporting heavy tanks with its rate of fire. GB22 Comet  Use this to your advantage at all times. GB22 Comet 
+
+If you can manage to succeed in - and indeed, actually ''like'' - the Comet, the upcoming Centurion tank will feel like a whole different world. GB22 Comet  That world won't be a bad one, mind you - Very much the opposite! It will be a world where you not only dominate hills, but are able to shoot and penetrate most tanks you face from across the map. GB22 Comet 
+
+|InTheGame_research=
+* The engine, second radio and the 75 mm Vickers HV carries from the [[Cromwell]] should be mounted immediately. GB22 Comet  The top radio and the top gun QQF 77 mm MK. GB22 Comet II can be carried from the heavy tank line. GB22 Comet 
+* The second research should be the suspension, the tank is too heavy for any upgrade. GB22 Comet 
+* Then research the second turret and the QQF 77 mm gun. GB22 Comet 
+* Last should be the top radio. GB22 Comet 
+
+|InTheGame_equipment=
+Tank Gun Rammer, Vertical Stabilizer, Coated Optics, Vents
+
+
+|History=
+[[image:GB-Cruiser-CometPrototype. GB22 Comet jpg|thumb|200px|left|Comet Prototype]]
+Combat experience against the Germans in the Western Desert Campaign demonstrated to the British many shortcomings with their cruiser tanks. GB22 Comet  Hence a request was made in 1941 to the Nuffield Organisation and Leyland Motors Ltd for a new heavy cruiser tank that could achieve battle superiority over German models. GB22 Comet  For reasons of economy and efficiency, it had to use as many components as possible from the current A15 Cruiser tank Mk VI Crusader tank. GB22 Comet 
+
+The initial designs submitted were the A24 Cruiser Tank Mk VII Cavalier tank from Nuffield powered by a Nuffield-Liberty L-12 engine and the A27L Cruiser tank Mk VII Centaur tank from Leyland, which was also powered by the Liberty L-12 but would be able to use the more powerful Rolls-Royce Meteor when it became available. GB22 Comet 
+
+The Cruiser tank Mk VII A27M Cromwell was the third parallel development to the Cavalier and Centaur. GB22 Comet  The Cromwell's Meteor engine proved to be very reliable and gave the Cromwell good mobility, but some problems did appear. GB22 Comet  The tank was prone to throwing its tracks if track tension was not maintained properly or if it turned at too high a speed or too sharply. GB22 Comet  There were also some problems with suspension breakage, partly due to the Cromwell's high speed. GB22 Comet 
+
+A 17 pounder version of the Cromwell, the A30 Cruiser Mk VIII Challenger tank, was under development. GB22 Comet  To handle the large gun, the Cromwell hull had to be lengthened and a large turret set on top. GB22 Comet  Due to the slow production of Challengers, the Sherman Firefly (a Sherman tank fitted with the 17 pounder gun) conversion received official support. GB22 Comet  Until the Challenger was available, one Firefly would be issued to each Cromwell troop (giving three Cromwells and one Sherman Firefly); but this was unsatisfactory due to the different maintenance requirements and associated supply complication of two tank models, as well as the performance difference between Cromwell and Sherman. GB22 Comet 
+
+
+'''A34'''
+[[image:Comet_tank_advancing_towards_Lubeck_May_1945_IWM_BU_4976. GB22 Comet jpg|thumb|200px|right|Comet tank advancing towards Lubeck, May 1945]]
+With the A34 (the General Staff specification), later named Comet, the tank designers opted to correct some of the Cromwell's flaws (the track shedding and broken suspension problems) and enhance the Cromwell's main strengths, low height and high speed. GB22 Comet  Originally, it had been expected that the tank would use a new gun from Vickers: the "High Velocity 75mm". GB22 Comet  However, as designed, the gun would not fit into the turret size available. GB22 Comet  So the gun was changed to a different gun, the "77mm HV". GB22 Comet  This gun used the same calibre (76. GB22 Comet 2 mm) projectile as the 17-pounder but the shell casing was from the older QF 3 inch 20 cwt gun loaded to higher pressures. GB22 Comet  The resulting round was completely different to 17-pounder ammunition. GB22 Comet  It had a lower muzzle velocity than the 17-pounder but the ammunition was much more compact and more easily stored and handled within the tank. GB22 Comet  This made it possible to mount the gun on a smaller turret ring - the Challenger turret had been so large to allow space for two loaders - without making the hull wider. GB22 Comet  Several other improvements were made: armour protection was increased, the hull and turret were welded[2] with a cast gun mantlet, ammunition was stored in armoured bins, the suspension was strengthened, return rollers were added and the turret was electrically traversed (a design feature taken from the Churchill tank), with a generator powered by the main engine rather than the hydraulic system of the Cromwell. GB22 Comet 
+
+Armour on the Comet ranged from 32 mm to 74 mm on the hull, while the turret was from 57 to 102 mm. GB22 Comet  The Comet tank's top speed was limited from the Cromwell's 40+ mph to a slower, but respectable 32 mph (51 km/h) to preserve suspension and engine components and to reduce track wear. GB22 Comet  The mild steel prototype was ready in February 1944 and entered trials. GB22 Comet  Although concerns about the hull gunner and belly armour were put to one side (to avoid redesign), there was still sufficient delay caused by minor modifications and changes that production models did not begin to be delivered until September 1944. GB22 Comet  Intended to be in service by December 1944, crew training was delayed by the German Ardennes Offensive. GB22 Comet  By the end of the war, 1,200 had been produced. GB22 Comet  Comet was fitted with two radio sets: a No. GB22 Comet  19 Wireless, for communication with the regiment and the troop, and a No. GB22 Comet  38 Wireless for communication with infantry units. GB22 Comet  Like many British tanks, it also had a telephone handset mounted on the rear so that accompanying infantry could talk to the crew. GB22 Comet 
+
+|HistAcc=
+Every armament configuration besides the 77 mm HV gun is fictitious. GB22 Comet 
+* The Cromwell Mk. GB22 Comet  IV turret was only fitted to the Cromwell and experimented on a [[Matilda Black Prince|Matilda]]. GB22 Comet  Its configuration on the Comet is fake. GB22 Comet 
+* The Rolls-Royce Meteor Mk. GB22 Comet  IVB engine was only fitted to the Centurion tank. GB22 Comet  Its configuration on the Comet is also fake. GB22 Comet 
+* SCC No. GB22 Comet  15 Olive Drab paint scheme is missing. GB22 Comet  This was the base colour on all British AFVs in Europe from April 1944. GB22 Comet 
+* The Royal Armoured Corps recognition mark (or flash) was only used until mid-1942; the Comet entered service in December 1944. GB22 Comet 
+
+|HistoricalGallery=
+image:A_Comet_on. GB22 Comet JPG{{!}}A Comet on display at Imperial War Museum Duxford viewed from the side
+image:Comet_tank. GB22 Comet jpg{{!}}Comet tank in the Militärhistorisches Museum der Bundeswehr
+image:Comet_tank-a. GB22 Comet jpg{{!}}Loading 77mm HV ammunition into a Comet tank
+image:CometTank. GB22 Comet jpg{{!}}Comet tank
+image:Comet. GB22 Comet jpg{{!}}
+image:Comet_tank_advancing_towards_Lubeck_May_1945_IWM_BU_4976. GB22 Comet jpg{{!}}Comet tank advancing towards Lubeck, May 1945
+image:Comet_tank_in_Oulu_Oct2007_003. GB22 Comet jpg{{!}}Comet tank in Oulu, Finnland Oct2007
+image:Cruiser-comet-a34-03. GB22 Comet png{{!}}Comet, model A34
+image:Cruiser-comet-a34-germany-march-1945-01. GB22 Comet png{{!}}Comet A34 marching in Germany
+image:Full-comet-right. GB22 Comet jpg{{!}}Comet tank, right side view
+image:GB-Cruiser-Comet-A34. GB22 Comet jpg{{!}}A34
+image:GB-Cruiser-CometPrototype. GB22 Comet jpg{{!}}Comet Prototype
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+* https://en. GB22 Comet wikipedia. GB22 Comet org/wiki/Comet_tank
+
+}}
+
+[[Category:British Tanks]]

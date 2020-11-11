@@ -1,0 +1,245 @@
+2,435,000 Cost. 
+14701176 HP Hit Points. 
+53.57/54.1835.55/0 t Weight Limit. 
+600840 hp Engine Power. 
+38/16 km/h Speed Limit. 
+2525 deg/s Traverse. 
+11.223.63 hp/t Power/Wt Ratio. 
+YesYes Pivot. 
+150/80/80 mm Hull Armor. 
+100/80/80// mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+252/3200/252 1030/4800/650 Shell Cost. 
+220/220/270220/220/270 HP Damage. 
+145/194/44145/194/44 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 6.5 s 50% Crew: 8.05 s 75% Crew: 7.03 s 100% Crew: 6.23 s Rammer: 5.61 s Vents: 6.09 s Both: 5.48 s Both and BiA: 5.36 s Both and Max Crew %: 5.14 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 6.5 s 50% Crew: 8.05 s 75% Crew: 7.03 s 100% Crew: 6.23 s Rammer: 5.61 s Vents: 6.09 s Both: 5.48 s Both and BiA: 5.36 s Both and Max Crew %: 5.14 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (220 Damage):  Theoretical Damage Per Minute Nominal DPM: 1925 50% Crew: 1553.2 75% Crew: 1779.8 100% Crew: 2008.6 100% Crew Vents: 2054.8 Rammer: 2230.8 Both: 2281.4 Both and BiA: 2332 Both and Max Crew %: 2433.2 Advantageous Damage Per Minute First-shot DPM: 2145 50% Crew: 1773.2 75% Crew: 1999.8 100% Crew: 2228.6 100% Crew Rammer: 2450.8 Vents: 2274.8 Both: 2501.4 Both and BiA: 2552 Both and Max Crew %: 2653.2 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (220 Damage):  Theoretical Damage Per Minute Nominal DPM: 1925 50% Crew: 1553.2 75% Crew: 1779.8 100% Crew: 2008.6 100% Crew Vents: 2054.8 Rammer: 2230.8 Both: 2281.4 Both and BiA: 2332 Both and Max Crew %: 2433.2 Advantageous Damage Per Minute First-shot DPM: 2145 50% Crew: 1773.2 75% Crew: 1999.8 100% Crew: 2228.6 100% Crew Rammer: 2450.8 Vents: 2274.8 Both: 2501.4 Both and BiA: 2552 Both and Max Crew %: 2653.2 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (270 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2362.5 50% Crew: 1906.2 75% Crew: 2184.3 100% Crew: 2465.1 100% Crew Vents: 2521.8 Rammer: 2737.8 Both: 2799.9 Both and BiA: 2862 Both and Max Crew %: 2986.2 Advantageous Damage Per Minute First-shot DPM: 2632.5 50% Crew: 2176.2 75% Crew: 2454.3 100% Crew: 2735.1 100% Crew Rammer: 3007.8 Vents: 2791.8 Both: 3069.9 Both and BiA: 3132 Both and Max Crew %: 3256.2 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (220 Damage):  Theoretical Damage Per Minute Nominal DPM: 1282.6 50% Crew: 1036.2 75% Crew: 1185.8 100% Crew: 1337.6 100% Crew Vents: 1368.4 Rammer: 1487.2 Both: 1520.2 Both and BiA: 1553.2 Both and Max Crew %: 1621.4 Advantageous Damage Per Minute First-shot DPM: 1502.6 50% Crew: 1256.2 75% Crew: 1405.8 100% Crew: 1557.6 100% Crew Rammer: 1707.2 Vents: 1588.4 Both: 1740.2 Both and BiA: 1773.2 Both and Max Crew %: 1841.4 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (220 Damage):  Theoretical Damage Per Minute Nominal DPM: 1282.6 50% Crew: 1036.2 75% Crew: 1185.8 100% Crew: 1337.6 100% Crew Vents: 1368.4 Rammer: 1487.2 Both: 1520.2 Both and BiA: 1553.2 Both and Max Crew %: 1621.4 Advantageous Damage Per Minute First-shot DPM: 1502.6 50% Crew: 1256.2 75% Crew: 1405.8 100% Crew: 1557.6 100% Crew Rammer: 1707.2 Vents: 1588.4 Both: 1740.2 Both and BiA: 1773.2 Both and Max Crew %: 1841.4 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (270 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1574.1 50% Crew: 1271.7 75% Crew: 1455.3 100% Crew: 1641.6 100% Crew Vents: 1679.4 Rammer: 1825.2 Both: 1865.7 Both and BiA: 1906.2 Both and Max Crew %: 1989.9 Advantageous Damage Per Minute First-shot DPM: 1844.1 50% Crew: 1541.7 75% Crew: 1725.3 100% Crew: 1911.6 100% Crew Rammer: 2095.2 Vents: 1949.4 Both: 2135.7 Both and BiA: 2176.2 Both and Max Crew %: 2259.9 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew m ▲ With 50% Crew: 0.471 m With 75% Crew: 0.411 m With 100% Crew: 0.364 m With BiA: 0.356 m With BiA and Vents: 0.349 m Maximum possible: 0.334 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.849 s With 75% Crew: 2.488 s With 100% Crew: 2.205 s With GLD: 2.005 s With BiA: 2.157 s With BiA and Vents: 2.11 s With both and GLD: 1.918 s Maximum possible: 1.839 s For more details, see Crew or Equipment Aim time. 
+3030 deg/s Turret Traverse. 
+360° Gun Arc. 
+-8°/+15°-8°/+15° Elevation Arc. 
+9292 rounds Ammo Capacity. 
+2015 % Chance of Fire. 
+m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment m ▲ With 50% Crew: 298.6 m With 75% Crew: 339.3 m With 100% Crew: 380 m With Recon and Situational Awareness: 399.2 m With Coated Optics: 418 m With Binocular Telescope: 475 m Maximum possible: 544 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 335 m With 75% Crew: 383.7 m With 100% Crew: 432.8 m With 100% Signal Boost: 498 m When affected by 100% Relaying: 456.5 m Maximum possible: 623 m For more details, see Skills or Equipment m ▲ With 50% Crew: 573.1 m With 75% Crew: 656.4 m With 100% Crew: 740.5 m With 100% Signal Boost: 852 m When affected by 100% Relaying: 781 m Maximum possible: 1065.9 m For more details, see Skills or Equipment Signal Range. 
+VII. 
+8,8 cm Kw.K. 36 L/56. 
+145/194/44. 
+220/220/270. 
+9.23. 
+0.38. 
+2.3. 
+nan. 
+2050. 
+66000. 
+VIII. 
+8,8 cm Kw.K. 43 L/71. 
+203/237/44. 
+240/240/295. 
+7.79. 
+0.34. 
+2.9. 
+nan. 
+2562. 
+112180. 
+VIII. 
+10,5 cm Kw.K. L/52. 
+200/244/60. 
+320/320/420. 
+5.94. 
+0.37. 
+2.3. 
+nan. 
+3000. 
+116490. 
+nan. 
+VK 45.02 (P) Ausf. A. 
+//. 
+30. 
+380. 
+nan. 
+nan. 
+18500. 
+nan. 
+VK 45.02 (P) Ausf. A Schwerer Turm. 
+//. 
+25. 
+390. 
+nan. 
+nan. 
+33550. 
+VI. 
+2x Porsche Typ 100/1. 
+600. 
+20. 
+nan. 
+670. 
+29900. 
+VII. 
+2x Porsche Typ 100/3. 
+670. 
+20. 
+nan. 
+720. 
+39850. 
+VIII. 
+Porsche Deutz Typ 180/2. 
+840. 
+15. 
+nan. 
+720. 
+45300. 
+nan. 
+VK 45.02 (P) Ausf. A. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+16550. 
+nan. 
+VK 45.02 (P) Ausf. A verstärkteketten. 
+0. 
+nan. 
+0. 
+nan. 
+nan. 
+33400. 
+VI. 
+FuG 7. 
+415. 
+nan. 
+70. 
+8160. 
+IX. 
+FuG 12. 
+710. 
+nan. 
+150. 
+43200. 
+Light Tanks. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+Medium Tanks. 
+IIIGroßtraktor - Krupp • IIIPz.Kpfw. IV Ausf. A • IIIPz.Kpfw. S35 739 (f) • IVPz.Kpfw. III Ausf. J • IVPz.Kpfw. IV Ausf. D • IVVK 20.01 (D) • VPz.Kpfw. III Ausf. K • VTurán III prototípus • VPz.Kpfw. III/IV • VPz.Kpfw. IV hydrostat. • VPz.Kpfw. V/IV • VPz.Kpfw. V/IV Alpha • VPz.Kpfw. IV Ausf. H • VPz.Kpfw. T 25 • VVK 30.01 (H) • VIPz.Kpfw. IV Schmalturm • VIVK 30.01 (D) • VIVK 30.02 (M) • VIIPanther/M10 • VIIPanther • VIIVK 30.02 (D) • VIIIPanther mit 8,8 cm L/71 • VIIIPanzer 58 • VIIISchwarzpanzer 58 • VIIIPanzer 58 Mutz • VIIIM48A2 Räumpanzer • VIIIIndien-Panzer • VIIIPanther II • IXE 50 • IXT 55A • IXKampfpanzer 50 t • IXLeopard Prototyp A • XE 50 Ausf. M • XLeopard 1. 
+Heavy Tanks. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+Tank Destroyers. 
+IIPanzerjäger I • IIIMarder II • IVStuG III Ausf. B • IVJagdpanzer 38(t) Hetzer • IVMarder 38T • VStuG IV • VPz.Sfl. IVc • VStuG III Ausf. G • VIDicker Max • VIJagdpanzer IV • VINashorn • VIIE 25 • VIIKrupp-Steyr Waffenträger • VIIJagdpanther • VIISturer Emil • VIIIFerdinand • VIIIKanonenjagdpanzer 105 • VIIIRheinmetall Skorpion G • VIIIRheinmetall Skorpion • VIIIJagdpanther II • VIII8,8 cm Pak 43 Jagdtiger • VIIIRhm.-Borsig Waffenträger • IXJagdtiger • IXWaffenträger auf Pz. IV • XGrille 15 • XJagdpanzer E 100 • XWaffenträger auf E 100. 
+Self-Propelled Artillery. 
+IIG.Pz. Mk. VI (e) • IIISturmpanzer I Bison • IIIWespe • IVPz.Sfl. IVb • IVSturmpanzer II • VGrille • VIHummel • VIIG.W. Panther • VIIIG.W. Tiger (P) • IXG.W. Tiger • XG.W. E 100. 
+USA. 
+VT14 • VT1 Heavy Tank • VIM6 • VIIKing Tiger (Captured) • VIIT29 • VIIIChrysler K • VIIIChrysler K GF • VIIIT26E5 • VIIIT26E5 Patriot • VIIIM54 Renegade • VIIIT77 • VIIIM6A2E1 • VIIIT32 • VIIIT34 • VIIIT34 B • IXAE Phase I • IXConcept 1B • IXM103 • IXT54E1 • XT110E5 • XT57 Heavy Tank. 
+UK. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Germany. 
+IVPz.Kpfw. B2 740 (f) • IVDurchbruchswagen 2 • VITiger 131 • VIVK 30.01 (P) • VIVK 36.01 (H) • VIIVK 45.03 • VIITiger I • VIITiger (P) • VIIIVK 100.01 (P) • VIIIVK 168.01 (P) • VIIIVK 168.01 Mauerbrecher • VIIIVK 75.01 (K) • VIIIE 75 TS • VIIILöwe • VIIITiger II • VIIIVK 45.02 (P) Ausf. A • IXE 75 • IXMäuschen • IXVK 45.02 (P) Ausf. B • XE 100 • XPz.Kpfw. VII • XMaus • XVK 72.01 (K). 
+France. 
+IVB1 • VBDR G1 B • VIARL 44 • VIIAMX M4 mle. 45 • VIIIAMX 50 100 • VIIIAMX M4 mle. 49 • VIIIAMX M4 mle. 49 Liberté • VIIIAMX 65 t • VIIISomua SM • VIIIFCM 50 t • IXAMX 50 120 • IXAMX M4 mle. 51 • XAMX 50 B • XAMX M4 mle. 54. 
+USSR. 
+VChurchill III • VKV-220-2 • VKV-220-2 Beta Test • VKV-1 • VIKV-1S • VIKV-2 • VIKV-2 (R) • VIKV-85 • VIObject 244 • VIT-150 • VIIIS • VIIKV-3 • VIIKV-122 • VIIIS-2M • VIIIS-2 shielded • VIIIS-2 • VIIIIS-3 • VIIIIS-6 • VIIIIS-6 B • VIIIKV-5 • VIIIKV-4 • VIIIIS-5 (Object 730) • VIIIIS-3A • VIIIKV-4 Kreslavskiy • VIIIObject 252U Defender • VIIIObject 252U • VIIIIS-M • VIIIObject 703 Version II • VIIIIS-2-II • IXT-10 • IXObject 777 Version II • IXObject 257 • IXObject 705 • IXIS-3-II • IXST-I • XIS-4 • XIS-7 • XObject 260 • XObject 705A • XObject 277 • XObject 279 early • XST-II. 
+China. 
+VIIIS-2 • VIIIWZ-111 • VIIIWZ-111 Alpine Tiger • VIII110 • VIII112 • IXWZ-111 model 1-4 • X113 • XWZ-111 model 5A. 
+Japan. 
+IIIType 91 Heavy • IVType 95 Heavy • VO-I Experimental • VIHeavy Tank No. VI • VIO-I • VIIO-Ni • VIIIO-Ho • IXType 4 Heavy • XType 5 Heavy. 
+Czechoslovakia. 
+nan. 
+Sweden. 
+VIIIEmil I • VIIIEMIL 1951 • IXEmil II • XKranvagn. 
+Italy. 
+nan. 
+Poland. 
+VII45TP Habicha • VIII50TP prototyp • VIII53TP Markowskiego • IX50TP Tyszkiewicza • X60TP Lewandowskiego. 
+{{TankData|Tank=VK4502A
+|Compared to the [[Tank:G16_PzVIB_Tiger_II|Tiger II]], it has superior mobility and gun handling, but loses out on firepower. G67 VK4502A  The most noticeable differences from its brother, the VK 45. G67 VK4502A 02(P) Ausf. G67 VK4502A  B, is that the Ausf. G67 VK4502A  A's turret is mounted at the front instead of at the back, and that the Ausf. G67 VK4502A  A is much nimbler, with weaker gun selection. G67 VK4502A 
+
+|InTheGame_pros=
+* Above average mobility for a heavy tank; able to keep pace with some mediums
+* Ability to rotate in place and good terrain resistance
+* Decent armour for its mobility, superior to Tiger II in terms of hull armour (stronger LFP, has spaced armor "collar" protecting the turret ring and hull roof)
+* Top turret is very bouncy but relies more on slope than in thickness
+* Good DPM and soft stats with 105mm
+
+|InTheGame_cons=
+* Weaker gun selection than most other tier 8 heavy tanks but still better than [[Tank:A12_T32|T32]]
+* Low penetration on all guns and mediocre accuracy (by German standards) on 10,5 cm KwK 45 but still competitive 
+* Very weak hull sponsons bottom behind mud guards gets overmatched easily
+* Weak ammo rack and modules
+* Horrible stock grinding with no weight capacity to spare, bad terrain resistance and useless gun
+
+|InTheGame_performance=
+
+The VK 45. G67 VK4502A 02 (P) Ausf. G67 VK4502A  A plays between a heavy and medium. G67 VK4502A  Unfortunately it inherites as many bad points of either tank class as good points. G67 VK4502A  
+
+*The gun is rather mediocre for a heavy, but still workable
+*The mobility is not impressive for a medium, but good for a heavy
+*The armor is decent, but has a few obvious weakspots
+
+Use the mobility as advantage; do not expose your tank for long times, your armour is good, but not impenetrable. G67 VK4502A  Luckily, the sheer speed of this tank allows decent wolf packing with mediums and assaults on flanks where only mediums will be met. G67 VK4502A  While not the best against other heavies of the tier, the gun and armour of this tank is more than enough against mediums and lights. G67 VK4502A  Sharing the same 150 mm well sloped upper plate with the Tiger II, which will reliably bounce shells below 230mm penetration when angled, and combined with its maneuverability will allow it to excel at hunting down mediums and light tanks, which if played well, will have a hard time circling this tank. G67 VK4502A  
+
+Always remember to angle your armour, as even the infamous IS-3 can bounce a well-angled VK. G67 VK4502A  Under certain rare circumstances, the VK's armour can deflect shots from tier 10 tanks. G67 VK4502A  Because of your weaker than average gun, you should prefer support role with other heavies. G67 VK4502A  Front line is not the place for this machine. G67 VK4502A  One exception of this rule: if you are top tier, you should consider playing a more active role. G67 VK4502A  
+
+The accuracy of the cannon will also allow the VK to stay at medium range, which will help improve the chance of bouncing enemy fire. G67 VK4502A  However, the cannon has subpar penetration which will make it hard to penetrate some tier 8 and 9 heavy tanks. G67 VK4502A  If possible conduct flanking actions. G67 VK4502A  Keep in mind, though, that the size of the VK makes it a lucrative target for artillery. G67 VK4502A  Don't stay still for too long, you have the mobility. G67 VK4502A 
+
+|InTheGame_research=
+*The 8,8cm KwK 43 L/71 gun, the 2x Porsche Typ 100/3 engine, and the FuG 12 radio all carry over from the Tiger P; however the upgraded suspension is needed in order to mount all three. G67 VK4502A 
+*After researching the upgraded suspension, either the 10,5cm KwK 45 L/52 gun or the upgraded turret may be mounted depending on whether you want the additional armour or the increase in damage first. G67 VK4502A 
+*Go from there. G67 VK4502A 
+
+|InTheGame_equipment=
+Vents, Tank Gun Rammer, Vertical Stabilizer, Coated Optics
+
+|Gallery=
+image:VK4502(P) Ausf. G67 VK4502A  A front view 1. G67 VK4502A jpg‎{{!}}VK4502(P) Ausf. G67 VK4502A  A front left view
+image:VK4502(P) Ausf. G67 VK4502A  A front view 2. G67 VK4502A jpg‎{{!}}VK4502(P) Ausf. G67 VK4502A  A front right view
+image:VK4502(P) Ausf. G67 VK4502A  A back view 1. G67 VK4502A jpg‎{{!}}VK4502(P) Ausf. G67 VK4502A  A back left view
+image:VK4502(P) Ausf. G67 VK4502A  A back view 2b. G67 VK4502A jpg‎{{!}}VK4502(P) Ausf. G67 VK4502A  A back right view
+image:AusfA-a1. G67 VK4502A jpg{{!}}VK4502(P) Ausf. G67 VK4502A  A, map Komarin
+image:AusfA-a2. G67 VK4502A jpg{{!}}VK4502(P) Ausf. G67 VK4502A  A, map Komarin
+
+|HistAcc=
+The Henschel turret was only designed for the Tiger II. G67 VK4502A  Its configuration on the VK 45. G67 VK4502A 02 is fake. G67 VK4502A 
+* 8,8 cm Flak 41 L/74 (the [[Pz. G67 VK4502A Sfl. G67 VK4502A  IVc]]'s top gun), is missing. G67 VK4502A  This gun was initially intended for the VK 45. G67 VK4502A 02 before it was later switched to the KwK 43. G67 VK4502A  The other gun configurations are fake. G67 VK4502A 
+* Original specifications indicates the turret's traverse speed is 15 degrees per second. G67 VK4502A  In World of Tanks, however, the turret turns twice as fast. G67 VK4502A 
+
+|History=
+After the VK 45. G67 VK4502A 01 (P) failed to win the contract, Dr. G67 VK4502A  Porsche began looking at ways to improve the design for a future version. G67 VK4502A  Based on the latest Allied tank designs, however, it was clear that simply increasing the armor on the VK 45. G67 VK4502A 01 (P) would not be enough for the tank to remain competitive. G67 VK4502A  It needed to have both more weight and more maneuverability. G67 VK4502A  What initially began as a single vehicle, entitled "Typ 180" grew into a series of five different vehicles, requiring the development of two hull configurations (one with the turret in the front, the other with the turret in the rear), both an electric and a hydraulic drive system, and four different engines. G67 VK4502A  The overall project came to be known as VK 45. G67 VK4502A 02 (P) and the five configurations came to be:
+
+
+* Typ 180A: Electric drive with Porsche Typ 101/3 gasoline engines. G67 VK4502A 
+* Typ 180B: Electric drive with Porsche Typ 101/4 gasoline engines. G67 VK4502A 
+* Typ 181A: Voith II hydraulic drive with Porsche Typ 101/3 gasoline engines. G67 VK4502A 
+* Typ 181B: Voith II hydraulic drive with Porsche Deutz Typ 180/1 diesel engines. G67 VK4502A 
+* Typ 181C: Voith II hydraulic drive with Porsche Deutz Typ 180/2 diesel engines. G67 VK4502A  
+
+
+A new turret for the VK 4502 (P) had to be developed after it was determined that the 8. G67 VK4502A 8cm Flak 41 could not be installed in the VK 4501 (P) turret. G67 VK4502A  Records appear to indicate that the design was finalized by May 7, 1942, because Krupp reported difficulties shaping the turret's specially rounded front. G67 VK4502A  The rounded front reduced the frontal target area, and thus it would not present the shot-trap that became apparent in the initial production design of the Henschel Tiger II. G67 VK4502A  The rounded front of the turret would then line up with the sloped frontal armor (albeit only on the chassis with the front-mounted turret). G67 VK4502A 
+
+Initially an order for 200 complete VK 4502 (P) tanks was authorized in April of 1942, with the first four to be delivered in October. G67 VK4502A  Unfortunately, Dr. G67 VK4502A  Porsche's fascination with advanced (and unproven) engine design doomed the project when the 10-cylinder engines he designed for the tank failed during trials. G67 VK4502A  Given that Dr. G67 VK4502A  Porsche's previous failures used engines with the same drive train layout, the Wehrmacht had no confidence he would succeed in making it into a dependable engine. G67 VK4502A  As a result, all contracts relating to the VK 4502 (P) were rescinded in November of 1942. G67 VK4502A  Porsche nevertheless continued working on the design up to the summer of 1944. G67 VK4502A  By then, the design had a hydraulic drive, a suspension, and a working 900 metric horsepower air-cooled diesel engine. G67 VK4502A 
+
+Ultimately, only the turret was used as an upgrade for the existing Henschel Tiger II design. G67 VK4502A 
+
+|HistoricalGallery=
+VK 45. G67 VK4502A 02 (P) Ausf. G67 VK4502A  A. G67 VK4502A jpg
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+Historical Info - [https://fingolfen. G67 VK4502A tripod. G67 VK4502A com/tiger/vk4502p. G67 VK4502A html https://fingolfen. G67 VK4502A tripod. G67 VK4502A com/tiger/vk4502p. G67 VK4502A html]
+
+|Sidebar_Camostop=4. G67 VK4502A 3
+|Sidebar_Camomove=2. G67 VK4502A 3
+|Sidebar_Camofire=1. G67 VK4502A 1
+|Sidebar_Passhard=1. G67 VK4502A 055
+|Sidebar_Passmed=1. G67 VK4502A 247
+|Sidebar_Passsoft=2. G67 VK4502A 205
+|Sidebar_DispTurret=0. G67 VK4502A 096
+|Sidebar_DispRecoil=2. G67 VK4502A 877
+|Sidebar_DispAccel=0. G67 VK4502A 192
+|Sidebar_DispTurning=0. G67 VK4502A 192
+}}

@@ -1,0 +1,315 @@
+880,000 Cost. 
+650680 HP Hit Points. 
+19/19.319.5/21 t Weight Limit. 
+395410 hp Engine Power. 
+58/22 km/h Speed Limit. 
+4045 deg/s Traverse. 
+20.7921.03 hp/t Power/Wt Ratio. 
+NoNo Pivot. 
+40.2/28.3/28.3 mm Hull Armor. 
+39.1/19.5/24.750.8/23.5/29.7 mm Turret Armor. 
+AP/APCR/HE AP/APCR/HE Shells. 
+30/1200/15 45/2400/32 Shell Cost. 
+50/50/6075/75/100 HP Damage. 
+78/121/23110/180/30 mm Penetration. 
+r/m ▲ Standard Gun Reload Times Nominal: 2.1 s 50% Crew: 2.67 s 75% Crew: 2.35 s 100% Crew: 2.1 s Rammer: 1.89 s Vents: 2.05 s Both: 1.85 s Both and BiA: 1.81 s Both and Max Crew %: 1.74 s See Crew, Consumables, or Equipment for more information. r/m ▲ Standard Gun Reload Times Nominal: 2.2 s 50% Crew: 2.8 s 75% Crew: 2.46 s 100% Crew: 2.2 s Rammer: 1.98 s Vents: 2.15 s Both: 1.93 s Both and BiA: 1.9 s Both and Max Crew %: 1.82 s See Crew, Consumables, or Equipment for more information. Rate of Fire. 
+▲ Standard Gun Using Shell Type 1 (50 Damage):  Theoretical Damage Per Minute Nominal DPM: 1428.5 50% Crew: 1122.5 75% Crew: 1275.5 100% Crew: 1428.5 100% Crew Vents: 1462 Rammer: 1587 Both: 1624.5 Both and BiA: 1655.5 Both and Max Crew %: 1726.5 Advantageous Damage Per Minute First-shot DPM: 1478.5 50% Crew: 1172.5 75% Crew: 1325.5 100% Crew: 1478.5 100% Crew Rammer: 1637 Vents: 1512 Both: 1674.5 Both and BiA: 1705.5 Both and Max Crew %: 1776.5 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (50 Damage):  Theoretical Damage Per Minute Nominal DPM: 1428.5 50% Crew: 1122.5 75% Crew: 1275.5 100% Crew: 1428.5 100% Crew Vents: 1462 Rammer: 1587 Both: 1624.5 Both and BiA: 1655.5 Both and Max Crew %: 1726.5 Advantageous Damage Per Minute First-shot DPM: 1478.5 50% Crew: 1172.5 75% Crew: 1325.5 100% Crew: 1478.5 100% Crew Rammer: 1637 Vents: 1512 Both: 1674.5 Both and BiA: 1705.5 Both and Max Crew %: 1776.5 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (60 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 1714.2 50% Crew: 1347 75% Crew: 1530.6 100% Crew: 1714.2 100% Crew Vents: 1754.4 Rammer: 1904.4 Both: 1949.4 Both and BiA: 1986.6 Both and Max Crew %: 2071.8 Advantageous Damage Per Minute First-shot DPM: 1774.2 50% Crew: 1407 75% Crew: 1590.6 100% Crew: 1774.2 100% Crew Rammer: 1964.4 Vents: 1814.4 Both: 2009.4 Both and BiA: 2046.6 Both and Max Crew %: 2131.8 See here, here, or here for more information.▲ Standard Gun Using Shell Type 1 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: 2045.25 50% Crew: 1607.25 75% Crew: 1826.25 100% Crew: 2045.25 100% Crew Vents: 2093.25 Rammer: 2272.5 Both: 2325.75 Both and BiA: 2370 Both and Max Crew %: 2472 Advantageous Damage Per Minute First-shot DPM: 2120.25 50% Crew: 1682.25 75% Crew: 1901.25 100% Crew: 2120.25 100% Crew Rammer: 2347.5 Vents: 2168.25 Both: 2400.75 Both and BiA: 2445 Both and Max Crew %: 2547 See here, here, or here for more information. ▼ Standard Gun Using Shell Type 2 (75 Damage):  Theoretical Damage Per Minute Nominal DPM: 2045.25 50% Crew: 1607.25 75% Crew: 1826.25 100% Crew: 2045.25 100% Crew Vents: 2093.25 Rammer: 2272.5 Both: 2325.75 Both and BiA: 2370 Both and Max Crew %: 2472 Advantageous Damage Per Minute First-shot DPM: 2120.25 50% Crew: 1682.25 75% Crew: 1901.25 100% Crew: 2120.25 100% Crew Rammer: 2347.5 Vents: 2168.25 Both: 2400.75 Both and BiA: 2445 Both and Max Crew %: 2547 See here, here, or here for more information. ▲ Standard Gun Using Shell Type 3 (100 Damage): With wholly penetrating hits  Theoretical Damage Per Minute Nominal DPM: 2727 50% Crew: 2143 75% Crew: 2435 100% Crew: 2727 100% Crew Vents: 2791 Rammer: 3030 Both: 3101 Both and BiA: 3160 Both and Max Crew %: 3296 Advantageous Damage Per Minute First-shot DPM: 2827 50% Crew: 2243 75% Crew: 2535 100% Crew: 2827 100% Crew Rammer: 3130 Vents: 2891 Both: 3201 Both and BiA: 3260 Both and Max Crew %: 3396 See here, here, or here for more information. Damage Per Minute. 
+m ▲ With 50% Crew: 0.434 m With 75% Crew: 0.379 m With 100% Crew: 0.336 m With BiA: 0.328 m With BiA and Vents: 0.321 m Maximum possible: 0.308 m For more details, see Crew m ▲ With 50% Crew: 0.458 m With 75% Crew: 0.4 m With 100% Crew: 0.355 m With BiA: 0.347 m With BiA and Vents: 0.339 m Maximum possible: 0.325 m For more details, see Crew Accuracy. 
+s ▲ With 50% Crew: 2.106 s With 75% Crew: 1.839 s With 100% Crew: 1.63 s With GLD: 1.482 s With BiA: 1.594 s With BiA and Vents: 1.559 s With both and GLD: 1.418 s Maximum possible: 1.359 s For more details, see Crew or Equipment s ▲ With 50% Crew: 2.478 s With 75% Crew: 2.163 s With 100% Crew: 1.918 s With GLD: 1.743 s With BiA: 1.875 s With BiA and Vents: 1.835 s With both and GLD: 1.668 s Maximum possible: 1.599 s For more details, see Crew or Equipment Aim time. 
+4846 deg/s Turret Traverse. 
+360° Gun Arc. 
+-15°/+20°-12°/+20° Elevation Arc. 
+260130 rounds Ammo Capacity. 
+2020 % Chance of Fire. 
+m ▲ With 50% Crew: 282.8 m With 75% Crew: 321.5 m With 100% Crew: 360 m With Recon and Situational Awareness: 378.2 m With Coated Optics: 396 m With Binocular Telescope: 450 m Maximum possible: 515.4 m For more details, see Skills or Equipment m ▲ With 50% Crew: 290.7 m With 75% Crew: 330.4 m With 100% Crew: 370 m With Recon and Situational Awareness: 388.7 m With Coated Optics: 407 m With Binocular Telescope: 462.5 m Maximum possible: 529.7 m For more details, see Skills or Equipment View Range. 
+m ▲ With 50% Crew: 294.6 m With 75% Crew: 334.8 m With 100% Crew: 375 m With 100% Signal Boost: 450 m When affected by 100% Relaying: 412.5 m Maximum possible: 539.6 m For more details, see Skills or Equipment m ▲ With 50% Crew: 432.1 m With 75% Crew: 491.1 m With 100% Crew: 550 m With 100% Signal Boost: 660 m When affected by 100% Relaying: 605 m Maximum possible: 791.4 m For more details, see Skills or Equipment Signal Range. 
+IV. 
+OQF 3-inch Howitzer Mk. I. 
+38/100/23. 
+175/110/60. 
+15.0. 
+0.49. 
+1.9. 
+nan. 
+116. 
+30000. 
+IV. 
+QF 6-pdr Mk. III. 
+105/170/30. 
+75/75/100. 
+27.27. 
+0.43. 
+2.3. 
+nan. 
+400. 
+27000. 
+V. 
+QF 6-pdr Gun Mk. V. 
+110/180/30. 
+75/75/100. 
+27.27. 
+0.37. 
+2.0. 
+nan. 
+450. 
+35000. 
+IV. 
+QF 2-pdr Mk. X. 
+78/121/23. 
+50/50/60. 
+28.57. 
+0.35. 
+1.5. 
+nan. 
+130. 
+6000. 
+V. 
+Crusader Mk. I. 
+39.1/19.5/24.7. 
+48. 
+360. 
+nan. 
+2953. 
+7960. 
+VI. 
+Crusader Mk. III. 
+50.8/23.5/29.7. 
+46. 
+370. 
+nan. 
+3390. 
+21000. 
+IV. 
+Nuffield Liberty Mk. III. 
+395. 
+20. 
+nan. 
+383. 
+11500. 
+V. 
+Nuffield Liberty Mk. V. 
+410. 
+20. 
+nan. 
+383. 
+12500. 
+V. 
+Crusader Mk. I. 
+19.3. 
+40. 
+B/2. 
+nan. 
+6200. 
+4000. 
+VI. 
+Crusader Mk. III. 
+21.0. 
+45. 
+B/2. 
+nan. 
+6200. 
+18500. 
+VII. 
+WS No. 19 Mk. II. 
+450. 
+nan. 
+40. 
+21000. 
+VI. 
+WS No. 19 Mk. I. 
+400. 
+nan. 
+40. 
+15000. 
+V. 
+WS No. 9. 
+375. 
+nan. 
+40. 
+3600. 
+VIII. 
+WS No. 19 Mk. III. 
+550. 
+nan. 
+40. 
+22000. 
+Light Tanks. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Medium Tanks. 
+IVickers Medium Mk. I • IIVickers Medium Mk. II • IIIVickers Medium Mk. III • IVMatilda • IVGrant • IVAC 1 Sentinel • VCavalier • VValiant • VSherman III • VMatilda Black Prince • VISherman Firefly • VICromwell • VIAC 4 Experimental • VICromwell B • VISherman VC Firefly • VIIComet • VIIICenturion Mk. I • VIIIFV4202 • VIIIChieftain/T95 • VIIICenturion Mk. 5/1 RAAC • VIIIChimera • IXCenturion Mk. 7/1 • XCenturion Action X. 
+Heavy Tanks. 
+VChurchill I • VExcelsior • VIChurchill VII • VIA43 BP prototype • VITOG II* • VIIBlack Prince • VIIFV201 (A45) • VIIICaernarvon • VIIICaernarvon Action X • IXConqueror • XFV215b • XSuper Conqueror • XT95/FV4201 Chieftain. 
+Tank Destroyers. 
+IIUniversal Carrier 2-pdr • IVValentine AT • IVAlecto • VArcher • VAT 2 • VIChurchill Gun Carrier • VIAchilles • VIAT 8 • VIExcalibur • VIIChallenger • VIIAT 15A • VIIAT 7 • VIIIAT 15 • VIIICharioteer • VIIITurtle Mk. I • IXTortoise • IXFV4004 Conway • XFV215b (183) • XFV4005 Stage II • XFV217 Badger. 
+Self-Propelled Artillery. 
+IILoyd Gun Carriage • IIISexton II • IIISexton I • IVBirch Gun • VBishop • VIFV304 • VIICrusader 5.5-in. SP • VIIIFV207 • IXFV3805 • XConqueror Gun Carriage. 
+USA. 
+IT1 Cunningham • IIM2 Light Tank • IIT1E6 • IIT2 Light Tank • IIT7 Combat Car • IIIM22 Locust • IIIM3 Stuart • IIIMTLS-1G14 • IVM5 Stuart • VM24 Chaffee • VM7 • VIT21 • VIT37 • VIIT71 CMCD P • VIIT71 CMCD • VIIT71 DA • VIIIT92 • VIIIM41 Walker Bulldog • IXT49 • XXM551 Sheridan. 
+UK. 
+ICruiser Mk. I • IIM2 • IICruiser Mk. II • IILight Mk. VIC • IIIValentine • IIIStuart I-IV • IIICruiser Mk. III • IVCruiser Mk. IV • VCovenanter • VIA46 • VICrusader • VIIGSR 3301 Setter • VIIIFV1066 Senlac • VIIILHMTV • IXGSOR3301 AVR FS • XManticore. 
+Germany. 
+ILeichttraktor • IIPz.Kpfw. II Ausf. D • IIMKA • IIPz.Kpfw. 38H 735 (f) • IIPz.Kpfw. 35 (t) • IIPz.Kpfw. I • IIPz.Kpfw. II • III43 M. Toldi III • IIIPz.Kpfw. 38 (t) • IIIPz.Kpfw. III Ausf. E • IIIPz.Kpfw. II Ausf. J • IIIPz.Kpfw. I Ausf. C • IIIPz.Kpfw. II Ausf. G • IIIPz.Kpfw. T 15 • IVPz.Kpfw. 38 (t) n.A. • IVPz.Kpfw. II Luchs • VVK 16.02 Leopard • VIVK 28.01 • VIIAufklärungspanzer Panther • VIISpähpanzer SP I C • VIIIleKpz M 41 90 mm • VIIIleKpz M 41 90 mm GF • VIIIHWK 12 • VIIIHWK 30 • IXSpähpanzer Ru 251 • XRheinmetall Panzerwagen. 
+France. 
+IRenault FT • IID1 • IIAM 39 Gendron-Somua • IIAMR 35 • IIFCM 36 • IIRenault R35 • IIHotchkiss H35 • IIIAMX 38 • IVAMX 40 • VAMX ELC bis • VIAMX 12 t • VIPanhard AMD 178B • VIIAMX 13 75 • VIIHotchkiss EBR • VIIAMX 13 57 • VIIAMX 13 57 GF • VIIIPanhard EBR 75 (FL 10) • VIIIPanhard AML Lynx 6x6 • VIIIBat.-Châtillon 12 t • VIIIELC EVEN 90 • IXAMX 13 90 • IXPanhard EBR 90 • XPanhard EBR 105 • XAMX 13 105. 
+USSR. 
+IMS-1 • IIBT-2 • IIT-45 • IIT-26 • IIT-60 • IITetrarch • IIIBT-SV • IIILTP • IIIM3 Light • IIIBT-7 artillery • IIIT-116 • IIIBT-5 • IIIT-127 • IIIT-46 • IIIT-70 • IVBT-7 • IVT-80 • IVValentine II • VA-20 • VT-50 • VIMT-25 • VIT-50-2 • VIILTG • VIIILTTB • VIIILT-432 • IXT-54 ltwt. • XT-100 LT. 
+China. 
+IRenault NC-31 • IIVickers Mk. E Type B • IIIType 2597 Chi-Ha • IVM5A1 Stuart • VI59-16 • VIType 64 • VIIType 62 • VIIWZ-131 • VIIIWZ-132 • VIIIM41D • IXWZ-132A • XWZ-132-1. 
+Japan. 
+IRenault Otsu • IIType 95 Ha-Go • IIType 97 Te-Ke • IIIType 97 Chi-Ha • IIIType 98 Ke-Ni • IVType 5 Ke-Ho. 
+Czechoslovakia. 
+IKolohousenka • IILT vz. 35 • IIILT vz. 38. 
+Sweden. 
+IStrv fm/21 • IIStrv m/38 • IIL-60 • IIIStrv m/40L. 
+Italy. 
+IFiat 3000 • IIL6/40. 
+Poland. 
+I4TP • IITKS z n.k.m. 20 mm • II7TP • III10TP • IV14TP. 
+{{TankData|Tank=GB20_Crusader
+|'''NOTE:''' In update 1. GB20 Crusader 9 the Crusader was reclassified as a light tank and was moved up to tier 6. GB20 Crusader  As such, it once again receives the light tank concealment on the move bonus. GB20 Crusader 
+
+The Crusader is commonly regarded as a difficult tank to play effectively, requiring a high skill level and punishing your mistakes at every opportunity. GB20 Crusader  Its mobility is similar to the Covenanter (which had its mobility increased however in 1. GB20 Crusader 9. GB20 Crusader 1), meaning that the Crusader is not the quickest or most agile of tanks and is only just able to escape from danger. GB20 Crusader  The low standard penetration means it is critical that you learn enemy weak points. GB20 Crusader  The Crusader is most capable when played like a jackal, assisting other tanks in dealing with distracted enemies. GB20 Crusader 
+
+|Gallery=
+
+
+|InTheGame_pros=
+* Incredible fire rate with top gun. GB20 Crusader  DPM is the best of the Tier 6 light tanks, and even rivals some Tier 8 mediums
+* Low profile and good camo values make hiding in bushes easy
+* Decent view range of 360, 370 as of Update 1. GB20 Crusader 9. GB20 Crusader 1
+* Tied with T37 and VK 28. GB20 Crusader 01 for highest health pool (680) among tier 6 light tanks
+
+|InTheGame_cons=
+* Slowest of the Tier 6 light tanks, albeit it now goes 58 km/h as of 1. GB20 Crusader 9. GB20 Crusader 1
+* Aims slower than it fires, leading to a trade-off between accuracy and DPM, though 1. GB20 Crusader 9. GB20 Crusader 1 helped it
+* Only 7 degrees gun depression at the front; the maximum of 12 applies to the sides only
+* Poor armor, completely ineffective at tier 6
+* Lowest standard penetration and alpha on its top gun of all tier 6 lights, though APCR is good
+
+|InTheGame_performance=
+The Crusader is meant for combat and is less geared towards scouting. GB20 Crusader  However, if played carefully, it can be a capable mobile spotter in the early stages of the game, although update 1. GB20 Crusader 9. GB20 Crusader 1 increased its top speed to 58 km/h, up from previous 44-50 km/h and view range boosted by 10 meters. GB20 Crusader  In the late game it can be useful for finding and destroying enemy artillery. GB20 Crusader  At no point should you try to cross wide open spaces - you lack the speed and you have virtually no armour, although with correct angling it is sometimes possible to make miraculous bounces. GB20 Crusader 
+
+The high DPM is fantastic if you have a comprehensive knowledge of enemy weak spots, but newer players or those who are still learning the higher tiers are likely to struggle. GB20 Crusader  In fact, the Crusader's top gun is its only saving grace. GB20 Crusader  It is weak, but its ROF makes up for the lack of damage provided you are able to penetrate. GB20 Crusader  The Crusader is somewhat awkward during tight maneuvers such as circle-strafing due to unimpressive traverse speed, but if you can pull it off, you can tear enemy heavies to pieces - just beware that the slightest stumble on your part will result in your death. GB20 Crusader 
+
+You should avoid cresting hills frontally, as you can only depress your gun 7 degrees over the front. GB20 Crusader  The frontal view port blocks it from going down to the maximum of 12 degrees. GB20 Crusader  Instead, to shoot safely over a hill, you have to try a tricky maneuver of angling your tank like a jackknife with the turret perpendicular to the hull (or forming a V-shape to the hull) to get any shots off. GB20 Crusader  However, your side armour is thin and your ammo rack extremely brittle, so unless you particularly enjoy reduced DPM or exploding, protect your sides at all costs. GB20 Crusader  Now you are starting to see why this tank requires skill to use effectively. GB20 Crusader  It is your choice whether to bother with Safe Stowage or a Wet Ammo Rack, although if you are playing the Crusader like you should (as a sneaky damage thief with occasional spotting duties) then these won't be required. GB20 Crusader 
+
+The ammo capacity of the QF 6-pdr Gun Mk. GB20 Crusader  V was doubled to 130 in Update 1. GB20 Crusader 9, meaning it's much less likely you'll run out of shells in the middle of the battle; however, you should still use as little HE as possible, as the damage increase is not worth the penetration loss. GB20 Crusader 
+
+As previously stated, this can be a very challenging tank to play and it is difficult to define a true role for it beyond scavenger. GB20 Crusader  Swallow your pride, keep your head down and prepare for the grind towards the Setter. GB20 Crusader 
+
+*NOTE: As of Update 1. GB20 Crusader 9. GB20 Crusader 1 the Crusader has received buffs. GB20 Crusader  The top speed was increased further from the original 44 km/h to 50 km/h to now 58 km/h. GB20 Crusader  The Crusader also now has 370 view range (+10 from previous 360) and has significantly less bloom after firing. GB20 Crusader  Lastly, the dispersion (with a 100% crew) has been buffed from 0. GB20 Crusader 39 to 0. GB20 Crusader 35, the aim time from 2. GB20 Crusader 21 to 1. GB20 Crusader 92, and has less bloom upon movement/tank traverse. GB20 Crusader 
+
+
+'''Crew Skills:'''
+
+'''Commander (Radio Operator):''' Camo (Retrain to Sixth Sense and then begin camo again); Recon
+
+'''Gunner (Loader):''' Camo, Snap Shot
+
+'''Driver:''' Smooth Ride, Camo
+
+
+
+|InTheGame_research=
+*The '''WS No. GB20 Crusader  19 Mk. GB20 Crusader  III''' carries over from the Covenanter and should be installed immediately. GB20 Crusader  The 6-pdr guns are also available if you previously played the Churchill I or Cavalier. GB20 Crusader 
+*Start by researching the upgraded suspension or purchasing '''Enhanced Christie Suspension'''. GB20 Crusader 
+*Next, research the '''Crusader Mk. GB20 Crusader  III''' turret, followed by the '''QF 6-pdr Mk. GB20 Crusader  III''' for an amazing boost to firepower. GB20 Crusader 
+*Research the '''Nuffield Liberty Mk. GB20 Crusader  V''' engine for a slight boost to engine power. GB20 Crusader 
+*Research the '''QF 6-pdr Gun Mk. GB20 Crusader  V'''. GB20 Crusader 
+*Finally, research the '''Crusader Mk. GB20 Crusader  III''' suspension if you did not previously. GB20 Crusader 
+
+|InTheGame_equipment= Coated Optics, Binocular Telescope, GLD, Improved Ventilation, wet Ammo Rack
+
+
+|History=
+{{VideoYT|k0ZuI4gObK4}}{{VideoYT|mEtOhFO8CNg}}
+Crusader tank
+
+Cruiser  Mk VI or A15 Crusader was one of the primary British cruiser tanks of the early part Second World War and perhaps the most important British tank of the North African Campaign. GB20 Crusader  The Crusader's mobility made it a favourite of British tank crews and its Ordnance QF 6 pounder main gun made it more than a match for the early Panzer III and Panzer IV tanks it faced in combat. GB20 Crusader  Retained in service because of delays with its replacement, by late 1942 the lack of armament upgrade combined with the presence of Tiger I Tanks among the Afrika Korps and overheating problems caused by the high temperatures of the desert, led to the design being phased out in favour of the new US-supplied Sherman medium tank. GB20 Crusader  The next British cruiser in combat would be the Cromwell heavy cruiser. GB20 Crusader 
+
+==Development history==
+
+In 1938, Nuffield Mechanization & Aero Limited produced their A16 design for a heavy cruiser tank based on Christie suspension. GB20 Crusader  Looking for a lighter and cheaper tank to build, the General Staff requested alternatives. GB20 Crusader  To this end the A13 Mk III cruiser tank design which would enter service as the "Tank, Cruiser Mk V" and known in service as "Covenanter" was designed. GB20 Crusader  Nuffield were, in 1939, offered the opportunity to take part in the production of Covenanter. GB20 Crusader  Nuffield, however, preferred to work on its own version of the A13—though they still provided design work for the Covenanter's turret. GB20 Crusader  This new tank was adopted as "Tank, Cruiser, Mk VI Crusader", under General Staff specification A15. GB20 Crusader  Although Crusader is often referred to as an improved version of the Covenanter, in fact it was a parallel design. GB20 Crusader Both tanks were ordered "off the drawing board" without building prototypes first. GB20 Crusader  Despite a later start, the pilot model of the Crusader was ready six weeks before the first Covenanter. GB20 Crusader 
+
+Unlike earlier "Christie cruisers"( A13, Marks III and IV and the Mark V Covenanter ) that were built with 4 road wheels, Crusader had five road wheels each side to improve weight distribution in a tank that weighed almost 20 tons instead of the 14 tons of the previous cruisers. GB20 Crusader  The 32 in (810 mm)-diameter wheels were of pressed steel with solid rubber tyres. GB20 Crusader  The hull sides were built up of two separated plates with the suspension arms between them. GB20 Crusader It had a different engine from the Covenanter, different steering system and a conventional cooling system with radiators in the engine compartment. GB20 Crusader  At the left hand side of the front hull—a place occupied by the engine radiator in the Covenanter—was mounted a small hand-traversed auxiliary turret armed with a Besa machine gun. GB20 Crusader  The auxiliary turret was awkward to use and was often removed in the field or remained unoccupied. GB20 Crusader 
+
+Both the A13 Mk III and the A15 designs used the same main turret. GB20 Crusader  The turret was polygonal—with sides that sloped out then in again—to give maximum turret space on the limited turret diameter. GB20 Crusader  Early production vehicles had a "semi-internal" cast gun mantlet, which was quickly replaced in production by a better protected big cast mantlet with three vertical slits—for the main gun, for a coaxial Besa machine gun and for the sighting telescope. GB20 Crusader  There was no cupola for the commander who had instead a flat hatch with the periscope mounted through it. GB20 Crusader  The main armament, as in other British tanks of the period, was balanced so the gunner could control its elevation through a padded shaft against his right shoulder rather than using a geared mechanism. GB20 Crusader  This fitted well with the British doctrine of firing accurately on the move. GB20 Crusader  When it was understood that there would be delays in the introduction of successor heavy cruiser tanks—what would become the Cavalier, Centaur and Cromwell—the Crusader was adapted to use the 6 pounder gun. GB20 Crusader 
+
+
+==Combat history==
+
+'''North Africa'''
+
+With the Axis forces in North Africa having pushed the British back to the Egyptian border and the remaining British armour being a mixed force of older tanks with a few Matildas, tanks were hurriedly shipped via the Mediterranean arriving on 12 May 1941. GB20 Crusader  There were sufficient Crusaders to equip the 6th Royal Tank Regiment which with the 2nd RTR (with older cruiser tanks) formed the 7th Armoured Brigade. GB20 Crusader  The rest of the tanks were Matildas for the 4th Armoured Brigade giving the 7th Armoured division only four tank regiments. GB20 Crusader  Although there was pressure from London for the reconstituted Desert Rats to go into action, outfitting for the desert and training delayed their first use until Operation Battleaxe, an attempt to relieve the siege of Tobruk in June. GB20 Crusader  As the brigade swept round the flank, the Crusaders were caught by concealed anti-tank guns and lost 11 tanks. GB20 Crusader  The 6th RTR lost more tanks, to action and defects, in the fighting withdrawal of the next two days. GB20 Crusader  The 7th Brigade was re-equipped with further Crusaders, but as the brigade had been expanded by the addition of 7th Hussars there were not sufficient to replace the older cruiser tanks. GB20 Crusader  The 22nd Armoured Brigade, effectively an advance force of the 1st Armoured Division, which was three inexperienced Yeomanry units equipped with Crusaders transferred to North Africa to bring the 7th Armoured up to three-brigade strength. GB20 Crusader  The 8th Hussars was added to the 4th Armoured Brigade but these had to be equipped with M3 Stuart light tanks as there were still insufficient cruisers. GB20 Crusader  The 22nd was able to take part in Operation Crusader of November 1941 which was named after it. GB20 Crusader 
+
+In Operation Crusader the two British Corps were disposed such that they could not support each other, but it was expected that as the British outnumbered the German and Italian forces in tanks, the tank against tank battles would be decided in their favour. GB20 Crusader  However in the resulting encounters, Rommel did not put his tanks en masse into action against the British ones and the large numbers of German anti-tank guns working offensively with the tanks and infantry proved effective. GB20 Crusader The Germans had a few 88 mm guns but were mostly equipped with the Pak 38, a long-barreled 50 mm gun, with a range of 1,000 yards. GB20 Crusader  This superiority in quality and tactical deployment of AT guns was to be a feature of the Afrika Korps throughout the Desert War. GB20 Crusader  The Crusader's 2 pdr (40 mm) gun was as effective as the short-barreled 50 mm of the Panzer III although it was outranged by the short-barreled 75 mm of the Panzer IV. GB20 Crusader 
+Although the Crusader was faster than any tanks it opposed, its potential was limited by a relatively light QF 2-pounder gun, thin armour and mechanical problems. GB20 Crusader  A particular tactical limitation was the lack of a high explosive shell for the main armament—these existed but were never supplied. GB20 Crusader  Axis tank forces developed an extremely effective method of dealing with attacking tank forces by retiring behind a screen of concealed anti-tank guns. GB20 Crusader  The pursuing tanks could then be engaged by the artillery. GB20 Crusader  With the German anti-tank guns out of range of the tanks' machine guns and without a high explosive shell to return fire, the tanks were left with the equally unpalatable options of withdrawing under fire or trying to overrun the gun screen. GB20 Crusader 
+
+The Crusader proved prone to catch fire when hit, a problem that was identified as due to the ammunition being ignited by hot metal penetrating the unprotected racks. GB20 Crusader  The angled underside of the turret created "shell pockets" that acted as a lever for lifting the turret from its mounting when struck by a shell. GB20 Crusader  The Crusader proved unreliable in the desert due to a number of issues. GB20 Crusader  These started with their transport from the UK to North Africa. GB20 Crusader  Poor preparation and handling caused problems that had to be rectified before they could be passed to the regiments, and ate into the supply of spare parts. GB20 Crusader  Once in use the sand caused erosion in the cooling system and the stresses of hard cross-country travel caused oil leaks in the engine blocks. GB20 Crusader  Since there were few tank transporters or railways in the desert, the tanks had to travel long distances on their tracks causing further wear. GB20 Crusader 
+
+By the end of 1941, there was only one brigade, the 2nd, which was operating only Crusaders. GB20 Crusader  In March 1942, US-built Grant medium tanks arrived: these replaced one in three Crusader squadrons. GB20 Crusader  While the inclusion of the Grant with its effective 75 mm gun gave better firepower against anti-tank guns and infantry they were slower, limiting the Crusaders when they had to operate together. GB20 Crusader  From May 1942, the Mark III were delivered. GB20 Crusader  Of the 840 tanks available to the British, 260 were Crusaders. GB20 Crusader  The German tanks they were facing were improved types with improved frontal armour which caused the Crusaders' 2-pounder shot to shatter rather than penetrate. GB20 Crusader 
+
+As part of British deception operations, Crusaders could be issued with "Sunshade" which was a metal framework with canvas covering that disguised the tank as a lorry to German aerial reconnaissance. GB20 Crusader  Similarly dummy tanks were deployed. GB20 Crusader  Later in the campaign shipping was improved, Nuffields had put an engineering team in Egypt, and crews were better at preventing problems, but the reputation of the Crusader could not recover. GB20 Crusader  After Montgomery took over command, the imbalance between British armour and German was redressed by better control and the addition of more American-supplied Grant andSherman tanks. GB20 Crusader  The Crusader was replaced in the main line of battle and used for "light squadrons" trying to flank the enemy when it engaged the heavier units. GB20 Crusader  The Australian 9th Infantry Division operated Crusaders for reconnaissance and liaison. GB20 Crusader 
+The British 1st Army landed as part of the Allied operations in Tunisia; some of its units were using the Crusader and these saw action from 24 November. GB20 Crusader  These were not solely Crusader regiments but mixed Crusader and Valentine tanks; within each squadron two troops were Crusader IIIs and there were Crusader II CS attached to the Squadron HQ. GB20 Crusader  These units of the 26th Armoured Brigade were used as an independent armoured column, "Blade Force", with the 78th Infantry Division. GB20 Crusader  The operations of Blade Force were on terrain different from the desert of the earlier campaigns and the fighting took place with smaller numbers of vehicles. GB20 Crusader  These actions were similar to what would be seen later in Europe. GB20 Crusader  The 1st Army converted to Shermans during Tunisia, but Crusaders remained in use with the 8th for longer. GB20 Crusader  The last major action for Crusaders was the Battle of Mareth. GB20 Crusader  The North Africa campaign finished shortly after. GB20 Crusader 
+
+'''Other use'''
+After the completion of the North African Campaign, the availability of better tanks such as the Sherman and Cromwell relegated the Crusader to secondary duties such as anti-aircraft mounts or gun tractors. GB20 Crusader  In these roles it served for the remainder of the war. GB20 Crusader  The Crusader, along with the Covenanter, equipped regiments at home particularly those of the 11th Armoured Division. GB20 Crusader 
+
+A Crusader bulldozer was developed but not used operationally. GB20 Crusader  One of these bulldozer tanks was converted for removing munitions following a fire at Royal Ordnance Factory Kirkby. GB20 Crusader 
+
+The Crusader anti-aircraft guns were designed for use in North West Europe. GB20 Crusader  However with the Allied domination of the air they were largely unneeded and the AA troops were disbanded. GB20 Crusader  The Crusader gun tractors operated with the Armoured Divisions, but were supplanted in part by the 17 pdr Archer self-propelled gun. GB20 Crusader 
+
+==Operators==
+
+- Argentina - converted gun tractors
+
+- Canada
+
+- Free French
+
+- United Kingdom
+
+- Kingdom of Italy - Littorio Armoured Division
+
+- Nazi Germany - 15th Panzer Division
+
+- Netherlands
+
+- South Africa
+
+==Surviving vehicles==
+
+Around 21 tanks survive in various degrees of preservation, ranging from running-condition museum vehicles to wrecks. GB20 Crusader  Eight survive in various collections in South Africa. GB20 Crusader 
+
+Notable examples include the Crusader III in running condition at the Bovington Tank Museum in the United Kingdom. GB20 Crusader  The Musée des Blindés in France preserves a Mk III anti-aircraft Crusader and the Overloon War Museum in the Netherlands owns a gun-tractor variant. GB20 Crusader 
+
+|HistAcc=
+Crusader Mk I variants had four crew members, of whom the radio operator/loader is missing. GB20 Crusader  In addition, the Mk I had an auxiliary turret armed with a Besa machine gun, though it was often removed in the field. GB20 Crusader 
+* The Nuffield Liberty Mk III engine is considerably more powerful than in reality, with 395 hp compared to the historical 340. GB20 Crusader 
+* The Nuffield Liberty Mk V engine was only mounted on the Centaur tank. GB20 Crusader 
+* Historical [[Engine#Rolls-Royce Meteor|Rolls-Royce Meteor]] engine with 600 hp is missing. GB20 Crusader  One Crusader was experimented with this engine in September 1941, reaching speeds of up to 80 km/h. GB20 Crusader 
+* The Crusader was replaced by the [[Tank:GB17_Grant_I|M3 Grant]] and M4 Sherman. GB20 Crusader  In World of Tanks, however, the Crusader leads to neither tank. GB20 Crusader 
+
+|HistoricalGallery=
+image:A_Crusader_II. GB20 Crusader jpg{{!}}A Crusader II tank in the Western Desert 2 October 1942. GB20 Crusader 
+image:Crusader-a1. GB20 Crusader jpg{{!}}Cleaning the barrel of the 6-pdr in Tunisia
+image:Crusader_AA. GB20 Crusader jpg{{!}}Crusader AA comes ashore from an LST on to the pierhead at the Mulberry artificial harbour at Arromanches, August 1944
+Crusader_AA_tank. GB20 Crusader jpg{{!}}Crusader AA tank mounting a triple Oerlikon gun in a hull-down position, 19 July 1944
+image:Crusader_AA-1. GB20 Crusader jpg{{!}}Crusader AA with 40 mm Bofors gun, at the Armoured Fighting Vehicle School, Gunnery Wing at Lulworth in Dorset, 25 March 1943
+image:Crusader_ARV. GB20 Crusader jpg{{!}}Crusader ARV
+image:Crusader_gun_tractor. GB20 Crusader jpg{{!}}Crusader gun tractor
+image:Crusader_I. GB20 Crusader jpg{{!}}Crusader I. GB20 Crusader  This vehicle has the auxiliary turret in place
+image:Crusader_Mk_III. GB20 Crusader jpg{{!}}
+image:Crusader_tanks. GB20 Crusader jpg{{!}}Crusader tanks in Western Desert, 26 November 1941. GB20 Crusader  Note old gun mantlets
+image:Crusader_tanks_in_Yorkshire,_1942. GB20 Crusader jpg{{!}}Crusader tanks in Yorkshire, 1942
+
+
+|Ref_references=
+
+
+|Ref_sources=
+
+
+|Ref_links=
+
+}}
